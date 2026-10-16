@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Trends 浏览</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body data-page="trends">
+  <header>
+    <h1>Trends 浏览</h1>
+    <nav>
+      <a href="index.html" data-page="opportunities">机会列表</a>
+      <a href="trends.html" data-page="trends">Trends</a>
+      <a href="rankings.html" data-page="rankings">排行变更</a>
+      <a href="runs.html" data-page="runs">Runs</a>
+    </nav>
+  </header>
+  <main>
+    <p class="meta" id="meta"></p>
+    <div class="filters">
+      <label>赛道 <select id="f-track"><option value="">全部</option></select></label>
+      <label>仅上升 <input type="checkbox" id="f-up" /></label>
+    </div>
+    <table>
+      <thead>
+        <tr>
+          <th>关键词</th>
+          <th>赛道</th>
+          <th>地区</th>
+          <th>interest_now</th>
+          <th>斜率【估】</th>
+          <th>付费意图【估】</th>
+          <th>相关查询（上升）</th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </main>
+  <footer>曲线来自 Google Trends 公开数据，斜率/付费分为启发式【估】</footer>
+  <script type="module">
+    import { loadJson, setActiveNav } from "./assets/app.js";
+    setActiveNav();
+    const doc = await loadJson("trends_daily.json");
+    document.getElementById("meta").textContent = `快照 ${doc.updated_at || ""} · ${(doc.items || []).length} 条 · run ${doc.run_id || ""}`;
+    const items = doc.items || [];
+    const tracks = [...new Set(items.map((i) => i.track))].sort();
+    const sel = document.getElementById("f-track");
+    tracks.forEach((t) => { const o = document.createElement("option"); o.value = t; o.textContent = t; sel.appendChild(o); });
+    function render() {
+      const track = sel.value;
+      const upOnly = document.getElementById("f-up").checked;
+      const filtered = items.filter((i) => {
+        if (track && i.track !== track) return false;
+        if (upOnly && i.slope_90d !== "上升") return false;
+        return true;
+      });
+      document.getElementById("rows").innerHTML = filtered.map((i) => `
+        <tr>
+          <td>${i.keyword}</td>
+          <td>${i.track}</td>
+          <td>${i.geo}</td>
+          <td>${i.interest_now}</td>
+          <td>${i.slope_90d} (Δ${i.slope_delta_est ?? ""}) <span class="est">【估】</span></td>
+          <td>${i.pay_intent_score} <span class="est">【估】</span></td>
+          <td>${(i.related_queries || []).slice(0, 5).join(" · ") || "—"}</td>
+        </tr>
+      `).join("") || "<tr><td colspan='7'>无数据</td></tr>";
+    }
+    sel.addEventListener("change", render);
+    document.getElementById("f-up").addEventListener("change", render);
+    render();
+  </script>
+</body>
+</html>

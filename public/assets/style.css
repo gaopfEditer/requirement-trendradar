@@ -1,0 +1,104 @@
+:root {
+  --bg: #0f1419;
+  --card: #1a2332;
+  --text: #e7ecf3;
+  --muted: #9aa8bc;
+  --accent: #5b9fd4;
+  --green: #3dd68c;
+  --amber: #f0b429;
+  --red: #f07178;
+  --border: #2a3545;
+  --est: #c9a227;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: "Segoe UI", system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+header {
+  padding: 1rem 1.25rem;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+  justify-content: space-between;
+}
+header h1 { margin: 0; font-size: 1.25rem; font-weight: 600; }
+nav { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+nav a {
+  color: var(--muted);
+  padding: 0.35rem 0.6rem;
+  border-radius: 6px;
+}
+nav a.active, nav a:hover { color: var(--text); background: var(--card); }
+main { max-width: 1100px; margin: 0 auto; padding: 1.25rem; }
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background: var(--card);
+  border-radius: 10px;
+  border: 1px solid var(--border);
+}
+.filters label { font-size: 0.85rem; color: var(--muted); display: flex; flex-direction: column; gap: 0.25rem; }
+select, input[type="search"] {
+  background: var(--bg);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.4rem 0.5rem;
+  min-width: 120px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+th, td {
+  text-align: left;
+  padding: 0.55rem 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+th { color: var(--muted); font-weight: 500; }
+tr:hover td { background: rgba(255,255,255,0.02); }
+.badge {
+  display: inline-block;
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+.badge-做 { background: rgba(61,214,140,0.2); color: var(--green); }
+.badge-观察 { background: rgba(240,180,41,0.2); color: var(--amber); }
+.badge-否 { background: rgba(240,113,120,0.2); color: var(--red); }
+.est { color: var(--est); font-size: 0.75rem; }
+.card-detail section {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1rem 1.1rem;
+  margin-bottom: 1rem;
+}
+.card-detail h2 { margin: 0 0 0.5rem; font-size: 1rem; color: var(--accent); }
+.meta { color: var(--muted); font-size: 0.85rem; margin-bottom: 1rem; }
+.status-ok { color: var(--green); }
+.status-fail { color: var(--red); }
+.status-partial { color: var(--amber); }
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+@media (max-width: 640px) {
+  table { font-size: 0.82rem; }
+  .hide-sm { display: none; }
+}

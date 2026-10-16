@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>机会卡详情</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body data-page="opportunities">
+  <header>
+    <h1>机会卡详情</h1>
+    <nav>
+      <a href="index.html" data-page="opportunities">机会列表</a>
+      <a href="trends.html" data-page="trends">Trends</a>
+      <a href="rankings.html" data-page="rankings">排行变更</a>
+      <a href="runs.html" data-page="runs">Runs</a>
+    </nav>
+  </header>
+  <main id="main" class="card-detail">
+    <p class="meta">加载中…</p>
+  </main>
+  <footer><a href="index.html">← 返回列表</a></footer>
+  <script type="module">
+    import { loadJson, setActiveNav, verdictBadge } from "./assets/app.js";
+    setActiveNav();
+    const id = new URLSearchParams(location.search).get("id");
+    const data = await loadJson("opportunities.json");
+    const card = (data.cards || []).find((c) => c.id === id);
+    const el = document.getElementById("main");
+    if (!card) {
+      el.innerHTML = "<p>未找到该机会卡。</p>";
+    } else {
+      const tr = card.trends_ref;
+      const rk = card.ranking_ref;
+      el.innerHTML = `
+        <h1 style="margin-top:0">${card.title}</h1>
+        <p class="meta">${card.track} · ${card.geo || ""} · ${verdictBadge(card.verdict)}
+          · Trends: ${card.trends_hit} · Ranking: ${card.ranking_hit}
+          · 付费意图 ${card.pay_intent_score} <span class="est">【估】</span>
+          · 技能匹配: ${card.skill_fit}
+          · 更新 ${card.updated_at || ""}</p>
+        <section><h2>动作</h2><p>${card.action || "—"}</p></section>
+        <section><h2>代价</h2><p>${card.cost || "—"}</p></section>
+        <section><h2>边界</h2><p>${card.boundary || "—"}</p></section>
+        <section><h2>如何验证</h2><p>${card.verify || "—"}</p></section>
+        <section><h2>Trends 相关查询</h2>
+          ${tr ? `<ul>${(tr.related_queries || []).map((q) => `<li>${q}</li>`).join("") || "<li>无</li>"}</ul>
+          <p class="meta">interest_now=${tr.interest_now} · slope=${tr.slope_90d} <span class="est">【估】</span> · raw ${tr.fetched_at}</p>` : "<p>无 Trends 命中</p>"}
+        </section>
+        <section><h2>排行来源</h2>
+          ${rk ? `<p><a href="${rk.url || "#"}" target="_blank" rel="noopener">${rk.name}</a> (${rk.source}) — ${rk.signal_note || ""}
+          <br/>rank ${rk.rank_now ?? "—"} / prev ${rk.rank_prev ?? "—"} / Δ ${rk.rank_delta ?? "—"}</p>` : "<p>无排行命中</p>"}
+        </section>
+        <p class="meta">人工判定：编辑 <code>data/opportunities.json</code> 中该卡的 <code>verdict</code> 并设 <code>verdict_manual: true</code>，流水线不会覆盖。</p>
+      `;
+      document.title = card.title + " — 需求雷达";
+    }
+  </script>
+</body>
+</html>

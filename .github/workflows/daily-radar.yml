@@ -1,0 +1,82 @@
+name: Daily Demand Radar
+
+on:
+  schedule:
+    # 09:00 Asia/Hong_Kong (UTC+8) = 01:00 UTC
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+    inputs:
+      demo:
+        description: "离线演示：使用 fixtures 数据"
+        type: boolean
+        default: false
+      csv_only:
+        description: "排行仅 CSV/uploads（跳过 Product Hunt）"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "daily-radar"
+  cancel-in-progress: false
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run ingest + build + publish
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+          TRENDS_FALLBACK_DEMO: "1"
+        run: |
+          set -e
+          DEMO="${{ github.event.inputs.demo }}"
+          CSV_ONLY="${{ github.event.inputs.csv_only }}"
+          ARGS=""
+          if [ "$DEMO" = "true" ]; then ARGS="--demo"; fi
+          if [ "$CSV_ONLY" = "true" ]; then ARGS="$ARGS --csv-only"; fi
+          python3 -m scripts.run_pipeline $ARGS
+
+      - name: Commit snapshots
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ raw/ public/data/ || true
+          if git diff --staged --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "chore(radar): daily data snapshot"
+            git push
+          fi
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy-pages:
+    needs: pipeline
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

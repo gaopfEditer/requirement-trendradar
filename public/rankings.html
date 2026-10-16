@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>排行变更</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body data-page="rankings">
+  <header>
+    <h1>排行变更</h1>
+    <nav>
+      <a href="index.html" data-page="opportunities">机会列表</a>
+      <a href="trends.html" data-page="trends">Trends</a>
+      <a href="rankings.html" data-page="rankings">排行变更</a>
+      <a href="runs.html" data-page="runs">Runs</a>
+    </nav>
+  </header>
+  <main>
+    <p class="meta" id="meta"></p>
+    <div class="filters">
+      <label>视图
+        <select id="f-view">
+          <option value="all">全部</option>
+          <option value="up">今日涨</option>
+          <option value="down">今日掉</option>
+          <option value="new">新进榜</option>
+        </select>
+      </label>
+    </div>
+    <table>
+      <thead>
+        <tr>
+          <th>产品</th>
+          <th>来源</th>
+          <th>现名次</th>
+          <th>昨名次</th>
+          <th>Δ</th>
+          <th>信号</th>
+          <th>标签</th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </main>
+  <footer>Product Hunt 公开榜 + uploads/rankings*.csv</footer>
+  <script type="module">
+    import { loadJson, setActiveNav } from "./assets/app.js";
+    setActiveNav();
+    const doc = await loadJson("rankings_delta.json");
+    document.getElementById("meta").textContent = `更新 ${doc.updated_at || ""} · ${(doc.items || []).length} 条`;
+    const items = doc.items || [];
+    function matchView(it, view) {
+      const note = it.signal_note || "";
+      const d = it.rank_delta;
+      if (view === "new") return note === "新进榜" || it.rank_prev == null && it.rank_now != null;
+      if (view === "up") return d != null && d < 0;
+      if (view === "down") return d != null && d > 0;
+      return true;
+    }
+    function render() {
+      const view = document.getElementById("f-view").value;
+      const filtered = items.filter((i) => matchView(i, view));
+      document.getElementById("rows").innerHTML = filtered.map((i) => `
+        <tr>
+          <td>${i.url ? `<a href="${i.url}" target="_blank" rel="noopener">${i.name}</a>` : i.name}</td>
+          <td>${i.source}</td>
+          <td>${i.rank_now ?? "—"}</td>
+          <td>${i.rank_prev ?? "—"}</td>
+          <td>${i.rank_delta ?? "—"}</td>
+          <td>${i.signal_note || "—"}</td>
+          <td>${(i.category_tags || []).join(", ")}</td>
+        </tr>
+      `).join("") || "<tr><td colspan='7'>无数据</td></tr>";
+    }
+    document.getElementById("f-view").addEventListener("change", render);
+    render();
+  </script>
+</body>
+</html>

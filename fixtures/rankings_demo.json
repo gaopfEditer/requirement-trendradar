@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "name": "Lovable",
+      "url": "https://www.producthunt.com/posts/lovable",
+      "source": "product_hunt",
+      "rank_now": 3,
+      "category_tags": ["Developer Tools", "Artificial Intelligence"],
+      "fetched_at": "2026-10-16 10:00:00 HKT"
+    },
+    {
+      "name": "n8n",
+      "url": "https://www.producthunt.com/posts/n8n",
+      "source": "product_hunt",
+      "rank_now": 8,
+      "category_tags": ["Productivity", "Automation"],
+      "fetched_at": "2026-10-16 10:00:00 HKT"
+    },
+    {
+      "name": "Bolt.new",
+      "url": "https://www.producthunt.com/posts/bolt-new",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": ["Developer Tools"],
+      "fetched_at": "2026-10-10 10:00:00 HKT"
+    }
+  ]
+}
