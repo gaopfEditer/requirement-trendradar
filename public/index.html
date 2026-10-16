@@ -8,15 +8,35 @@
 </head>
 <body data-page="opportunities">
   <header>
-    <h1>海外需求雷达 v1</h1>
-    <nav>
-      <a href="index.html" data-page="opportunities">机会列表</a>
-      <a href="trends.html" data-page="trends">Trends</a>
-      <a href="rankings.html" data-page="rankings">排行变更</a>
-      <a href="runs.html" data-page="runs">Runs</a>
-    </nav>
+    <div class="header-top">
+      <h1>海外需求雷达 v1.1</h1>
+      <nav>
+        <a href="index.html" data-page="opportunities">机会列表</a>
+        <a href="trends.html" data-page="trends">Trends</a>
+        <a href="rankings.html" data-page="rankings">排行变更</a>
+        <a href="runs.html" data-page="runs">Runs</a>
+      </nav>
+    </div>
+    <div id="site-meta-bar" class="site-meta-bar">加载元数据…</div>
   </header>
   <main>
+    <section class="weekly-section" id="weekly">
+      <h2>本周增长最快 <span class="meta" id="weekly-label"></span></h2>
+      <div class="weekly-tabs">
+        <button type="button" class="active" data-tab="kw">词条</button>
+        <button type="button" data-tab="apps">应用</button>
+        <button type="button" data-tab="new">本周新进</button>
+      </div>
+      <div class="weekly-panel active" data-panel="kw">
+        <table><thead><tr><th>#</th><th>关键词</th><th>增长分【估】</th><th>interest</th><th>付费意图【估】</th></tr></thead><tbody id="weekly-kw"></tbody></table>
+      </div>
+      <div class="weekly-panel" data-panel="apps">
+        <table><thead><tr><th>#</th><th>产品</th><th>增长分【估】</th><th>名次 Δ</th><th>信号</th></tr></thead><tbody id="weekly-apps"></tbody></table>
+      </div>
+      <div class="weekly-panel" data-panel="new">
+        <table><thead><tr><th>#</th><th>产品</th><th>名次</th><th>信号</th></tr></thead><tbody id="weekly-new"></tbody></table>
+      </div>
+    </section>
     <p class="meta">结论先行：默认按「观察」优先 + 付费意图分【估】排序。点击标题查看动作/代价/边界/验证。</p>
     <div class="filters" id="filters">
       <label>赛道 <select id="f-track"><option value="">全部</option></select></label>
@@ -42,8 +62,43 @@
   </main>
   <footer>数据来自 Google Trends + Product Hunt / CSV · 内部决策工具</footer>
   <script type="module">
-    import { loadJson, setActiveNav, verdictBadge, todayHK } from "./assets/app.js";
+    import { loadJson, setActiveNav, verdictBadge, todayHK, renderSiteMetaBar, initWeeklyTabs, formatMetaDisplay } from "./assets/app.js";
     setActiveNav();
+    await renderSiteMetaBar();
+    initWeeklyTabs();
+
+    try {
+      const weekly = await loadJson("weekly_movers.json");
+      document.getElementById("weekly-label").textContent =
+        `· ${weekly.week || ""} · 生成 ${formatMetaDisplay(weekly.generated_at)}（香港）${weekly.source === "fixture" ? " · fixture" : ""}`;
+      const kwRows = (weekly.keywords_top || []).map((r) => `
+        <tr>
+          <td>${r.rank}</td>
+          <td><a href="trends.html">${r.keyword}</a> <span class="meta">${r.geo || ""}</span></td>
+          <td>${r.growth_score} <span class="est">【估】</span></td>
+          <td>${r.interest_prev} → ${r.interest_now}</td>
+          <td>${r.pay_intent_score ?? 0} <span class="est">【估】</span></td>
+        </tr>`).join("") || "<tr><td colspan='5'>暂无周榜词条</td></tr>";
+      document.getElementById("weekly-kw").innerHTML = kwRows;
+      document.getElementById("weekly-apps").innerHTML = (weekly.apps_top || []).map((r) => `
+        <tr>
+          <td>${r.rank}</td>
+          <td>${r.url ? `<a href="${r.url}" target="_blank" rel="noopener">${r.name}</a>` : r.name}</td>
+          <td>${r.growth_score ?? "—"} <span class="est">【估】</span></td>
+          <td>${r.rank_delta ?? "—"}</td>
+          <td>${r.signal_note || "—"}</td>
+        </tr>`).join("") || "<tr><td colspan='5'>暂无</td></tr>";
+      document.getElementById("weekly-new").innerHTML = (weekly.new_entries || []).map((r) => `
+        <tr>
+          <td>${r.rank}</td>
+          <td>${r.url ? `<a href="${r.url}" target="_blank" rel="noopener">${r.name}</a>` : r.name}</td>
+          <td>${r.rank_now ?? "—"}</td>
+          <td>${r.signal_note || "新进榜"}</td>
+        </tr>`).join("") || "<tr><td colspan='4'>暂无新进</td></tr>";
+    } catch (e) {
+      document.getElementById("weekly-label").textContent = "· 无法加载 weekly_movers.json";
+    }
+
     const data = await loadJson("opportunities.json");
     const cards = data.cards || [];
     const tracks = [...new Set(cards.map((c) => c.track))].sort();

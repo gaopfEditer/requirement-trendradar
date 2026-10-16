@@ -6,9 +6,9 @@ import argparse
 import json
 import shutil
 import sys
-from pathlib import Path
 
-from scripts.lib.paths import DATA_DIR, PUBLIC_DATA_DIR, hk_now_iso
+from scripts.lib.meta_builder import build_meta, write_meta
+from scripts.lib.paths import DATA_DIR, PUBLIC_DATA_DIR, hk_now_iso8601
 from scripts.lib.runs import finish_run, start_run
 
 FILES = (
@@ -17,6 +17,7 @@ FILES = (
     "rankings_daily.json",
     "rankings_delta.json",
     "runs.json",
+    "weekly_movers.json",
 )
 
 
@@ -30,14 +31,19 @@ def run() -> int:
             if src.exists():
                 shutil.copy2(src, PUBLIC_DATA_DIR / name)
                 copied += 1
-        meta = {
-            "published_at": hk_now_iso(),
-            "files": [f for f in FILES if (DATA_DIR / f).exists()],
+        finish_run(run_id, "success", counts={"files": copied})
+        write_meta()
+        shutil.copy2(DATA_DIR / "meta.json", PUBLIC_DATA_DIR / "meta.json")
+        meta = build_meta()
+        manifest = {
+            "published_at": hk_now_iso8601(),
+            "updated_at": meta.get("updated_at"),
+            "schedule": meta.get("schedule"),
+            "files": list(FILES) + ["meta.json"],
         }
         (PUBLIC_DATA_DIR / "manifest.json").write_text(
-            json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8"
+            json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
         )
-        finish_run(run_id, "success", counts={"files": copied})
         return 0
     except Exception as exc:  # noqa: BLE001
         finish_run(run_id, "failed", error=str(exc))

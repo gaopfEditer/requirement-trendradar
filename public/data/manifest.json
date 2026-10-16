@@ -1,10 +1,14 @@
 {
-  "published_at": "2026-10-16 10:47:12 UTC+08:00",
+  "published_at": "2026-10-16T18:19:08+08:00",
+  "updated_at": "2026-10-16T18:18:40+08:00",
+  "schedule": "every_4h",
   "files": [
     "opportunities.json",
     "trends_daily.json",
     "rankings_daily.json",
     "rankings_delta.json",
-    "runs.json"
+    "runs.json",
+    "weekly_movers.json",
+    "meta.json"
   ]
 }

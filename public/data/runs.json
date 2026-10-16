@@ -1,12 +1,176 @@
 {
   "runs": [
     {
-      "run_id": "20261016-104712-e7924f0b",
+      "run_id": "20261016-181908-674554f0",
       "step": "publish_site",
       "status": "running",
-      "started_at": "2026-10-16 10:47:12 UTC+08:00",
+      "started_at": "2026-10-16 18:19:08 UTC+08:00",
       "ended_at": null,
       "counts": {},
+      "error": null,
+      "meta": {}
+    },
+    {
+      "run_id": "20261016-181840-b770ed9c",
+      "step": "publish_site",
+      "status": "success",
+      "started_at": "2026-10-16 18:18:40 UTC+08:00",
+      "ended_at": "2026-10-16 18:18:40 UTC+08:00",
+      "counts": {
+        "files": 7
+      },
+      "error": null,
+      "meta": {}
+    },
+    {
+      "run_id": "20261016-181840-9fb021da",
+      "step": "build_weekly_movers",
+      "status": "success",
+      "started_at": "2026-10-16 18:18:40 UTC+08:00",
+      "ended_at": "2026-10-16 18:18:40 UTC+08:00",
+      "counts": {
+        "keywords": 3,
+        "apps": 2,
+        "new_entries": 1
+      },
+      "error": null,
+      "meta": {
+        "source": "fixture",
+        "week": "2026-W42"
+      }
+    },
+    {
+      "run_id": "20261016-181840-f9f5cdb7",
+      "step": "build_opportunity_cards",
+      "status": "success",
+      "started_at": "2026-10-16 18:18:40 UTC+08:00",
+      "ended_at": "2026-10-16 18:18:40 UTC+08:00",
+      "counts": {
+        "cards": 12
+      },
+      "error": null,
+      "meta": {}
+    },
+    {
+      "run_id": "20261016-181840-d443aebe",
+      "step": "ingest_rankings",
+      "status": "success",
+      "started_at": "2026-10-16 18:18:40 UTC+08:00",
+      "ended_at": "2026-10-16 18:18:40 UTC+08:00",
+      "counts": {
+        "items": 3,
+        "delta": 3
+      },
+      "error": null,
+      "meta": {
+        "source": "demo",
+        "version": "producthunt-atom-feed-v1",
+        "used_csv": true,
+        "ph_failed": false
+      }
+    },
+    {
+      "run_id": "20261016-181840-5846086e",
+      "step": "ingest_trends",
+      "status": "success",
+      "started_at": "2026-10-16 18:18:40 UTC+08:00",
+      "ended_at": "2026-10-16 18:18:40 UTC+08:00",
+      "counts": {
+        "items": 5,
+        "errors": 0,
+        "geos": 1
+      },
+      "error": null,
+      "meta": {
+        "source": "demo",
+        "version": "pytrends-4.9"
+      }
+    },
+    {
+      "run_id": "20261016-181838-5e59c726",
+      "step": "publish_site",
+      "status": "success",
+      "started_at": "2026-10-16 18:18:38 UTC+08:00",
+      "ended_at": "2026-10-16 18:18:38 UTC+08:00",
+      "counts": {
+        "files": 7
+      },
+      "error": null,
+      "meta": {}
+    },
+    {
+      "run_id": "20261016-181838-1ed20673",
+      "step": "build_weekly_movers",
+      "status": "success",
+      "started_at": "2026-10-16 18:18:38 UTC+08:00",
+      "ended_at": "2026-10-16 18:18:38 UTC+08:00",
+      "counts": {
+        "keywords": 3,
+        "apps": 2,
+        "new_entries": 1
+      },
+      "error": null,
+      "meta": {
+        "source": "fixture",
+        "week": "2026-W42"
+      }
+    },
+    {
+      "run_id": "20261016-181838-12f0ee84",
+      "step": "build_opportunity_cards",
+      "status": "success",
+      "started_at": "2026-10-16 18:18:38 UTC+08:00",
+      "ended_at": "2026-10-16 18:18:38 UTC+08:00",
+      "counts": {
+        "cards": 15
+      },
+      "error": null,
+      "meta": {}
+    },
+    {
+      "run_id": "20261016-181838-8117f647",
+      "step": "ingest_rankings",
+      "status": "success",
+      "started_at": "2026-10-16 18:18:38 UTC+08:00",
+      "ended_at": "2026-10-16 18:18:38 UTC+08:00",
+      "counts": {
+        "items": 3,
+        "delta": 35
+      },
+      "error": null,
+      "meta": {
+        "source": "demo",
+        "version": "producthunt-atom-feed-v1",
+        "used_csv": true,
+        "ph_failed": false
+      }
+    },
+    {
+      "run_id": "20261016-181838-3b8da1b7",
+      "step": "ingest_trends",
+      "status": "success",
+      "started_at": "2026-10-16 18:18:38 UTC+08:00",
+      "ended_at": "2026-10-16 18:18:38 UTC+08:00",
+      "counts": {
+        "items": 5,
+        "errors": 0,
+        "geos": 1
+      },
+      "error": null,
+      "meta": {
+        "source": "demo",
+        "version": "pytrends-4.9"
+      }
+    },
+    {
+      "run_id": "20261016-104712-e7924f0b",
+      "step": "publish_site",
+      "status": "success",
+      "started_at": "2026-10-16 10:47:12 UTC+08:00",
+      "ended_at": "2026-10-16 10:47:12 UTC+08:00",
+      "counts": {
+        "files": 5
+      },
       "error": null,
       "meta": {}
     },
@@ -206,5 +370,5 @@
       }
     }
   ],
-  "last_updated": "2026-10-16 10:47:12 UTC+08:00"
+  "last_updated": "2026-10-16 18:19:08 UTC+08:00"
 }

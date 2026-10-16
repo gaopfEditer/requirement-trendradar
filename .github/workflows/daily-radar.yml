@@ -1,9 +1,11 @@
-name: Daily Demand Radar
+name: Demand Radar Pipeline
 
 on:
   schedule:
-    # 09:00 Asia/Hong_Kong (UTC+8) = 01:00 UTC
-    - cron: "0 1 * * *"
+    # Every 4 hours UTC (≈ HKT 08/12/16/20/00/04)
+    - cron: "0 */4 * * *"
+    # Monday 09:00 HKT ≈ 01:00 UTC — ensures weekly movers step E on week start
+    - cron: "0 1 * * 1"
   workflow_dispatch:
     inputs:
       demo:
@@ -21,8 +23,8 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "daily-radar"
-  cancel-in-progress: false
+  group: "demand-radar-pipeline"
+  cancel-in-progress: true
 
 jobs:
   pipeline:
@@ -61,7 +63,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No data changes to commit"
           else
-            git commit -m "chore(radar): daily data snapshot"
+            git commit -m "chore(radar): 4h data snapshot"
             git push
           fi
 
