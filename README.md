@@ -8,7 +8,14 @@
 
 **https://gaopfEditer.github.io/requirement-trendradar/**
 
-（合并本仓库并跑通一次 `Daily Demand Radar` workflow 后即可访问。）
+（合并本仓库并跑通一次 `Deploy GitHub Pages` 或 `Daily Demand Radar` workflow 后即可访问。）
+
+### GitHub Pages 部署注意
+
+- 使用 workflow：**Actions → Deploy GitHub Pages → Run workflow**（`workflow_dispatch`），或向 `main` push 触发。
+- **不要**对已经执行过 `upload-pages-artifact` 的 run 使用 **Re-run failed jobs**。该操作会在同一 run 内再上传一个同名 `github-pages` artifact，导致 `deploy-pages` 报错：`Multiple artifacts named "github-pages" were unexpectedly found`。
+- 若部署失败，请 **新开一次完整 run**（重新 Run workflow 或空提交 push），保证单次 run 只有一个 `github-pages` artifact。
+- 工作流已设置 `concurrency: pages` + `cancel-in-progress: true`，避免并发部署互相干扰。
 
 ## 流水线四步
 

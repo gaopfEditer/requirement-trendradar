@@ -5,6 +5,12 @@ on:
     branches: [main]
   workflow_dispatch:
 
+# Avoid overlapping deploys; never "Re-run failed jobs" on a run that already uploaded
+# github-pages — that leaves 2 artifacts with the same name (deploy-pages then fails).
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 permissions:
   contents: read
   pages: write
