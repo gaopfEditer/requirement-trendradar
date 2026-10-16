@@ -1,21 +1,174 @@
 {
   "default_geo": "US",
-  "additional_geos": ["GB", "CA", "AU", "SG"],
+  "additional_geos": [
+    "GB",
+    "CA",
+    "AU",
+    "SG"
+  ],
   "fetch_additional_geos": false,
   "window_primary_days": 90,
   "window_compare_days": 365,
   "keywords": [
-    { "keyword": "ai app audit", "track": "AI 工具" },
-    { "keyword": "lovable", "track": "AI 建站" },
-    { "keyword": "bolt.new", "track": "AI 建站" },
-    { "keyword": "notion slack automation", "track": "办公自动化" },
-    { "keyword": "google docs change notification", "track": "办公自动化" },
-    { "keyword": "workflow automation freelance", "track": "自动化接单" },
-    { "keyword": "telegram bot automation", "track": "Bot / 自动化" },
-    { "keyword": "web3 alert bot", "track": "Web3" },
-    { "keyword": "crypto unlock tracker", "track": "Web3" },
-    { "keyword": "freelance proposal automation", "track": "自动化接单" },
-    { "keyword": "n8n template", "track": "自动化平台" },
-    { "keyword": "make.com alternative", "track": "自动化平台" }
+    {
+      "keyword": "salon website online booking",
+      "track": "建站加预约"
+    },
+    {
+      "keyword": "dental website with online scheduling",
+      "track": "建站加预约"
+    },
+    {
+      "keyword": "barbershop website appointment booking",
+      "track": "建站加预约"
+    },
+    {
+      "keyword": "spa website book now button",
+      "track": "建站加预约"
+    },
+    {
+      "keyword": "clinic website patient booking",
+      "track": "建站加预约"
+    },
+    {
+      "keyword": "add online booking to my website",
+      "track": "建站加预约"
+    },
+    {
+      "keyword": "add booking calendar to wordpress",
+      "track": "建站加预约"
+    },
+    {
+      "keyword": "wordpress appointment booking plugin setup",
+      "track": "建站加预约"
+    },
+    {
+      "keyword": "wordpress bookly setup freelance",
+      "track": "建站加预约"
+    },
+    {
+      "keyword": "hire someone to add booking to website",
+      "track": "建站加预约"
+    },
+    {
+      "keyword": "restaurant website reservation form",
+      "track": "建站加预约"
+    },
+    {
+      "keyword": "yoga studio website class schedule",
+      "track": "建站加预约"
+    },
+    {
+      "keyword": "photographer booking website freelance",
+      "track": "建站加预约"
+    },
+    {
+      "keyword": "small business website with appointments",
+      "track": "建站加预约"
+    },
+    {
+      "keyword": "square appointments website integrate",
+      "track": "预约工具接入"
+    },
+    {
+      "keyword": "square online booking setup help",
+      "track": "预约工具接入"
+    },
+    {
+      "keyword": "calendly embed on website freelance",
+      "track": "预约工具接入"
+    },
+    {
+      "keyword": "fresha website connect booking",
+      "track": "预约工具接入"
+    },
+    {
+      "keyword": "vagaro booking button on website",
+      "track": "预约工具接入"
+    },
+    {
+      "keyword": "set up square appointments for salon",
+      "track": "预约工具接入"
+    },
+    {
+      "keyword": "acuity scheduling wordpress",
+      "track": "预约工具接入"
+    },
+    {
+      "keyword": "google appointment schedules website",
+      "track": "预约工具接入"
+    },
+    {
+      "keyword": "stripe deposit for appointments website",
+      "track": "预约工具接入"
+    },
+    {
+      "keyword": "sms appointment reminder for clinic",
+      "track": "预约工具接入"
+    },
+    {
+      "keyword": "lovable app production deploy",
+      "track": "AI 上线加固"
+    },
+    {
+      "keyword": "lovable to vercel deploy",
+      "track": "AI 上线加固"
+    },
+    {
+      "keyword": "bolt.new production ready",
+      "track": "AI 上线加固"
+    },
+    {
+      "keyword": "bolt.new stripe integration",
+      "track": "AI 上线加固"
+    },
+    {
+      "keyword": "half built lovable app fix",
+      "track": "AI 上线加固"
+    },
+    {
+      "keyword": "lovable bug fix freelancer",
+      "track": "AI 上线加固"
+    },
+    {
+      "keyword": "ai generated app security audit",
+      "track": "AI 上线加固"
+    },
+    {
+      "keyword": "ai mvp harden before launch",
+      "track": "AI 上线加固"
+    },
+    {
+      "keyword": "fix lovable broken build",
+      "track": "AI 上线加固"
+    },
+    {
+      "keyword": "ai app launch health check",
+      "track": "AI 上线加固"
+    },
+    {
+      "keyword": "productionize vibe coded app",
+      "track": "AI 上线加固"
+    },
+    {
+      "keyword": "lovable booking app production",
+      "track": "AI 上线加固"
+    },
+    {
+      "keyword": "bolt.new appointment scheduler stripe",
+      "track": "AI 上线加固"
+    },
+    {
+      "keyword": "hire bolt.new developer",
+      "track": "AI 上线加固"
+    },
+    {
+      "keyword": "freelance lovable developer",
+      "track": "AI 上线加固"
+    },
+    {
+      "keyword": "ship lovable app to clients",
+      "track": "AI 上线加固"
+    }
   ]
 }
