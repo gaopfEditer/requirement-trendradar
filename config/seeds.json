@@ -1,0 +1,21 @@
+{
+  "default_geo": "US",
+  "additional_geos": ["GB", "CA", "AU", "SG"],
+  "fetch_additional_geos": false,
+  "window_primary_days": 90,
+  "window_compare_days": 365,
+  "keywords": [
+    { "keyword": "ai app audit", "track": "AI 工具" },
+    { "keyword": "lovable", "track": "AI 建站" },
+    { "keyword": "bolt.new", "track": "AI 建站" },
+    { "keyword": "notion slack automation", "track": "办公自动化" },
+    { "keyword": "google docs change notification", "track": "办公自动化" },
+    { "keyword": "workflow automation freelance", "track": "自动化接单" },
+    { "keyword": "telegram bot automation", "track": "Bot / 自动化" },
+    { "keyword": "web3 alert bot", "track": "Web3" },
+    { "keyword": "crypto unlock tracker", "track": "Web3" },
+    { "keyword": "freelance proposal automation", "track": "自动化接单" },
+    { "keyword": "n8n template", "track": "自动化平台" },
+    { "keyword": "make.com alternative", "track": "自动化平台" }
+  ]
+}

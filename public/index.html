@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>海外需求雷达 — 机会列表</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body data-page="opportunities">
+  <header>
+    <h1>海外需求雷达 v1</h1>
+    <nav>
+      <a href="index.html" data-page="opportunities">机会列表</a>
+      <a href="trends.html" data-page="trends">Trends</a>
+      <a href="rankings.html" data-page="rankings">排行变更</a>
+      <a href="runs.html" data-page="runs">Runs</a>
+    </nav>
+  </header>
+  <main>
+    <p class="meta">结论先行：默认按「观察」优先 + 付费意图分【估】排序。点击标题查看动作/代价/边界/验证。</p>
+    <div class="filters" id="filters">
+      <label>赛道 <select id="f-track"><option value="">全部</option></select></label>
+      <label>判定 <select id="f-verdict"><option value="">全部</option><option>做</option><option>观察</option><option>否</option></select></label>
+      <label>付费意图 ≥ <select id="f-pay"><option value="">不限</option><option value="1">1</option><option value="2">2</option><option value="3">3</option></select></label>
+      <label>地区 <select id="f-geo"><option value="">全部</option></select></label>
+      <label><input type="checkbox" id="f-today" /> 仅今日新增</label>
+    </div>
+    <table>
+      <thead>
+        <tr>
+          <th>标题</th>
+          <th>赛道</th>
+          <th>Trends 斜率【估】</th>
+          <th>排行 Δ</th>
+          <th>付费意图【估】</th>
+          <th>判定</th>
+          <th class="hide-sm">更新</th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </main>
+  <footer>数据来自 Google Trends + Product Hunt / CSV · 内部决策工具</footer>
+  <script type="module">
+    import { loadJson, setActiveNav, verdictBadge, todayHK } from "./assets/app.js";
+    setActiveNav();
+    const data = await loadJson("opportunities.json");
+    const cards = data.cards || [];
+    const tracks = [...new Set(cards.map((c) => c.track))].sort();
+    const geos = [...new Set(cards.map((c) => c.geo).filter(Boolean))].sort();
+    const fTrack = document.getElementById("f-track");
+    tracks.forEach((t) => { const o = document.createElement("option"); o.value = t; o.textContent = t; fTrack.appendChild(o); });
+    const fGeo = document.getElementById("f-geo");
+    geos.forEach((g) => { const o = document.createElement("option"); o.value = g; o.textContent = g; fGeo.appendChild(o); });
+
+    function render() {
+      const track = fTrack.value;
+      const verdict = document.getElementById("f-verdict").value;
+      const payMin = document.getElementById("f-pay").value;
+      const geo = fGeo.value;
+      const todayOnly = document.getElementById("f-today").checked;
+      const t = todayHK();
+      const filtered = cards.filter((c) => {
+        if (track && c.track !== track) return false;
+        if (verdict && c.verdict !== verdict) return false;
+        if (payMin && (c.pay_intent_score || 0) < Number(payMin)) return false;
+        if (geo && c.geo !== geo) return false;
+        if (todayOnly && !(c.created_at || "").startsWith(t)) return false;
+        return true;
+      });
+      document.getElementById("rows").innerHTML = filtered.map((c) => `
+        <tr>
+          <td><a href="detail.html?id=${encodeURIComponent(c.id)}">${c.title}</a></td>
+          <td>${c.track}</td>
+          <td>${c.slope_90d || "—"} <span class="est">【估】</span></td>
+          <td>${c.rank_delta != null ? c.rank_delta : (c.ranking_hit === "yes" ? "命中" : "—")}</td>
+          <td>${c.pay_intent_score ?? 0} <span class="est">【估】</span></td>
+          <td>${verdictBadge(c.verdict)}</td>
+          <td class="hide-sm meta">${(c.updated_at || "").slice(0, 16)}</td>
+        </tr>
+      `).join("") || "<tr><td colspan='7'>无匹配机会卡</td></tr>";
+    }
+    ["change", "input"].forEach((ev) => document.getElementById("filters").addEventListener(ev, render));
+    render();
+  </script>
+</body>
+</html>

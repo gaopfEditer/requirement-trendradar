@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Runs 状态</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body data-page="runs">
+  <header>
+    <h1>Runs 状态</h1>
+    <nav>
+      <a href="index.html" data-page="opportunities">机会列表</a>
+      <a href="trends.html" data-page="trends">Trends</a>
+      <a href="rankings.html" data-page="rankings">排行变更</a>
+      <a href="runs.html" data-page="runs">Runs</a>
+    </nav>
+  </header>
+  <main>
+    <p class="meta" id="summary"></p>
+    <table>
+      <thead>
+        <tr>
+          <th>步骤</th>
+          <th>状态</th>
+          <th>开始</th>
+          <th>结束</th>
+          <th>条数</th>
+          <th>错误</th>
+          <th>run_id</th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </main>
+  <footer>流水线失败会写入此处，不静默吞错</footer>
+  <script type="module">
+    import { loadJson, setActiveNav } from "./assets/app.js";
+    setActiveNav();
+    const doc = await loadJson("runs.json");
+    const runs = doc.runs || [];
+    const lastOk = runs.find((r) => r.status === "success");
+    document.getElementById("summary").innerHTML = lastOk
+      ? `最近成功：<span class="status-ok">${lastOk.step}</span> @ ${lastOk.ended_at} · 共 ${runs.length} 条记录`
+      : `<span class="status-fail">尚无成功记录 — 请检查 Actions 或本地跑 pipeline</span>`;
+    function statusClass(s) {
+      if (s === "success") return "status-ok";
+      if (s === "failed") return "status-fail";
+      return "status-partial";
+    }
+    document.getElementById("rows").innerHTML = runs.slice(0, 40).map((r) => `
+      <tr>
+        <td>${r.step}</td>
+        <td class="${statusClass(r.status)}">${r.status}</td>
+        <td>${r.started_at || ""}</td>
+        <td>${r.ended_at || "—"}</td>
+        <td>${JSON.stringify(r.counts || {})}</td>
+        <td>${r.error ? r.error.slice(0, 120) : "—"}</td>
+        <td class="meta">${r.run_id}</td>
+      </tr>
+    `).join("") || "<tr><td colspan='7'>无 runs</td></tr>";
+  </script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "published_at": "2026-10-16 10:47:12 UTC+08:00",
+  "files": [
+    "opportunities.json",
+    "trends_daily.json",
+    "rankings_daily.json",
+    "rankings_delta.json",
+    "runs.json"
+  ]
+}

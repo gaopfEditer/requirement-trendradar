@@ -1,0 +1,210 @@
+{
+  "runs": [
+    {
+      "run_id": "20261016-104712-e7924f0b",
+      "step": "publish_site",
+      "status": "running",
+      "started_at": "2026-10-16 10:47:12 UTC+08:00",
+      "ended_at": null,
+      "counts": {},
+      "error": null,
+      "meta": {}
+    },
+    {
+      "run_id": "20261016-104712-c33ade4a",
+      "step": "build_opportunity_cards",
+      "status": "success",
+      "started_at": "2026-10-16 10:47:12 UTC+08:00",
+      "ended_at": "2026-10-16 10:47:12 UTC+08:00",
+      "counts": {
+        "cards": 42
+      },
+      "error": null,
+      "meta": {}
+    },
+    {
+      "run_id": "20261016-104712-4c1fdb7a",
+      "step": "ingest_trends",
+      "status": "success",
+      "started_at": "2026-10-16 10:47:12 UTC+08:00",
+      "ended_at": "2026-10-16 10:47:12 UTC+08:00",
+      "counts": {
+        "items": 5,
+        "errors": 0,
+        "geos": 1
+      },
+      "error": null,
+      "meta": {
+        "source": "demo",
+        "version": "pytrends-4.9"
+      }
+    },
+    {
+      "run_id": "20261016-104658-613f2d21",
+      "step": "ingest_trends",
+      "status": "failed",
+      "started_at": "2026-10-16 10:46:58 UTC+08:00",
+      "ended_at": "2026-10-16 10:47:01 UTC+08:00",
+      "counts": {
+        "items": 0
+      },
+      "error": "ai app audit@US: The request failed: Google returned a response with code 400; lovable@US: The request failed: Google returned a response with code 400; bolt.new@US: The request failed: Google returned a response with code 400; notion slack automation@US: The request failed: Google returned a response with code 400; google docs change notification@US: The request failed: Google returned a response with code 400",
+      "meta": {
+        "source": "pytrends",
+        "version": "pytrends-4.9"
+      }
+    },
+    {
+      "run_id": "20261016-104649-027c4bbe",
+      "step": "ingest_trends",
+      "status": "failed",
+      "started_at": "2026-10-16 10:46:49 UTC+08:00",
+      "ended_at": "2026-10-16 10:46:51 UTC+08:00",
+      "counts": {
+        "items": 0
+      },
+      "error": "ai app audit@US: Retry.__init__() got an unexpected keyword argument 'method_whitelist'; lovable@US: Retry.__init__() got an unexpected keyword argument 'method_whitelist'; bolt.new@US: Retry.__init__() got an unexpected keyword argument 'method_whitelist'; notion slack automation@US: Retry.__init__() got an unexpected keyword argument 'method_whitelist'; google docs change notification@US: Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+      "meta": {
+        "source": "pytrends",
+        "version": "pytrends-4.9"
+      }
+    },
+    {
+      "run_id": "20261016-104640-0f9199df",
+      "step": "publish_site",
+      "status": "success",
+      "started_at": "2026-10-16 10:46:40 UTC+08:00",
+      "ended_at": "2026-10-16 10:46:40 UTC+08:00",
+      "counts": {
+        "files": 5
+      },
+      "error": null,
+      "meta": {}
+    },
+    {
+      "run_id": "20261016-104640-aae76346",
+      "step": "build_opportunity_cards",
+      "status": "success",
+      "started_at": "2026-10-16 10:46:40 UTC+08:00",
+      "ended_at": "2026-10-16 10:46:40 UTC+08:00",
+      "counts": {
+        "cards": 42
+      },
+      "error": null,
+      "meta": {}
+    },
+    {
+      "run_id": "20261016-104640-d103209c",
+      "step": "ingest_trends",
+      "status": "success",
+      "started_at": "2026-10-16 10:46:40 UTC+08:00",
+      "ended_at": "2026-10-16 10:46:40 UTC+08:00",
+      "counts": {
+        "items": 5,
+        "errors": 0,
+        "geos": 1
+      },
+      "error": null,
+      "meta": {
+        "source": "demo",
+        "version": "pytrends-4.9"
+      }
+    },
+    {
+      "run_id": "20261016-104639-ed450d94",
+      "step": "ingest_rankings",
+      "status": "success",
+      "started_at": "2026-10-16 10:46:39 UTC+08:00",
+      "ended_at": "2026-10-16 10:46:40 UTC+08:00",
+      "counts": {
+        "items": 32,
+        "delta": 32
+      },
+      "error": null,
+      "meta": {
+        "source": "product_hunt+csv",
+        "version": "producthunt-atom-feed-v1",
+        "used_csv": true,
+        "ph_failed": false
+      }
+    },
+    {
+      "run_id": "20261016-104616-3e4385f5",
+      "step": "ingest_rankings",
+      "status": "partial",
+      "started_at": "2026-10-16 10:46:16 UTC+08:00",
+      "ended_at": "2026-10-16 10:46:16 UTC+08:00",
+      "counts": {
+        "items": 2,
+        "delta": 5
+      },
+      "error": "product_hunt: 403 Client Error: Forbidden for url: https://www.producthunt.com/",
+      "meta": {
+        "source": "product_hunt+csv",
+        "version": "producthunt-public-v1",
+        "used_csv": true,
+        "ph_failed": true
+      }
+    },
+    {
+      "run_id": "20261016-104613-2d86ded6",
+      "step": "publish_site",
+      "status": "success",
+      "started_at": "2026-10-16 10:46:13 UTC+08:00",
+      "ended_at": "2026-10-16 10:46:13 UTC+08:00",
+      "counts": {
+        "files": 5
+      },
+      "error": null,
+      "meta": {}
+    },
+    {
+      "run_id": "20261016-104613-e8ff8bdc",
+      "step": "build_opportunity_cards",
+      "status": "success",
+      "started_at": "2026-10-16 10:46:13 UTC+08:00",
+      "ended_at": "2026-10-16 10:46:13 UTC+08:00",
+      "counts": {
+        "cards": 15
+      },
+      "error": null,
+      "meta": {}
+    },
+    {
+      "run_id": "20261016-104613-23360a2a",
+      "step": "ingest_rankings",
+      "status": "success",
+      "started_at": "2026-10-16 10:46:13 UTC+08:00",
+      "ended_at": "2026-10-16 10:46:13 UTC+08:00",
+      "counts": {
+        "items": 3,
+        "delta": 3
+      },
+      "error": null,
+      "meta": {
+        "source": "demo",
+        "version": "producthunt-public-v1",
+        "used_csv": true,
+        "ph_failed": false
+      }
+    },
+    {
+      "run_id": "20261016-104613-7f89e3ad",
+      "step": "ingest_trends",
+      "status": "success",
+      "started_at": "2026-10-16 10:46:13 UTC+08:00",
+      "ended_at": "2026-10-16 10:46:13 UTC+08:00",
+      "counts": {
+        "items": 5,
+        "errors": 0,
+        "geos": 5
+      },
+      "error": null,
+      "meta": {
+        "source": "demo",
+        "version": "pytrends-4.9"
+      }
+    }
+  ],
+  "last_updated": "2026-10-16 10:47:12 UTC+08:00"
+}
