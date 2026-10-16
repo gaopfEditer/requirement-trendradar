@@ -24,12 +24,48 @@ header {
   padding: 1rem 1.25rem;
   border-bottom: 1px solid var(--border);
   display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.header-top {
+  display: flex;
   flex-wrap: wrap;
   gap: 1rem;
   align-items: center;
   justify-content: space-between;
+  width: 100%;
 }
 header h1 { margin: 0; font-size: 1.25rem; font-weight: 600; }
+.site-meta-bar {
+  width: 100%;
+  margin-top: 0.65rem;
+  padding-top: 0.65rem;
+  border-top: 1px solid var(--border);
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+.site-meta-bar strong { color: var(--text); }
+.weekly-section {
+  margin-bottom: 1.25rem;
+  padding: 1rem;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+.weekly-section h2 { margin: 0 0 0.5rem; font-size: 1.05rem; }
+.weekly-tabs { display: flex; gap: 0.5rem; margin-bottom: 0.75rem; }
+.weekly-tabs button {
+  background: var(--bg);
+  color: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.35rem 0.75rem;
+  cursor: pointer;
+}
+.weekly-tabs button.active { color: var(--text); border-color: var(--accent); }
+.weekly-panel { display: none; }
+.weekly-panel.active { display: block; }
+.weekly-panel table { font-size: 0.88rem; }
 nav { display: flex; flex-wrap: wrap; gap: 0.75rem; }
 nav a {
   color: var(--muted);

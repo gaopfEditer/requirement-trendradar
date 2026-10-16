@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Run all four pipeline steps in order."""
+"""Run pipeline steps A → B → C → E → D in order."""
 from __future__ import annotations
 
 import argparse
@@ -31,6 +31,7 @@ def main() -> None:
         ("ingest_trends", trends_cmd, True),
         ("ingest_rankings", rankings_cmd, False),
         ("build_opportunity_cards", [sys.executable, "-m", "scripts.build_opportunity_cards"], False),
+        ("build_weekly_movers", [sys.executable, "-m", "scripts.build_weekly_movers"], False),
         ("publish_site", [sys.executable, "-m", "scripts.publish_site"], False),
     ]
     for name, cmd, allow_trends_demo_fallback in steps:

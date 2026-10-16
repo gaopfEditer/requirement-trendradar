@@ -8,13 +8,16 @@
 </head>
 <body data-page="rankings">
   <header>
-    <h1>排行变更</h1>
-    <nav>
+    <div class="header-top">
+      <h1>排行变更</h1>
+      <nav>
       <a href="index.html" data-page="opportunities">机会列表</a>
       <a href="trends.html" data-page="trends">Trends</a>
       <a href="rankings.html" data-page="rankings">排行变更</a>
       <a href="runs.html" data-page="runs">Runs</a>
-    </nav>
+      </nav>
+    </div>
+    <div id="site-meta-bar" class="site-meta-bar">加载元数据…</div>
   </header>
   <main>
     <p class="meta" id="meta"></p>
@@ -45,8 +48,9 @@
   </main>
   <footer>Product Hunt 公开榜 + uploads/rankings*.csv</footer>
   <script type="module">
-    import { loadJson, setActiveNav } from "./assets/app.js";
+    import { loadJson, setActiveNav, renderSiteMetaBar } from "./assets/app.js";
     setActiveNav();
+    await renderSiteMetaBar();
     const doc = await loadJson("rankings_delta.json");
     document.getElementById("meta").textContent = `更新 ${doc.updated_at || ""} · ${(doc.items || []).length} 条`;
     const items = doc.items || [];

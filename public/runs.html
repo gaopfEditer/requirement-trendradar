@@ -8,13 +8,16 @@
 </head>
 <body data-page="runs">
   <header>
-    <h1>Runs 状态</h1>
-    <nav>
+    <div class="header-top">
+      <h1>Runs 状态</h1>
+      <nav>
       <a href="index.html" data-page="opportunities">机会列表</a>
       <a href="trends.html" data-page="trends">Trends</a>
       <a href="rankings.html" data-page="rankings">排行变更</a>
       <a href="runs.html" data-page="runs">Runs</a>
-    </nav>
+      </nav>
+    </div>
+    <div id="site-meta-bar" class="site-meta-bar">加载元数据…</div>
   </header>
   <main>
     <p class="meta" id="summary"></p>
@@ -35,8 +38,9 @@
   </main>
   <footer>流水线失败会写入此处，不静默吞错</footer>
   <script type="module">
-    import { loadJson, setActiveNav } from "./assets/app.js";
+    import { loadJson, setActiveNav, renderSiteMetaBar } from "./assets/app.js";
     setActiveNav();
+    await renderSiteMetaBar();
     const doc = await loadJson("runs.json");
     const runs = doc.runs || [];
     const lastOk = runs.find((r) => r.status === "success");

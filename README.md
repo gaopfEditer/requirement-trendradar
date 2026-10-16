@@ -1,4 +1,4 @@
-# 海外需求雷达 v1
+# 海外需求雷达 v1.1
 
 把 **Google Trends 热词** 与 **Product Hunt / CSV 排行变更** 交叉成可筛选的「机会卡」，通过静态站展示。内部决策工具：不自动投标、不绕登录爬付费站。
 
@@ -17,14 +17,15 @@
 - 若部署失败，请 **新开一次完整 run**（重新 Run workflow 或空提交 push），保证单次 run 只有一个 `github-pages` artifact。
 - 工作流已设置 `concurrency: pages` + `cancel-in-progress: true`，避免并发部署互相干扰。
 
-## 流水线四步
+## 流水线五步（A–E + D 发布）
 
 | 步骤 | 命令 | 说明 |
 |------|------|------|
-| A | `python -m scripts.ingest_trends` | 读种子词 → 拉 Trends → `raw/trends_YYYYMMDD.json` + `data/trends_daily.json` |
+| A | `python -m scripts.ingest_trends` | 读种子词 → 拉 Trends → `raw/trends_YYYYMMDD.json` + `data/trends_daily.json`（`trends_source`: live/demo） |
 | B | `python -m scripts.ingest_rankings` | Product Hunt 公开 Atom Feed + `uploads/rankings*.csv` → `rankings_daily` / `rankings_delta` |
 | C | `python -m scripts.build_opportunity_cards` | 交叉合成机会卡，已设 `verdict_manual: true` 的不覆盖 verdict |
-| D | `python -m scripts.publish_site` | 复制 JSON 到 `public/data/` 供前端读取 |
+| E | `python -m scripts.build_weekly_movers` | 周增长榜 → `data/weekly_movers.json`（周一或足够历史时计算，否则 fixture） |
+| D | `python -m scripts.publish_site` | 写 `meta.json` + 复制 JSON 到 `public/data/` |
 
 一键跑全流程（在项目根目录）：
 
@@ -40,10 +41,32 @@ python -m scripts.run_pipeline --csv-only  # 排行仅 CSV，跳过 PH
 
 ### GitHub Actions 定时
 
-- Workflow：`.github/workflows/daily-radar.yml`
-- 默认 **每天 09:00 香港时间**（cron `0 1 * * *` UTC）
-- 手动触发：Actions → **Daily Demand Radar** → **Run workflow**
-  - 可选 `demo`（fixtures）或 `csv_only`（排行回退 CSV）
+- Workflow：`.github/workflows/daily-radar.yml`（显示名 **Demand Radar Pipeline**）
+- **每 4 小时**全流水线：cron `0 */4 * * *`（UTC，约香港 08/12/16/20/00/04 点）
+- 额外 **周一 09:00 香港** 触发：`0 1 * * 1` UTC（与 4h 重叠时 concurrency 只跑一轮）
+- 手动触发：Actions → **Demand Radar Pipeline** → **Run workflow**（`demo` / `csv_only` 仍可用）
+- 并发：`demand-radar-pipeline` + `cancel-in-progress: true`（与 Pages 的 `pages` concurrency 分开）
+- **勿**对已 upload 的 run 做 **Re-run failed jobs**；失败请 workflow_dispatch 或新 push（见上文 Pages 说明）
+
+### 全站更新时间（meta.json）
+
+`publish_site` 写入 `data/meta.json` / `public/data/meta.json`：
+
+| 字段 | 说明 |
+|------|------|
+| `updated_at` | 最近一次成功写出机会卡的时间，ISO `+08:00` |
+| `schedule` | `every_4h` |
+| `last_run_ok` / `last_run_failed` | 最近一次流水线步骤是否失败 |
+| `trends_demo_active` | 为 true 时首页显示「Trends 为演示数据」 |
+
+页眉文案 **数据更新于 …（香港）** 只读 `meta.json`，不用浏览器当前时间。
+
+### 周榜算法（步骤 E）【估】
+
+- **何时**：香港时间周一，或 `raw/trends_*.json` 跨度 ≥6 天；否则使用 `fixtures/weekly_movers_demo.json`（`skipped: insufficient_history`）。
+- **词条 Top10**：`growth_score = interest_now − interest_prev`（约 7 天前最近快照 vs 最新快照，种子词 + 默认 geo）；若本周 Trends 以 demo 为主则整批 disqualify。
+- **应用 Top10**：`rank_delta < 0` 名次上升优先，`growth_score = -rank_delta`；**本周新进**单独列表（`new_entry`，最多 10）。
+- 产出：`data/weekly_movers.json`、`raw/weekly_YYYYWww.json`、首页「本周增长最快」两 Tab（词条 | 应用）+ 新进。
 
 ## 如何改种子词
 
@@ -111,7 +134,19 @@ My Product,https://...,manual_csv,5,AI|SaaS
 
 每次步骤的 `run_id`、时间、`status`（success/partial/failed）、`counts`、`error`。
 
+### 站点 meta（`public/data/meta.json`）
+
+全站刷新时间与调度字段，供页眉与 Runs 页引用。
+
 原始 JSON 在 `raw/` 保留约 **30 天**（自动清理）。
+
+### 合并后验证预览
+
+```bash
+curl -s -o /dev/null -w "%{http_code}\n" https://gaopfEditer.github.io/requirement-trendradar/
+```
+
+期望 **200**；合并触发 `deploy-pages.yml` 或跑完 Pipeline 后部署。
 
 ## 本地预览静态站
 

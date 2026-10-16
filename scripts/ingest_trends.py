@@ -103,10 +103,12 @@ def run(demo: bool = False, geos_override: list[str] | None = None) -> int:
                     except Exception as exc:  # noqa: BLE001
                         errors.append(f"{keyword}@{geo}: {exc}")
 
+        trends_source = "demo" if demo else "live"
         raw_doc = {
             "run_id": run_id,
             "fetched_at": hk_now_iso(),
             "source_version": SOURCE_VERSION,
+            "trends_source": trends_source,
             "items": items,
             "errors": errors,
         }
@@ -116,6 +118,7 @@ def run(demo: bool = False, geos_override: list[str] | None = None) -> int:
             "updated_at": hk_now_iso(),
             "date_stamp": stamp,
             "run_id": run_id,
+            "trends_source": trends_source,
             "items": items,
             "errors": errors,
         }
