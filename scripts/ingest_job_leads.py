@@ -103,6 +103,22 @@ def _freelancer_status_label(raw: str) -> str:
     return raw or "unknown"
 
 
+def _bid_counts_from_project(project: dict[str, Any]) -> dict[str, int | None]:
+    """Map Freelancer public list API bid_stats → proposals_count / bid_count."""
+    bid_count: int | None = None
+    stats = project.get("bid_stats")
+    if isinstance(stats, dict) and stats.get("bid_count") is not None:
+        try:
+            bid_count = int(stats["bid_count"])
+        except (TypeError, ValueError):
+            bid_count = None
+    return {
+        "proposals_count": bid_count,
+        "bid_count": bid_count,
+        "votes": None,
+    }
+
+
 def _project_to_raw(project: dict[str, Any], query: str) -> dict[str, Any]:
     pid = project.get("id")
     seo = project.get("seo_url") or str(pid)
@@ -113,6 +129,7 @@ def _project_to_raw(project: dict[str, Any], query: str) -> dict[str, Any]:
     skills = ""
     if isinstance(jobs, list):
         skills = ", ".join(str(j.get("name", j)) if isinstance(j, dict) else str(j) for j in jobs)
+    counts = _bid_counts_from_project(project)
     return {
         "id": f"fl-{pid}",
         "platform": "freelancer",
@@ -126,6 +143,7 @@ def _project_to_raw(project: dict[str, Any], query: str) -> dict[str, Any]:
         "search_keyword": query,
         "fetched_at": hk_now_iso(),
         "_freelancer_status_raw": status_raw,
+        **counts,
     }
 
 
@@ -198,6 +216,9 @@ def screened_to_job_record(raw: dict[str, Any], screened: Any) -> dict[str, Any]
     rec["id"] = raw.get("id") or rec.get("id")
     rec["fetched_at"] = raw.get("fetched_at") or hk_now_iso()
     rec["budget_raw"] = rec.get("budget_raw") or raw.get("budget_raw") or raw.get("budget") or ""
+    for key in ("proposals_count", "bid_count", "votes", "fetched_at"):
+        if key in raw:
+            rec[key] = raw[key]
     # asdict may expose pass_ on nested — gates already use "pass"
     if "pass_" in rec:
         del rec["pass_"]
