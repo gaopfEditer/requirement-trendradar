@@ -29,17 +29,33 @@
       <label>平台 <select id="f-platform"><option value="">全部</option><option value="freelancer">Freelancer</option><option value="fiverr">Fiverr</option></select></label>
       <label><input type="checkbox" id="f-recommend" /> 仅推荐</label>
       <label><input type="checkbox" id="f-open" checked /> 仅 Open</label>
+      <label><input type="checkbox" id="f-hide-viewed" /> 隐藏已看</label>
+      <label class="filter-grow">关键词 <input type="search" id="f-keyword" placeholder="标题 / 描述 / 备注" autocomplete="off" /></label>
+      <label>预算 ≥ <input type="number" id="f-budget-min" min="0" step="1" placeholder="最小" /></label>
+      <label>预算 ≤ <input type="number" id="f-budget-max" min="0" step="1" placeholder="最大" /></label>
+      <label><input type="checkbox" id="f-budget-unknown" /> 含未知预算</label>
+    </div>
+    <div class="filters job-actions" id="job-actions">
+      <button type="button" id="btn-clear-viewed" class="btn-secondary">清除已看标记</button>
+      <button type="button" id="btn-export-important" class="btn-secondary">导出重要</button>
+      <label class="btn-file">
+        导入重要
+        <input type="file" id="import-important-file" accept="application/json,.json" hidden />
+      </label>
     </div>
     <table>
       <thead>
         <tr>
+          <th>重要</th>
           <th>Open</th>
           <th>推荐</th>
           <th>轨</th>
           <th>标题</th>
+          <th>提案数</th>
           <th>预算</th>
           <th>三关</th>
           <th>否决/备注</th>
+          <th>抓取时间</th>
           <th>平台</th>
         </tr>
       </thead>
@@ -52,43 +68,206 @@
     setActiveNav();
     await renderSiteMetaBar();
 
+    const VIEWED_KEY = "job_leads_viewed_v1";
+    const IMPORTANT_KEY = "job_leads_important_v1";
+
+    function loadIdSet(key) {
+      try {
+        const raw = localStorage.getItem(key);
+        if (!raw) return new Set();
+        const parsed = JSON.parse(raw);
+        return new Set(Array.isArray(parsed) ? parsed.filter(Boolean) : []);
+      } catch {
+        return new Set();
+      }
+    }
+
+    function saveIdSet(key, set) {
+      localStorage.setItem(key, JSON.stringify([...set]));
+    }
+
     const doc = await loadJson("job_leads.json");
     document.getElementById("source-note").textContent =
       `${doc.source_note || ""} · 更新 ${formatMetaDisplay(doc.updated_at)} · 共 ${(doc.jobs || []).length} 条`;
 
     const jobs = doc.jobs || [];
+    const orderIndex = new Map(jobs.map((j, i) => [j.id, i]));
+    let viewed = loadIdSet(VIEWED_KEY);
+    let important = loadIdSet(IMPORTANT_KEY);
+
     const fTrack = document.getElementById("f-track");
     const fPlatform = document.getElementById("f-platform");
     const fRec = document.getElementById("f-recommend");
     const fOpen = document.getElementById("f-open");
+    const fHideViewed = document.getElementById("f-hide-viewed");
+    const fKeyword = document.getElementById("f-keyword");
+    const fBudgetMin = document.getElementById("f-budget-min");
+    const fBudgetMax = document.getElementById("f-budget-max");
+    const fBudgetUnknown = document.getElementById("f-budget-unknown");
+
+    function jobSearchBlob(j) {
+      const hits = (j.keyword_hits || []).join(" ");
+      return [j.title, j.description, j.recommend_note, hits]
+        .filter(Boolean)
+        .join(" ")
+        .toLowerCase();
+    }
+
+    function passesKeyword(j) {
+      const q = fKeyword.value.trim().toLowerCase();
+      if (!q) return true;
+      return jobSearchBlob(j).includes(q);
+    }
+
+    /** @returns {{ min: number, max: number } | null} */
+    function parseBudgetRange(budgetRaw) {
+      if (!budgetRaw || !String(budgetRaw).trim()) return null;
+      const nums = String(budgetRaw).match(/\d+(?:\.\d+)?/g);
+      if (!nums?.length) return null;
+      const values = nums.map((n) => Number(n));
+      return { min: Math.min(...values), max: Math.max(...values) };
+    }
+
+    function passesBudget(j) {
+      const rawMin = fBudgetMin.value.trim();
+      const rawMax = fBudgetMax.value.trim();
+      const filterMin = rawMin === "" ? null : Number(rawMin);
+      const filterMax = rawMax === "" ? null : Number(rawMax);
+      const hasMin = filterMin !== null && !Number.isNaN(filterMin);
+      const hasMax = filterMax !== null && !Number.isNaN(filterMax);
+      if (!hasMin && !hasMax) return true;
+
+      const range = parseBudgetRange(j.budget_raw);
+      if (!range) return fBudgetUnknown.checked;
+
+      const lo = hasMin ? filterMin : -Infinity;
+      const hi = hasMax ? filterMax : Infinity;
+      return range.max >= lo && range.min <= hi;
+    }
 
     function gatesSummary(gates) {
       return (gates || []).map((g) => `${g.name}${g.pass ? "✓" : "✗"}`).join(" · ");
     }
 
+    function formatProposals(j) {
+      const n = j.proposals_count;
+      if (n === null || n === undefined) return "—";
+      return String(n);
+    }
+
+    function markViewed(id) {
+      if (!id || viewed.has(id)) return;
+      viewed.add(id);
+      saveIdSet(VIEWED_KEY, viewed);
+      render();
+    }
+
+    function toggleImportant(id) {
+      if (!id) return;
+      if (important.has(id)) important.delete(id);
+      else important.add(id);
+      saveIdSet(IMPORTANT_KEY, important);
+      render();
+    }
+
     function render() {
-      const rows = jobs.filter((j) => {
+      let rows = jobs.filter((j) => {
         if (fTrack.value && j.track !== fTrack.value) return false;
         if (fPlatform.value && j.platform !== fPlatform.value) return false;
         if (fRec.checked && !j.recommend) return false;
         if (fOpen.checked && !j.is_open) return false;
+        if (fHideViewed.checked && viewed.has(j.id)) return false;
+        if (!passesKeyword(j)) return false;
+        if (!passesBudget(j)) return false;
         return true;
       });
-      document.getElementById("rows").innerHTML = rows.map((j) => `
-        <tr>
+      rows.sort((a, b) => {
+        const ai = important.has(a.id) ? 0 : 1;
+        const bi = important.has(b.id) ? 0 : 1;
+        if (ai !== bi) return ai - bi;
+        return (orderIndex.get(a.id) ?? 0) - (orderIndex.get(b.id) ?? 0);
+      });
+
+      document.getElementById("rows").innerHTML = rows.map((j) => {
+        const isViewed = viewed.has(j.id);
+        const isImportant = important.has(j.id);
+        const rowClass = [
+          isViewed ? "job-row-viewed" : "",
+          isImportant ? "job-row-important" : "",
+        ].filter(Boolean).join(" ");
+        const viewedBadge = isViewed ? "<span class='badge badge-viewed'>已看</span> " : "";
+        const impLabel = isImportant ? "★" : "☆";
+        return `
+        <tr class="${rowClass}" data-job-id="${j.id}">
+          <td><button type="button" class="btn-pin" data-action="important" title="标记重要并置顶">${impLabel}</button></td>
           <td>${j.is_open ? "Y" : "N"}</td>
           <td>${j.recommend ? "<span class='status-ok'>Y</span>" : "N"}</td>
           <td>${j.track || ""}</td>
-          <td><a href="${j.url}" target="_blank" rel="noopener">${j.title || "—"}</a></td>
+          <td>${viewedBadge}<a href="${j.url}" target="_blank" rel="noopener" class="job-title-link" data-action="view">${j.title || "—"}</a></td>
+          <td>${formatProposals(j)}</td>
           <td>${j.budget_raw || "—"}</td>
           <td class="meta">${gatesSummary(j.gates)}</td>
           <td>${j.veto || j.recommend_note || "—"}</td>
+          <td class="meta">${j.fetched_at ? formatMetaDisplay(j.fetched_at) : "—"}</td>
           <td>${j.platform || ""}</td>
         </tr>
-      `).join("") || "<tr><td colspan='8'>无匹配帖</td></tr>";
+      `;
+      }).join("") || "<tr><td colspan='11'>无匹配帖</td></tr>";
     }
 
-    [fTrack, fPlatform, fRec, fOpen].forEach((el) => el.addEventListener("change", render));
+    document.getElementById("rows").addEventListener("click", (ev) => {
+      const btn = ev.target.closest("[data-action]");
+      if (!btn) return;
+      const row = btn.closest("tr[data-job-id]");
+      const id = row?.getAttribute("data-job-id");
+      if (!id) return;
+      const action = btn.getAttribute("data-action");
+      if (action === "important") {
+        ev.preventDefault();
+        toggleImportant(id);
+      } else if (action === "view") {
+        markViewed(id);
+      }
+    });
+
+    document.getElementById("btn-clear-viewed").addEventListener("click", () => {
+      viewed = new Set();
+      saveIdSet(VIEWED_KEY, viewed);
+      render();
+    });
+
+    document.getElementById("btn-export-important").addEventListener("click", () => {
+      const payload = { version: 1, important_ids: [...important] };
+      const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(blob);
+      a.download = "job_leads_important.json";
+      a.click();
+      URL.revokeObjectURL(a.href);
+    });
+
+    document.getElementById("import-important-file").addEventListener("change", async (ev) => {
+      const file = ev.target.files?.[0];
+      ev.target.value = "";
+      if (!file) return;
+      try {
+        const text = await file.text();
+        const data = JSON.parse(text);
+        const ids = Array.isArray(data) ? data : data.important_ids;
+        if (!Array.isArray(ids)) return;
+        ids.forEach((id) => { if (id) important.add(String(id)); });
+        saveIdSet(IMPORTANT_KEY, important);
+        render();
+      } catch {
+        /* ignore invalid file */
+      }
+    });
+
+    [fTrack, fPlatform, fRec, fOpen, fHideViewed, fBudgetUnknown].forEach((el) =>
+      el.addEventListener("change", render),
+    );
+    fKeyword.addEventListener("input", render);
+    [fBudgetMin, fBudgetMax].forEach((el) => el.addEventListener("input", render));
     render();
   </script>
 </body>
