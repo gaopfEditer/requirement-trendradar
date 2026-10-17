@@ -1,9 +1,10 @@
 {
-  "published_at": "2026-10-17T16:21:15+08:00",
+  "published_at": "2026-10-17T21:04:29+08:00",
   "updated_at": "2026-10-17T16:21:14+08:00",
   "schedule": "every_4h",
   "files": [
     "opportunities.json",
+    "job_leads.json",
     "trends_daily.json",
     "rankings_daily.json",
     "rankings_delta.json",

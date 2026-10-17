@@ -30,6 +30,7 @@ def main() -> None:
     steps = [
         ("ingest_trends", trends_cmd, True),
         ("ingest_rankings", rankings_cmd, False),
+        ("ingest_job_leads", [sys.executable, "-m", "scripts.ingest_job_leads", "--no-merge-opportunities"], False),
         ("build_opportunity_cards", [sys.executable, "-m", "scripts.build_opportunity_cards"], False),
         ("build_weekly_movers", [sys.executable, "-m", "scripts.build_weekly_movers"], False),
         ("publish_site", [sys.executable, "-m", "scripts.publish_site"], False),

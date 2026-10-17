@@ -207,7 +207,10 @@ def run(demo: bool = False) -> int:
             "cards": cards,
         }
         OPPORTUNITIES_PATH.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
-        finish_run(run_id, "success", counts={"cards": len(cards)})
+        from scripts.lib.job_lead_cards import merge_recommended_into_opportunities
+
+        job_merged = merge_recommended_into_opportunities()
+        finish_run(run_id, "success", counts={"cards": len(cards), "job_leads_merged": job_merged})
         return 0
     except Exception as exc:  # noqa: BLE001
         finish_run(run_id, "failed", error=str(exc))

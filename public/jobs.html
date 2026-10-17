@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>接单帖 — Freelancer / Fiverr</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body data-page="jobs">
+  <header>
+    <div class="header-top">
+      <h1>接单帖雷达</h1>
+      <nav>
+        <a href="index.html" data-page="opportunities">机会列表</a>
+        <a href="jobs.html" data-page="jobs">接单帖</a>
+        <a href="trends.html" data-page="trends">Trends</a>
+        <a href="rankings.html" data-page="rankings">排行变更</a>
+        <a href="runs.html" data-page="runs">Runs</a>
+      </nav>
+    </div>
+    <div id="site-meta-bar" class="site-meta-bar">加载元数据…</div>
+  </header>
+  <main>
+    <p class="meta" id="source-note">加载中…</p>
+    <div class="filters" id="filters">
+      <label>轨 <select id="f-track"><option value="">全部</option>
+        <option>嵌入</option><option>加固</option><option>加固+嵌入</option><option>未知</option><option>排除</option>
+      </select></label>
+      <label>平台 <select id="f-platform"><option value="">全部</option><option value="freelancer">Freelancer</option><option value="fiverr">Fiverr</option></select></label>
+      <label><input type="checkbox" id="f-recommend" /> 仅推荐</label>
+      <label><input type="checkbox" id="f-open" checked /> 仅 Open</label>
+    </div>
+    <table>
+      <thead>
+        <tr>
+          <th>Open</th>
+          <th>推荐</th>
+          <th>轨</th>
+          <th>标题</th>
+          <th>预算</th>
+          <th>三关</th>
+          <th>否决/备注</th>
+          <th>平台</th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </main>
+  <footer>公开抓取 · 不登录不代投 · 双轨三关筛选</footer>
+  <script type="module">
+    import { loadJson, setActiveNav, renderSiteMetaBar, formatMetaDisplay } from "./assets/app.js";
+    setActiveNav();
+    await renderSiteMetaBar();
+
+    const doc = await loadJson("job_leads.json");
+    document.getElementById("source-note").textContent =
+      `${doc.source_note || ""} · 更新 ${formatMetaDisplay(doc.updated_at)} · 共 ${(doc.jobs || []).length} 条`;
+
+    const jobs = doc.jobs || [];
+    const fTrack = document.getElementById("f-track");
+    const fPlatform = document.getElementById("f-platform");
+    const fRec = document.getElementById("f-recommend");
+    const fOpen = document.getElementById("f-open");
+
+    function gatesSummary(gates) {
+      return (gates || []).map((g) => `${g.name}${g.pass ? "✓" : "✗"}`).join(" · ");
+    }
+
+    function render() {
+      const rows = jobs.filter((j) => {
+        if (fTrack.value && j.track !== fTrack.value) return false;
+        if (fPlatform.value && j.platform !== fPlatform.value) return false;
+        if (fRec.checked && !j.recommend) return false;
+        if (fOpen.checked && !j.is_open) return false;
+        return true;
+      });
+      document.getElementById("rows").innerHTML = rows.map((j) => `
+        <tr>
+          <td>${j.is_open ? "Y" : "N"}</td>
+          <td>${j.recommend ? "<span class='status-ok'>Y</span>" : "N"}</td>
+          <td>${j.track || ""}</td>
+          <td><a href="${j.url}" target="_blank" rel="noopener">${j.title || "—"}</a></td>
+          <td>${j.budget_raw || "—"}</td>
+          <td class="meta">${gatesSummary(j.gates)}</td>
+          <td>${j.veto || j.recommend_note || "—"}</td>
+          <td>${j.platform || ""}</td>
+        </tr>
+      `).join("") || "<tr><td colspan='8'>无匹配帖</td></tr>";
+    }
+
+    [fTrack, fPlatform, fRec, fOpen].forEach((el) => el.addEventListener("change", render));
+    render();
+  </script>
+</body>
+</html>

@@ -13,6 +13,7 @@ from scripts.lib.runs import finish_run, start_run
 
 FILES = (
     "opportunities.json",
+    "job_leads.json",
     "trends_daily.json",
     "rankings_daily.json",
     "rankings_delta.json",

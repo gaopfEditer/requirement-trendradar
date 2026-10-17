@@ -8,6 +8,7 @@ from scripts.lib.paths import DATA_DIR, hk_now_iso8601, parse_updated_at_to_iso
 
 META_PATH = DATA_DIR / "meta.json"
 OPPORTUNITIES_PATH = DATA_DIR / "opportunities.json"
+JOB_LEADS_PATH = DATA_DIR / "job_leads.json"
 TRENDS_PATH = DATA_DIR / "trends_daily.json"
 RUNS_PATH = DATA_DIR / "runs.json"
 
@@ -20,9 +21,11 @@ def _read_json(path: Path) -> dict[str, Any]:
 
 def build_meta() -> dict[str, Any]:
     opportunities = _read_json(OPPORTUNITIES_PATH)
+    job_leads = _read_json(JOB_LEADS_PATH)
     trends = _read_json(TRENDS_PATH)
     runs_doc = _read_json(RUNS_PATH)
     runs = runs_doc.get("runs") or []
+    last_job_ingest = next((r for r in runs if r.get("step") == "ingest_job_leads"), None)
 
     updated_raw = opportunities.get("updated_at") or runs_doc.get("last_updated")
     updated_at = parse_updated_at_to_iso(updated_raw) or hk_now_iso8601()
@@ -45,6 +48,16 @@ def build_meta() -> dict[str, Any]:
         "trends_demo_active": trends_demo_active,
         "published_at": hk_now_iso8601(),
         "opportunities_run_id": opportunities.get("run_id"),
+        "job_leads_updated_at": parse_updated_at_to_iso(job_leads.get("updated_at"))
+        or job_leads.get("updated_at"),
+        "job_leads_count": len(job_leads.get("jobs") or []),
+        "job_leads_recommend_count": sum(
+            1 for j in (job_leads.get("jobs") or []) if j.get("recommend")
+        ),
+        "job_leads_run_id": job_leads.get("run_id"),
+        "fiverr_skipped": bool((job_leads.get("ingest") or {}).get("fiverr", {}).get("skipped")),
+        "fiverr_skip_reason": (job_leads.get("ingest") or {}).get("fiverr", {}).get("reason"),
+        "last_job_ingest_ok": bool(last_job_ingest and last_job_ingest.get("status") == "success"),
     }
 
 
