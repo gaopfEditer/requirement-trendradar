@@ -58,6 +58,14 @@ export async function renderSiteMetaBar() {
     if (meta.last_run_failed) {
       html += ` · <span class="status-fail">最近一次流水线失败（见 <a href="runs.html">Runs</a> / GitHub Actions）</span>`;
     }
+    if (meta.job_leads_updated_at) {
+      const jl = meta.job_leads_count ?? 0;
+      const rec = meta.job_leads_recommend_count ?? 0;
+      html += ` · 接单帖 <a href="jobs.html">${jl}</a>（推荐 ${rec}）`;
+      if (meta.fiverr_skipped) {
+        html += ` · <span class="status-partial">Fiverr 已跳过</span>`;
+      }
+    }
     html += ` · 调度 <code>${meta.schedule || "every_4h"}</code>`;
     el.innerHTML = html;
   } catch {

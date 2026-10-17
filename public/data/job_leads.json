@@ -1,0 +1,1310 @@
+{
+  "updated_at": "2026-10-17 21:04:27 UTC+08:00",
+  "run_id": "20261017-210402-0e36e9ff",
+  "source_note": "Freelancer public API search; Fiverr public only; no login; no bid. HTTP 403 login/bot wall at https://www.fiverr.com/buyer_requests",
+  "ingest": {
+    "freelancer": {
+      "queries": 18,
+      "fetched_projects": 31,
+      "errors": []
+    },
+    "fiverr": {
+      "attempted": true,
+      "jobs": [],
+      "skipped": true,
+      "reason": "HTTP 403 login/bot wall at https://www.fiverr.com/buyer_requests"
+    }
+  },
+  "jobs": [
+    {
+      "id": "fl-40771845",
+      "title": "BEDS24 OTA Integration Setup -- 3",
+      "url": "https://www.freelancer.com/projects/php/BEDS-OTA-Integration-Setup-40771845",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "tool",
+      "keyword_hits": [
+        "add booking",
+        "booking calendar"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中tool: add booking, booking calendar"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "点名工具/可一句话说清交付"
+        },
+        {
+          "name": "一期",
+          "pass": true,
+          "reason": "可切 1–3 天可验收一期"
+        }
+      ],
+      "all_gates_pass": true,
+      "veto": null,
+      "recommend": true,
+      "recommend_note": "推荐投",
+      "budget_raw": "$30.0-250.0",
+      "score": 120.0,
+      "fetched_at": "2026-10-17 21:04:11 UTC+08:00"
+    },
+    {
+      "id": "fl-40770707",
+      "title": "Convert Karate Academy Leads",
+      "url": "https://www.freelancer.com/projects/sales/Convert-Karate-Academy-Leads",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "tool",
+      "keyword_hits": [
+        "add booking",
+        "booking calendar"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中tool: add booking, booking calendar"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "点名工具/可一句话说清交付"
+        },
+        {
+          "name": "一期",
+          "pass": true,
+          "reason": "可切 1–3 天可验收一期"
+        }
+      ],
+      "all_gates_pass": true,
+      "veto": null,
+      "recommend": true,
+      "recommend_note": "推荐投",
+      "budget_raw": "$2.0-8.0/hr",
+      "score": 120.0,
+      "fetched_at": "2026-10-17 21:04:11 UTC+08:00"
+    },
+    {
+      "id": "fl-40771364",
+      "title": "Lead Generation and Appointment Setting for Life Coach",
+      "url": "https://www.freelancer.com/projects/lead-generation/Lead-Generation-Appointment-Setting-for-40771364",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "tool",
+      "keyword_hits": [
+        "add booking",
+        "booking calendar"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中tool: add booking, booking calendar"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "点名工具/可一句话说清交付"
+        },
+        {
+          "name": "一期",
+          "pass": true,
+          "reason": "可切 1–3 天可验收一期"
+        }
+      ],
+      "all_gates_pass": true,
+      "veto": null,
+      "recommend": true,
+      "recommend_note": "推荐投",
+      "budget_raw": "$2.0-8.0/hr",
+      "score": 120.0,
+      "fetched_at": "2026-10-17 21:04:11 UTC+08:00"
+    },
+    {
+      "id": "fl-40771464",
+      "title": "Mobile Boyfriend Rental Platform",
+      "url": "https://www.freelancer.com/projects/ios/Mobile-Boyfriend-Rental-Platform",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "tool",
+      "keyword_hits": [
+        "add booking",
+        "booking calendar"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中tool: add booking, booking calendar"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "点名工具/可一句话说清交付"
+        },
+        {
+          "name": "一期",
+          "pass": true,
+          "reason": "可切 1–3 天可验收一期"
+        }
+      ],
+      "all_gates_pass": true,
+      "veto": null,
+      "recommend": true,
+      "recommend_note": "推荐投",
+      "budget_raw": "₹12500.0-37500.0",
+      "score": 120.0,
+      "fetched_at": "2026-10-17 21:04:11 UTC+08:00"
+    },
+    {
+      "id": "fl-40771485",
+      "title": "Rental Boyfriend Mobile App Development",
+      "url": "https://www.freelancer.com/projects/react-native/Rental-Boyfriend-Mobile-App-Development-40771485",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "tool",
+      "keyword_hits": [
+        "add booking",
+        "booking calendar"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中tool: add booking, booking calendar"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "点名工具/可一句话说清交付"
+        },
+        {
+          "name": "一期",
+          "pass": true,
+          "reason": "可切 1–3 天可验收一期"
+        }
+      ],
+      "all_gates_pass": true,
+      "veto": null,
+      "recommend": true,
+      "recommend_note": "推荐但预算极低，谨慎",
+      "budget_raw": "₹750.0-1250.0/hr",
+      "score": 120.0,
+      "fetched_at": "2026-10-17 21:04:11 UTC+08:00"
+    },
+    {
+      "id": "fl-40771986",
+      "title": "Rental Boyfriend Profile Platform",
+      "url": "https://www.freelancer.com/projects/web-development/Rental-Boyfriend-Profile-Platform-40771986",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "tool",
+      "keyword_hits": [
+        "add booking",
+        "booking calendar"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中tool: add booking, booking calendar"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "点名工具/可一句话说清交付"
+        },
+        {
+          "name": "一期",
+          "pass": true,
+          "reason": "可切 1–3 天可验收一期"
+        }
+      ],
+      "all_gates_pass": true,
+      "veto": null,
+      "recommend": true,
+      "recommend_note": "推荐但预算极低，谨慎",
+      "budget_raw": "₹1500.0-12500.0",
+      "score": 120.0,
+      "fetched_at": "2026-10-17 21:04:11 UTC+08:00"
+    },
+    {
+      "id": "fl-40771193",
+      "title": "WordPress Travel Booking System",
+      "url": "https://www.freelancer.com/projects/woocommerce/WordPress-Travel-Booking-System",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "tool",
+      "keyword_hits": [
+        "add booking",
+        "booking calendar"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中tool: add booking, booking calendar"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "点名工具/可一句话说清交付"
+        },
+        {
+          "name": "一期",
+          "pass": true,
+          "reason": "可切 1–3 天可验收一期"
+        }
+      ],
+      "all_gates_pass": true,
+      "veto": null,
+      "recommend": true,
+      "recommend_note": "推荐投",
+      "budget_raw": "$30.0-250.0",
+      "score": 120.0,
+      "fetched_at": "2026-10-17 21:04:11 UTC+08:00"
+    },
+    {
+      "id": "fl-40770879",
+      "title": "Gym Reels Video Editing",
+      "url": "https://www.freelancer.com/projects/videography/Gym-Reels-Video-Editing",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "phrase",
+      "keyword_hits": [
+        "add booking"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中phrase: add booking"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": true,
+          "reason": "可切 1–3 天可验收一期"
+        }
+      ],
+      "all_gates_pass": true,
+      "veto": null,
+      "recommend": true,
+      "recommend_note": "推荐但预算极低，谨慎",
+      "budget_raw": "₹600.0-1500.0",
+      "score": 112.0,
+      "fetched_at": "2026-10-17 21:04:15 UTC+08:00"
+    },
+    {
+      "id": "fl-40772014",
+      "title": "Hotel Google Ads Specialist: 3 Accounts, Booking Tracking & Search",
+      "url": "https://www.freelancer.com/projects/google-ads/Hotel-Google-Ads-Specialist-Accounts",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "phrase",
+      "keyword_hits": [
+        "add booking"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中phrase: add booking"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": true,
+          "reason": "可切 1–3 天可验收一期"
+        }
+      ],
+      "all_gates_pass": true,
+      "veto": null,
+      "recommend": true,
+      "recommend_note": "推荐投",
+      "budget_raw": "$250.0-750.0",
+      "score": 112.0,
+      "fetched_at": "2026-10-17 21:04:15 UTC+08:00"
+    },
+    {
+      "id": "fl-40769987",
+      "title": "Instagram Outreach Specialist Needed",
+      "url": "https://www.freelancer.com/projects/social-media-management/Instagram-Outreach-Specialist-Needed",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "phrase",
+      "keyword_hits": [
+        "add booking"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中phrase: add booking"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": true,
+          "reason": "可切 1–3 天可验收一期"
+        }
+      ],
+      "all_gates_pass": true,
+      "veto": null,
+      "recommend": true,
+      "recommend_note": "推荐投",
+      "budget_raw": "$8.0-15.0/hr",
+      "score": 112.0,
+      "fetched_at": "2026-10-17 21:04:15 UTC+08:00"
+    },
+    {
+      "id": "fl-40770210",
+      "title": "Manage 33 Units on TurboTenant",
+      "url": "https://www.freelancer.com/projects/property-management/Manage-Units-TurboTenant",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "phrase",
+      "keyword_hits": [
+        "add booking"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中phrase: add booking"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": true,
+          "reason": "可切 1–3 天可验收一期"
+        }
+      ],
+      "all_gates_pass": true,
+      "veto": null,
+      "recommend": true,
+      "recommend_note": "推荐投",
+      "budget_raw": "$8.0-15.0/hr",
+      "score": 112.0,
+      "fetched_at": "2026-10-17 21:04:15 UTC+08:00"
+    },
+    {
+      "id": "fl-40772493",
+      "title": "ActiveCampaign Lead Gen Funnel",
+      "url": "https://www.freelancer.com/projects/activecampaign/ActiveCampaign-Lead-Gen-Funnel",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "phrase",
+      "keyword_hits": [
+        "online booking"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中phrase: online booking"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "三关未过：一期:看不出可切的一期",
+      "budget_raw": "$15.0-25.0/hr",
+      "score": 67.0,
+      "fetched_at": "2026-10-17 21:04:09 UTC+08:00"
+    },
+    {
+      "id": "fl-40772513",
+      "title": "Android Taxi Booking App Build",
+      "url": "https://www.freelancer.com/projects/android/Android-Taxi-Booking-App-Build",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "phrase",
+      "keyword_hits": [
+        "online booking"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中phrase: online booking"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "三关未过：一期:看不出可切的一期",
+      "budget_raw": "₹12500.0-37500.0",
+      "score": 67.0,
+      "fetched_at": "2026-10-17 21:04:09 UTC+08:00"
+    },
+    {
+      "id": "fl-40772380",
+      "title": "Android Taxi Booking App Development",
+      "url": "https://www.freelancer.com/projects/android-app-development/Android-Taxi-Booking-App-Development",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "phrase",
+      "keyword_hits": [
+        "online booking"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中phrase: online booking"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "三关未过：一期:看不出可切的一期",
+      "budget_raw": "₹12500.0-37500.0",
+      "score": 67.0,
+      "fetched_at": "2026-10-17 21:04:09 UTC+08:00"
+    },
+    {
+      "id": "fl-40772032",
+      "title": "Build My Lead Magnet and Email Marketing Funnel",
+      "url": "https://www.freelancer.com/projects/graphic-design/Build-Lead-Magnet-Email-Marketing",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "phrase",
+      "keyword_hits": [
+        "online booking"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中phrase: online booking"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "三关未过：一期:看不出可切的一期",
+      "budget_raw": "$300.0-600.0",
+      "score": 67.0,
+      "fetched_at": "2026-10-17 21:04:09 UTC+08:00"
+    },
+    {
+      "id": "fl-40769495",
+      "title": "Elegant Restaurant Booking App",
+      "url": "https://www.freelancer.com/projects/web-development/Elegant-Restaurant-Booking-App",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "phrase",
+      "keyword_hits": [
+        "reservation form"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中phrase: reservation form"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "三关未过：一期:看不出可切的一期",
+      "budget_raw": "₹12500.0-37500.0",
+      "score": 67.0,
+      "fetched_at": "2026-10-17 21:04:16 UTC+08:00"
+    },
+    {
+      "id": "fl-40769167",
+      "title": "Engaging 3D Animation for SaaS Platform",
+      "url": "https://www.freelancer.com/projects/3d-animation/Engaging-Animation-for-SaaS-Platform",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "phrase",
+      "keyword_hits": [
+        "online booking"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中phrase: online booking"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "三关未过：一期:看不出可切的一期",
+      "budget_raw": "$30.0-250.0",
+      "score": 67.0,
+      "fetched_at": "2026-10-17 21:04:02 UTC+08:00"
+    },
+    {
+      "id": "fl-40771942",
+      "title": "Manila Trip Planner and Coordinator",
+      "url": "https://www.freelancer.com/projects/event-coordination/Manila-Trip-Planner-Coordinator",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "phrase",
+      "keyword_hits": [
+        "reservation form"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中phrase: reservation form"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "三关未过：一期:看不出可切的一期",
+      "budget_raw": "£5.0-10.0/hr",
+      "score": 67.0,
+      "fetched_at": "2026-10-17 21:04:16 UTC+08:00"
+    },
+    {
+      "id": "fl-40772591",
+      "title": "Wordpress Pro for Travel & Vehicle Marketplace",
+      "url": "https://www.freelancer.com/projects/web-development/Wordpress-Pro-for-Travel-Vehicle",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "phrase",
+      "keyword_hits": [
+        "online booking"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中phrase: online booking"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "无限范围/整盘产品倾向"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "三关未过：一期:无限范围/整盘产品倾向",
+      "budget_raw": "₹12500.0-37500.0",
+      "score": 67.0,
+      "fetched_at": "2026-10-17 21:04:09 UTC+08:00"
+    },
+    {
+      "id": "fl-40772765",
+      "title": "Zenoti POS Setup for Spa",
+      "url": "https://www.freelancer.com/projects/pos-development/Zenoti-POS-Setup-for-Spa",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "phrase",
+      "keyword_hits": [
+        "online booking"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中phrase: online booking"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "三关未过：一期:看不出可切的一期",
+      "budget_raw": "$1500.0-3000.0",
+      "score": 67.0,
+      "fetched_at": "2026-10-17 21:04:09 UTC+08:00"
+    },
+    {
+      "id": "fl-40772772",
+      "title": "B2B Appointment Sales Setter for Apparel Manufacturing -- 2",
+      "url": "https://www.freelancer.com/projects/sales/Appointment-Sales-Setter-for-Apparel",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "未知",
+      "keyword_tier": "none",
+      "keyword_hits": [],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": false,
+          "reason": "未命中嵌入/加固词"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": false,
+          "reason": "需求糊（说不清交付物）"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "关键词未过",
+      "budget_raw": "₹12500.0-37500.0",
+      "score": 50.0,
+      "fetched_at": "2026-10-17 21:04:20 UTC+08:00"
+    },
+    {
+      "id": "fl-40772098",
+      "title": "B2B Sales Executive For AI Marketing Firm",
+      "url": "https://www.freelancer.com/projects/sales-management/Sales-Executive-For-Marketing-Firm",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "未知",
+      "keyword_tier": "none",
+      "keyword_hits": [],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": false,
+          "reason": "未命中嵌入/加固词"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": false,
+          "reason": "需求糊（说不清交付物）"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "关键词未过",
+      "budget_raw": "$50.0",
+      "score": 50.0,
+      "fetched_at": "2026-10-17 21:04:20 UTC+08:00"
+    },
+    {
+      "id": "fl-40771736",
+      "title": "Cash-Out Refinance Mortgage Appointment Setter",
+      "url": "https://www.freelancer.com/projects/appointment-setting/Cash-Out-Refinance-Mortgage-Appointment",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "未知",
+      "keyword_tier": "none",
+      "keyword_hits": [],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": false,
+          "reason": "未命中嵌入/加固词"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": false,
+          "reason": "需求糊（说不清交付物）"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "关键词未过",
+      "budget_raw": "$8.0-15.0/hr",
+      "score": 50.0,
+      "fetched_at": "2026-10-17 21:04:20 UTC+08:00"
+    },
+    {
+      "id": "fl-40771630",
+      "title": "Chirps AI Assistants Installation & Setup for Client Websites - Ongoing Work",
+      "url": "https://www.freelancer.com/projects/ai-chatbot/Chirps-Assistants-Installation-Setup-for",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "未知",
+      "keyword_tier": "none",
+      "keyword_hits": [],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": false,
+          "reason": "未命中嵌入/加固词"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "关键词未过",
+      "budget_raw": "€12.0-18.0/hr",
+      "score": 50.0,
+      "fetched_at": "2026-10-17 21:04:20 UTC+08:00"
+    },
+    {
+      "id": "fl-40772739",
+      "title": "Commission based Remote Cold Callers & Appointment Setters",
+      "url": "https://www.freelancer.com/projects/cold-calling/Commission-based-Remote-Cold-Callers",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "未知",
+      "keyword_tier": "none",
+      "keyword_hits": [],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": false,
+          "reason": "未命中嵌入/加固词"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": false,
+          "reason": "需求糊（说不清交付物）"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "关键词未过",
+      "budget_raw": "₹12500.0-37500.0",
+      "score": 50.0,
+      "fetched_at": "2026-10-17 21:04:20 UTC+08:00"
+    },
+    {
+      "id": "fl-40772176",
+      "title": "Contact 350 Real Estate Leads",
+      "url": "https://www.freelancer.com/projects/crm/Contact-Real-Estate-Leads",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "未知",
+      "keyword_tier": "none",
+      "keyword_hits": [],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": false,
+          "reason": "未命中嵌入/加固词"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": false,
+          "reason": "需求糊（说不清交付物）"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "关键词未过",
+      "budget_raw": "$30.0-250.0",
+      "score": 50.0,
+      "fetched_at": "2026-10-17 21:04:20 UTC+08:00"
+    },
+    {
+      "id": "fl-40772364",
+      "title": "Google Ads Expert Required for Dermatology & Aesthetic Clinic – Lead Generation & Patient Bookings",
+      "url": "https://www.freelancer.com/projects/google-ads/Google-Ads-Expert-Required-for-40772364",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "未知",
+      "keyword_tier": "none",
+      "keyword_hits": [],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": false,
+          "reason": "未命中嵌入/加固词"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": false,
+          "reason": "需求糊（说不清交付物）"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "关键词未过",
+      "budget_raw": "₹120000.0-150000.0",
+      "score": 50.0,
+      "fetched_at": "2026-10-17 21:04:08 UTC+08:00"
+    },
+    {
+      "id": "fl-40765390",
+      "title": "Medical AI Sales Appointment Setter",
+      "url": "https://www.freelancer.com/projects/sales/Medical-Sales-Appointment-Setter",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "未知",
+      "keyword_tier": "none",
+      "keyword_hits": [],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": false,
+          "reason": "未命中嵌入/加固词"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": false,
+          "reason": "需求糊（说不清交付物）"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "关键词未过",
+      "budget_raw": "$30.0-250.0",
+      "score": 50.0,
+      "fetched_at": "2026-10-17 21:04:04 UTC+08:00"
+    },
+    {
+      "id": "fl-40763892",
+      "title": "READ CAREFULLY - COMMISSION ONLY - AI Automation Company Seeks B2B Lead Generation & Sales Partner | $2,000+ Per Client",
+      "url": "https://www.freelancer.com/projects/ai-hw-sw/Automation-Company-Seeks-Lead-Generation",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "未知",
+      "keyword_tier": "none",
+      "keyword_hits": [],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": false,
+          "reason": "未命中嵌入/加固词"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": false,
+          "reason": "需求糊（说不清交付物）"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "关键词未过",
+      "budget_raw": "€10000.0-20000.0",
+      "score": 50.0,
+      "fetched_at": "2026-10-17 21:04:04 UTC+08:00"
+    },
+    {
+      "id": "fl-40772512",
+      "title": "Remote Virtual Assistant for Life Skills Lab",
+      "url": "https://www.freelancer.com/projects/administrative-support/Remote-Virtual-Assistant-for-Life",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "未知",
+      "keyword_tier": "none",
+      "keyword_hits": [],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": false,
+          "reason": "未命中嵌入/加固词"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": false,
+          "reason": "需求糊（说不清交付物）"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "关键词未过",
+      "budget_raw": "₹100.0-400.0/hr",
+      "score": 50.0,
+      "fetched_at": "2026-10-17 21:04:20 UTC+08:00"
+    },
+    {
+      "id": "fl-40772678",
+      "title": "Website Developer / QA Tester Needed – Full Website Testing, Bug Report & Repair Quotation",
+      "url": "https://www.freelancer.com/projects/website-testing/Website-Developer-Tester-Needed-Full",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "generic_demote",
+      "keyword_hits": [
+        "online booking",
+        "website developer"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "有双轨词但含泛词，已降权"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "三关未过：一期:看不出可切的一期",
+      "budget_raw": "$750.0-1500.0",
+      "score": 45.0,
+      "fetched_at": "2026-10-17 21:04:09 UTC+08:00"
+    }
+  ]
+}
