@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-18 16:42:11 UTC+08:00",
-  "run_id": "20261018-164144-9c46e0a5",
+  "updated_at": "2026-10-18 17:25:54 UTC+08:00",
+  "run_id": "20261018-172528-52d95566",
   "source_note": "Freelancer public API search; Fiverr public only; no login; no bid. HTTP 403 login/bot wall at https://www.fiverr.com/buyer_requests",
   "ingest": {
     "freelancer": {
       "queries": 18,
-      "fetched_projects": 31,
+      "fetched_projects": 34,
       "errors": []
     },
     "fiverr": {
@@ -16,6 +16,52 @@
     }
   },
   "jobs": [
+    {
+      "id": "fl-40772904",
+      "title": "AI Travel Copilot Development",
+      "url": "https://www.freelancer.com/projects/ai-chatbot/Travel-Copilot-Development",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "tool",
+      "keyword_hits": [
+        "add booking",
+        "booking calendar"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中tool: add booking, booking calendar"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "点名工具/可一句话说清交付"
+        },
+        {
+          "name": "一期",
+          "pass": true,
+          "reason": "可切 1–3 天可验收一期"
+        }
+      ],
+      "all_gates_pass": true,
+      "veto": null,
+      "recommend": true,
+      "recommend_note": "推荐投",
+      "budget_raw": "$250.0-750.0",
+      "score": 120.0,
+      "fetched_at": "2026-10-18 17:25:37 UTC+08:00",
+      "proposals_count": 295,
+      "bid_count": 295,
+      "votes": null
+    },
     {
       "id": "fl-40771845",
       "title": "BEDS24 OTA Integration Setup -- 3",
@@ -57,7 +103,7 @@
       "recommend_note": "推荐投",
       "budget_raw": "$30.0-250.0",
       "score": 120.0,
-      "fetched_at": "2026-10-18 16:41:53 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:37 UTC+08:00",
       "proposals_count": 119,
       "bid_count": 119,
       "votes": null
@@ -103,7 +149,7 @@
       "recommend_note": "推荐投",
       "budget_raw": "$2.0-8.0/hr",
       "score": 120.0,
-      "fetched_at": "2026-10-18 16:41:53 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:37 UTC+08:00",
       "proposals_count": 24,
       "bid_count": 24,
       "votes": null
@@ -149,7 +195,7 @@
       "recommend_note": "推荐投",
       "budget_raw": "₹12500.0-37500.0",
       "score": 120.0,
-      "fetched_at": "2026-10-18 16:41:53 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:37 UTC+08:00",
       "proposals_count": 60,
       "bid_count": 60,
       "votes": null
@@ -195,7 +241,7 @@
       "recommend_note": "推荐但预算极低，谨慎",
       "budget_raw": "₹750.0-1250.0/hr",
       "score": 120.0,
-      "fetched_at": "2026-10-18 16:41:53 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:37 UTC+08:00",
       "proposals_count": 53,
       "bid_count": 53,
       "votes": null
@@ -241,7 +287,7 @@
       "recommend_note": "推荐但预算极低，谨慎",
       "budget_raw": "₹1500.0-12500.0",
       "score": 120.0,
-      "fetched_at": "2026-10-18 16:41:53 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:37 UTC+08:00",
       "proposals_count": 47,
       "bid_count": 47,
       "votes": null
@@ -287,105 +333,15 @@
       "recommend_note": "推荐投",
       "budget_raw": "$30.0-250.0",
       "score": 120.0,
-      "fetched_at": "2026-10-18 16:41:53 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:37 UTC+08:00",
       "proposals_count": 338,
       "bid_count": 338,
       "votes": null
     },
     {
-      "id": "fl-40772493",
-      "title": "ActiveCampaign Lead Gen Funnel",
-      "url": "https://www.freelancer.com/projects/activecampaign/ActiveCampaign-Lead-Gen-Funnel",
-      "platform": "freelancer",
-      "status": "Open",
-      "is_open": true,
-      "track": "嵌入",
-      "keyword_tier": "phrase",
-      "keyword_hits": [
-        "add booking"
-      ],
-      "gates": [
-        {
-          "name": "关键词",
-          "pass": true,
-          "reason": "命中phrase: add booking"
-        },
-        {
-          "name": "预算",
-          "pass": true,
-          "reason": "有明确数字或区间"
-        },
-        {
-          "name": "清晰",
-          "pass": true,
-          "reason": "描述含可执行交付动词"
-        },
-        {
-          "name": "一期",
-          "pass": true,
-          "reason": "可切 1–3 天可验收一期"
-        }
-      ],
-      "all_gates_pass": true,
-      "veto": null,
-      "recommend": true,
-      "recommend_note": "推荐投",
-      "budget_raw": "$15.0-25.0/hr",
-      "score": 112.0,
-      "fetched_at": "2026-10-18 16:41:58 UTC+08:00",
-      "proposals_count": 106,
-      "bid_count": 106,
-      "votes": null
-    },
-    {
-      "id": "fl-40770791",
-      "title": "Build PLYR Sports Network App",
-      "url": "https://www.freelancer.com/projects/backend-development/Build-PLYR-Sports-Network-App",
-      "platform": "freelancer",
-      "status": "Open",
-      "is_open": true,
-      "track": "嵌入",
-      "keyword_tier": "phrase",
-      "keyword_hits": [
-        "add booking"
-      ],
-      "gates": [
-        {
-          "name": "关键词",
-          "pass": true,
-          "reason": "命中phrase: add booking"
-        },
-        {
-          "name": "预算",
-          "pass": true,
-          "reason": "有明确数字或区间"
-        },
-        {
-          "name": "清晰",
-          "pass": true,
-          "reason": "描述含可执行交付动词"
-        },
-        {
-          "name": "一期",
-          "pass": true,
-          "reason": "可切 1–3 天可验收一期"
-        }
-      ],
-      "all_gates_pass": true,
-      "veto": null,
-      "recommend": true,
-      "recommend_note": "推荐投",
-      "budget_raw": "₹10000.0-25000.0",
-      "score": 112.0,
-      "fetched_at": "2026-10-18 16:41:58 UTC+08:00",
-      "proposals_count": 103,
-      "bid_count": 103,
-      "votes": null
-    },
-    {
-      "id": "fl-40771056",
-      "title": "Globe Trek Travel App Development -- 2",
-      "url": "https://www.freelancer.com/projects/web-development/Globe-Trek-Travel-App-Development",
+      "id": "fl-40766176",
+      "title": "CricketKhata — Expense & Payment Tracker App",
+      "url": "https://www.freelancer.com/projects/full-stack-development/CricketKhata-Expense-Payment-Tracker-App",
       "platform": "freelancer",
       "status": "Open",
       "is_open": true,
@@ -422,15 +378,15 @@
       "recommend_note": "推荐投",
       "budget_raw": "₹12500.0-37500.0",
       "score": 112.0,
-      "fetched_at": "2026-10-18 16:41:58 UTC+08:00",
-      "proposals_count": 125,
-      "bid_count": 125,
+      "fetched_at": "2026-10-18 17:25:41 UTC+08:00",
+      "proposals_count": 88,
+      "bid_count": 88,
       "votes": null
     },
     {
-      "id": "fl-40772765",
-      "title": "Zenoti POS Setup for Spa",
-      "url": "https://www.freelancer.com/projects/pos-development/Zenoti-POS-Setup-for-Spa",
+      "id": "fl-40769495",
+      "title": "Elegant Restaurant Booking App",
+      "url": "https://www.freelancer.com/projects/web-development/Elegant-Restaurant-Booking-App",
       "platform": "freelancer",
       "status": "Open",
       "is_open": true,
@@ -465,30 +421,30 @@
       "veto": null,
       "recommend": true,
       "recommend_note": "推荐投",
-      "budget_raw": "$1500.0-3000.0",
+      "budget_raw": "₹12500.0-37500.0",
       "score": 112.0,
-      "fetched_at": "2026-10-18 16:41:58 UTC+08:00",
-      "proposals_count": 124,
-      "bid_count": 124,
+      "fetched_at": "2026-10-18 17:25:41 UTC+08:00",
+      "proposals_count": 177,
+      "bid_count": 177,
       "votes": null
     },
     {
-      "id": "fl-40772904",
-      "title": "AI Travel Copilot Development",
-      "url": "https://www.freelancer.com/projects/ai-chatbot/Travel-Copilot-Development",
+      "id": "fl-40770489",
+      "title": "Finish Madagascar Tour Booking Site",
+      "url": "https://www.freelancer.com/projects/payment-gateway-integration/Finish-Madagascar-Tour-Booking-Site",
       "platform": "freelancer",
       "status": "Open",
       "is_open": true,
       "track": "嵌入",
       "keyword_tier": "phrase",
       "keyword_hits": [
-        "online booking"
+        "add booking"
       ],
       "gates": [
         {
           "name": "关键词",
           "pass": true,
-          "reason": "命中phrase: online booking"
+          "reason": "命中phrase: add booking"
         },
         {
           "name": "预算",
@@ -502,19 +458,199 @@
         },
         {
           "name": "一期",
-          "pass": false,
-          "reason": "看不出可切的一期"
+          "pass": true,
+          "reason": "可切 1–3 天可验收一期"
         }
       ],
-      "all_gates_pass": false,
+      "all_gates_pass": true,
       "veto": null,
-      "recommend": false,
-      "recommend_note": "三关未过：一期:看不出可切的一期",
-      "budget_raw": "$250.0-750.0",
-      "score": 67.0,
-      "fetched_at": "2026-10-18 16:41:52 UTC+08:00",
-      "proposals_count": 293,
-      "bid_count": 293,
+      "recommend": true,
+      "recommend_note": "推荐投",
+      "budget_raw": "$30.0-250.0",
+      "score": 112.0,
+      "fetched_at": "2026-10-18 17:25:41 UTC+08:00",
+      "proposals_count": 422,
+      "bid_count": 422,
+      "votes": null
+    },
+    {
+      "id": "fl-40764743",
+      "title": "Hyper-local Pet Care Market Development",
+      "url": "https://www.freelancer.com/projects/business-development/Hyper-local-Pet-Care-Market",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "phrase",
+      "keyword_hits": [
+        "add booking"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中phrase: add booking"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": true,
+          "reason": "可切 1–3 天可验收一期"
+        }
+      ],
+      "all_gates_pass": true,
+      "veto": null,
+      "recommend": true,
+      "recommend_note": "推荐投",
+      "budget_raw": "₹12500.0-37500.0",
+      "score": 112.0,
+      "fetched_at": "2026-10-18 17:25:41 UTC+08:00",
+      "proposals_count": 52,
+      "bid_count": 52,
+      "votes": null
+    },
+    {
+      "id": "fl-40769987",
+      "title": "Instagram Outreach Specialist Needed",
+      "url": "https://www.freelancer.com/projects/social-media-management/Instagram-Outreach-Specialist-Needed",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "phrase",
+      "keyword_hits": [
+        "add booking"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中phrase: add booking"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": true,
+          "reason": "可切 1–3 天可验收一期"
+        }
+      ],
+      "all_gates_pass": true,
+      "veto": null,
+      "recommend": true,
+      "recommend_note": "推荐投",
+      "budget_raw": "$8.0-15.0/hr",
+      "score": 112.0,
+      "fetched_at": "2026-10-18 17:25:41 UTC+08:00",
+      "proposals_count": 59,
+      "bid_count": 59,
+      "votes": null
+    },
+    {
+      "id": "fl-40770210",
+      "title": "Manage 33 Units on TurboTenant",
+      "url": "https://www.freelancer.com/projects/property-management/Manage-Units-TurboTenant",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "phrase",
+      "keyword_hits": [
+        "add booking"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中phrase: add booking"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": true,
+          "reason": "可切 1–3 天可验收一期"
+        }
+      ],
+      "all_gates_pass": true,
+      "veto": null,
+      "recommend": true,
+      "recommend_note": "推荐投",
+      "budget_raw": "$8.0-15.0/hr",
+      "score": 112.0,
+      "fetched_at": "2026-10-18 17:25:41 UTC+08:00",
+      "proposals_count": 19,
+      "bid_count": 19,
+      "votes": null
+    },
+    {
+      "id": "fl-40763950",
+      "title": "SEO Optimisation & Customer Calls",
+      "url": "https://www.freelancer.com/projects/analytics/SEO-Optimisation-Customer-Calls",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "phrase",
+      "keyword_hits": [
+        "add booking"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中phrase: add booking"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": true,
+          "reason": "可切 1–3 天可验收一期"
+        }
+      ],
+      "all_gates_pass": true,
+      "veto": null,
+      "recommend": true,
+      "recommend_note": "推荐但预算极低，谨慎",
+      "budget_raw": "₹1500.0-12500.0",
+      "score": 112.0,
+      "fetched_at": "2026-10-18 17:25:41 UTC+08:00",
+      "proposals_count": 52,
+      "bid_count": 52,
       "votes": null
     },
     {
@@ -557,54 +693,9 @@
       "recommend_note": "三关未过：一期:看不出可切的一期",
       "budget_raw": "$250.0-750.0",
       "score": 67.0,
-      "fetched_at": "2026-10-18 16:41:52 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:35 UTC+08:00",
       "proposals_count": 11,
       "bid_count": 11,
-      "votes": null
-    },
-    {
-      "id": "fl-40769495",
-      "title": "Elegant Restaurant Booking App",
-      "url": "https://www.freelancer.com/projects/web-development/Elegant-Restaurant-Booking-App",
-      "platform": "freelancer",
-      "status": "Open",
-      "is_open": true,
-      "track": "嵌入",
-      "keyword_tier": "phrase",
-      "keyword_hits": [
-        "reservation form"
-      ],
-      "gates": [
-        {
-          "name": "关键词",
-          "pass": true,
-          "reason": "命中phrase: reservation form"
-        },
-        {
-          "name": "预算",
-          "pass": true,
-          "reason": "有明确数字或区间"
-        },
-        {
-          "name": "清晰",
-          "pass": true,
-          "reason": "描述含可执行交付动词"
-        },
-        {
-          "name": "一期",
-          "pass": false,
-          "reason": "看不出可切的一期"
-        }
-      ],
-      "all_gates_pass": false,
-      "veto": null,
-      "recommend": false,
-      "recommend_note": "三关未过：一期:看不出可切的一期",
-      "budget_raw": "₹12500.0-37500.0",
-      "score": 67.0,
-      "fetched_at": "2026-10-18 16:41:59 UTC+08:00",
-      "proposals_count": 177,
-      "bid_count": 177,
       "votes": null
     },
     {
@@ -647,7 +738,7 @@
       "recommend_note": "三关未过：一期:看不出可切的一期",
       "budget_raw": "$30.0-250.0",
       "score": 67.0,
-      "fetched_at": "2026-10-18 16:41:44 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:28 UTC+08:00",
       "proposals_count": 92,
       "bid_count": 92,
       "votes": null
@@ -692,7 +783,7 @@
       "recommend_note": "三关未过：一期:无限范围/整盘产品倾向",
       "budget_raw": "₹12500.0-37500.0",
       "score": 67.0,
-      "fetched_at": "2026-10-18 16:41:52 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:35 UTC+08:00",
       "proposals_count": 64,
       "bid_count": 64,
       "votes": null
@@ -737,9 +828,54 @@
       "recommend_note": "三关未过：一期:看不出可切的一期",
       "budget_raw": "₹600.0-1500.0",
       "score": 67.0,
-      "fetched_at": "2026-10-18 16:41:52 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:35 UTC+08:00",
       "proposals_count": 7,
       "bid_count": 7,
+      "votes": null
+    },
+    {
+      "id": "fl-40773989",
+      "title": "Lead Generation and Client Acquisition for Visitor Management App",
+      "url": "https://www.freelancer.com/projects/lead-generation/Lead-Generation-Client-Acquisition-for-40773989",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "嵌入",
+      "keyword_tier": "phrase",
+      "keyword_hits": [
+        "online booking"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": true,
+          "reason": "命中phrase: online booking"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "三关未过：一期:看不出可切的一期",
+      "budget_raw": "₹100.0-400.0/hr",
+      "score": 67.0,
+      "fetched_at": "2026-10-18 17:25:35 UTC+08:00",
+      "proposals_count": 1,
+      "bid_count": 1,
       "votes": null
     },
     {
@@ -782,7 +918,7 @@
       "recommend_note": "三关未过：一期:看不出可切的一期",
       "budget_raw": "£5.0-10.0/hr",
       "score": 67.0,
-      "fetched_at": "2026-10-18 16:41:59 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:43 UTC+08:00",
       "proposals_count": 6,
       "bid_count": 6,
       "votes": null
@@ -827,9 +963,9 @@
       "recommend_note": "三关未过：一期:看不出可切的一期",
       "budget_raw": "₹12500.0-37500.0",
       "score": 67.0,
-      "fetched_at": "2026-10-18 16:41:52 UTC+08:00",
-      "proposals_count": 26,
-      "bid_count": 26,
+      "fetched_at": "2026-10-18 17:25:35 UTC+08:00",
+      "proposals_count": 27,
+      "bid_count": 27,
       "votes": null
     },
     {
@@ -872,9 +1008,9 @@
       "recommend_note": "三关未过：一期:看不出可切的一期",
       "budget_raw": "₹12500.0-37500.0",
       "score": 67.0,
-      "fetched_at": "2026-10-18 16:41:52 UTC+08:00",
-      "proposals_count": 79,
-      "bid_count": 79,
+      "fetched_at": "2026-10-18 17:25:35 UTC+08:00",
+      "proposals_count": 82,
+      "bid_count": 82,
       "votes": null
     },
     {
@@ -917,52 +1053,9 @@
       "recommend_note": "三关未过：一期:看不出可切的一期",
       "budget_raw": "$30.0-250.0",
       "score": 67.0,
-      "fetched_at": "2026-10-18 16:41:52 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:35 UTC+08:00",
       "proposals_count": 84,
       "bid_count": 84,
-      "votes": null
-    },
-    {
-      "id": "fl-40769681",
-      "title": "Commission Sales for Sanitizer Towers",
-      "url": "https://www.freelancer.com/projects/sales/Commission-Sales-for-Sanitizer-Towers",
-      "platform": "freelancer",
-      "status": "Open",
-      "is_open": true,
-      "track": "未知",
-      "keyword_tier": "none",
-      "keyword_hits": [],
-      "gates": [
-        {
-          "name": "关键词",
-          "pass": false,
-          "reason": "未命中嵌入/加固词"
-        },
-        {
-          "name": "预算",
-          "pass": true,
-          "reason": "有明确数字或区间"
-        },
-        {
-          "name": "清晰",
-          "pass": false,
-          "reason": "需求糊（说不清交付物）"
-        },
-        {
-          "name": "一期",
-          "pass": false,
-          "reason": "看不出可切的一期"
-        }
-      ],
-      "all_gates_pass": false,
-      "veto": null,
-      "recommend": false,
-      "recommend_note": "关键词未过",
-      "budget_raw": "$10.0-30.0",
-      "score": 50.0,
-      "fetched_at": "2026-10-18 16:42:03 UTC+08:00",
-      "proposals_count": 4,
-      "bid_count": 4,
       "votes": null
     },
     {
@@ -1003,7 +1096,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$3000.0-5000.0",
       "score": 50.0,
-      "fetched_at": "2026-10-18 16:42:03 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:47 UTC+08:00",
       "proposals_count": 8,
       "bid_count": 8,
       "votes": null
@@ -1046,7 +1139,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "€12.0-18.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-10-18 16:42:03 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:47 UTC+08:00",
       "proposals_count": 8,
       "bid_count": 8,
       "votes": null
@@ -1089,7 +1182,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹120000.0-150000.0",
       "score": 50.0,
-      "fetched_at": "2026-10-18 16:41:50 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:34 UTC+08:00",
       "proposals_count": 59,
       "bid_count": 59,
       "votes": null
@@ -1132,9 +1225,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$20.0-30.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-10-18 16:42:03 UTC+08:00",
-      "proposals_count": 6,
-      "bid_count": 6,
+      "fetched_at": "2026-10-18 17:25:47 UTC+08:00",
+      "proposals_count": 10,
+      "bid_count": 10,
       "votes": null
     },
     {
@@ -1175,7 +1268,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹75000.0-150000.0",
       "score": 50.0,
-      "fetched_at": "2026-10-18 16:42:03 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:47 UTC+08:00",
       "proposals_count": 1,
       "bid_count": 1,
       "votes": null
@@ -1218,7 +1311,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹12500.0-37500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-18 16:42:03 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:47 UTC+08:00",
       "proposals_count": 3,
       "bid_count": 3,
       "votes": null
@@ -1261,9 +1354,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "€400.0-800.0",
       "score": 50.0,
-      "fetched_at": "2026-10-18 16:42:03 UTC+08:00",
-      "proposals_count": 32,
-      "bid_count": 32,
+      "fetched_at": "2026-10-18 17:25:47 UTC+08:00",
+      "proposals_count": 33,
+      "bid_count": 33,
       "votes": null
     },
     {
@@ -1304,7 +1397,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$30.0-250.0",
       "score": 50.0,
-      "fetched_at": "2026-10-18 16:41:46 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:30 UTC+08:00",
       "proposals_count": 9,
       "bid_count": 9,
       "votes": null
@@ -1347,7 +1440,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "€10000.0-20000.0",
       "score": 50.0,
-      "fetched_at": "2026-10-18 16:41:46 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:30 UTC+08:00",
       "proposals_count": 34,
       "bid_count": 34,
       "votes": null
@@ -1392,9 +1485,54 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$30.0-250.0",
       "score": 10.0,
-      "fetched_at": "2026-10-18 16:42:03 UTC+08:00",
+      "fetched_at": "2026-10-18 17:25:47 UTC+08:00",
       "proposals_count": 90,
       "bid_count": 90,
+      "votes": null
+    },
+    {
+      "id": "fl-40773229",
+      "title": "PRESTIA AI SaaS Platform Full-Stack Developer",
+      "url": "https://www.freelancer.com/projects/nextjs/PRESTIA-SaaS-Platform-Full-Stack",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "排除",
+      "keyword_tier": "generic_exclude",
+      "keyword_hits": [
+        "full-stack"
+      ],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": false,
+          "reason": "仅有泛职称词，已排除"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": false,
+          "reason": "需求糊（说不清交付物）"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "关键词未过",
+      "budget_raw": "$30.0-250.0",
+      "score": 10.0,
+      "fetched_at": "2026-10-18 17:25:47 UTC+08:00",
+      "proposals_count": 88,
+      "bid_count": 88,
       "votes": null
     }
   ]
