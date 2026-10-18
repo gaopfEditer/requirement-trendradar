@@ -2,8 +2,8 @@ name: Job Leads Ingest
 
 on:
   schedule:
-    # Every 5 hours UTC
-    - cron: "0 */5 * * *"
+    # Align with Demand Radar: every 4 hours UTC (≈ HKT 08/12/16/20/00/04)
+    - cron: "0 */4 * * *"
   workflow_dispatch:
 
 permissions:
@@ -31,10 +31,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Ingest job leads
+      # Default merges recommend=true jobs into opportunities.json so homepage stays in sync with jobs.html
+      - name: Ingest job leads + merge opportunity cards
         env:
           PYTHONPATH: ${{ github.workspace }}
-        run: python3 -m scripts.ingest_job_leads --no-merge-opportunities
+        run: python3 -m scripts.ingest_job_leads
 
       - name: Publish job_leads to public/data
         env:
@@ -45,7 +46,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/job_leads.json data/runs.json data/meta.json public/data/ || true
+          git add data/job_leads.json data/opportunities.json data/runs.json data/meta.json public/data/ || true
           if git diff --staged --quiet; then
             echo "No job lead changes to commit"
           else

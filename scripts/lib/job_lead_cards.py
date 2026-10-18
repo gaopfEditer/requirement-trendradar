@@ -24,6 +24,29 @@ COST = "人工提案与沟通【估】；本站不代投。"
 VERIFY = "打开外链核对 Open 与预算 → 用提案四件套投递 → 7 天内无回复则放弃。"
 
 
+def _normalize_job_lead_core(jid: str) -> str:
+    """Strip platform / card prefixes so IDs stay stable (no job-fl-fl-…)."""
+    core = str(jid or "").strip()
+    while True:
+        for prefix in ("job-fl-", "job-fv-", "fl-", "fv-"):
+            if core.startswith(prefix):
+                core = core[len(prefix) :]
+                break
+        else:
+            break
+    return core
+
+
+def opportunity_card_id(platform: str, jid: str) -> str:
+    core = _normalize_job_lead_core(jid)
+    prefix = "job-fl-" if platform == "freelancer" else "job-fv-"
+    return f"{prefix}{core}"
+
+
+def _is_job_lead_card_id(cid: str) -> bool:
+    return str(cid or "").startswith(("job-fl-", "job-fv-"))
+
+
 def _budget_usd_min(budget_raw: str) -> float | None:
     nums = re.findall(r"\$\s*([\d,]+(?:\.\d+)?)", budget_raw or "")
     if not nums:
@@ -36,12 +59,8 @@ def _budget_usd_min(budget_raw: str) -> float | None:
 
 def job_to_opportunity_card(job: dict[str, Any]) -> dict[str, Any]:
     platform = job.get("platform") or "freelancer"
-    prefix = "job-fl-" if platform == "freelancer" else "job-fv-"
     jid = str(job.get("id") or "")
-    if not jid.startswith(prefix):
-        cid = f"{prefix}{jid}"
-    else:
-        cid = jid
+    cid = opportunity_card_id(platform, jid)
 
     track_cn = job.get("track") or "未知"
     track = TRACK_EN.get(track_cn, track_cn)
@@ -104,14 +123,20 @@ def merge_recommended_into_opportunities() -> int:
     leads_doc = json.loads(JOB_LEADS_PATH.read_text(encoding="utf-8"))
     opp_doc = json.loads(OPPORTUNITIES_PATH.read_text(encoding="utf-8"))
     cards: list[dict] = list(opp_doc.get("cards") or [])
-    cards = [c for c in cards if not str(c.get("id", "")).startswith(("job-fl-", "job-fv-"))]
+    cards = [c for c in cards if not _is_job_lead_card_id(str(c.get("id", "")))]
     existing_ids = {c["id"] for c in cards}
     added = 0
+    updated = 0
     for job in leads_doc.get("jobs") or []:
         if not job.get("recommend"):
             continue
         card = job_to_opportunity_card(job)
         if card["id"] in existing_ids:
+            for i, old in enumerate(cards):
+                if old.get("id") == card["id"]:
+                    cards[i] = card
+                    updated += 1
+                    break
             continue
         cards.append(card)
         existing_ids.add(card["id"])

@@ -1,6 +1,18 @@
 {
   "runs": [
     {
+      "run_id": "20261018-180752-21564bd8",
+      "step": "publish_site",
+      "status": "success",
+      "started_at": "2026-10-18 18:07:52 UTC+08:00",
+      "ended_at": "2026-10-18 18:07:52 UTC+08:00",
+      "counts": {
+        "files": 7
+      },
+      "error": null,
+      "meta": {}
+    },
+    {
       "run_id": "20261018-172554-4c451f67",
       "step": "publish_site",
       "status": "success",
@@ -1580,5 +1592,5 @@
       }
     }
   ],
-  "last_updated": "2026-10-18 17:25:54 UTC+08:00"
+  "last_updated": "2026-10-18 18:07:52 UTC+08:00"
 }
