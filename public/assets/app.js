@@ -55,6 +55,9 @@ export async function renderSiteMetaBar() {
     if (meta.trends_demo_active) {
       html += ` · <span class="status-partial">Trends 为演示数据</span>`;
     }
+    if (meta.weekly_demo_active) {
+      html += ` · <span class="status-partial">周榜为 fixture/演示</span>`;
+    }
     if (meta.last_run_failed) {
       html += ` · <span class="status-fail">最近一次流水线失败（见 <a href="runs.html">Runs</a> / GitHub Actions）</span>`;
     }

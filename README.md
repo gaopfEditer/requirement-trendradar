@@ -43,6 +43,7 @@ python -m scripts.run_pipeline --csv-only  # 排行仅 CSV，跳过 PH
 
 - Workflow：`.github/workflows/daily-radar.yml`（显示名 **Demand Radar Pipeline**）
 - **每 4 小时**全流水线：cron `0 */4 * * *`（UTC，约香港 08/12/16/20/00/04 点）
+- **接单帖**单独 workflow：`.github/workflows/job-leads.yml`，同样 **每 4 小时**（`0 */4 * * *`），抓取后 **默认合并** `recommend=true` 到 `opportunities.json`，与首页机会卡保持同步
 - 额外 **周一 09:00 香港** 触发：`0 1 * * 1` UTC（与 4h 重叠时 concurrency 只跑一轮）
 - 手动触发：Actions → **Demand Radar Pipeline** → **Run workflow**（`demo` / `csv_only` 仍可用）
 - 并发：`demand-radar-pipeline` + `cancel-in-progress: true`（与 Pages 的 `pages` concurrency 分开）
@@ -57,7 +58,8 @@ python -m scripts.run_pipeline --csv-only  # 排行仅 CSV，跳过 PH
 | `updated_at` | 最近一次成功写出机会卡的时间，ISO `+08:00` |
 | `schedule` | `every_4h` |
 | `last_run_ok` / `last_run_failed` | 最近一次流水线步骤是否失败 |
-| `trends_demo_active` | 为 true 时首页显示「Trends 为演示数据」 |
+| `trends_demo_active` | 为 true 时首页/Trends 页显示「Trends 为演示数据」 |
+| `weekly_demo_active` | 为 true 时首页隐藏周榜区块（fixture/历史不足） |
 
 页眉文案 **数据更新于 …（香港）** 只读 `meta.json`，不用浏览器当前时间。
 

@@ -10,6 +10,7 @@ META_PATH = DATA_DIR / "meta.json"
 OPPORTUNITIES_PATH = DATA_DIR / "opportunities.json"
 JOB_LEADS_PATH = DATA_DIR / "job_leads.json"
 TRENDS_PATH = DATA_DIR / "trends_daily.json"
+WEEKLY_PATH = DATA_DIR / "weekly_movers.json"
 RUNS_PATH = DATA_DIR / "runs.json"
 
 
@@ -23,6 +24,7 @@ def build_meta() -> dict[str, Any]:
     opportunities = _read_json(OPPORTUNITIES_PATH)
     job_leads = _read_json(JOB_LEADS_PATH)
     trends = _read_json(TRENDS_PATH)
+    weekly = _read_json(WEEKLY_PATH)
     runs_doc = _read_json(RUNS_PATH)
     runs = runs_doc.get("runs") or []
     last_job_ingest = next((r for r in runs if r.get("step") == "ingest_job_leads"), None)
@@ -36,6 +38,7 @@ def build_meta() -> dict[str, Any]:
 
     trends_source = trends.get("trends_source", "unknown")
     trends_demo_active = trends_source == "demo" or bool(trends.get("trends_fallback_demo"))
+    weekly_demo_active = weekly.get("source") == "fixture" or bool(weekly.get("skipped"))
 
     return {
         "updated_at": updated_at,
@@ -46,6 +49,8 @@ def build_meta() -> dict[str, Any]:
         "timezone_label": "香港",
         "trends_source": trends_source,
         "trends_demo_active": trends_demo_active,
+        "weekly_demo_active": weekly_demo_active,
+        "weekly_source": weekly.get("source"),
         "published_at": hk_now_iso8601(),
         "opportunities_run_id": opportunities.get("run_id"),
         "job_leads_updated_at": parse_updated_at_to_iso(job_leads.get("updated_at"))

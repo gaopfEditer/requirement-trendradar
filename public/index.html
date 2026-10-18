@@ -21,7 +21,8 @@
     <div id="site-meta-bar" class="site-meta-bar">加载元数据…</div>
   </header>
   <main>
-    <p class="site-intro">这是内部用的海外需求雷达：用公开 API 抓取 Freelancer 开放帖（约每 4 小时刷新），经双轨三关筛选后进入推荐池，在「接单帖」页查看；另一边交叉 Google Trends 与排行变更，在首页看机会卡与周榜。先看 jobs 里「推荐 + Open」再人工投标；Trends 若标演示数据则只作灵感。本站不登录平台、不自动投标。</p>
+    <p class="site-intro">这是内部用的海外需求雷达：用公开 API 抓取 Freelancer 开放帖（与全站流水线同步，约每 4 小时刷新），经双轨三关筛选后进入推荐池，在「接单帖」页查看；另一边交叉 Google Trends 与排行变更，在首页看机会卡与周榜。先看 jobs 里「推荐 + Open」再人工投标；Trends/周榜若标演示数据则只作灵感，勿当实盘信号。本站不登录平台、不自动投标。</p>
+    <div id="weekly-demo-notice" class="demo-notice" hidden></div>
     <section class="weekly-section" id="weekly">
       <h2>本周增长最快 <span class="meta" id="weekly-label"></span></h2>
       <div class="weekly-tabs">
@@ -69,7 +70,19 @@
     await renderSiteMetaBar();
     initWeeklyTabs();
 
+    const siteMeta = await loadJson("meta.json");
+    const weeklyDemo = Boolean(siteMeta.weekly_demo_active);
+    if (weeklyDemo) {
+      const notice = document.getElementById("weekly-demo-notice");
+      notice.hidden = false;
+      notice.innerHTML =
+        "<strong>周榜演示数据</strong>：当前 weekly_movers 来自 fixture（历史不足或 Trends 演示期），" +
+        "下列「本周增长最快」已隐藏，请勿据此做接单决策；等 live Trends 满一周后自动恢复。";
+      document.getElementById("weekly").classList.add("is-demo-hidden");
+    }
+
     try {
+      if (weeklyDemo) throw new Error("weekly demo — skip render");
       const weekly = await loadJson("weekly_movers.json");
       document.getElementById("weekly-label").textContent =
         `· ${weekly.week || ""} · 生成 ${formatMetaDisplay(weekly.generated_at)}（香港）${weekly.source === "fixture" ? " · fixture" : ""}`;

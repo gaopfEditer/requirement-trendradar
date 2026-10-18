@@ -46,8 +46,13 @@
     import { loadJson, setActiveNav, renderSiteMetaBar } from "./assets/app.js";
     setActiveNav();
     await renderSiteMetaBar();
+    const siteMeta = await loadJson("meta.json");
     const doc = await loadJson("trends_daily.json");
-    document.getElementById("meta").textContent = `快照 ${doc.updated_at || ""} · ${(doc.items || []).length} 条 · run ${doc.run_id || ""}`;
+    let metaLine = `快照 ${doc.updated_at || ""} · ${(doc.items || []).length} 条 · run ${doc.run_id || ""}`;
+    if (siteMeta.trends_demo_active) {
+      metaLine += " · 【演示数据】当前非 live Google Trends，仅供界面/流程参考";
+    }
+    document.getElementById("meta").innerHTML = metaLine;
     const items = doc.items || [];
     const tracks = [...new Set(items.map((i) => i.track))].sort();
     const sel = document.getElementById("f-track");

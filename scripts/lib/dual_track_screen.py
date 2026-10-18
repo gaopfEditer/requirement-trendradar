@@ -32,7 +32,11 @@ from typing import Any, Iterable, Optional
 # 词表：点名工具 = 高权；泛职称 = 降权/排除
 # ---------------------------------------------------------------------------
 
+# Freelancer 投标数：超过则不再「推荐投」（仍保留在列表供人工查看）
+BID_COUNT_RECOMMEND_MAX = 99
+
 EMBED_TOOLS = [
+    "beds24",
     "calendly",
     "bookly",
     "amelia",
@@ -99,6 +103,29 @@ HARDEN_PHRASES = [
 ]
 
 # 泛泛职称/海投词：出现且无工具点名 → 降权；仅有这些 → 排除
+# 预约/日历领域语境（仅命中 EMBED_PHRASES 时需至少一条，避免搜索词污染）
+BOOKING_DOMAIN = re.compile(
+    r"\b("
+    r"appointment|reservation|schedul(?:e|ing)|calendar|booking\s+(?:system|engine|plugin|widget|page|form)|"
+    r"online\s+book|embed|widget|wordpress|woocommerce|salon|clinic|hotel|property|"
+    r"ota|channel\s+manager|availability|time\s*slot|"
+    r"beds24|calendly|bookly|acuity|setmore|simplybook|tidycal|square\s+appointments"
+    r")\b",
+    re.I,
+)
+
+# 与嵌入/预约交付无关的品类：无点名预约工具时排除
+UNRELATED_CATEGORY = re.compile(
+    r"\b("
+    r"lead\s+gen(?:eration)?|appointment\s+setting|cold\s+call|outreach|"
+    r"instagram\s+(?:outreach|marketing|growth)|seo\b|search\s+engine\s+optim|"
+    r"rental\s+boyfriend|boyfriend\s+rental|dating\s+app|life\s+coach|"
+    r"social\s+media\s+marketing|influencer|onlyfans|"
+    r"virtual\s+assistant\s+for\s+lead"
+    r")\b",
+    re.I,
+)
+
 GENERIC_DEMOTE = [
     "website developer",
     "web developer",
@@ -258,6 +285,16 @@ def _norm(text: str) -> str:
     return re.sub(r"\s+", " ", (text or "")).strip().lower()
 
 
+def _content_blob(job: dict[str, Any]) -> str:
+    """Title/description/skills only — 不用 search_keyword，避免检索词假命中。"""
+    parts = [
+        str(job.get("title") or ""),
+        str(job.get("description") or job.get("desc") or ""),
+        str(job.get("skills") or ""),
+    ]
+    return _norm(" ".join(parts))
+
+
 def _blob(job: dict[str, Any]) -> str:
     parts = [
         str(job.get("title") or ""),
@@ -282,49 +319,61 @@ def _status_info(job: dict[str, Any]) -> tuple[str, bool]:
 def classify_keywords(text: str) -> tuple[str, str, list[str]]:
     """Return (track, tier, hits). track: 嵌入/加固/未知/排除"""
     hits: list[str] = []
-    embed_score = 0
-    harden_score = 0
+    embed_tool_score = 0
+    embed_phrase_score = 0
+    harden_tool_score = 0
+    harden_phrase_score = 0
 
     for t in EMBED_TOOLS:
         if t in text:
             hits.append(t)
-            embed_score += 3
+            embed_tool_score += 3
     for p in EMBED_PHRASES:
         if p in text:
             hits.append(p)
-            embed_score += 2
+            embed_phrase_score += 2
 
     for t in HARDEN_TOOLS:
         if t in text:
             hits.append(t)
-            harden_score += 3
+            harden_tool_score += 3
     for p in HARDEN_PHRASES:
         if p in text:
             hits.append(p)
-            harden_score += 2
+            harden_phrase_score += 2
+
+    embed_score = embed_tool_score + embed_phrase_score
+    harden_score = harden_tool_score + harden_phrase_score
+    named_booking_tool = embed_tool_score >= 3
 
     generic_hits = [g for g in GENERIC_DEMOTE if g in text]
-    has_tool = embed_score >= 3 or harden_score >= 3
-    has_phrase = embed_score >= 2 or harden_score >= 2
+    has_tool = embed_tool_score >= 3 or harden_tool_score >= 3
+    has_phrase = (embed_phrase_score >= 2 or harden_phrase_score >= 2) and not has_tool
 
     if embed_score == 0 and harden_score == 0:
         if generic_hits:
             return "排除", "generic_exclude", generic_hits
         return "未知", "none", []
 
+    if UNRELATED_CATEGORY.search(text) and not named_booking_tool:
+        return "排除", "generic_exclude", hits + ["unrelated_category"]
+
+    if embed_phrase_score > 0 and embed_tool_score == 0 and not BOOKING_DOMAIN.search(text):
+        return "排除", "generic_exclude", hits + ["booking_context_missing"]
+
     if embed_score >= harden_score:
         track = "嵌入"
     else:
         track = "加固"
     # 双轨交界：两边都够工具分
-    if embed_score >= 3 and harden_score >= 3:
+    if embed_tool_score >= 3 and harden_tool_score >= 3:
         track = "加固" if harden_score > embed_score else "嵌入"
         if abs(embed_score - harden_score) <= 1:
             track = "加固+嵌入"
 
     if has_tool:
         tier = "tool"
-    elif has_phrase:
+    elif has_phrase or embed_phrase_score >= 2 or harden_phrase_score >= 2:
         tier = "phrase"
     else:
         tier = "none"
@@ -390,6 +439,28 @@ def gate_phase1(text: str) -> GateResult:
     return GateResult("一期", False, "看不出可切的一期")
 
 
+def _bid_count(job: dict[str, Any]) -> int | None:
+    for key in ("bid_count", "proposals_count"):
+        raw = job.get(key)
+        if raw is None:
+            continue
+        try:
+            return int(raw)
+        except (TypeError, ValueError):
+            continue
+    return None
+
+
+def gate_competition(bid_count: int | None) -> GateResult:
+    if bid_count is None:
+        return GateResult("竞争", True, "无公开投标数")
+    if bid_count >= BID_COUNT_RECOMMEND_MAX:
+        return GateResult("竞争", False, f"投标过多（{bid_count}≥{BID_COUNT_RECOMMEND_MAX + 1}）")
+    if bid_count >= 75:
+        return GateResult("竞争", True, f"投标偏多（{bid_count}），谨慎")
+    return GateResult("竞争", True, f"投标数 {bid_count}")
+
+
 def score_result(r: ScreenResult) -> float:
     s = 0.0
     if r.is_open:
@@ -420,6 +491,7 @@ def screen_job(job: dict[str, Any]) -> ScreenResult:
     platform = str(job.get("platform") or job.get("source") or "unknown")
     status, is_open = _status_info(job)
     text = _blob(job)
+    content_text = _content_blob(job)
     budget_raw = str(
         job.get("budget")
         or job.get("budget_raw")
@@ -430,8 +502,9 @@ def screen_job(job: dict[str, Any]) -> ScreenResult:
         )
     )
 
-    track, tier, hits = classify_keywords(text)
+    track, tier, hits = classify_keywords(content_text)
     veto = check_veto(text)
+    bid_n = _bid_count(job)
 
     gates: list[GateResult] = []
     if track == "排除" or tier == "generic_exclude":
@@ -445,8 +518,9 @@ def screen_job(job: dict[str, Any]) -> ScreenResult:
         gates.append(GateResult("关键词", False, "未命中嵌入/加固词"))
 
     gates.append(gate_budget(job, text))
-    gates.append(gate_clarity(text, tier))
-    gates.append(gate_phase1(text))
+    gates.append(gate_clarity(content_text, tier))
+    gates.append(gate_phase1(content_text))
+    gates.append(gate_competition(bid_n))
 
     # 关键词排除视作未过关
     content_gates = [g for g in gates if g.name != "关键词"]
