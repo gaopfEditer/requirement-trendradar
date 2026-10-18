@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-18 06:01:32 UTC+08:00",
+  "updated_at": "2026-10-18 11:39:59 UTC+08:00",
   "date_stamp": "20261018",
-  "run_id": "20261018-060132-993bae26",
+  "run_id": "20261018-113959-d760f45e",
   "items": [
     {
       "name": "Notion: Context for your agents",
@@ -9,111 +9,111 @@
       "source": "product_hunt",
       "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
-    },
-    {
-      "name": "Train with Pasta",
-      "url": "https://www.producthunt.com/products/train-with-pasta",
-      "source": "product_hunt",
-      "rank_now": 2,
-      "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
-    },
-    {
-      "name": "Parrot",
-      "url": "https://www.producthunt.com/products/parrot-10",
-      "source": "product_hunt",
-      "rank_now": 3,
-      "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
-    },
-    {
-      "name": "Korinotch",
-      "url": "https://www.producthunt.com/products/korinotch",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
-    },
-    {
-      "name": "Unfenced",
-      "url": "https://www.producthunt.com/products/unfenced",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
-    },
-    {
-      "name": "GPU Terminal by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
-    },
-    {
-      "name": "Spiralens",
-      "url": "https://www.producthunt.com/products/spiralens",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
-    },
-    {
-      "name": "Earnote",
-      "url": "https://www.producthunt.com/products/earnote",
-      "source": "product_hunt",
-      "rank_now": 8,
-      "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
-    },
-    {
-      "name": "Emochi",
-      "url": "https://www.producthunt.com/products/emochi-2",
-      "source": "product_hunt",
-      "rank_now": 9,
-      "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
       "name": "Caldera",
       "url": "https://www.producthunt.com/products/caldera",
       "source": "product_hunt",
-      "rank_now": 10,
+      "rank_now": 2,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
-      "name": "Craft Agents",
-      "url": "https://www.producthunt.com/products/craft-agents",
+      "name": "Earnote",
+      "url": "https://www.producthunt.com/products/earnote",
       "source": "product_hunt",
-      "rank_now": 11,
+      "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
+    },
+    {
+      "name": "Emochi",
+      "url": "https://www.producthunt.com/products/emochi-2",
+      "source": "product_hunt",
+      "rank_now": 4,
+      "category_tags": [],
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
       "name": "NitroStack",
       "url": "https://www.producthunt.com/products/nitrostack",
       "source": "product_hunt",
-      "rank_now": 12,
+      "rank_now": 5,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
+    },
+    {
+      "name": "Parrot",
+      "url": "https://www.producthunt.com/products/parrot-10",
+      "source": "product_hunt",
+      "rank_now": 6,
+      "category_tags": [],
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
+    },
+    {
+      "name": "Craft Agents",
+      "url": "https://www.producthunt.com/products/craft-agents",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "category_tags": [],
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
       "name": "Ultracite v8",
       "url": "https://www.producthunt.com/products/ultracite",
       "source": "product_hunt",
-      "rank_now": 13,
+      "rank_now": 8,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
+    },
+    {
+      "name": "Train with Pasta",
+      "url": "https://www.producthunt.com/products/train-with-pasta",
+      "source": "product_hunt",
+      "rank_now": 9,
+      "category_tags": [],
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
+    },
+    {
+      "name": "Unfenced",
+      "url": "https://www.producthunt.com/products/unfenced",
+      "source": "product_hunt",
+      "rank_now": 10,
+      "category_tags": [],
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
+    },
+    {
+      "name": "Spiralens",
+      "url": "https://www.producthunt.com/products/spiralens",
+      "source": "product_hunt",
+      "rank_now": 11,
+      "category_tags": [],
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
+    },
+    {
+      "name": "GPU Terminal by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
       "name": "LooGo",
       "url": "https://www.producthunt.com/products/loogo",
       "source": "product_hunt",
+      "rank_now": 13,
+      "category_tags": [],
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
+    },
+    {
+      "name": "Draper",
+      "url": "https://www.producthunt.com/products/draper",
+      "source": "product_hunt",
       "rank_now": 14,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
       "name": "CrewTower Mod for Claude Code",
@@ -121,7 +121,7 @@
       "source": "product_hunt",
       "rank_now": 15,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
       "name": "Salience",
@@ -129,15 +129,15 @@
       "source": "product_hunt",
       "rank_now": 16,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
-      "name": "Draper",
-      "url": "https://www.producthunt.com/products/draper",
+      "name": "Korinotch",
+      "url": "https://www.producthunt.com/products/korinotch",
       "source": "product_hunt",
       "rank_now": 17,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
       "name": "Step 5 Preview",
@@ -145,7 +145,7 @@
       "source": "product_hunt",
       "rank_now": 18,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
       "name": "Nudgebox",
@@ -153,95 +153,95 @@
       "source": "product_hunt",
       "rank_now": 19,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
+    },
+    {
+      "name": "NANI???",
+      "url": "https://www.producthunt.com/products/nani-2",
+      "source": "product_hunt",
+      "rank_now": 20,
+      "category_tags": [],
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
       "name": "Grablo Spot",
       "url": "https://www.producthunt.com/products/grablo-spot",
       "source": "product_hunt",
-      "rank_now": 20,
-      "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
-    },
-    {
-      "name": "Atelier",
-      "url": "https://www.producthunt.com/products/atelier-9",
-      "source": "product_hunt",
       "rank_now": 21,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
-      "name": "Scalebrowser",
-      "url": "https://www.producthunt.com/products/scalebrowser",
+      "name": "Mermaid",
+      "url": "https://www.producthunt.com/products/mermaid",
       "source": "product_hunt",
       "rank_now": 22,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
-      "name": "Tidy Design",
-      "url": "https://www.producthunt.com/products/tidy-design",
+      "name": "Firefox Enterprise",
+      "url": "https://www.producthunt.com/products/mozilla",
       "source": "product_hunt",
       "rank_now": 23,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
-      "name": "Muse Spark Open",
-      "url": "https://www.producthunt.com/products/muse-spark-open",
+      "name": "FinderGit",
+      "url": "https://www.producthunt.com/products/findergit",
       "source": "product_hunt",
       "rank_now": 24,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
-      "name": "GBrain Tools",
-      "url": "https://www.producthunt.com/products/gbrain",
+      "name": "Lovable Growth Tools",
+      "url": "https://www.producthunt.com/products/lovable",
       "source": "product_hunt",
       "rank_now": 25,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
-      "name": "iKnowMyMac",
-      "url": "https://www.producthunt.com/products/iknowmymac",
+      "name": "Memory Chess",
+      "url": "https://www.producthunt.com/products/memory-chess",
       "source": "product_hunt",
       "rank_now": 26,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
-      "name": "Sparrow",
-      "url": "https://www.producthunt.com/products/sparrow-10",
+      "name": "Harness by Autonomous",
+      "url": "https://www.producthunt.com/products/harness-by-autonomous",
       "source": "product_hunt",
       "rank_now": 27,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
-      "name": "Agent Vault",
-      "url": "https://www.producthunt.com/products/agent-vault-2",
+      "name": "Tetriz Harness",
+      "url": "https://www.producthunt.com/products/tetriz-harness",
       "source": "product_hunt",
       "rank_now": 28,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
-      "name": "Kalesh Judge",
-      "url": "https://www.producthunt.com/products/kalesh-judge",
+      "name": "Skisso",
+      "url": "https://www.producthunt.com/products/skisso-design-on-the-live-product",
       "source": "product_hunt",
       "rank_now": 29,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
-      "name": "Toad",
-      "url": "https://www.producthunt.com/products/toad-4",
+      "name": "Dottr",
+      "url": "https://www.producthunt.com/products/dottr",
       "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
       "name": "Manual SEO Tool",
@@ -252,7 +252,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     },
     {
       "name": "Workflow Copilot",
@@ -262,7 +262,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-10-18 06:01:32 UTC+08:00"
+      "fetched_at": "2026-10-18 11:39:59 UTC+08:00"
     }
   ],
   "errors": []
