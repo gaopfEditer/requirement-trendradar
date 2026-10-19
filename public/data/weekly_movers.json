@@ -1,192 +1,85 @@
 {
   "week": "2026-W43",
-  "generated_at": "2026-10-19T13:53:20+08:00",
-  "source": "computed",
+  "generated_at": "2026-10-19T17:43:00+08:00",
+  "source": "fixture",
   "timezone_label": "香港",
-  "keywords_top": [],
+  "keywords_top": [
+    {
+      "rank": 1,
+      "keyword": "make.com alternative",
+      "geo": "US",
+      "track": "自动化平台",
+      "interest_now": 28,
+      "interest_prev": 15,
+      "delta": 13,
+      "growth_score": 13,
+      "pay_intent_score": 3,
+      "slope_90d": "上升"
+    },
+    {
+      "rank": 2,
+      "keyword": "lovable",
+      "geo": "US",
+      "track": "AI 建站",
+      "interest_now": 68,
+      "interest_prev": 58,
+      "delta": 10,
+      "growth_score": 10,
+      "pay_intent_score": 2,
+      "slope_90d": "上升"
+    },
+    {
+      "rank": 3,
+      "keyword": "ai app audit",
+      "geo": "US",
+      "track": "AI 工具",
+      "interest_now": 42,
+      "interest_prev": 35,
+      "delta": 7,
+      "growth_score": 7,
+      "pay_intent_score": 3,
+      "slope_90d": "上升"
+    }
+  ],
   "apps_top": [
     {
-      "name": "shim-cli",
-      "url": "https://www.producthunt.com/products/shim-cli",
-      "source": "product_hunt",
-      "rank_now": 1,
-      "rank_prev": 15,
-      "rank_delta": -14,
-      "growth_score": 14,
-      "signal_note": "排名上升 14 位",
-      "new_entry": false,
-      "rank": 1
-    },
-    {
-      "name": "Gravity Notes",
-      "url": "https://www.producthunt.com/products/gravity-notes-for-mac",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "rank_prev": 14,
-      "rank_delta": -10,
-      "growth_score": 10,
-      "signal_note": "排名上升 10 位",
-      "new_entry": false,
-      "rank": 2
-    },
-    {
-      "name": "Bee Frontier and Bee Eclipse",
-      "url": "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse",
-      "source": "product_hunt",
-      "rank_now": 2,
-      "rank_prev": 10,
-      "rank_delta": -8,
-      "growth_score": 8,
-      "signal_note": "排名上升 8 位",
-      "new_entry": false,
-      "rank": 3
-    },
-    {
-      "name": "Vampire Crawlers™",
-      "url": "https://www.producthunt.com/products/vampire-crawlers",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "rank_prev": 12,
-      "rank_delta": -7,
-      "growth_score": 7,
-      "signal_note": "排名上升 7 位",
-      "new_entry": false,
-      "rank": 4
-    },
-    {
-      "name": "NitroStack",
-      "url": "https://www.producthunt.com/products/nitrostack",
-      "source": "product_hunt",
-      "rank_now": 21,
-      "rank_prev": 28,
-      "rank_delta": -7,
-      "growth_score": 7,
-      "signal_note": "排名上升 7 位",
-      "new_entry": false,
-      "rank": 5
-    },
-    {
-      "name": "Inbox Zero",
-      "url": "https://www.producthunt.com/products/inbox-zero-2",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "rank_prev": 13,
-      "rank_delta": -6,
-      "growth_score": 6,
-      "signal_note": "排名上升 6 位",
-      "new_entry": false,
-      "rank": 6
-    },
-    {
-      "name": "Caldera",
-      "url": "https://www.producthunt.com/products/caldera",
-      "source": "product_hunt",
-      "rank_now": 24,
-      "rank_prev": 30,
-      "rank_delta": -6,
-      "growth_score": 6,
-      "signal_note": "排名上升 6 位",
-      "new_entry": false,
-      "rank": 7
-    },
-    {
-      "name": "Popcraft",
-      "url": "https://www.producthunt.com/products/popcraft",
-      "source": "product_hunt",
-      "rank_now": 11,
-      "rank_prev": 16,
-      "rank_delta": -5,
-      "growth_score": 5,
-      "signal_note": "排名上升 5 位",
-      "new_entry": false,
-      "rank": 8
-    },
-    {
-      "name": "Notion: Context for your agents",
-      "url": "https://www.producthunt.com/products/notion",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "rank_prev": 27,
-      "rank_delta": -5,
-      "growth_score": 5,
-      "signal_note": "排名上升 5 位",
-      "new_entry": false,
-      "rank": 9
-    },
-    {
-      "name": "MeetPaw",
-      "url": "https://www.producthunt.com/products/meetpaw",
+      "rank": 1,
+      "name": "Lovable",
+      "url": "https://www.producthunt.com/products/lovable",
       "source": "product_hunt",
       "rank_now": 3,
-      "rank_prev": 7,
-      "rank_delta": -4,
-      "growth_score": 4,
-      "signal_note": "排名上升 4 位",
-      "new_entry": false,
-      "rank": 10
+      "rank_prev": 12,
+      "rank_delta": -9,
+      "growth_score": 9,
+      "signal_note": "排名上升 9 位",
+      "new_entry": false
+    },
+    {
+      "rank": 2,
+      "name": "n8n",
+      "url": "https://www.producthunt.com/products/n8n",
+      "source": "product_hunt",
+      "rank_now": 8,
+      "rank_prev": 14,
+      "rank_delta": -6,
+      "growth_score": 6,
+      "signal_note": "排名上升 6 位",
+      "new_entry": false
     }
   ],
   "new_entries": [
     {
-      "name": "Step 5 Preview",
-      "url": "https://www.producthunt.com/products/step-3-5-flash",
+      "rank": 1,
+      "name": "SuperLocalMemory",
+      "url": "https://www.producthunt.com/products/superlocalmemory-v2",
       "source": "product_hunt",
-      "rank_now": 18,
+      "rank_now": 1,
       "rank_prev": null,
       "rank_delta": null,
       "growth_score": null,
       "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 1
-    },
-    {
-      "name": "LooGo",
-      "url": "https://www.producthunt.com/products/loogo",
-      "source": "product_hunt",
-      "rank_now": 26,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 2
-    },
-    {
-      "name": "Korinotch",
-      "url": "https://www.producthunt.com/products/korinotch",
-      "source": "product_hunt",
-      "rank_now": 28,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 3
-    },
-    {
-      "name": "CrewTower Mod for Claude Code",
-      "url": "https://www.producthunt.com/products/crew-tower",
-      "source": "product_hunt",
-      "rank_now": 29,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 4
-    },
-    {
-      "name": "GPU Terminal by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "source": "product_hunt",
-      "rank_now": 30,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 5
+      "new_entry": true
     }
   ],
-  "skipped": null
+  "skipped": "insufficient_history"
 }

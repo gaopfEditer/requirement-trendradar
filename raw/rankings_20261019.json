@@ -1,247 +1,247 @@
 {
-  "run_id": "20261019-135253-3e076874",
-  "fetched_at": "2026-10-19 13:52:53 UTC+08:00",
+  "run_id": "20261019-174233-0a7323b7",
+  "fetched_at": "2026-10-19 17:42:33 UTC+08:00",
   "source_version": "producthunt-atom-feed-v1",
   "items": [
     {
-      "name": "shim-cli",
-      "url": "https://www.producthunt.com/products/shim-cli",
+      "name": "Triwarden",
+      "url": "https://www.producthunt.com/products/triwarden",
       "source": "product_hunt",
       "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
     },
     {
-      "name": "Bee Frontier and Bee Eclipse",
-      "url": "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse",
+      "name": "buddylist",
+      "url": "https://www.producthunt.com/products/buddylist-2",
       "source": "product_hunt",
       "rank_now": 2,
       "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
     },
     {
-      "name": "MeetPaw",
-      "url": "https://www.producthunt.com/products/meetpaw",
+      "name": "Beam.win",
+      "url": "https://www.producthunt.com/products/beam-win",
       "source": "product_hunt",
       "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
     },
     {
-      "name": "Gravity Notes",
-      "url": "https://www.producthunt.com/products/gravity-notes-for-mac",
+      "name": "Point and Yap",
+      "url": "https://www.producthunt.com/products/point-and-yap",
       "source": "product_hunt",
       "rank_now": 4,
       "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
     },
     {
-      "name": "Vampire Crawlers™",
-      "url": "https://www.producthunt.com/products/vampire-crawlers",
+      "name": "Rusteerio by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
       "source": "product_hunt",
       "rank_now": 5,
       "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
     },
     {
-      "name": "Krea 3",
-      "url": "https://www.producthunt.com/products/krea",
+      "name": "Lancetta",
+      "url": "https://www.producthunt.com/products/lancetta",
       "source": "product_hunt",
       "rank_now": 6,
       "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
     },
     {
-      "name": "Inbox Zero",
-      "url": "https://www.producthunt.com/products/inbox-zero-2",
+      "name": "walkai-talkai",
+      "url": "https://www.producthunt.com/products/walkai-talkai",
       "source": "product_hunt",
       "rank_now": 7,
       "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
     },
     {
-      "name": "MyLens",
-      "url": "https://www.producthunt.com/products/mylens-ai",
+      "name": "readywhen",
+      "url": "https://www.producthunt.com/products/readywhen",
       "source": "product_hunt",
       "rank_now": 8,
       "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
     },
     {
-      "name": "SpeechFast",
-      "url": "https://www.producthunt.com/products/speechfast",
+      "name": "Lookout (for Slack)",
+      "url": "https://www.producthunt.com/products/lookout-for-slack",
       "source": "product_hunt",
       "rank_now": 9,
       "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "Wally by Willow",
+      "url": "https://www.producthunt.com/products/willow-voice",
+      "source": "product_hunt",
+      "rank_now": 10,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "DoOne",
+      "url": "https://www.producthunt.com/products/doone-focus-tasks-with-integration",
+      "source": "product_hunt",
+      "rank_now": 11,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "Beam",
+      "url": "https://www.producthunt.com/products/beam-13",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "Framefields",
+      "url": "https://www.producthunt.com/products/framefields",
+      "source": "product_hunt",
+      "rank_now": 13,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "Umbra Mail",
+      "url": "https://www.producthunt.com/products/umbra-mail",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "Starkomand",
+      "url": "https://www.producthunt.com/products/starkomand",
+      "source": "product_hunt",
+      "rank_now": 15,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "Switch Lab",
+      "url": "https://www.producthunt.com/products/switch-lab",
+      "source": "product_hunt",
+      "rank_now": 16,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "Own 1",
+      "url": "https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
+      "source": "product_hunt",
+      "rank_now": 17,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "croft",
+      "url": "https://www.producthunt.com/products/croft-2",
+      "source": "product_hunt",
+      "rank_now": 18,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "face2social",
+      "url": "https://www.producthunt.com/products/face2social",
+      "source": "product_hunt",
+      "rank_now": 19,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "AutoChart.eu",
+      "url": "https://www.producthunt.com/products/autochart-eu",
+      "source": "product_hunt",
+      "rank_now": 20,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "Tori",
+      "url": "https://www.producthunt.com/products/tori-3",
+      "source": "product_hunt",
+      "rank_now": 21,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "CrawlForge MCP",
+      "url": "https://www.producthunt.com/products/crawlforge-mcp",
+      "source": "product_hunt",
+      "rank_now": 22,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "Kai Resolve by Gleap",
+      "url": "https://www.producthunt.com/products/gleap",
+      "source": "product_hunt",
+      "rank_now": 23,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "Quello",
+      "url": "https://www.producthunt.com/products/quello",
+      "source": "product_hunt",
+      "rank_now": 24,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "Planet-X",
+      "url": "https://www.producthunt.com/products/planet-x",
+      "source": "product_hunt",
+      "rank_now": 25,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "CoolDock",
+      "url": "https://www.producthunt.com/products/cooldock-2",
+      "source": "product_hunt",
+      "rank_now": 26,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "Figma Specs",
+      "url": "https://www.producthunt.com/products/figma",
+      "source": "product_hunt",
+      "rank_now": 27,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+    },
+    {
+      "name": "Lazy AWS",
+      "url": "https://www.producthunt.com/products/lazy-aws-your-cloud-your-terminal",
+      "source": "product_hunt",
+      "rank_now": 28,
+      "category_tags": [],
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
     },
     {
       "name": "Openbroca",
       "url": "https://www.producthunt.com/products/openbroca",
       "source": "product_hunt",
-      "rank_now": 10,
+      "rank_now": 29,
       "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "Popcraft",
-      "url": "https://www.producthunt.com/products/popcraft",
-      "source": "product_hunt",
-      "rank_now": 11,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "3AM Super Intelligence",
-      "url": "https://www.producthunt.com/products/3am-super-intelligence",
-      "source": "product_hunt",
-      "rank_now": 12,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
     },
     {
       "name": "Latch",
       "url": "https://www.producthunt.com/products/latch-7",
       "source": "product_hunt",
-      "rank_now": 13,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "Tower 18 for Mac",
-      "url": "https://www.producthunt.com/products/tower",
-      "source": "product_hunt",
-      "rank_now": 14,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "XBOX Nano Controller",
-      "url": "https://www.producthunt.com/products/microsoft-xbox-series-s",
-      "source": "product_hunt",
-      "rank_now": 15,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "PasteKit",
-      "url": "https://www.producthunt.com/products/pastekit-2",
-      "source": "product_hunt",
-      "rank_now": 16,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "Tomo for ChatGPT",
-      "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-      "source": "product_hunt",
-      "rank_now": 17,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "Step 5 Preview",
-      "url": "https://www.producthunt.com/products/step-3-5-flash",
-      "source": "product_hunt",
-      "rank_now": 18,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "Parrot",
-      "url": "https://www.producthunt.com/products/parrot-10",
-      "source": "product_hunt",
-      "rank_now": 19,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "Unfenced",
-      "url": "https://www.producthunt.com/products/unfenced",
-      "source": "product_hunt",
-      "rank_now": 20,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "NitroStack",
-      "url": "https://www.producthunt.com/products/nitrostack",
-      "source": "product_hunt",
-      "rank_now": 21,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "Notion: Context for your agents",
-      "url": "https://www.producthunt.com/products/notion",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "Train with Pasta",
-      "url": "https://www.producthunt.com/products/train-with-pasta",
-      "source": "product_hunt",
-      "rank_now": 23,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "Caldera",
-      "url": "https://www.producthunt.com/products/caldera",
-      "source": "product_hunt",
-      "rank_now": 24,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "Earnote",
-      "url": "https://www.producthunt.com/products/earnote",
-      "source": "product_hunt",
-      "rank_now": 25,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "LooGo",
-      "url": "https://www.producthunt.com/products/loogo",
-      "source": "product_hunt",
-      "rank_now": 26,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "Craft Agents",
-      "url": "https://www.producthunt.com/products/craft-agents",
-      "source": "product_hunt",
-      "rank_now": 27,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "Korinotch",
-      "url": "https://www.producthunt.com/products/korinotch",
-      "source": "product_hunt",
-      "rank_now": 28,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "CrewTower Mod for Claude Code",
-      "url": "https://www.producthunt.com/products/crew-tower",
-      "source": "product_hunt",
-      "rank_now": 29,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
-    },
-    {
-      "name": "GPU Terminal by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
     },
     {
       "name": "Manual SEO Tool",
@@ -252,7 +252,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
     },
     {
       "name": "Workflow Copilot",
@@ -262,7 +262,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-10-19 13:52:53 UTC+08:00"
+      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
     }
   ],
   "errors": []
