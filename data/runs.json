@@ -1,6 +1,130 @@
 {
   "runs": [
     {
+      "run_id": "20261019-115029-f8308728",
+      "step": "publish_site",
+      "status": "success",
+      "started_at": "2026-10-19 11:50:29 UTC+08:00",
+      "ended_at": "2026-10-19 11:50:29 UTC+08:00",
+      "counts": {
+        "files": 7
+      },
+      "error": null,
+      "meta": {}
+    },
+    {
+      "run_id": "20261019-115029-8d85a3b3",
+      "step": "build_weekly_movers",
+      "status": "success",
+      "started_at": "2026-10-19 11:50:29 UTC+08:00",
+      "ended_at": "2026-10-19 11:50:29 UTC+08:00",
+      "counts": {
+        "keywords": 0,
+        "apps": 10,
+        "new_entries": 4
+      },
+      "error": null,
+      "meta": {
+        "source": "computed",
+        "week": "2026-W43"
+      }
+    },
+    {
+      "run_id": "20261019-115029-271fc6f9",
+      "step": "build_opportunity_cards",
+      "status": "success",
+      "started_at": "2026-10-19 11:50:29 UTC+08:00",
+      "ended_at": "2026-10-19 11:50:29 UTC+08:00",
+      "counts": {
+        "cards": 56,
+        "job_leads_merged": 0
+      },
+      "error": null,
+      "meta": {}
+    },
+    {
+      "run_id": "20261019-115003-7db7f179",
+      "step": "ingest_job_leads",
+      "status": "success",
+      "started_at": "2026-10-19 11:50:03 UTC+08:00",
+      "ended_at": "2026-10-19 11:50:29 UTC+08:00",
+      "counts": {
+        "jobs": 29,
+        "recommend": 0,
+        "freelancer_raw": 29,
+        "opportunity_merged": 0
+      },
+      "error": null,
+      "meta": {
+        "fiverr_skipped": true,
+        "fiverr_reason": "HTTP 403 login/bot wall at https://www.fiverr.com/buyer_requests"
+      }
+    },
+    {
+      "run_id": "20261019-115003-2371cf73",
+      "step": "ingest_rankings",
+      "status": "success",
+      "started_at": "2026-10-19 11:50:03 UTC+08:00",
+      "ended_at": "2026-10-19 11:50:03 UTC+08:00",
+      "counts": {
+        "items": 32,
+        "delta": 36
+      },
+      "error": null,
+      "meta": {
+        "source": "product_hunt+csv",
+        "version": "producthunt-atom-feed-v1",
+        "used_csv": true,
+        "ph_failed": false
+      }
+    },
+    {
+      "run_id": "20261019-115003-4177faea",
+      "step": "ingest_trends",
+      "status": "partial",
+      "started_at": "2026-10-19 11:50:03 UTC+08:00",
+      "ended_at": "2026-10-19 11:50:03 UTC+08:00",
+      "counts": {},
+      "error": "Live Trends unavailable; used fixtures",
+      "meta": {
+        "source": "demo",
+        "trends_fallback_demo": true,
+        "note": "live Google Trends failed"
+      }
+    },
+    {
+      "run_id": "20261019-115003-1d2c9d63",
+      "step": "ingest_trends",
+      "status": "success",
+      "started_at": "2026-10-19 11:50:03 UTC+08:00",
+      "ended_at": "2026-10-19 11:50:03 UTC+08:00",
+      "counts": {
+        "items": 5,
+        "errors": 0,
+        "geos": 1
+      },
+      "error": null,
+      "meta": {
+        "source": "demo",
+        "version": "pytrends-4.9"
+      }
+    },
+    {
+      "run_id": "20261019-114946-2a057922",
+      "step": "ingest_trends",
+      "status": "failed",
+      "started_at": "2026-10-19 11:49:46 UTC+08:00",
+      "ended_at": "2026-10-19 11:50:03 UTC+08:00",
+      "counts": {
+        "items": 0
+      },
+      "error": "salon website online booking@US: The request failed: Google returned a response with code 400; dental website with online scheduling@US: The request failed: Google returned a response with code 400; barbershop website appointment booking@US: The request failed: Google returned a response with code 400; spa website book now button@US: The request failed: Google returned a response with code 400; clinic website patient booking@US: The request failed: Google returned a response with code 400",
+      "meta": {
+        "source": "pytrends",
+        "version": "pytrends-4.9"
+      }
+    },
+    {
       "run_id": "20261019-102727-86a4909b",
       "step": "publish_site",
       "status": "success",
@@ -2084,5 +2208,5 @@
       }
     }
   ],
-  "last_updated": "2026-10-19 10:27:27 UTC+08:00"
+  "last_updated": "2026-10-19 11:50:29 UTC+08:00"
 }
