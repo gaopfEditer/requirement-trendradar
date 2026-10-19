@@ -1,8 +1,9 @@
 {
-  "week": "2026-W43",
-  "generated_at": "2026-10-19T17:43:00+08:00",
+  "week": "2026-W42",
+  "generated_at": "2026-10-16T09:00:00+08:00",
   "source": "fixture",
   "timezone_label": "香港",
+  "skipped": "insufficient_history",
   "keywords_top": [
     {
       "rank": 1,
@@ -80,6 +81,5 @@
       "signal_note": "新进榜",
       "new_entry": true
     }
-  ],
-  "skipped": "insufficient_history"
+  ]
 }

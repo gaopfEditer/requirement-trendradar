@@ -1,127 +1,127 @@
 {
-  "updated_at": "2026-10-19 17:42:33 UTC+08:00",
-  "date_stamp": "20261019",
-  "run_id": "20261019-174233-0a7323b7",
+  "updated_at": "2026-10-20 02:30:35 UTC+08:00",
+  "date_stamp": "20261020",
+  "run_id": "20261020-023035-10dbf48b",
   "items": [
-    {
-      "name": "Triwarden",
-      "url": "https://www.producthunt.com/products/triwarden",
-      "source": "product_hunt",
-      "rank_now": 1,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
-    },
-    {
-      "name": "buddylist",
-      "url": "https://www.producthunt.com/products/buddylist-2",
-      "source": "product_hunt",
-      "rank_now": 2,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
-    },
-    {
-      "name": "Beam.win",
-      "url": "https://www.producthunt.com/products/beam-win",
-      "source": "product_hunt",
-      "rank_now": 3,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
-    },
-    {
-      "name": "Point and Yap",
-      "url": "https://www.producthunt.com/products/point-and-yap",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
-    },
-    {
-      "name": "Rusteerio by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
-    },
-    {
-      "name": "Lancetta",
-      "url": "https://www.producthunt.com/products/lancetta",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
-    },
-    {
-      "name": "walkai-talkai",
-      "url": "https://www.producthunt.com/products/walkai-talkai",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
-    },
-    {
-      "name": "readywhen",
-      "url": "https://www.producthunt.com/products/readywhen",
-      "source": "product_hunt",
-      "rank_now": 8,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
-    },
     {
       "name": "Lookout (for Slack)",
       "url": "https://www.producthunt.com/products/lookout-for-slack",
       "source": "product_hunt",
-      "rank_now": 9,
+      "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
     },
     {
-      "name": "Wally by Willow",
-      "url": "https://www.producthunt.com/products/willow-voice",
+      "name": "CoolDock",
+      "url": "https://www.producthunt.com/products/cooldock-2",
       "source": "product_hunt",
-      "rank_now": 10,
+      "rank_now": 2,
       "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
     },
     {
-      "name": "DoOne",
-      "url": "https://www.producthunt.com/products/doone-focus-tasks-with-integration",
+      "name": "Planet-X",
+      "url": "https://www.producthunt.com/products/planet-x",
       "source": "product_hunt",
-      "rank_now": 11,
+      "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
-    },
-    {
-      "name": "Beam",
-      "url": "https://www.producthunt.com/products/beam-13",
-      "source": "product_hunt",
-      "rank_now": 12,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
-    },
-    {
-      "name": "Framefields",
-      "url": "https://www.producthunt.com/products/framefields",
-      "source": "product_hunt",
-      "rank_now": 13,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
-    },
-    {
-      "name": "Umbra Mail",
-      "url": "https://www.producthunt.com/products/umbra-mail",
-      "source": "product_hunt",
-      "rank_now": 14,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
     },
     {
       "name": "Starkomand",
       "url": "https://www.producthunt.com/products/starkomand",
       "source": "product_hunt",
+      "rank_now": 4,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
+    },
+    {
+      "name": "Beam.win",
+      "url": "https://www.producthunt.com/products/beam-win",
+      "source": "product_hunt",
+      "rank_now": 5,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
+    },
+    {
+      "name": "readywhen",
+      "url": "https://www.producthunt.com/products/readywhen",
+      "source": "product_hunt",
+      "rank_now": 6,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
+    },
+    {
+      "name": "Framefields",
+      "url": "https://www.producthunt.com/products/framefields",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
+    },
+    {
+      "name": "Figma Specs",
+      "url": "https://www.producthunt.com/products/figma",
+      "source": "product_hunt",
+      "rank_now": 8,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
+    },
+    {
+      "name": "Quello",
+      "url": "https://www.producthunt.com/products/quello",
+      "source": "product_hunt",
+      "rank_now": 9,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
+    },
+    {
+      "name": "Own 1",
+      "url": "https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
+      "source": "product_hunt",
+      "rank_now": 10,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
+    },
+    {
+      "name": "Rusteerio by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "source": "product_hunt",
+      "rank_now": 11,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
+    },
+    {
+      "name": "DoOne",
+      "url": "https://www.producthunt.com/products/doone-focus-tasks-with-integration",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
+    },
+    {
+      "name": "CrawlForge MCP",
+      "url": "https://www.producthunt.com/products/crawlforge-mcp",
+      "source": "product_hunt",
+      "rank_now": 13,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
+    },
+    {
+      "name": "Triwarden",
+      "url": "https://www.producthunt.com/products/triwarden",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
+    },
+    {
+      "name": "Lancetta",
+      "url": "https://www.producthunt.com/products/lancetta",
+      "source": "product_hunt",
       "rank_now": 15,
       "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
     },
     {
       "name": "Switch Lab",
@@ -129,119 +129,119 @@
       "source": "product_hunt",
       "rank_now": 16,
       "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
     },
     {
-      "name": "Own 1",
-      "url": "https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
+      "name": "buddylist",
+      "url": "https://www.producthunt.com/products/buddylist-2",
       "source": "product_hunt",
       "rank_now": 17,
       "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
     },
     {
-      "name": "croft",
-      "url": "https://www.producthunt.com/products/croft-2",
+      "name": "Wally by Willow",
+      "url": "https://www.producthunt.com/products/willow-voice",
       "source": "product_hunt",
       "rank_now": 18,
       "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
     },
     {
-      "name": "face2social",
-      "url": "https://www.producthunt.com/products/face2social",
+      "name": "walkai-talkai",
+      "url": "https://www.producthunt.com/products/walkai-talkai",
       "source": "product_hunt",
       "rank_now": 19,
       "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
-    },
-    {
-      "name": "AutoChart.eu",
-      "url": "https://www.producthunt.com/products/autochart-eu",
-      "source": "product_hunt",
-      "rank_now": 20,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
-    },
-    {
-      "name": "Tori",
-      "url": "https://www.producthunt.com/products/tori-3",
-      "source": "product_hunt",
-      "rank_now": 21,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
-    },
-    {
-      "name": "CrawlForge MCP",
-      "url": "https://www.producthunt.com/products/crawlforge-mcp",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
     },
     {
       "name": "Kai Resolve by Gleap",
       "url": "https://www.producthunt.com/products/gleap",
       "source": "product_hunt",
-      "rank_now": 23,
+      "rank_now": 20,
       "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
     },
     {
-      "name": "Quello",
-      "url": "https://www.producthunt.com/products/quello",
+      "name": "Beam",
+      "url": "https://www.producthunt.com/products/beam-13",
+      "source": "product_hunt",
+      "rank_now": 21,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
+    },
+    {
+      "name": "Umbra Mail",
+      "url": "https://www.producthunt.com/products/umbra-mail",
+      "source": "product_hunt",
+      "rank_now": 22,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
+    },
+    {
+      "name": "AutoChart.eu",
+      "url": "https://www.producthunt.com/products/autochart-eu",
+      "source": "product_hunt",
+      "rank_now": 23,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
+    },
+    {
+      "name": "Point and Yap",
+      "url": "https://www.producthunt.com/products/point-and-yap",
       "source": "product_hunt",
       "rank_now": 24,
       "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
-    },
-    {
-      "name": "Planet-X",
-      "url": "https://www.producthunt.com/products/planet-x",
-      "source": "product_hunt",
-      "rank_now": 25,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
-    },
-    {
-      "name": "CoolDock",
-      "url": "https://www.producthunt.com/products/cooldock-2",
-      "source": "product_hunt",
-      "rank_now": 26,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
-    },
-    {
-      "name": "Figma Specs",
-      "url": "https://www.producthunt.com/products/figma",
-      "source": "product_hunt",
-      "rank_now": 27,
-      "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
     },
     {
       "name": "Lazy AWS",
       "url": "https://www.producthunt.com/products/lazy-aws-your-cloud-your-terminal",
       "source": "product_hunt",
-      "rank_now": 28,
+      "rank_now": 25,
       "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
     },
     {
-      "name": "Openbroca",
-      "url": "https://www.producthunt.com/products/openbroca",
+      "name": "Tori",
+      "url": "https://www.producthunt.com/products/tori-3",
+      "source": "product_hunt",
+      "rank_now": 26,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
+    },
+    {
+      "name": "croft",
+      "url": "https://www.producthunt.com/products/croft-2",
+      "source": "product_hunt",
+      "rank_now": 27,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
+    },
+    {
+      "name": "XBOX Nano Controller",
+      "url": "https://www.producthunt.com/products/microsoft-xbox-series-s",
+      "source": "product_hunt",
+      "rank_now": 28,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
+    },
+    {
+      "name": "PasteKit",
+      "url": "https://www.producthunt.com/products/pastekit-2",
       "source": "product_hunt",
       "rank_now": 29,
       "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
     },
     {
-      "name": "Latch",
-      "url": "https://www.producthunt.com/products/latch-7",
+      "name": "Popcraft",
+      "url": "https://www.producthunt.com/products/popcraft",
       "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
     },
     {
       "name": "Manual SEO Tool",
@@ -252,7 +252,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
     },
     {
       "name": "Workflow Copilot",
@@ -262,7 +262,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-10-19 17:42:33 UTC+08:00"
+      "fetched_at": "2026-10-20 02:30:35 UTC+08:00"
     }
   ],
   "errors": []
