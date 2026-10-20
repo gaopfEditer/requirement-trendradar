@@ -22,6 +22,11 @@
   </header>
   <main>
     <p class="meta" id="source-note">加载中…</p>
+    <details class="keyword-bank" id="keyword-bank">
+      <summary>搜索词库 <span class="meta" id="keyword-bank-meta"></span></summary>
+      <p class="meta keyword-bank-hint">英文检索词（Freelancer query），点击复制。与抓取 ingest 共用 seeds.json。</p>
+      <div id="keyword-bank-tracks"></div>
+    </details>
     <div class="filters" id="filters">
       <label>轨 <select id="f-track"><option value="">全部</option>
         <option>嵌入</option><option>加固</option><option>加固+嵌入</option><option>未知</option><option>排除</option>
@@ -89,6 +94,58 @@
     const doc = await loadJson("job_leads.json");
     document.getElementById("source-note").textContent =
       `${doc.source_note || ""} · 更新 ${formatMetaDisplay(doc.updated_at)} · 共 ${(doc.jobs || []).length} 条`;
+
+    let kwBank = { tracks: [] };
+    try {
+      kwBank = await loadJson("job_search_keywords.json");
+    } catch {
+      /* optional until first ingest */
+    }
+    const bankMeta = document.getElementById("keyword-bank-meta");
+    const bankRoot = document.getElementById("keyword-bank-tracks");
+    const trackCount = (kwBank.tracks || []).length;
+    const kwCount = (kwBank.tracks || []).reduce((n, t) => n + (t.keywords || []).length, 0);
+    bankMeta.textContent = kwBank.updated_at
+      ? `· ${trackCount} 赛道 · ${kwCount} 词 · 更新 ${formatMetaDisplay(kwBank.updated_at)}`
+      : "· 暂无（运行 ingest_job_leads 后生成）";
+
+    function renderKeywordBank() {
+      const tracks = kwBank.tracks || [];
+      if (!tracks.length) {
+        bankRoot.innerHTML = "<p class='meta'>暂无词库数据。</p>";
+        return;
+      }
+      bankRoot.innerHTML = tracks.map((t) => {
+        const chips = (t.keywords || []).map((k) => {
+          const heat = k.heat === "cold" ? "cold" : "hot";
+          const label = heat === "cold" ? "长尾" : "热门";
+          return `<button type="button" class="kw-chip" data-kw="${encodeURIComponent(k.keyword)}" title="点击复制">
+            <span class="badge badge-heat-${heat}">${label}</span>${k.keyword}
+          </button>`;
+        }).join("");
+        return `<section class="kw-track"><h3>${t.track}</h3><div class="kw-chips">${chips}</div></section>`;
+      }).join("");
+    }
+    renderKeywordBank();
+
+    bankRoot.addEventListener("click", async (ev) => {
+      const btn = ev.target.closest(".kw-chip");
+      if (!btn) return;
+      const kw = decodeURIComponent(btn.getAttribute("data-kw") || "");
+      if (!kw) return;
+      try {
+        await navigator.clipboard.writeText(kw);
+        const prev = btn.getAttribute("data-copied");
+        btn.setAttribute("data-copied", "1");
+        btn.classList.add("kw-chip-copied");
+        setTimeout(() => {
+          btn.classList.remove("kw-chip-copied");
+          if (prev === null) btn.removeAttribute("data-copied");
+        }, 1200);
+      } catch {
+        window.prompt("复制检索词：", kw);
+      }
+    });
 
     const jobs = doc.jobs || [];
     const orderIndex = new Map(jobs.map((j, i) => [j.id, i]));

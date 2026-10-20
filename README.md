@@ -74,7 +74,8 @@ python -m scripts.run_pipeline --csv-only  # 排行仅 CSV，跳过 PH
 
 编辑 **`config/seeds.json`**（无需改代码）：
 
-- `keywords[]`：每项 `keyword` + `track`（赛道）
+- `keywords[]`：每项 `keyword` + `track`（赛道）；接单检索词可加可选 `heat`：`hot` | `cold`（长尾）
+- **接单帖检索**：`scripts/ingest_job_leads` 读取上述赛道（建站/预约接入/AI 加固/AI 客服/Agent/代码修复/复杂集成），按赛道轮询选取 query，并写入 `data/job_search_keywords.json` 与 `public/data/job_search_keywords.json`；**接单帖页** `jobs.html`「搜索词库」面板展示同一文件
 - `default_geo` / `additional_geos`：地区，默认 US，可加 GB/CA/AU/SG
 - `fetch_additional_geos`：设为 `true` 时每日同时拉取 `additional_geos`（默认 `false`，避免请求过多）
 - `window_primary_days`：Trends 时间窗（默认 90 天）

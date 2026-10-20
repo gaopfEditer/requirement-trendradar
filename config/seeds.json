@@ -169,6 +169,236 @@
     {
       "keyword": "ship lovable app to clients",
       "track": "AI 上线加固"
+    },
+    {
+      "keyword": "field service scheduling website freelance",
+      "track": "建站加预约",
+      "heat": "cold"
+    },
+    {
+      "keyword": "home visit booking system setup",
+      "track": "建站加预约",
+      "heat": "cold"
+    },
+    {
+      "keyword": "veterinary appointment website developer",
+      "track": "建站加预约",
+      "heat": "cold"
+    },
+    {
+      "keyword": "mobile detailing booking deposit website",
+      "track": "建站加预约",
+      "heat": "cold"
+    },
+    {
+      "keyword": "home service scheduling calendly setup",
+      "track": "预约工具接入",
+      "heat": "cold"
+    },
+    {
+      "keyword": "field technician booking portal integrate",
+      "track": "预约工具接入",
+      "heat": "cold"
+    },
+    {
+      "keyword": "appointment deposit stripe checkout setup",
+      "track": "预约工具接入",
+      "heat": "cold"
+    },
+    {
+      "keyword": "secrets leak github scan fix freelance",
+      "track": "AI 上线加固",
+      "heat": "cold"
+    },
+    {
+      "keyword": "owasp security fix nextjs app",
+      "track": "AI 上线加固",
+      "heat": "cold"
+    },
+    {
+      "keyword": "rate limit api security harden",
+      "track": "AI 上线加固",
+      "heat": "cold"
+    },
+    {
+      "keyword": "whatsapp business chatbot setup",
+      "track": "AI 客服",
+      "heat": "hot"
+    },
+    {
+      "keyword": "shopify ai support chatbot integration",
+      "track": "AI 客服",
+      "heat": "hot"
+    },
+    {
+      "keyword": "embed ai chat widget on website",
+      "track": "AI 客服",
+      "heat": "hot"
+    },
+    {
+      "keyword": "zendesk chatbot openai integration",
+      "track": "AI 客服",
+      "heat": "hot"
+    },
+    {
+      "keyword": "faq chatbot wordpress embed freelance",
+      "track": "AI 客服",
+      "heat": "cold"
+    },
+    {
+      "keyword": "telegram customer support bot developer",
+      "track": "AI 客服",
+      "heat": "cold"
+    },
+    {
+      "keyword": "intercom ai chatbot custom workflow",
+      "track": "AI 客服",
+      "heat": "cold"
+    },
+    {
+      "keyword": "customer service automation n8n chatbot",
+      "track": "AI 客服",
+      "heat": "cold"
+    },
+    {
+      "keyword": "hire freelance ai chatbot developer",
+      "track": "AI 客服",
+      "heat": "hot"
+    },
+    {
+      "keyword": "playwright automation bot freelance",
+      "track": "AI Agent",
+      "heat": "hot"
+    },
+    {
+      "keyword": "web scraping gpt agent python",
+      "track": "AI Agent",
+      "heat": "hot"
+    },
+    {
+      "keyword": "ai agent langchain deploy production",
+      "track": "AI Agent",
+      "heat": "hot"
+    },
+    {
+      "keyword": "hire ai agent developer custom",
+      "track": "AI Agent",
+      "heat": "hot"
+    },
+    {
+      "keyword": "browser automation agent playwright",
+      "track": "AI Agent",
+      "heat": "cold"
+    },
+    {
+      "keyword": "n8n custom ai agent workflow",
+      "track": "AI Agent",
+      "heat": "cold"
+    },
+    {
+      "keyword": "playwright form filling bot automation",
+      "track": "AI Agent",
+      "heat": "cold"
+    },
+    {
+      "keyword": "autonomous web browsing agent fix",
+      "track": "AI Agent",
+      "heat": "cold"
+    },
+    {
+      "keyword": "openai assistants api integration agent",
+      "track": "AI Agent",
+      "heat": "hot"
+    },
+    {
+      "keyword": "fix flaky playwright tests ci",
+      "track": "代码修复优化",
+      "heat": "cold"
+    },
+    {
+      "keyword": "slow query optimize postgres freelance",
+      "track": "代码修复优化",
+      "heat": "cold"
+    },
+    {
+      "keyword": "memory leak nodejs debug fix",
+      "track": "代码修复优化",
+      "heat": "hot"
+    },
+    {
+      "keyword": "typescript migrate from javascript codebase",
+      "track": "代码修复优化",
+      "heat": "cold"
+    },
+    {
+      "keyword": "react performance optimize freelance",
+      "track": "代码修复优化",
+      "heat": "hot"
+    },
+    {
+      "keyword": "debug stripe webhook integration",
+      "track": "代码修复优化",
+      "heat": "hot"
+    },
+    {
+      "keyword": "optimize nextjs build performance",
+      "track": "代码修复优化",
+      "heat": "cold"
+    },
+    {
+      "keyword": "code review security freelance node",
+      "track": "代码修复优化",
+      "heat": "hot"
+    },
+    {
+      "keyword": "fix production bug urgent freelance",
+      "track": "代码修复优化",
+      "heat": "hot"
+    },
+    {
+      "keyword": "odoo whatsapp integration freelance",
+      "track": "复杂集成",
+      "heat": "cold"
+    },
+    {
+      "keyword": "chrome extension manifest v3 migration",
+      "track": "复杂集成",
+      "heat": "hot"
+    },
+    {
+      "keyword": "stripe webhook debugging freelance",
+      "track": "复杂集成",
+      "heat": "hot"
+    },
+    {
+      "keyword": "firebase to supabase migration developer",
+      "track": "复杂集成",
+      "heat": "cold"
+    },
+    {
+      "keyword": "zapier replacement custom api integration",
+      "track": "复杂集成",
+      "heat": "cold"
+    },
+    {
+      "keyword": "shopify app custom integration api",
+      "track": "复杂集成",
+      "heat": "hot"
+    },
+    {
+      "keyword": "woocommerce rest api integration developer",
+      "track": "复杂集成",
+      "heat": "cold"
+    },
+    {
+      "keyword": "google sheets crm integration freelance",
+      "track": "复杂集成",
+      "heat": "cold"
+    },
+    {
+      "keyword": "embed calendly in react website",
+      "track": "复杂集成",
+      "heat": "hot"
     }
   ]
 }

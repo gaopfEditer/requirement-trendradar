@@ -1,0 +1,465 @@
+{
+  "updated_at": "2026-10-20 23:51:46 UTC+08:00",
+  "tracks": [
+    {
+      "track": "建站加预约",
+      "keywords": [
+        {
+          "keyword": "salon website online booking",
+          "heat": "hot"
+        },
+        {
+          "keyword": "dental website with online scheduling",
+          "heat": "hot"
+        },
+        {
+          "keyword": "barbershop website appointment booking",
+          "heat": "hot"
+        },
+        {
+          "keyword": "spa website book now button",
+          "heat": "hot"
+        },
+        {
+          "keyword": "clinic website patient booking",
+          "heat": "hot"
+        },
+        {
+          "keyword": "add online booking to my website",
+          "heat": "hot"
+        },
+        {
+          "keyword": "add booking calendar to wordpress",
+          "heat": "hot"
+        },
+        {
+          "keyword": "wordpress appointment booking plugin setup",
+          "heat": "hot"
+        },
+        {
+          "keyword": "wordpress bookly setup freelance",
+          "heat": "hot"
+        },
+        {
+          "keyword": "hire someone to add booking to website",
+          "heat": "hot"
+        },
+        {
+          "keyword": "restaurant website reservation form",
+          "heat": "hot"
+        },
+        {
+          "keyword": "yoga studio website class schedule",
+          "heat": "hot"
+        },
+        {
+          "keyword": "photographer booking website freelance",
+          "heat": "hot"
+        },
+        {
+          "keyword": "small business website with appointments",
+          "heat": "hot"
+        },
+        {
+          "keyword": "field service scheduling website freelance",
+          "heat": "cold"
+        },
+        {
+          "keyword": "home visit booking system setup",
+          "heat": "cold"
+        },
+        {
+          "keyword": "veterinary appointment website developer",
+          "heat": "cold"
+        },
+        {
+          "keyword": "mobile detailing booking deposit website",
+          "heat": "cold"
+        }
+      ]
+    },
+    {
+      "track": "预约工具接入",
+      "keywords": [
+        {
+          "keyword": "square appointments website integrate",
+          "heat": "hot"
+        },
+        {
+          "keyword": "square online booking setup help",
+          "heat": "hot"
+        },
+        {
+          "keyword": "calendly embed on website freelance",
+          "heat": "hot"
+        },
+        {
+          "keyword": "fresha website connect booking",
+          "heat": "hot"
+        },
+        {
+          "keyword": "vagaro booking button on website",
+          "heat": "hot"
+        },
+        {
+          "keyword": "set up square appointments for salon",
+          "heat": "hot"
+        },
+        {
+          "keyword": "acuity scheduling wordpress",
+          "heat": "hot"
+        },
+        {
+          "keyword": "google appointment schedules website",
+          "heat": "hot"
+        },
+        {
+          "keyword": "stripe deposit for appointments website",
+          "heat": "hot"
+        },
+        {
+          "keyword": "sms appointment reminder for clinic",
+          "heat": "hot"
+        },
+        {
+          "keyword": "home service scheduling calendly setup",
+          "heat": "cold"
+        },
+        {
+          "keyword": "field technician booking portal integrate",
+          "heat": "cold"
+        },
+        {
+          "keyword": "appointment deposit stripe checkout setup",
+          "heat": "cold"
+        }
+      ]
+    },
+    {
+      "track": "AI 上线加固",
+      "keywords": [
+        {
+          "keyword": "lovable app production deploy",
+          "heat": "hot"
+        },
+        {
+          "keyword": "lovable to vercel deploy",
+          "heat": "hot"
+        },
+        {
+          "keyword": "bolt.new production ready",
+          "heat": "hot"
+        },
+        {
+          "keyword": "bolt.new stripe integration",
+          "heat": "hot"
+        },
+        {
+          "keyword": "half built lovable app fix",
+          "heat": "hot"
+        },
+        {
+          "keyword": "lovable bug fix freelancer",
+          "heat": "hot"
+        },
+        {
+          "keyword": "ai generated app security audit",
+          "heat": "hot"
+        },
+        {
+          "keyword": "ai mvp harden before launch",
+          "heat": "hot"
+        },
+        {
+          "keyword": "fix lovable broken build",
+          "heat": "hot"
+        },
+        {
+          "keyword": "ai app launch health check",
+          "heat": "hot"
+        },
+        {
+          "keyword": "productionize vibe coded app",
+          "heat": "hot"
+        },
+        {
+          "keyword": "lovable booking app production",
+          "heat": "hot"
+        },
+        {
+          "keyword": "bolt.new appointment scheduler stripe",
+          "heat": "hot"
+        },
+        {
+          "keyword": "hire bolt.new developer",
+          "heat": "hot"
+        },
+        {
+          "keyword": "freelance lovable developer",
+          "heat": "hot"
+        },
+        {
+          "keyword": "ship lovable app to clients",
+          "heat": "hot"
+        },
+        {
+          "keyword": "secrets leak github scan fix freelance",
+          "heat": "cold"
+        },
+        {
+          "keyword": "owasp security fix nextjs app",
+          "heat": "cold"
+        },
+        {
+          "keyword": "rate limit api security harden",
+          "heat": "cold"
+        }
+      ]
+    },
+    {
+      "track": "AI 客服",
+      "keywords": [
+        {
+          "keyword": "whatsapp business chatbot setup",
+          "heat": "hot"
+        },
+        {
+          "keyword": "shopify ai support chatbot integration",
+          "heat": "hot"
+        },
+        {
+          "keyword": "embed ai chat widget on website",
+          "heat": "hot"
+        },
+        {
+          "keyword": "zendesk chatbot openai integration",
+          "heat": "hot"
+        },
+        {
+          "keyword": "faq chatbot wordpress embed freelance",
+          "heat": "cold"
+        },
+        {
+          "keyword": "telegram customer support bot developer",
+          "heat": "cold"
+        },
+        {
+          "keyword": "intercom ai chatbot custom workflow",
+          "heat": "cold"
+        },
+        {
+          "keyword": "customer service automation n8n chatbot",
+          "heat": "cold"
+        },
+        {
+          "keyword": "hire freelance ai chatbot developer",
+          "heat": "hot"
+        }
+      ]
+    },
+    {
+      "track": "AI Agent",
+      "keywords": [
+        {
+          "keyword": "playwright automation bot freelance",
+          "heat": "hot"
+        },
+        {
+          "keyword": "web scraping gpt agent python",
+          "heat": "hot"
+        },
+        {
+          "keyword": "ai agent langchain deploy production",
+          "heat": "hot"
+        },
+        {
+          "keyword": "hire ai agent developer custom",
+          "heat": "hot"
+        },
+        {
+          "keyword": "browser automation agent playwright",
+          "heat": "cold"
+        },
+        {
+          "keyword": "n8n custom ai agent workflow",
+          "heat": "cold"
+        },
+        {
+          "keyword": "playwright form filling bot automation",
+          "heat": "cold"
+        },
+        {
+          "keyword": "autonomous web browsing agent fix",
+          "heat": "cold"
+        },
+        {
+          "keyword": "openai assistants api integration agent",
+          "heat": "hot"
+        }
+      ]
+    },
+    {
+      "track": "代码修复优化",
+      "keywords": [
+        {
+          "keyword": "fix flaky playwright tests ci",
+          "heat": "cold"
+        },
+        {
+          "keyword": "slow query optimize postgres freelance",
+          "heat": "cold"
+        },
+        {
+          "keyword": "memory leak nodejs debug fix",
+          "heat": "hot"
+        },
+        {
+          "keyword": "typescript migrate from javascript codebase",
+          "heat": "cold"
+        },
+        {
+          "keyword": "react performance optimize freelance",
+          "heat": "hot"
+        },
+        {
+          "keyword": "debug stripe webhook integration",
+          "heat": "hot"
+        },
+        {
+          "keyword": "optimize nextjs build performance",
+          "heat": "cold"
+        },
+        {
+          "keyword": "code review security freelance node",
+          "heat": "hot"
+        },
+        {
+          "keyword": "fix production bug urgent freelance",
+          "heat": "hot"
+        }
+      ]
+    },
+    {
+      "track": "复杂集成",
+      "keywords": [
+        {
+          "keyword": "odoo whatsapp integration freelance",
+          "heat": "cold"
+        },
+        {
+          "keyword": "chrome extension manifest v3 migration",
+          "heat": "hot"
+        },
+        {
+          "keyword": "stripe webhook debugging freelance",
+          "heat": "hot"
+        },
+        {
+          "keyword": "firebase to supabase migration developer",
+          "heat": "cold"
+        },
+        {
+          "keyword": "zapier replacement custom api integration",
+          "heat": "cold"
+        },
+        {
+          "keyword": "shopify app custom integration api",
+          "heat": "hot"
+        },
+        {
+          "keyword": "woocommerce rest api integration developer",
+          "heat": "cold"
+        },
+        {
+          "keyword": "google sheets crm integration freelance",
+          "heat": "cold"
+        },
+        {
+          "keyword": "embed calendly in react website",
+          "heat": "hot"
+        }
+      ]
+    },
+    {
+      "track": "优先级补充",
+      "keywords": [
+        {
+          "keyword": "calendly",
+          "heat": "hot"
+        },
+        {
+          "keyword": "bookly",
+          "heat": "hot"
+        },
+        {
+          "keyword": "lovable",
+          "heat": "hot"
+        },
+        {
+          "keyword": "supabase",
+          "heat": "hot"
+        },
+        {
+          "keyword": "vercel",
+          "heat": "hot"
+        },
+        {
+          "keyword": "wordpress booking",
+          "heat": "hot"
+        },
+        {
+          "keyword": "embed booking",
+          "heat": "hot"
+        },
+        {
+          "keyword": "online booking",
+          "heat": "hot"
+        },
+        {
+          "keyword": "half built",
+          "heat": "hot"
+        },
+        {
+          "keyword": "production deploy",
+          "heat": "hot"
+        },
+        {
+          "keyword": "bolt.new",
+          "heat": "hot"
+        },
+        {
+          "keyword": "migration docker",
+          "heat": "hot"
+        },
+        {
+          "keyword": "playwright agent",
+          "heat": "hot"
+        },
+        {
+          "keyword": "whatsapp chatbot",
+          "heat": "hot"
+        },
+        {
+          "keyword": "chrome extension mv3",
+          "heat": "hot"
+        },
+        {
+          "keyword": "code review security",
+          "heat": "hot"
+        },
+        {
+          "keyword": "appointment deposit stripe",
+          "heat": "hot"
+        },
+        {
+          "keyword": "n8n ai agent",
+          "heat": "hot"
+        },
+        {
+          "keyword": "stripe webhook debug",
+          "heat": "hot"
+        }
+      ]
+    }
+  ]
+}
