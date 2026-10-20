@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 07:26:34 UTC+08:00",
+  "updated_at": "2026-10-20 12:00:48 UTC+08:00",
   "items": [
     {
       "name": "Lookout (for Slack)",
@@ -7,263 +7,263 @@
       "source": "product_hunt",
       "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
       "rank_prev": 9,
       "rank_delta": -8,
       "signal_note": "排名上升 8 位"
     },
     {
-      "name": "readywhen",
-      "url": "https://www.producthunt.com/products/readywhen",
-      "source": "product_hunt",
-      "rank_now": 2,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 8,
-      "rank_delta": -6,
-      "signal_note": "排名上升 6 位"
-    },
-    {
       "name": "Quello",
       "url": "https://www.producthunt.com/products/quello",
       "source": "product_hunt",
-      "rank_now": 3,
+      "rank_now": 2,
       "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
       "rank_prev": 24,
-      "rank_delta": -21,
-      "signal_note": "排名上升 21 位"
-    },
-    {
-      "name": "Starkomand",
-      "url": "https://www.producthunt.com/products/starkomand",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 15,
-      "rank_delta": -11,
-      "signal_note": "排名上升 11 位"
-    },
-    {
-      "name": "Lancetta",
-      "url": "https://www.producthunt.com/products/lancetta",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 6,
-      "rank_delta": -1,
-      "signal_note": "排名上升 1 位"
-    },
-    {
-      "name": "CoolDock",
-      "url": "https://www.producthunt.com/products/cooldock-2",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 26,
-      "rank_delta": -20,
-      "signal_note": "排名上升 20 位"
-    },
-    {
-      "name": "Own 1",
-      "url": "https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 17,
-      "rank_delta": -10,
-      "signal_note": "排名上升 10 位"
-    },
-    {
-      "name": "walkai-talkai",
-      "url": "https://www.producthunt.com/products/walkai-talkai",
-      "source": "product_hunt",
-      "rank_now": 8,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 7,
-      "rank_delta": 1,
-      "signal_note": "排名下降 1 位"
-    },
-    {
-      "name": "CrawlForge MCP",
-      "url": "https://www.producthunt.com/products/crawlforge-mcp",
-      "source": "product_hunt",
-      "rank_now": 9,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 22,
-      "rank_delta": -13,
-      "signal_note": "排名上升 13 位"
-    },
-    {
-      "name": "AutoChart.eu",
-      "url": "https://www.producthunt.com/products/autochart-eu",
-      "source": "product_hunt",
-      "rank_now": 10,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 20,
-      "rank_delta": -10,
-      "signal_note": "排名上升 10 位"
-    },
-    {
-      "name": "Kai Resolve by Gleap",
-      "url": "https://www.producthunt.com/products/gleap",
-      "source": "product_hunt",
-      "rank_now": 11,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 23,
-      "rank_delta": -12,
-      "signal_note": "排名上升 12 位"
+      "rank_delta": -22,
+      "signal_note": "排名上升 22 位"
     },
     {
       "name": "buddylist",
       "url": "https://www.producthunt.com/products/buddylist-2",
       "source": "product_hunt",
-      "rank_now": 12,
+      "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
       "rank_prev": 2,
-      "rank_delta": 10,
-      "signal_note": "排名下降 10 位"
+      "rank_delta": 1,
+      "signal_note": "排名下降 1 位"
     },
     {
-      "name": "DoOne",
-      "url": "https://www.producthunt.com/products/doone-focus-tasks-with-integration",
+      "name": "Lancetta",
+      "url": "https://www.producthunt.com/products/lancetta",
       "source": "product_hunt",
-      "rank_now": 13,
+      "rank_now": 4,
       "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 11,
-      "rank_delta": 2,
-      "signal_note": "排名下降 2 位"
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 6,
+      "rank_delta": -2,
+      "signal_note": "排名上升 2 位"
     },
     {
-      "name": "Triwarden",
-      "url": "https://www.producthunt.com/products/triwarden",
+      "name": "walkai-talkai",
+      "url": "https://www.producthunt.com/products/walkai-talkai",
       "source": "product_hunt",
-      "rank_now": 14,
+      "rank_now": 5,
       "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 1,
-      "rank_delta": 13,
-      "signal_note": "排名下降 13 位"
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 7,
+      "rank_delta": -2,
+      "signal_note": "排名上升 2 位"
     },
     {
-      "name": "Switch Lab",
-      "url": "https://www.producthunt.com/products/switch-lab",
+      "name": "Kai Resolve by Gleap",
+      "url": "https://www.producthunt.com/products/gleap",
       "source": "product_hunt",
-      "rank_now": 15,
+      "rank_now": 6,
       "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 16,
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 23,
+      "rank_delta": -17,
+      "signal_note": "排名上升 17 位"
+    },
+    {
+      "name": "readywhen",
+      "url": "https://www.producthunt.com/products/readywhen",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 8,
       "rank_delta": -1,
       "signal_note": "排名上升 1 位"
-    },
-    {
-      "name": "Rusteerio by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "source": "product_hunt",
-      "rank_now": 16,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 5,
-      "rank_delta": 11,
-      "signal_note": "排名下降 11 位"
-    },
-    {
-      "name": "Wally by Willow",
-      "url": "https://www.producthunt.com/products/willow-voice",
-      "source": "product_hunt",
-      "rank_now": 17,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 10,
-      "rank_delta": 7,
-      "signal_note": "排名下降 7 位"
-    },
-    {
-      "name": "Framefields",
-      "url": "https://www.producthunt.com/products/framefields",
-      "source": "product_hunt",
-      "rank_now": 18,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 13,
-      "rank_delta": 5,
-      "signal_note": "排名下降 5 位"
-    },
-    {
-      "name": "Figma Specs",
-      "url": "https://www.producthunt.com/products/figma",
-      "source": "product_hunt",
-      "rank_now": 19,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 27,
-      "rank_delta": -8,
-      "signal_note": "排名上升 8 位"
     },
     {
       "name": "Beam.win",
       "url": "https://www.producthunt.com/products/beam-win",
       "source": "product_hunt",
-      "rank_now": 20,
+      "rank_now": 8,
       "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
       "rank_prev": 3,
-      "rank_delta": 17,
-      "signal_note": "排名下降 17 位"
+      "rank_delta": 5,
+      "signal_note": "排名下降 5 位"
     },
     {
       "name": "croft",
       "url": "https://www.producthunt.com/products/croft-2",
       "source": "product_hunt",
-      "rank_now": 21,
+      "rank_now": 9,
       "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
       "rank_prev": 18,
-      "rank_delta": 3,
-      "signal_note": "排名下降 3 位"
+      "rank_delta": -9,
+      "signal_note": "排名上升 9 位"
+    },
+    {
+      "name": "CrawlForge MCP",
+      "url": "https://www.producthunt.com/products/crawlforge-mcp",
+      "source": "product_hunt",
+      "rank_now": 10,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 22,
+      "rank_delta": -12,
+      "signal_note": "排名上升 12 位"
+    },
+    {
+      "name": "Starkomand",
+      "url": "https://www.producthunt.com/products/starkomand",
+      "source": "product_hunt",
+      "rank_now": 11,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 15,
+      "rank_delta": -4,
+      "signal_note": "排名上升 4 位"
+    },
+    {
+      "name": "Triwarden",
+      "url": "https://www.producthunt.com/products/triwarden",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 1,
+      "rank_delta": 11,
+      "signal_note": "排名下降 11 位"
+    },
+    {
+      "name": "Framefields",
+      "url": "https://www.producthunt.com/products/framefields",
+      "source": "product_hunt",
+      "rank_now": 13,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 13,
+      "rank_delta": 0,
+      "signal_note": "持平"
     },
     {
       "name": "Planet-X",
       "url": "https://www.producthunt.com/products/planet-x",
       "source": "product_hunt",
-      "rank_now": 22,
+      "rank_now": 14,
       "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
       "rank_prev": 25,
-      "rank_delta": -3,
-      "signal_note": "排名上升 3 位"
+      "rank_delta": -11,
+      "signal_note": "排名上升 11 位"
     },
     {
-      "name": "Point and Yap",
-      "url": "https://www.producthunt.com/products/point-and-yap",
+      "name": "AutoChart.eu",
+      "url": "https://www.producthunt.com/products/autochart-eu",
       "source": "product_hunt",
-      "rank_now": 23,
+      "rank_now": 15,
       "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 4,
-      "rank_delta": 19,
-      "signal_note": "排名下降 19 位"
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 20,
+      "rank_delta": -5,
+      "signal_note": "排名上升 5 位"
+    },
+    {
+      "name": "DoOne",
+      "url": "https://www.producthunt.com/products/doone-focus-tasks-with-integration",
+      "source": "product_hunt",
+      "rank_now": 16,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 11,
+      "rank_delta": 5,
+      "signal_note": "排名下降 5 位"
+    },
+    {
+      "name": "Own 1",
+      "url": "https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
+      "source": "product_hunt",
+      "rank_now": 17,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 17,
+      "rank_delta": 0,
+      "signal_note": "持平"
+    },
+    {
+      "name": "Switch Lab",
+      "url": "https://www.producthunt.com/products/switch-lab",
+      "source": "product_hunt",
+      "rank_now": 18,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 16,
+      "rank_delta": 2,
+      "signal_note": "排名下降 2 位"
+    },
+    {
+      "name": "CoolDock",
+      "url": "https://www.producthunt.com/products/cooldock-2",
+      "source": "product_hunt",
+      "rank_now": 19,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 26,
+      "rank_delta": -7,
+      "signal_note": "排名上升 7 位"
     },
     {
       "name": "Lazy AWS",
       "url": "https://www.producthunt.com/products/lazy-aws-your-cloud-your-terminal",
       "source": "product_hunt",
+      "rank_now": 20,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 28,
+      "rank_delta": -8,
+      "signal_note": "排名上升 8 位"
+    },
+    {
+      "name": "Figma Specs",
+      "url": "https://www.producthunt.com/products/figma",
+      "source": "product_hunt",
+      "rank_now": 21,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 27,
+      "rank_delta": -6,
+      "signal_note": "排名上升 6 位"
+    },
+    {
+      "name": "Rusteerio by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "source": "product_hunt",
+      "rank_now": 22,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 5,
+      "rank_delta": 17,
+      "signal_note": "排名下降 17 位"
+    },
+    {
+      "name": "Wally by Willow",
+      "url": "https://www.producthunt.com/products/willow-voice",
+      "source": "product_hunt",
+      "rank_now": 23,
+      "category_tags": [],
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 10,
+      "rank_delta": 13,
+      "signal_note": "排名下降 13 位"
+    },
+    {
+      "name": "Tori",
+      "url": "https://www.producthunt.com/products/tori-3",
+      "source": "product_hunt",
       "rank_now": 24,
       "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 28,
-      "rank_delta": -4,
-      "signal_note": "排名上升 4 位"
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 21,
+      "rank_delta": 3,
+      "signal_note": "排名下降 3 位"
     },
     {
       "name": "Umbra Mail",
@@ -271,21 +271,21 @@
       "source": "product_hunt",
       "rank_now": 25,
       "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
       "rank_prev": 14,
       "rank_delta": 11,
       "signal_note": "排名下降 11 位"
     },
     {
-      "name": "Tori",
-      "url": "https://www.producthunt.com/products/tori-3",
+      "name": "Point and Yap",
+      "url": "https://www.producthunt.com/products/point-and-yap",
       "source": "product_hunt",
       "rank_now": 26,
       "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
-      "rank_prev": 21,
-      "rank_delta": 5,
-      "signal_note": "排名下降 5 位"
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
+      "rank_prev": 4,
+      "rank_delta": 22,
+      "signal_note": "排名下降 22 位"
     },
     {
       "name": "Beam",
@@ -293,7 +293,7 @@
       "source": "product_hunt",
       "rank_now": 27,
       "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
       "rank_prev": 12,
       "rank_delta": 15,
       "signal_note": "排名下降 15 位"
@@ -304,7 +304,7 @@
       "source": "product_hunt",
       "rank_now": 28,
       "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
       "rank_prev": null,
       "rank_delta": null,
       "signal_note": "新进榜"
@@ -315,7 +315,7 @@
       "source": "product_hunt",
       "rank_now": 29,
       "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
       "rank_prev": null,
       "rank_delta": null,
       "signal_note": "新进榜"
@@ -326,7 +326,7 @@
       "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
       "rank_prev": null,
       "rank_delta": null,
       "signal_note": "新进榜"
@@ -340,7 +340,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
       "rank_prev": 15,
       "rank_delta": 0,
       "signal_note": "持平"
@@ -353,7 +353,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00",
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00",
       "rank_prev": 22,
       "rank_delta": 0,
       "signal_note": "持平"
@@ -367,7 +367,7 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00"
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00"
     },
     {
       "name": "Openbroca",
@@ -378,7 +378,7 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00"
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00"
     },
     {
       "name": "Latch",
@@ -389,7 +389,7 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-10-20 07:26:34 UTC+08:00"
+      "fetched_at": "2026-10-20 12:00:48 UTC+08:00"
     }
   ]
 }
