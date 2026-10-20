@@ -205,6 +205,49 @@ tr.job-row-viewed a.job-title-link { color: var(--muted); }
 tr.job-row-important td:first-child + td + td + td + td { font-weight: 500; }
 tr.job-row-important .btn-pin { color: var(--amber); border-color: rgba(240, 180, 41, 0.45); }
 
+.keyword-bank {
+  margin-bottom: 1rem;
+  padding: 0.75rem 1rem;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  font-size: 0.88rem;
+}
+.keyword-bank summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--text);
+  list-style: none;
+}
+.keyword-bank summary::-webkit-details-marker { display: none; }
+.keyword-bank-hint { margin: 0.5rem 0 0.75rem; }
+.kw-track { margin-bottom: 0.85rem; }
+.kw-track h3 {
+  margin: 0 0 0.35rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+.kw-chips { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+.kw-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  background: var(--bg);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.25rem 0.45rem;
+  font-size: 0.78rem;
+  cursor: pointer;
+  text-align: left;
+  max-width: 100%;
+}
+.kw-chip:hover { border-color: var(--accent); }
+.kw-chip-copied { border-color: var(--green); color: var(--green); }
+.badge-heat-hot { background: rgba(240, 180, 41, 0.18); color: var(--amber); }
+.badge-heat-cold { background: rgba(91, 159, 212, 0.18); color: var(--accent); }
+
 @media (max-width: 640px) {
   table { font-size: 0.82rem; }
   .hide-sm { display: none; }

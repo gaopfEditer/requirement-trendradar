@@ -14,32 +14,15 @@ import requests
 
 from scripts.lib.dual_track_screen import screen_job, sort_results
 from scripts.lib.job_lead_cards import merge_recommended_into_opportunities
-from scripts.lib.paths import CONFIG_DIR, DATA_DIR, PUBLIC_DATA_DIR, hk_now_iso
+from scripts.lib.job_search_seeds import job_search_keywords, publish_keyword_bank
+from scripts.lib.paths import DATA_DIR, PUBLIC_DATA_DIR, hk_now_iso
 from scripts.lib.runs import finish_run, start_run
 
 JOB_LEADS_PATH = DATA_DIR / "job_leads.json"
-SEEDS_PATH = CONFIG_DIR / "seeds.json"
 FREELANCER_API = "https://www.freelancer.com/api/projects/0.1/projects/all/"
 USER_AGENT = "DemandRadar/1.0 (+https://github.com/gaopfEditer/requirement-trendradar)"
 REQUEST_DELAY_SEC = 1.25
-MAX_QUERIES = 18
 PER_QUERY_LIMIT = 8
-
-# Dual-track oriented queries (subset of seeds + screen vocabulary)
-PRIORITY_QUERY_TERMS = (
-    "calendly",
-    "bookly",
-    "lovable",
-    "supabase",
-    "vercel",
-    "wordpress booking",
-    "embed booking",
-    "online booking",
-    "half built",
-    "production deploy",
-    "bolt.new",
-    "migration docker",
-)
 
 FIVERR_PROBE_URLS = (
     "https://www.fiverr.com/buyer_requests",
@@ -53,31 +36,6 @@ def _session() -> requests.Session:
     s = requests.Session()
     s.headers.update({"User-Agent": USER_AGENT, "Accept": "application/json"})
     return s
-
-
-def job_search_keywords() -> list[str]:
-    queries: list[str] = []
-    seen: set[str] = set()
-    if SEEDS_PATH.exists():
-        seeds = json.loads(SEEDS_PATH.read_text(encoding="utf-8"))
-        for entry in seeds.get("keywords", []):
-            track = entry.get("track") or ""
-            if track not in ("预约工具接入", "AI 上线加固", "建站加预约"):
-                continue
-            kw = (entry.get("keyword") or "").strip()
-            if len(kw) < 4:
-                continue
-            low = kw.lower()
-            if low in seen:
-                continue
-            seen.add(low)
-            queries.append(kw)
-    for term in PRIORITY_QUERY_TERMS:
-        low = term.lower()
-        if low not in seen:
-            seen.add(low)
-            queries.append(term)
-    return queries[:MAX_QUERIES]
 
 
 def _budget_label(project: dict[str, Any]) -> str:
@@ -229,6 +187,7 @@ def run(merge_opportunities: bool = False) -> int:
     run_id = start_run("ingest_job_leads", {})
     try:
         session = _session()
+        publish_keyword_bank()
         queries = job_search_keywords()
         raw_jobs, fl_meta = fetch_freelancer_projects(session, queries)
         time.sleep(REQUEST_DELAY_SEC)

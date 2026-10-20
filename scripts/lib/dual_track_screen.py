@@ -36,6 +36,7 @@ from typing import Any, Iterable, Optional
 BID_COUNT_RECOMMEND_MAX = 99
 
 EMBED_TOOLS = [
+    "whatsapp business",
     "beds24",
     "calendly",
     "bookly",
@@ -81,6 +82,11 @@ HARDEN_TOOLS = [
     "cursor",
     "v0.dev",
     "v0 ",
+    "playwright",
+    "n8n",
+    "langchain",
+    "openai api",
+    "manifest v3",
 ]
 
 HARDEN_PHRASES = [
@@ -100,6 +106,14 @@ HARDEN_PHRASES = [
     "ai mvp",
     "vibe code",
     "vibe coding",
+    "chatbot",
+    "ai agent",
+    "chrome extension",
+    "bug fix",
+    "memory leak",
+    "webhook",
+    "owasp",
+    "rate limit",
 ]
 
 # 泛泛职称/海投词：出现且无工具点名 → 降权；仅有这些 → 排除
