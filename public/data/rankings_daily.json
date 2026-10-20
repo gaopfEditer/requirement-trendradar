@@ -1,135 +1,135 @@
 {
-  "updated_at": "2026-10-20 21:25:15 UTC+08:00",
-  "date_stamp": "20261020",
-  "run_id": "20261020-212515-107c492c",
+  "updated_at": "2026-10-21 03:54:25 UTC+08:00",
+  "date_stamp": "20261021",
+  "run_id": "20261021-035425-2692d03f",
   "items": [
     {
-      "name": "/dev/null",
-      "url": "https://www.producthunt.com/products/dev-null",
+      "name": "The New Beings",
+      "url": "https://www.producthunt.com/products/the-new-beings",
       "source": "product_hunt",
       "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
-      "name": "Harness²",
-      "url": "https://www.producthunt.com/products/harness-104",
+      "name": "Panza",
+      "url": "https://www.producthunt.com/products/panza-2",
       "source": "product_hunt",
       "rank_now": 2,
       "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
-      "name": "Tiny Little Office",
-      "url": "https://www.producthunt.com/products/tiny-little-office",
+      "name": "Composio Instant",
+      "url": "https://www.producthunt.com/products/composio",
       "source": "product_hunt",
       "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
-      "name": "reception",
-      "url": "https://www.producthunt.com/products/reception",
+      "name": "RunInfra",
+      "url": "https://www.producthunt.com/products/runinfra",
       "source": "product_hunt",
       "rank_now": 4,
       "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
-      "name": "OpenShip Cloud",
-      "url": "https://www.producthunt.com/products/openship-2",
+      "name": "Sorcerer",
+      "url": "https://www.producthunt.com/products/sorcerer",
       "source": "product_hunt",
       "rank_now": 5,
       "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
-    },
-    {
-      "name": "GotEmail",
-      "url": "https://www.producthunt.com/products/gotemail",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
-    },
-    {
-      "name": "Lugh Xtudio",
-      "url": "https://www.producthunt.com/products/lugh-xtudio",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
-    },
-    {
-      "name": "call4me",
-      "url": "https://www.producthunt.com/products/call4me",
-      "source": "product_hunt",
-      "rank_now": 8,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
-    },
-    {
-      "name": "Intel® GPU D-series",
-      "url": "https://www.producthunt.com/products/intel",
-      "source": "product_hunt",
-      "rank_now": 9,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
-    },
-    {
-      "name": "Jotform App Builder for ChatGPT & Claude",
-      "url": "https://www.producthunt.com/products/jotform",
-      "source": "product_hunt",
-      "rank_now": 10,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
-    },
-    {
-      "name": "ESP-Mosaico",
-      "url": "https://www.producthunt.com/products/esp-mosaico",
-      "source": "product_hunt",
-      "rank_now": 11,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
-    },
-    {
-      "name": "xtty",
-      "url": "https://www.producthunt.com/products/xtty",
-      "source": "product_hunt",
-      "rank_now": 12,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
       "name": "snyvi",
       "url": "https://www.producthunt.com/products/snyvi",
       "source": "product_hunt",
-      "rank_now": 13,
+      "rank_now": 6,
       "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
-      "name": "Exa 3.0",
-      "url": "https://www.producthunt.com/products/exa-ai",
+      "name": "Harness²",
+      "url": "https://www.producthunt.com/products/harness-104",
       "source": "product_hunt",
-      "rank_now": 14,
+      "rank_now": 7,
       "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
+    },
+    {
+      "name": "Stage",
+      "url": "https://www.producthunt.com/products/stage-9",
+      "source": "product_hunt",
+      "rank_now": 8,
+      "category_tags": [],
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
+    },
+    {
+      "name": "Kling 4.0",
+      "url": "https://www.producthunt.com/products/kling-4-0-4",
+      "source": "product_hunt",
+      "rank_now": 9,
+      "category_tags": [],
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
+    },
+    {
+      "name": "/dev/null",
+      "url": "https://www.producthunt.com/products/dev-null",
+      "source": "product_hunt",
+      "rank_now": 10,
+      "category_tags": [],
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
       "name": "Portlivo",
       "url": "https://www.producthunt.com/products/portlivo",
       "source": "product_hunt",
-      "rank_now": 15,
+      "rank_now": 11,
       "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
-      "name": "yggy",
-      "url": "https://www.producthunt.com/products/yggy",
+      "name": "bonds",
+      "url": "https://www.producthunt.com/products/bonds-2",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
+    },
+    {
+      "name": "Exa 3.0",
+      "url": "https://www.producthunt.com/products/exa-ai",
+      "source": "product_hunt",
+      "rank_now": 13,
+      "category_tags": [],
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
+    },
+    {
+      "name": "Tiny Little Office",
+      "url": "https://www.producthunt.com/products/tiny-little-office",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "category_tags": [],
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
+    },
+    {
+      "name": "Hoistbay",
+      "url": "https://www.producthunt.com/products/hoistbay",
+      "source": "product_hunt",
+      "rank_now": 15,
+      "category_tags": [],
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
+    },
+    {
+      "name": "ESP-Mosaico",
+      "url": "https://www.producthunt.com/products/esp-mosaico",
       "source": "product_hunt",
       "rank_now": 16,
       "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
       "name": "ToDo.is",
@@ -137,111 +137,111 @@
       "source": "product_hunt",
       "rank_now": 17,
       "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
-    },
-    {
-      "name": "Stella",
-      "url": "https://www.producthunt.com/products/stella-5",
-      "source": "product_hunt",
-      "rank_now": 18,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
-    },
-    {
-      "name": "Rovalty",
-      "url": "https://www.producthunt.com/products/rovalty-creator-program-ugc",
-      "source": "product_hunt",
-      "rank_now": 19,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
       "name": "Mintlify Autopilot",
       "url": "https://www.producthunt.com/products/mintlify",
       "source": "product_hunt",
-      "rank_now": 20,
+      "rank_now": 18,
       "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
-      "name": "Stage",
-      "url": "https://www.producthunt.com/products/stage-9",
+      "name": "yggy",
+      "url": "https://www.producthunt.com/products/yggy",
+      "source": "product_hunt",
+      "rank_now": 19,
+      "category_tags": [],
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
+    },
+    {
+      "name": "Jotform App Builder for ChatGPT & Claude",
+      "url": "https://www.producthunt.com/products/jotform",
+      "source": "product_hunt",
+      "rank_now": 20,
+      "category_tags": [],
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
+    },
+    {
+      "name": "xtty",
+      "url": "https://www.producthunt.com/products/xtty",
       "source": "product_hunt",
       "rank_now": 21,
       "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
-      "name": "Glance for Mac",
-      "url": "https://www.producthunt.com/products/glance-for-mac",
+      "name": "OpenShip Cloud",
+      "url": "https://www.producthunt.com/products/openship-2",
       "source": "product_hunt",
       "rank_now": 22,
       "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
-      "name": "The New Beings",
-      "url": "https://www.producthunt.com/products/the-new-beings",
+      "name": "Lugh Xtudio",
+      "url": "https://www.producthunt.com/products/lugh-xtudio",
       "source": "product_hunt",
       "rank_now": 23,
       "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
-      "name": "bonds",
-      "url": "https://www.producthunt.com/products/bonds-2",
+      "name": "reception",
+      "url": "https://www.producthunt.com/products/reception",
       "source": "product_hunt",
       "rank_now": 24,
       "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
-      "name": "Asimov 1",
-      "url": "https://www.producthunt.com/products/asimov-1",
+      "name": "Intel® GPU D-series",
+      "url": "https://www.producthunt.com/products/intel",
       "source": "product_hunt",
       "rank_now": 25,
       "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
+    },
+    {
+      "name": "Capitol Alpha Machine",
+      "url": "https://www.producthunt.com/products/capitol-alpha-machine",
+      "source": "product_hunt",
+      "rank_now": 26,
+      "category_tags": [],
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
+    },
+    {
+      "name": "Stella",
+      "url": "https://www.producthunt.com/products/stella-5",
+      "source": "product_hunt",
+      "rank_now": 27,
+      "category_tags": [],
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
+    },
+    {
+      "name": "Rovalty",
+      "url": "https://www.producthunt.com/products/rovalty-creator-program-ugc",
+      "source": "product_hunt",
+      "rank_now": 28,
+      "category_tags": [],
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
       "name": "Praex",
       "url": "https://www.producthunt.com/products/praex",
       "source": "product_hunt",
-      "rank_now": 26,
+      "rank_now": 29,
       "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
-    },
-    {
-      "name": "Sorcerer",
-      "url": "https://www.producthunt.com/products/sorcerer",
-      "source": "product_hunt",
-      "rank_now": 27,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
-    },
-    {
-      "name": "Panza",
-      "url": "https://www.producthunt.com/products/panza-2",
-      "source": "product_hunt",
-      "rank_now": 28,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
       "name": "Inflight",
       "url": "https://www.producthunt.com/products/inflight-2",
       "source": "product_hunt",
-      "rank_now": 29,
-      "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
-    },
-    {
-      "name": "RunInfra",
-      "url": "https://www.producthunt.com/products/runinfra",
-      "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
       "name": "Manual SEO Tool",
@@ -252,7 +252,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     },
     {
       "name": "Workflow Copilot",
@@ -262,7 +262,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-10-20 21:25:15 UTC+08:00"
+      "fetched_at": "2026-10-21 03:54:25 UTC+08:00"
     }
   ],
   "errors": []
