@@ -399,6 +399,66 @@
       "keyword": "embed calendly in react website",
       "track": "复杂集成",
       "heat": "hot"
+    },
+    {
+      "keyword": "local llm setup",
+      "track": "本地 Agent 工作流",
+      "heat": "hot"
+    },
+    {
+      "keyword": "ollama n8n",
+      "track": "本地 Agent 工作流",
+      "heat": "hot"
+    },
+    {
+      "keyword": "self hosted ai agent",
+      "track": "本地 Agent 工作流",
+      "heat": "hot"
+    },
+    {
+      "keyword": "mcp server setup",
+      "track": "本地 Agent 工作流",
+      "heat": "hot"
+    },
+    {
+      "keyword": "claude code local workflow",
+      "track": "本地 Agent 工作流",
+      "heat": "hot"
+    },
+    {
+      "keyword": "n8n ai agent docker",
+      "track": "本地 Agent 工作流",
+      "heat": "hot"
+    },
+    {
+      "keyword": "private ai agent ollama",
+      "track": "本地 Agent 工作流",
+      "heat": "hot"
+    },
+    {
+      "keyword": "open webui ollama setup",
+      "track": "本地 Agent 工作流",
+      "heat": "cold"
+    },
+    {
+      "keyword": "litellm proxy local",
+      "track": "本地 Agent 工作流",
+      "heat": "cold"
+    },
+    {
+      "keyword": "ai stack homelab docker",
+      "track": "本地 Agent 工作流",
+      "heat": "cold"
+    },
+    {
+      "keyword": "cursor mcp local tools",
+      "track": "本地 Agent 工作流",
+      "heat": "cold"
+    },
+    {
+      "keyword": "self hosted rag pgvector",
+      "track": "本地 Agent 工作流",
+      "heat": "cold"
     }
   ]
 }

@@ -17,6 +17,7 @@ JOB_SEARCH_TRACKS: tuple[str, ...] = (
     "AI 上线加固",
     "AI 客服",
     "AI Agent",
+    "本地 Agent 工作流",
     "代码修复优化",
     "复杂集成",
 )
@@ -44,6 +45,10 @@ PRIORITY_QUERY_TERMS: tuple[str, ...] = (
     "appointment deposit stripe",
     "n8n ai agent",
     "stripe webhook debug",
+    "ollama n8n",
+    "self hosted ai agent",
+    "mcp server setup",
+    "local llm docker",
 )
 
 

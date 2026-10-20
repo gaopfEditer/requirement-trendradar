@@ -87,6 +87,10 @@ HARDEN_TOOLS = [
     "langchain",
     "openai api",
     "manifest v3",
+    "ollama",
+    "open webui",
+    "litellm",
+    "pgvector",
 ]
 
 HARDEN_PHRASES = [
@@ -114,6 +118,8 @@ HARDEN_PHRASES = [
     "webhook",
     "owasp",
     "rate limit",
+    "mcp server",
+    "self hosted ai",
 ]
 
 # 泛泛职称/海投词：出现且无工具点名 → 降权；仅有这些 → 排除
