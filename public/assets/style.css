@@ -35,7 +35,20 @@ header {
   justify-content: space-between;
   width: 100%;
 }
-header h1 { margin: 0; font-size: 1.25rem; font-weight: 600; }
+header h1 {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.brand-mark {
+  flex-shrink: 0;
+  display: block;
+  width: 24px;
+  height: 24px;
+}
 .site-meta-bar {
   width: 100%;
   margin-top: 0.65rem;
