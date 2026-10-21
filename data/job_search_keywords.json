@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 07:00:37 UTC+08:00",
+  "updated_at": "2026-10-21 08:30:46 UTC+08:00",
   "tracks": [
     {
       "track": "建站加预约",
@@ -299,6 +299,59 @@
       ]
     },
     {
+      "track": "本地 Agent 工作流",
+      "keywords": [
+        {
+          "keyword": "local llm setup",
+          "heat": "hot"
+        },
+        {
+          "keyword": "ollama n8n",
+          "heat": "hot"
+        },
+        {
+          "keyword": "self hosted ai agent",
+          "heat": "hot"
+        },
+        {
+          "keyword": "mcp server setup",
+          "heat": "hot"
+        },
+        {
+          "keyword": "claude code local workflow",
+          "heat": "hot"
+        },
+        {
+          "keyword": "n8n ai agent docker",
+          "heat": "hot"
+        },
+        {
+          "keyword": "private ai agent ollama",
+          "heat": "hot"
+        },
+        {
+          "keyword": "open webui ollama setup",
+          "heat": "cold"
+        },
+        {
+          "keyword": "litellm proxy local",
+          "heat": "cold"
+        },
+        {
+          "keyword": "ai stack homelab docker",
+          "heat": "cold"
+        },
+        {
+          "keyword": "cursor mcp local tools",
+          "heat": "cold"
+        },
+        {
+          "keyword": "self hosted rag pgvector",
+          "heat": "cold"
+        }
+      ]
+    },
+    {
       "track": "代码修复优化",
       "keywords": [
         {
@@ -457,6 +510,22 @@
         },
         {
           "keyword": "stripe webhook debug",
+          "heat": "hot"
+        },
+        {
+          "keyword": "ollama n8n",
+          "heat": "hot"
+        },
+        {
+          "keyword": "self hosted ai agent",
+          "heat": "hot"
+        },
+        {
+          "keyword": "mcp server setup",
+          "heat": "hot"
+        },
+        {
+          "keyword": "local llm docker",
           "heat": "hot"
         }
       ]
