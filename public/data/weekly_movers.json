@@ -1,85 +1,144 @@
 {
-  "week": "2026-W42",
-  "generated_at": "2026-10-16T09:00:00+08:00",
-  "source": "fixture",
+  "week": "2026-W43",
+  "generated_at": "2026-10-22T00:52:07+08:00",
+  "source": "computed",
   "timezone_label": "香港",
-  "skipped": "insufficient_history",
-  "keywords_top": [
-    {
-      "rank": 1,
-      "keyword": "make.com alternative",
-      "geo": "US",
-      "track": "自动化平台",
-      "interest_now": 28,
-      "interest_prev": 15,
-      "delta": 13,
-      "growth_score": 13,
-      "pay_intent_score": 3,
-      "slope_90d": "上升"
-    },
-    {
-      "rank": 2,
-      "keyword": "lovable",
-      "geo": "US",
-      "track": "AI 建站",
-      "interest_now": 68,
-      "interest_prev": 58,
-      "delta": 10,
-      "growth_score": 10,
-      "pay_intent_score": 2,
-      "slope_90d": "上升"
-    },
-    {
-      "rank": 3,
-      "keyword": "ai app audit",
-      "geo": "US",
-      "track": "AI 工具",
-      "interest_now": 42,
-      "interest_prev": 35,
-      "delta": 7,
-      "growth_score": 7,
-      "pay_intent_score": 3,
-      "slope_90d": "上升"
-    }
-  ],
+  "keywords_top": [],
   "apps_top": [
     {
-      "rank": 1,
-      "name": "Lovable",
-      "url": "https://www.producthunt.com/products/lovable",
+      "name": "Burrow MacOS",
+      "url": "https://www.producthunt.com/products/burrow-macos",
       "source": "product_hunt",
-      "rank_now": 3,
-      "rank_prev": 12,
+      "rank_now": 1,
+      "rank_prev": 28,
+      "rank_delta": -27,
+      "growth_score": 27,
+      "signal_note": "排名上升 27 位",
+      "new_entry": false,
+      "rank": 1
+    },
+    {
+      "name": "Woven Video",
+      "url": "https://www.producthunt.com/products/woven-video",
+      "source": "product_hunt",
+      "rank_now": 2,
+      "rank_prev": 23,
+      "rank_delta": -21,
+      "growth_score": 21,
+      "signal_note": "排名上升 21 位",
+      "new_entry": false,
+      "rank": 2
+    },
+    {
+      "name": "PrivOS",
+      "url": "https://www.producthunt.com/products/privos",
+      "source": "product_hunt",
+      "rank_now": 8,
+      "rank_prev": 29,
+      "rank_delta": -21,
+      "growth_score": 21,
+      "signal_note": "排名上升 21 位",
+      "new_entry": false,
+      "rank": 3
+    },
+    {
+      "name": "Nimbalyst Wiki",
+      "url": "https://www.producthunt.com/products/nimbalyst-wiki",
+      "source": "product_hunt",
+      "rank_now": 6,
+      "rank_prev": 21,
+      "rank_delta": -15,
+      "growth_score": 15,
+      "signal_note": "排名上升 15 位",
+      "new_entry": false,
+      "rank": 4
+    },
+    {
+      "name": "Agent Pets",
+      "url": "https://www.producthunt.com/products/agent-pets",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "rank_prev": 25,
+      "rank_delta": -13,
+      "growth_score": 13,
+      "signal_note": "排名上升 13 位",
+      "new_entry": false,
+      "rank": 5
+    },
+    {
+      "name": "The Library",
+      "url": "https://www.producthunt.com/products/querri",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "rank_prev": 16,
       "rank_delta": -9,
       "growth_score": 9,
       "signal_note": "排名上升 9 位",
-      "new_entry": false
+      "new_entry": false,
+      "rank": 6
     },
     {
-      "rank": 2,
-      "name": "n8n",
-      "url": "https://www.producthunt.com/products/n8n",
+      "name": "Needle",
+      "url": "https://www.producthunt.com/products/needle-3",
       "source": "product_hunt",
-      "rank_now": 8,
-      "rank_prev": 14,
+      "rank_now": 18,
+      "rank_prev": 27,
+      "rank_delta": -9,
+      "growth_score": 9,
+      "signal_note": "排名上升 9 位",
+      "new_entry": false,
+      "rank": 7
+    },
+    {
+      "name": "iglass",
+      "url": "https://www.producthunt.com/products/iglass",
+      "source": "product_hunt",
+      "rank_now": 16,
+      "rank_prev": 22,
       "rank_delta": -6,
       "growth_score": 6,
       "signal_note": "排名上升 6 位",
-      "new_entry": false
+      "new_entry": false,
+      "rank": 8
+    },
+    {
+      "name": "Intelli for ChatGPT & Claude",
+      "url": "https://www.producthunt.com/products/intelli",
+      "source": "product_hunt",
+      "rank_now": 13,
+      "rank_prev": 18,
+      "rank_delta": -5,
+      "growth_score": 5,
+      "signal_note": "排名上升 5 位",
+      "new_entry": false,
+      "rank": 9
+    },
+    {
+      "name": "ilha",
+      "url": "https://www.producthunt.com/products/ilha",
+      "source": "product_hunt",
+      "rank_now": 4,
+      "rank_prev": 8,
+      "rank_delta": -4,
+      "growth_score": 4,
+      "signal_note": "排名上升 4 位",
+      "new_entry": false,
+      "rank": 10
     }
   ],
   "new_entries": [
     {
-      "rank": 1,
-      "name": "SuperLocalMemory",
-      "url": "https://www.producthunt.com/products/superlocalmemory-v2",
+      "name": "Koi",
+      "url": "https://www.producthunt.com/products/koi-2",
       "source": "product_hunt",
-      "rank_now": 1,
+      "rank_now": 3,
       "rank_prev": null,
       "rank_delta": null,
       "growth_score": null,
       "signal_note": "新进榜",
-      "new_entry": true
+      "new_entry": true,
+      "rank": 1
     }
-  ]
+  ],
+  "skipped": null
 }
