@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 17:13:06 UTC+08:00",
+  "updated_at": "2026-10-21 20:51:43 UTC+08:00",
   "tracks": [
     {
       "track": "建站加预约",
@@ -131,6 +131,75 @@
         },
         {
           "keyword": "appointment deposit stripe checkout setup",
+          "heat": "cold"
+        }
+      ]
+    },
+    {
+      "track": "预约+支付",
+      "keywords": [
+        {
+          "keyword": "booking system with payment",
+          "heat": "hot"
+        },
+        {
+          "keyword": "booking system Stripe",
+          "heat": "hot"
+        },
+        {
+          "keyword": "salon booking with payment",
+          "heat": "hot"
+        },
+        {
+          "keyword": "salon booking Stripe",
+          "heat": "hot"
+        },
+        {
+          "keyword": "appointment scheduling with payment",
+          "heat": "hot"
+        },
+        {
+          "keyword": "Calendly alternative",
+          "heat": "hot"
+        },
+        {
+          "keyword": "deposit booking system",
+          "heat": "hot"
+        },
+        {
+          "keyword": "online booking Stripe",
+          "heat": "hot"
+        },
+        {
+          "keyword": "gym booking with payment",
+          "heat": "hot"
+        },
+        {
+          "keyword": "consulting booking with payment",
+          "heat": "hot"
+        },
+        {
+          "keyword": "nail salon booking",
+          "heat": "hot"
+        },
+        {
+          "keyword": "multi-provider booking",
+          "heat": "cold"
+        },
+        {
+          "keyword": "booking for companion service",
+          "heat": "cold"
+        },
+        {
+          "keyword": "class pack booking system",
+          "heat": "cold"
+        },
+        {
+          "keyword": "calendar booking with payment",
+          "heat": "cold"
+        },
+        {
+          "keyword": "discovery call booking",
           "heat": "cold"
         }
       ]
@@ -502,6 +571,22 @@
         },
         {
           "keyword": "appointment deposit stripe",
+          "heat": "hot"
+        },
+        {
+          "keyword": "booking system Stripe",
+          "heat": "hot"
+        },
+        {
+          "keyword": "salon booking with payment",
+          "heat": "hot"
+        },
+        {
+          "keyword": "deposit booking system",
+          "heat": "hot"
+        },
+        {
+          "keyword": "multi-provider booking",
           "heat": "hot"
         },
         {

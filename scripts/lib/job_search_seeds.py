@@ -14,6 +14,7 @@ PUBLIC_JOB_SEARCH_KEYWORDS_PATH = PUBLIC_DATA_DIR / "job_search_keywords.json"
 JOB_SEARCH_TRACKS: tuple[str, ...] = (
     "建站加预约",
     "预约工具接入",
+    "预约+支付",
     "AI 上线加固",
     "AI 客服",
     "AI Agent",
@@ -43,6 +44,10 @@ PRIORITY_QUERY_TERMS: tuple[str, ...] = (
     "chrome extension mv3",
     "code review security",
     "appointment deposit stripe",
+    "booking system Stripe",
+    "salon booking with payment",
+    "deposit booking system",
+    "multi-provider booking",
     "n8n ai agent",
     "stripe webhook debug",
     "ollama n8n",
