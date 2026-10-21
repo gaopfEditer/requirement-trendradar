@@ -459,6 +459,86 @@
       "keyword": "self hosted rag pgvector",
       "track": "本地 Agent 工作流",
       "heat": "cold"
+    },
+    {
+      "keyword": "booking system with payment",
+      "track": "预约+支付",
+      "heat": "hot"
+    },
+    {
+      "keyword": "booking system Stripe",
+      "track": "预约+支付",
+      "heat": "hot"
+    },
+    {
+      "keyword": "salon booking with payment",
+      "track": "预约+支付",
+      "heat": "hot"
+    },
+    {
+      "keyword": "salon booking Stripe",
+      "track": "预约+支付",
+      "heat": "hot"
+    },
+    {
+      "keyword": "appointment scheduling with payment",
+      "track": "预约+支付",
+      "heat": "hot"
+    },
+    {
+      "keyword": "Calendly alternative",
+      "track": "预约+支付",
+      "heat": "hot"
+    },
+    {
+      "keyword": "deposit booking system",
+      "track": "预约+支付",
+      "heat": "hot"
+    },
+    {
+      "keyword": "online booking Stripe",
+      "track": "预约+支付",
+      "heat": "hot"
+    },
+    {
+      "keyword": "gym booking with payment",
+      "track": "预约+支付",
+      "heat": "hot"
+    },
+    {
+      "keyword": "consulting booking with payment",
+      "track": "预约+支付",
+      "heat": "hot"
+    },
+    {
+      "keyword": "nail salon booking",
+      "track": "预约+支付",
+      "heat": "hot"
+    },
+    {
+      "keyword": "multi-provider booking",
+      "track": "预约+支付",
+      "heat": "cold"
+    },
+    {
+      "keyword": "booking for companion service",
+      "track": "预约+支付",
+      "heat": "cold"
+    },
+    {
+      "keyword": "class pack booking system",
+      "track": "预约+支付",
+      "heat": "cold"
+    },
+    {
+      "keyword": "calendar booking with payment",
+      "track": "预约+支付",
+      "heat": "cold"
+    },
+    {
+      "keyword": "discovery call booking",
+      "track": "预约+支付",
+      "heat": "cold"
     }
   ]
 }
