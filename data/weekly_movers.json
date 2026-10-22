@@ -1,168 +1,85 @@
 {
   "week": "2026-W43",
-  "generated_at": "2026-10-22T11:51:45+08:00",
-  "source": "computed",
+  "generated_at": "2026-10-22T17:16:44+08:00",
+  "source": "fixture",
   "timezone_label": "香港",
-  "keywords_top": [],
+  "keywords_top": [
+    {
+      "rank": 1,
+      "keyword": "make.com alternative",
+      "geo": "US",
+      "track": "自动化平台",
+      "interest_now": 28,
+      "interest_prev": 15,
+      "delta": 13,
+      "growth_score": 13,
+      "pay_intent_score": 3,
+      "slope_90d": "上升"
+    },
+    {
+      "rank": 2,
+      "keyword": "lovable",
+      "geo": "US",
+      "track": "AI 建站",
+      "interest_now": 68,
+      "interest_prev": 58,
+      "delta": 10,
+      "growth_score": 10,
+      "pay_intent_score": 2,
+      "slope_90d": "上升"
+    },
+    {
+      "rank": 3,
+      "keyword": "ai app audit",
+      "geo": "US",
+      "track": "AI 工具",
+      "interest_now": 42,
+      "interest_prev": 35,
+      "delta": 7,
+      "growth_score": 7,
+      "pay_intent_score": 3,
+      "slope_90d": "上升"
+    }
+  ],
   "apps_top": [
     {
-      "name": "Needle",
-      "url": "https://www.producthunt.com/products/needle-3",
-      "source": "product_hunt",
-      "rank_now": 1,
-      "rank_prev": 27,
-      "rank_delta": -26,
-      "growth_score": 26,
-      "signal_note": "排名上升 26 位",
-      "new_entry": false,
-      "rank": 1
-    },
-    {
-      "name": "Woven Video",
-      "url": "https://www.producthunt.com/products/woven-video",
-      "source": "product_hunt",
-      "rank_now": 2,
-      "rank_prev": 23,
-      "rank_delta": -21,
-      "growth_score": 21,
-      "signal_note": "排名上升 21 位",
-      "new_entry": false,
-      "rank": 2
-    },
-    {
-      "name": "Blooio",
-      "url": "https://www.producthunt.com/products/blooio-imessages-api-that-scales",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "rank_prev": 19,
-      "rank_delta": -14,
-      "growth_score": 14,
-      "signal_note": "排名上升 14 位",
-      "new_entry": false,
-      "rank": 3
-    },
-    {
-      "name": "PrivOS",
-      "url": "https://www.producthunt.com/products/privos",
-      "source": "product_hunt",
-      "rank_now": 15,
-      "rank_prev": 29,
-      "rank_delta": -14,
-      "growth_score": 14,
-      "signal_note": "排名上升 14 位",
-      "new_entry": false,
-      "rank": 4
-    },
-    {
-      "name": "The Library",
-      "url": "https://www.producthunt.com/products/querri",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "rank_prev": 16,
-      "rank_delta": -12,
-      "growth_score": 12,
-      "signal_note": "排名上升 12 位",
-      "new_entry": false,
-      "rank": 5
-    },
-    {
-      "name": "NativeShip",
-      "url": "https://www.producthunt.com/products/nativeship",
-      "source": "product_hunt",
-      "rank_now": 25,
-      "rank_prev": 30,
-      "rank_delta": -5,
-      "growth_score": 5,
-      "signal_note": "排名上升 5 位",
-      "new_entry": false,
-      "rank": 6
-    },
-    {
-      "name": "Intelli for ChatGPT & Claude",
-      "url": "https://www.producthunt.com/products/intelli",
-      "source": "product_hunt",
-      "rank_now": 14,
-      "rank_prev": 18,
-      "rank_delta": -4,
-      "growth_score": 4,
-      "signal_note": "排名上升 4 位",
-      "new_entry": false,
-      "rank": 7
-    },
-    {
-      "name": "UseIt Studio",
-      "url": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery",
+      "rank": 1,
+      "name": "Lovable",
+      "url": "https://www.producthunt.com/products/lovable",
       "source": "product_hunt",
       "rank_now": 3,
-      "rank_prev": 6,
-      "rank_delta": -3,
-      "growth_score": 3,
-      "signal_note": "排名上升 3 位",
-      "new_entry": false,
-      "rank": 8
+      "rank_prev": 12,
+      "rank_delta": -9,
+      "growth_score": 9,
+      "signal_note": "排名上升 9 位",
+      "new_entry": false
     },
     {
-      "name": "Lea by LeanAIOS",
-      "url": "https://www.producthunt.com/products/lea-by-leanaios",
+      "rank": 2,
+      "name": "n8n",
+      "url": "https://www.producthunt.com/products/n8n",
       "source": "product_hunt",
-      "rank_now": 17,
-      "rank_prev": 20,
-      "rank_delta": -3,
-      "growth_score": 3,
-      "signal_note": "排名上升 3 位",
-      "new_entry": false,
-      "rank": 9
-    },
-    {
-      "name": "The Brains",
-      "url": "https://www.producthunt.com/products/the-brains",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "rank_prev": 9,
-      "rank_delta": -2,
-      "growth_score": 2,
-      "signal_note": "排名上升 2 位",
-      "new_entry": false,
-      "rank": 10
+      "rank_now": 8,
+      "rank_prev": 14,
+      "rank_delta": -6,
+      "growth_score": 6,
+      "signal_note": "排名上升 6 位",
+      "new_entry": false
     }
   ],
   "new_entries": [
     {
-      "name": "Koi",
-      "url": "https://www.producthunt.com/products/koi-2",
+      "rank": 1,
+      "name": "SuperLocalMemory",
+      "url": "https://www.producthunt.com/products/superlocalmemory-v2",
       "source": "product_hunt",
-      "rank_now": 6,
+      "rank_now": 1,
       "rank_prev": null,
       "rank_delta": null,
       "growth_score": null,
       "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 1
-    },
-    {
-      "name": "SuperCMO AI",
-      "url": "https://www.producthunt.com/products/supercmo-ai",
-      "source": "product_hunt",
-      "rank_now": 11,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 2
-    },
-    {
-      "name": "Searchtok",
-      "url": "https://www.producthunt.com/products/searchtok",
-      "source": "product_hunt",
-      "rank_now": 13,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 3
+      "new_entry": true
     }
   ],
-  "skipped": null
+  "skipped": "insufficient_history"
 }
