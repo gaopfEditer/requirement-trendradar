@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23 00:19:37 UTC+08:00",
-  "run_id": "20261023-001838-3637b930",
+  "updated_at": "2026-10-23 00:52:24 UTC+08:00",
+  "run_id": "20261023-005125-6a406642",
   "source_note": "Freelancer public API search; Fiverr public only; no login; no bid. HTTP 403 login/bot wall at https://www.fiverr.com/buyer_requests",
   "ingest": {
     "freelancer": {
@@ -61,7 +61,7 @@
       "recommend_note": "三关未过：一期:看不出可切的一期; 竞争:投标过多（135≥100）",
       "budget_raw": "₹75000.0-150000.0",
       "score": 67.0,
-      "fetched_at": "2026-10-23 00:19:35 UTC+08:00",
+      "fetched_at": "2026-10-23 00:52:23 UTC+08:00",
       "proposals_count": 135,
       "bid_count": 135,
       "votes": null
@@ -109,7 +109,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹600.0-1500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:19:08 UTC+08:00",
+      "fetched_at": "2026-10-23 00:51:55 UTC+08:00",
       "proposals_count": 17,
       "bid_count": 17,
       "votes": null
@@ -148,7 +148,7 @@
         {
           "name": "竞争",
           "pass": false,
-          "reason": "投标过多（280≥100）"
+          "reason": "投标过多（281≥100）"
         }
       ],
       "all_gates_pass": false,
@@ -157,9 +157,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$30.0-250.0",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:19:31 UTC+08:00",
-      "proposals_count": 280,
-      "bid_count": 280,
+      "fetched_at": "2026-10-23 00:52:19 UTC+08:00",
+      "proposals_count": 281,
+      "bid_count": 281,
       "votes": null
     },
     {
@@ -196,7 +196,7 @@
         {
           "name": "竞争",
           "pass": true,
-          "reason": "投标偏多（76），谨慎"
+          "reason": "投标偏多（80），谨慎"
         }
       ],
       "all_gates_pass": false,
@@ -205,9 +205,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$15.0-25.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:18:41 UTC+08:00",
-      "proposals_count": 76,
-      "bid_count": 76,
+      "fetched_at": "2026-10-23 00:51:28 UTC+08:00",
+      "proposals_count": 80,
+      "bid_count": 80,
       "votes": null
     },
     {
@@ -244,7 +244,7 @@
         {
           "name": "竞争",
           "pass": true,
-          "reason": "投标数 51"
+          "reason": "投标数 52"
         }
       ],
       "all_gates_pass": false,
@@ -253,9 +253,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹12500.0-37500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:18:41 UTC+08:00",
-      "proposals_count": 51,
-      "bid_count": 51,
+      "fetched_at": "2026-10-23 00:51:28 UTC+08:00",
+      "proposals_count": 52,
+      "bid_count": 52,
       "votes": null
     },
     {
@@ -301,7 +301,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹400.0-750.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:18:54 UTC+08:00",
+      "fetched_at": "2026-10-23 00:51:41 UTC+08:00",
       "proposals_count": 150,
       "bid_count": 150,
       "votes": null
@@ -349,7 +349,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹600.0-1500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:19:29 UTC+08:00",
+      "fetched_at": "2026-10-23 00:52:16 UTC+08:00",
       "proposals_count": 14,
       "bid_count": 14,
       "votes": null
@@ -388,7 +388,7 @@
         {
           "name": "竞争",
           "pass": false,
-          "reason": "投标过多（297≥100）"
+          "reason": "投标过多（299≥100）"
         }
       ],
       "all_gates_pass": false,
@@ -397,9 +397,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$10.0-30.0",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:19:31 UTC+08:00",
-      "proposals_count": 297,
-      "bid_count": 297,
+      "fetched_at": "2026-10-23 00:52:19 UTC+08:00",
+      "proposals_count": 299,
+      "bid_count": 299,
       "votes": null
     },
     {
@@ -436,7 +436,7 @@
         {
           "name": "竞争",
           "pass": true,
-          "reason": "投标偏多（93），谨慎"
+          "reason": "投标偏多（95），谨慎"
         }
       ],
       "all_gates_pass": false,
@@ -445,9 +445,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹1500.0-12500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:19:08 UTC+08:00",
-      "proposals_count": 93,
-      "bid_count": 93,
+      "fetched_at": "2026-10-23 00:51:55 UTC+08:00",
+      "proposals_count": 95,
+      "bid_count": 95,
       "votes": null
     },
     {
@@ -484,7 +484,7 @@
         {
           "name": "竞争",
           "pass": true,
-          "reason": "投标数 44"
+          "reason": "投标数 45"
         }
       ],
       "all_gates_pass": false,
@@ -493,9 +493,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹600.0-1500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:19:08 UTC+08:00",
-      "proposals_count": 44,
-      "bid_count": 44,
+      "fetched_at": "2026-10-23 00:51:55 UTC+08:00",
+      "proposals_count": 45,
+      "bid_count": 45,
       "votes": null
     },
     {
@@ -541,7 +541,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$25.0-50.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:18:51 UTC+08:00",
+      "fetched_at": "2026-10-23 00:51:38 UTC+08:00",
       "proposals_count": 51,
       "bid_count": 51,
       "votes": null
@@ -580,7 +580,7 @@
         {
           "name": "竞争",
           "pass": false,
-          "reason": "投标过多（419≥100）"
+          "reason": "投标过多（424≥100）"
         }
       ],
       "all_gates_pass": false,
@@ -589,9 +589,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$250.0-750.0",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:18:41 UTC+08:00",
-      "proposals_count": 419,
-      "bid_count": 419,
+      "fetched_at": "2026-10-23 00:51:28 UTC+08:00",
+      "proposals_count": 424,
+      "bid_count": 424,
       "votes": null
     },
     {
@@ -628,7 +628,7 @@
         {
           "name": "竞争",
           "pass": true,
-          "reason": "投标数 34"
+          "reason": "投标数 36"
         }
       ],
       "all_gates_pass": false,
@@ -637,9 +637,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$750.0-1500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:18:41 UTC+08:00",
-      "proposals_count": 34,
-      "bid_count": 34,
+      "fetched_at": "2026-10-23 00:51:28 UTC+08:00",
+      "proposals_count": 36,
+      "bid_count": 36,
       "votes": null
     },
     {
@@ -685,7 +685,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹120000.0-150000.0",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:19:29 UTC+08:00",
+      "fetched_at": "2026-10-23 00:52:16 UTC+08:00",
       "proposals_count": 66,
       "bid_count": 66,
       "votes": null
@@ -733,7 +733,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹1500.0-12500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:19:29 UTC+08:00",
+      "fetched_at": "2026-10-23 00:52:16 UTC+08:00",
       "proposals_count": 76,
       "bid_count": 76,
       "votes": null
@@ -781,7 +781,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$250.0-750.0",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:18:47 UTC+08:00",
+      "fetched_at": "2026-10-23 00:51:34 UTC+08:00",
       "proposals_count": 344,
       "bid_count": 344,
       "votes": null
@@ -820,7 +820,7 @@
         {
           "name": "竞争",
           "pass": true,
-          "reason": "投标数 44"
+          "reason": "投标数 53"
         }
       ],
       "all_gates_pass": false,
@@ -829,9 +829,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹1500.0-12500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:18:41 UTC+08:00",
-      "proposals_count": 44,
-      "bid_count": 44,
+      "fetched_at": "2026-10-23 00:51:28 UTC+08:00",
+      "proposals_count": 53,
+      "bid_count": 53,
       "votes": null
     },
     {
@@ -877,7 +877,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹12500.0-37500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:18:47 UTC+08:00",
+      "fetched_at": "2026-10-23 00:51:34 UTC+08:00",
       "proposals_count": 24,
       "bid_count": 24,
       "votes": null
@@ -925,7 +925,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$2.0-8.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:19:31 UTC+08:00",
+      "fetched_at": "2026-10-23 00:52:19 UTC+08:00",
       "proposals_count": 23,
       "bid_count": 23,
       "votes": null
@@ -973,7 +973,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$15.0-25.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:19:31 UTC+08:00",
+      "fetched_at": "2026-10-23 00:52:19 UTC+08:00",
       "proposals_count": 113,
       "bid_count": 113,
       "votes": null
@@ -1021,7 +1021,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹600.0-1500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:18:54 UTC+08:00",
+      "fetched_at": "2026-10-23 00:51:41 UTC+08:00",
       "proposals_count": 91,
       "bid_count": 91,
       "votes": null
@@ -1060,7 +1060,7 @@
         {
           "name": "竞争",
           "pass": false,
-          "reason": "投标过多（242≥100）"
+          "reason": "投标过多（243≥100）"
         }
       ],
       "all_gates_pass": false,
@@ -1069,9 +1069,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$10.0-30.0",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:18:54 UTC+08:00",
-      "proposals_count": 242,
-      "bid_count": 242,
+      "fetched_at": "2026-10-23 00:51:41 UTC+08:00",
+      "proposals_count": 243,
+      "bid_count": 243,
       "votes": null
     },
     {
@@ -1117,7 +1117,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹12500.0-37500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:18:54 UTC+08:00",
+      "fetched_at": "2026-10-23 00:51:41 UTC+08:00",
       "proposals_count": 191,
       "bid_count": 191,
       "votes": null
@@ -1156,7 +1156,7 @@
         {
           "name": "竞争",
           "pass": true,
-          "reason": "投标数 13"
+          "reason": "投标数 14"
         }
       ],
       "all_gates_pass": false,
@@ -1165,9 +1165,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹600.0-1500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:18:41 UTC+08:00",
-      "proposals_count": 13,
-      "bid_count": 13,
+      "fetched_at": "2026-10-23 00:51:28 UTC+08:00",
+      "proposals_count": 14,
+      "bid_count": 14,
       "votes": null
     },
     {
@@ -1204,7 +1204,7 @@
         {
           "name": "竞争",
           "pass": false,
-          "reason": "投标过多（296≥100）"
+          "reason": "投标过多（301≥100）"
         }
       ],
       "all_gates_pass": false,
@@ -1213,9 +1213,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$25.0-50.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-10-23 00:19:31 UTC+08:00",
-      "proposals_count": 296,
-      "bid_count": 296,
+      "fetched_at": "2026-10-23 00:52:19 UTC+08:00",
+      "proposals_count": 301,
+      "bid_count": 301,
       "votes": null
     },
     {
@@ -1264,7 +1264,7 @@
       "recommend_note": "三关未过：竞争:投标过多（341≥100）",
       "budget_raw": "£250.0-750.0",
       "score": 45.0,
-      "fetched_at": "2026-10-23 00:18:54 UTC+08:00",
+      "fetched_at": "2026-10-23 00:51:41 UTC+08:00",
       "proposals_count": 341,
       "bid_count": 341,
       "votes": null
@@ -1315,7 +1315,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$25.0-50.0/hr",
       "score": 10.0,
-      "fetched_at": "2026-10-23 00:18:39 UTC+08:00",
+      "fetched_at": "2026-10-23 00:51:25 UTC+08:00",
       "proposals_count": 73,
       "bid_count": 73,
       "votes": null
@@ -1365,7 +1365,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹12500.0-37500.0",
       "score": 10.0,
-      "fetched_at": "2026-10-23 00:18:54 UTC+08:00",
+      "fetched_at": "2026-10-23 00:51:41 UTC+08:00",
       "proposals_count": 159,
       "bid_count": 159,
       "votes": null
@@ -1415,7 +1415,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$30.0-250.0",
       "score": 10.0,
-      "fetched_at": "2026-10-23 00:18:54 UTC+08:00",
+      "fetched_at": "2026-10-23 00:51:41 UTC+08:00",
       "proposals_count": 345,
       "bid_count": 345,
       "votes": null
