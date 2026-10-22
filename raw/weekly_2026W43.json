@@ -1,6 +1,6 @@
 {
   "week": "2026-W43",
-  "generated_at": "2026-10-22T07:05:52+08:00",
+  "generated_at": "2026-10-22T11:51:45+08:00",
   "source": "computed",
   "timezone_label": "香港",
   "keywords_top": [],
@@ -18,40 +18,16 @@
       "rank": 1
     },
     {
-      "name": "Hotly",
-      "url": "https://www.producthunt.com/products/hotly",
-      "source": "product_hunt",
-      "rank_now": 2,
-      "rank_prev": 26,
-      "rank_delta": -24,
-      "growth_score": 24,
-      "signal_note": "排名上升 24 位",
-      "new_entry": false,
-      "rank": 2
-    },
-    {
       "name": "Woven Video",
       "url": "https://www.producthunt.com/products/woven-video",
       "source": "product_hunt",
-      "rank_now": 3,
+      "rank_now": 2,
       "rank_prev": 23,
-      "rank_delta": -20,
-      "growth_score": 20,
-      "signal_note": "排名上升 20 位",
+      "rank_delta": -21,
+      "growth_score": 21,
+      "signal_note": "排名上升 21 位",
       "new_entry": false,
-      "rank": 3
-    },
-    {
-      "name": "iglass",
-      "url": "https://www.producthunt.com/products/iglass",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "rank_prev": 22,
-      "rank_delta": -15,
-      "growth_score": 15,
-      "signal_note": "排名上升 15 位",
-      "new_entry": false,
-      "rank": 4
+      "rank": 2
     },
     {
       "name": "Blooio",
@@ -63,70 +39,106 @@
       "growth_score": 14,
       "signal_note": "排名上升 14 位",
       "new_entry": false,
-      "rank": 5
-    },
-    {
-      "name": "Burrow MacOS",
-      "url": "https://www.producthunt.com/products/burrow-macos",
-      "source": "product_hunt",
-      "rank_now": 15,
-      "rank_prev": 28,
-      "rank_delta": -13,
-      "growth_score": 13,
-      "signal_note": "排名上升 13 位",
-      "new_entry": false,
-      "rank": 6
-    },
-    {
-      "name": "NativeShip",
-      "url": "https://www.producthunt.com/products/nativeship",
-      "source": "product_hunt",
-      "rank_now": 17,
-      "rank_prev": 30,
-      "rank_delta": -13,
-      "growth_score": 13,
-      "signal_note": "排名上升 13 位",
-      "new_entry": false,
-      "rank": 7
-    },
-    {
-      "name": "Scout by Fini",
-      "url": "https://www.producthunt.com/products/fini-2",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "rank_prev": 17,
-      "rank_delta": -11,
-      "growth_score": 11,
-      "signal_note": "排名上升 11 位",
-      "new_entry": false,
-      "rank": 8
-    },
-    {
-      "name": "Agent Pets",
-      "url": "https://www.producthunt.com/products/agent-pets",
-      "source": "product_hunt",
-      "rank_now": 14,
-      "rank_prev": 25,
-      "rank_delta": -11,
-      "growth_score": 11,
-      "signal_note": "排名上升 11 位",
-      "new_entry": false,
-      "rank": 9
+      "rank": 3
     },
     {
       "name": "PrivOS",
       "url": "https://www.producthunt.com/products/privos",
       "source": "product_hunt",
-      "rank_now": 20,
+      "rank_now": 15,
       "rank_prev": 29,
-      "rank_delta": -9,
-      "growth_score": 9,
-      "signal_note": "排名上升 9 位",
+      "rank_delta": -14,
+      "growth_score": 14,
+      "signal_note": "排名上升 14 位",
+      "new_entry": false,
+      "rank": 4
+    },
+    {
+      "name": "The Library",
+      "url": "https://www.producthunt.com/products/querri",
+      "source": "product_hunt",
+      "rank_now": 4,
+      "rank_prev": 16,
+      "rank_delta": -12,
+      "growth_score": 12,
+      "signal_note": "排名上升 12 位",
+      "new_entry": false,
+      "rank": 5
+    },
+    {
+      "name": "NativeShip",
+      "url": "https://www.producthunt.com/products/nativeship",
+      "source": "product_hunt",
+      "rank_now": 25,
+      "rank_prev": 30,
+      "rank_delta": -5,
+      "growth_score": 5,
+      "signal_note": "排名上升 5 位",
+      "new_entry": false,
+      "rank": 6
+    },
+    {
+      "name": "Intelli for ChatGPT & Claude",
+      "url": "https://www.producthunt.com/products/intelli",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "rank_prev": 18,
+      "rank_delta": -4,
+      "growth_score": 4,
+      "signal_note": "排名上升 4 位",
+      "new_entry": false,
+      "rank": 7
+    },
+    {
+      "name": "UseIt Studio",
+      "url": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery",
+      "source": "product_hunt",
+      "rank_now": 3,
+      "rank_prev": 6,
+      "rank_delta": -3,
+      "growth_score": 3,
+      "signal_note": "排名上升 3 位",
+      "new_entry": false,
+      "rank": 8
+    },
+    {
+      "name": "Lea by LeanAIOS",
+      "url": "https://www.producthunt.com/products/lea-by-leanaios",
+      "source": "product_hunt",
+      "rank_now": 17,
+      "rank_prev": 20,
+      "rank_delta": -3,
+      "growth_score": 3,
+      "signal_note": "排名上升 3 位",
+      "new_entry": false,
+      "rank": 9
+    },
+    {
+      "name": "The Brains",
+      "url": "https://www.producthunt.com/products/the-brains",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "rank_prev": 9,
+      "rank_delta": -2,
+      "growth_score": 2,
+      "signal_note": "排名上升 2 位",
       "new_entry": false,
       "rank": 10
     }
   ],
   "new_entries": [
+    {
+      "name": "Koi",
+      "url": "https://www.producthunt.com/products/koi-2",
+      "source": "product_hunt",
+      "rank_now": 6,
+      "rank_prev": null,
+      "rank_delta": null,
+      "growth_score": null,
+      "signal_note": "新进榜",
+      "new_entry": true,
+      "rank": 1
+    },
     {
       "name": "SuperCMO AI",
       "url": "https://www.producthunt.com/products/supercmo-ai",
@@ -137,25 +149,13 @@
       "growth_score": null,
       "signal_note": "新进榜",
       "new_entry": true,
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "Searchtok",
       "url": "https://www.producthunt.com/products/searchtok",
       "source": "product_hunt",
-      "rank_now": 19,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 2
-    },
-    {
-      "name": "Koi",
-      "url": "https://www.producthunt.com/products/koi-2",
-      "source": "product_hunt",
-      "rank_now": 21,
+      "rank_now": 13,
       "rank_prev": null,
       "rank_delta": null,
       "growth_score": null,
