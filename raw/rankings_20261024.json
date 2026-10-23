@@ -1,0 +1,269 @@
+{
+  "run_id": "20261024-004235-1ef57eb5",
+  "fetched_at": "2026-10-24 00:42:35 UTC+08:00",
+  "source_version": "producthunt-atom-feed-v1",
+  "items": [
+    {
+      "name": "Product Hunt Visual Launch Editor",
+      "url": "https://www.producthunt.com/products/producthunt",
+      "source": "product_hunt",
+      "rank_now": 1,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "MOVO AI",
+      "url": "https://www.producthunt.com/products/movo-ai",
+      "source": "product_hunt",
+      "rank_now": 2,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "ShogunAI",
+      "url": "https://www.producthunt.com/products/shogunai",
+      "source": "product_hunt",
+      "rank_now": 3,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Gerty",
+      "url": "https://www.producthunt.com/products/gerty",
+      "source": "product_hunt",
+      "rank_now": 4,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Dots Phone",
+      "url": "https://www.producthunt.com/products/dots-phone",
+      "source": "product_hunt",
+      "rank_now": 5,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "DotMD",
+      "url": "https://www.producthunt.com/products/dotmd-3",
+      "source": "product_hunt",
+      "rank_now": 6,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Headroom",
+      "url": "https://www.producthunt.com/products/headroom-5",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Termi Protocol",
+      "url": "https://www.producthunt.com/products/termi-protocol",
+      "source": "product_hunt",
+      "rank_now": 8,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Truffle",
+      "url": "https://www.producthunt.com/products/truffle-music-tag-editor",
+      "source": "product_hunt",
+      "rank_now": 9,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Peras",
+      "url": "https://www.producthunt.com/products/peras",
+      "source": "product_hunt",
+      "rank_now": 10,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Dots",
+      "url": "https://www.producthunt.com/products/dots-7",
+      "source": "product_hunt",
+      "rank_now": 11,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Inyon",
+      "url": "https://www.producthunt.com/products/inyon",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "ElevenLabs Realtime",
+      "url": "https://www.producthunt.com/products/realtime-max-mini",
+      "source": "product_hunt",
+      "rank_now": 13,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Agent Hunt",
+      "url": "https://www.producthunt.com/products/monid",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "FLUX 3 Max",
+      "url": "https://www.producthunt.com/products/fal-ai",
+      "source": "product_hunt",
+      "rank_now": 15,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Instant Search",
+      "url": "https://www.producthunt.com/products/instant-search-2",
+      "source": "product_hunt",
+      "rank_now": 16,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Polylane for Cloudflare",
+      "url": "https://www.producthunt.com/products/polylane",
+      "source": "product_hunt",
+      "rank_now": 17,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Monish",
+      "url": "https://www.producthunt.com/products/monish",
+      "source": "product_hunt",
+      "rank_now": 18,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Cloudflare Clairic",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "source": "product_hunt",
+      "rank_now": 19,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Ovren Live Preview",
+      "url": "https://www.producthunt.com/products/ovren",
+      "source": "product_hunt",
+      "rank_now": 20,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Context Engine",
+      "url": "https://www.producthunt.com/products/context-engine-2",
+      "source": "product_hunt",
+      "rank_now": 21,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Plango",
+      "url": "https://www.producthunt.com/products/plango",
+      "source": "product_hunt",
+      "rank_now": 22,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Dub Startup Program",
+      "url": "https://www.producthunt.com/products/dub",
+      "source": "product_hunt",
+      "rank_now": 23,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Bloblings",
+      "url": "https://www.producthunt.com/products/bloblings",
+      "source": "product_hunt",
+      "rank_now": 24,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Doneas",
+      "url": "https://www.producthunt.com/products/doneas",
+      "source": "product_hunt",
+      "rank_now": 25,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Mercury 3",
+      "url": "https://www.producthunt.com/products/mercury-412",
+      "source": "product_hunt",
+      "rank_now": 26,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Teclo",
+      "url": "https://www.producthunt.com/products/teclo",
+      "source": "product_hunt",
+      "rank_now": 27,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Kugel Ear",
+      "url": "https://www.producthunt.com/products/kugelaudio",
+      "source": "product_hunt",
+      "rank_now": 28,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Whiteboard",
+      "url": "https://www.producthunt.com/products/whiteboard-5",
+      "source": "product_hunt",
+      "rank_now": 29,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Playad",
+      "url": "https://www.producthunt.com/products/playad",
+      "source": "product_hunt",
+      "rank_now": 30,
+      "category_tags": [],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Manual SEO Tool",
+      "url": "https://example.com/seo",
+      "source": "manual_csv",
+      "rank_now": 15,
+      "category_tags": [
+        "SEO",
+        "Marketing"
+      ],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    },
+    {
+      "name": "Workflow Copilot",
+      "url": "https://example.com/wf",
+      "source": "manual_csv",
+      "rank_now": 22,
+      "category_tags": [
+        "Automation"
+      ],
+      "fetched_at": "2026-10-24 00:42:35 UTC+08:00"
+    }
+  ],
+  "errors": []
+}

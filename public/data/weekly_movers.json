@@ -1,85 +1,180 @@
 {
   "week": "2026-W43",
-  "generated_at": "2026-10-23T17:13:09+08:00",
-  "source": "fixture",
+  "generated_at": "2026-10-24T00:43:35+08:00",
+  "source": "computed",
   "timezone_label": "香港",
-  "keywords_top": [
-    {
-      "rank": 1,
-      "keyword": "make.com alternative",
-      "geo": "US",
-      "track": "自动化平台",
-      "interest_now": 28,
-      "interest_prev": 15,
-      "delta": 13,
-      "growth_score": 13,
-      "pay_intent_score": 3,
-      "slope_90d": "上升"
-    },
-    {
-      "rank": 2,
-      "keyword": "lovable",
-      "geo": "US",
-      "track": "AI 建站",
-      "interest_now": 68,
-      "interest_prev": 58,
-      "delta": 10,
-      "growth_score": 10,
-      "pay_intent_score": 2,
-      "slope_90d": "上升"
-    },
-    {
-      "rank": 3,
-      "keyword": "ai app audit",
-      "geo": "US",
-      "track": "AI 工具",
-      "interest_now": 42,
-      "interest_prev": 35,
-      "delta": 7,
-      "growth_score": 7,
-      "pay_intent_score": 3,
-      "slope_90d": "上升"
-    }
-  ],
+  "keywords_top": [],
   "apps_top": [
     {
-      "rank": 1,
-      "name": "Lovable",
-      "url": "https://www.producthunt.com/products/lovable",
+      "name": "ShogunAI",
+      "url": "https://www.producthunt.com/products/shogunai",
       "source": "product_hunt",
       "rank_now": 3,
-      "rank_prev": 12,
+      "rank_prev": 23,
+      "rank_delta": -20,
+      "growth_score": 20,
+      "signal_note": "排名上升 20 位",
+      "new_entry": false,
+      "rank": 1
+    },
+    {
+      "name": "DotMD",
+      "url": "https://www.producthunt.com/products/dotmd-3",
+      "source": "product_hunt",
+      "rank_now": 6,
+      "rank_prev": 19,
+      "rank_delta": -13,
+      "growth_score": 13,
+      "signal_note": "排名上升 13 位",
+      "new_entry": false,
+      "rank": 2
+    },
+    {
+      "name": "MOVO AI",
+      "url": "https://www.producthunt.com/products/movo-ai",
+      "source": "product_hunt",
+      "rank_now": 2,
+      "rank_prev": 14,
+      "rank_delta": -12,
+      "growth_score": 12,
+      "signal_note": "排名上升 12 位",
+      "new_entry": false,
+      "rank": 3
+    },
+    {
+      "name": "Truffle",
+      "url": "https://www.producthunt.com/products/truffle-music-tag-editor",
+      "source": "product_hunt",
+      "rank_now": 9,
+      "rank_prev": 21,
+      "rank_delta": -12,
+      "growth_score": 12,
+      "signal_note": "排名上升 12 位",
+      "new_entry": false,
+      "rank": 4
+    },
+    {
+      "name": "Gerty",
+      "url": "https://www.producthunt.com/products/gerty",
+      "source": "product_hunt",
+      "rank_now": 4,
+      "rank_prev": 13,
       "rank_delta": -9,
       "growth_score": 9,
       "signal_note": "排名上升 9 位",
-      "new_entry": false
+      "new_entry": false,
+      "rank": 5
     },
     {
-      "rank": 2,
-      "name": "n8n",
-      "url": "https://www.producthunt.com/products/n8n",
+      "name": "Headroom",
+      "url": "https://www.producthunt.com/products/headroom-5",
       "source": "product_hunt",
-      "rank_now": 8,
-      "rank_prev": 14,
+      "rank_now": 7,
+      "rank_prev": 16,
+      "rank_delta": -9,
+      "growth_score": 9,
+      "signal_note": "排名上升 9 位",
+      "new_entry": false,
+      "rank": 6
+    },
+    {
+      "name": "Agent Hunt",
+      "url": "https://www.producthunt.com/products/monid",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "rank_prev": 20,
       "rank_delta": -6,
       "growth_score": 6,
       "signal_note": "排名上升 6 位",
-      "new_entry": false
+      "new_entry": false,
+      "rank": 7
+    },
+    {
+      "name": "Dots",
+      "url": "https://www.producthunt.com/products/dots-7",
+      "source": "product_hunt",
+      "rank_now": 11,
+      "rank_prev": 15,
+      "rank_delta": -4,
+      "growth_score": 4,
+      "signal_note": "排名上升 4 位",
+      "new_entry": false,
+      "rank": 8
+    },
+    {
+      "name": "Product Hunt Visual Launch Editor",
+      "url": "https://www.producthunt.com/products/producthunt",
+      "source": "product_hunt",
+      "rank_now": 1,
+      "rank_prev": 4,
+      "rank_delta": -3,
+      "growth_score": 3,
+      "signal_note": "排名上升 3 位",
+      "new_entry": false,
+      "rank": 9
+    },
+    {
+      "name": "FLUX 3 Max",
+      "url": "https://www.producthunt.com/products/fal-ai",
+      "source": "product_hunt",
+      "rank_now": 15,
+      "rank_prev": 17,
+      "rank_delta": -2,
+      "growth_score": 2,
+      "signal_note": "排名上升 2 位",
+      "new_entry": false,
+      "rank": 10
     }
   ],
   "new_entries": [
     {
-      "rank": 1,
-      "name": "SuperLocalMemory",
-      "url": "https://www.producthunt.com/products/superlocalmemory-v2",
+      "name": "Doneas",
+      "url": "https://www.producthunt.com/products/doneas",
       "source": "product_hunt",
-      "rank_now": 1,
+      "rank_now": 25,
       "rank_prev": null,
       "rank_delta": null,
       "growth_score": null,
       "signal_note": "新进榜",
-      "new_entry": true
+      "new_entry": true,
+      "rank": 1
+    },
+    {
+      "name": "Teclo",
+      "url": "https://www.producthunt.com/products/teclo",
+      "source": "product_hunt",
+      "rank_now": 27,
+      "rank_prev": null,
+      "rank_delta": null,
+      "growth_score": null,
+      "signal_note": "新进榜",
+      "new_entry": true,
+      "rank": 2
+    },
+    {
+      "name": "Whiteboard",
+      "url": "https://www.producthunt.com/products/whiteboard-5",
+      "source": "product_hunt",
+      "rank_now": 29,
+      "rank_prev": null,
+      "rank_delta": null,
+      "growth_score": null,
+      "signal_note": "新进榜",
+      "new_entry": true,
+      "rank": 3
+    },
+    {
+      "name": "Playad",
+      "url": "https://www.producthunt.com/products/playad",
+      "source": "product_hunt",
+      "rank_now": 30,
+      "rank_prev": null,
+      "rank_delta": null,
+      "growth_score": null,
+      "signal_note": "新进榜",
+      "new_entry": true,
+      "rank": 4
     }
   ],
-  "skipped": "insufficient_history"
+  "skipped": null
 }
