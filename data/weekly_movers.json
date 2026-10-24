@@ -1,51 +1,27 @@
 {
   "week": "2026-W43",
-  "generated_at": "2026-10-24T16:46:26+08:00",
+  "generated_at": "2026-10-24T23:36:53+08:00",
   "source": "computed",
   "timezone_label": "香港",
   "keywords_top": [],
   "apps_top": [
     {
-      "name": "Dub Startup Program",
-      "url": "https://www.producthunt.com/products/dub",
+      "name": "Plango",
+      "url": "https://www.producthunt.com/products/plango",
       "source": "product_hunt",
-      "rank_now": 18,
-      "rank_prev": 24,
-      "rank_delta": -6,
-      "growth_score": 6,
-      "signal_note": "排名上升 6 位",
+      "rank_now": 19,
+      "rank_prev": 22,
+      "rank_delta": -3,
+      "growth_score": 3,
+      "signal_note": "排名上升 3 位",
       "new_entry": false,
       "rank": 1
-    },
-    {
-      "name": "Bloblings",
-      "url": "https://www.producthunt.com/products/bloblings",
-      "source": "product_hunt",
-      "rank_now": 16,
-      "rank_prev": 18,
-      "rank_delta": -2,
-      "growth_score": 2,
-      "signal_note": "排名上升 2 位",
-      "new_entry": false,
-      "rank": 2
-    },
-    {
-      "name": "ShogunAI",
-      "url": "https://www.producthunt.com/products/shogunai",
-      "source": "product_hunt",
-      "rank_now": 21,
-      "rank_prev": 23,
-      "rank_delta": -2,
-      "growth_score": 2,
-      "signal_note": "排名上升 2 位",
-      "new_entry": false,
-      "rank": 3
     }
   ],
   "new_entries": [
     {
-      "name": "Basedash Scheduled CSV Exports",
-      "url": "https://www.producthunt.com/products/basedash",
+      "name": "myPip",
+      "url": "https://www.producthunt.com/products/mypip-2",
       "source": "product_hunt",
       "rank_now": 1,
       "rank_prev": null,
@@ -56,8 +32,8 @@
       "rank": 1
     },
     {
-      "name": "How It Went",
-      "url": "https://www.producthunt.com/products/how-it-went",
+      "name": "sideOS.ai",
+      "url": "https://www.producthunt.com/products/sideos-ai",
       "source": "product_hunt",
       "rank_now": 2,
       "rank_prev": null,
@@ -68,8 +44,8 @@
       "rank": 2
     },
     {
-      "name": "sideOS.ai",
-      "url": "https://www.producthunt.com/products/sideos-ai",
+      "name": "Basedash Scheduled CSV Exports",
+      "url": "https://www.producthunt.com/products/basedash",
       "source": "product_hunt",
       "rank_now": 3,
       "rank_prev": null,
@@ -80,8 +56,8 @@
       "rank": 3
     },
     {
-      "name": "myPip",
-      "url": "https://www.producthunt.com/products/mypip-2",
+      "name": "Byter",
+      "url": "https://www.producthunt.com/products/byter",
       "source": "product_hunt",
       "rank_now": 4,
       "rank_prev": null,
@@ -92,8 +68,8 @@
       "rank": 4
     },
     {
-      "name": "AgentValley",
-      "url": "https://www.producthunt.com/products/agentvalley",
+      "name": "River Writer",
+      "url": "https://www.producthunt.com/products/river-writer",
       "source": "product_hunt",
       "rank_now": 5,
       "rank_prev": null,
@@ -104,8 +80,8 @@
       "rank": 5
     },
     {
-      "name": "zCAD AI",
-      "url": "https://www.producthunt.com/products/zcad-ai",
+      "name": "How It Went",
+      "url": "https://www.producthunt.com/products/how-it-went",
       "source": "product_hunt",
       "rank_now": 6,
       "rank_prev": null,
@@ -116,8 +92,8 @@
       "rank": 6
     },
     {
-      "name": "River Writer",
-      "url": "https://www.producthunt.com/products/river-writer",
+      "name": "Canva Craft",
+      "url": "https://www.producthunt.com/products/canva",
       "source": "product_hunt",
       "rank_now": 7,
       "rank_prev": null,
@@ -128,8 +104,8 @@
       "rank": 7
     },
     {
-      "name": "LinkIntel",
-      "url": "https://www.producthunt.com/products/linkintel",
+      "name": "Many Displays",
+      "url": "https://www.producthunt.com/products/many-displays",
       "source": "product_hunt",
       "rank_now": 8,
       "rank_prev": null,
@@ -140,8 +116,8 @@
       "rank": 8
     },
     {
-      "name": "Byter",
-      "url": "https://www.producthunt.com/products/byter",
+      "name": "LinkIntel",
+      "url": "https://www.producthunt.com/products/linkintel",
       "source": "product_hunt",
       "rank_now": 9,
       "rank_prev": null,
@@ -152,8 +128,8 @@
       "rank": 9
     },
     {
-      "name": "Shedi",
-      "url": "https://www.producthunt.com/products/shedi",
+      "name": "1Password for Agents",
+      "url": "https://www.producthunt.com/products/1password",
       "source": "product_hunt",
       "rank_now": 10,
       "rank_prev": null,
