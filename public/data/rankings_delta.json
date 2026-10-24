@@ -1,135 +1,113 @@
 {
-  "updated_at": "2026-10-25 02:39:21 UTC+08:00",
+  "updated_at": "2026-10-25 06:18:35 UTC+08:00",
   "items": [
-    {
-      "name": "myPip",
-      "url": "https://www.producthunt.com/products/mypip-2",
-      "source": "product_hunt",
-      "rank_now": 1,
-      "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": 1,
-      "rank_delta": 0,
-      "signal_note": "持平"
-    },
-    {
-      "name": "Many Displays",
-      "url": "https://www.producthunt.com/products/many-displays",
-      "source": "product_hunt",
-      "rank_now": 2,
-      "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": 8,
-      "rank_delta": -6,
-      "signal_note": "排名上升 6 位"
-    },
-    {
-      "name": "River Writer",
-      "url": "https://www.producthunt.com/products/river-writer",
-      "source": "product_hunt",
-      "rank_now": 3,
-      "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": 5,
-      "rank_delta": -2,
-      "signal_note": "排名上升 2 位"
-    },
-    {
-      "name": "Canva Craft",
-      "url": "https://www.producthunt.com/products/canva",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": 7,
-      "rank_delta": -3,
-      "signal_note": "排名上升 3 位"
-    },
-    {
-      "name": "zCAD AI",
-      "url": "https://www.producthunt.com/products/zcad-ai",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": 12,
-      "rank_delta": -7,
-      "signal_note": "排名上升 7 位"
-    },
     {
       "name": "1Password for Agents",
       "url": "https://www.producthunt.com/products/1password",
       "source": "product_hunt",
-      "rank_now": 6,
+      "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
       "rank_prev": 10,
-      "rank_delta": -4,
-      "signal_note": "排名上升 4 位"
+      "rank_delta": -9,
+      "signal_note": "排名上升 9 位"
     },
     {
-      "name": "Shedi",
-      "url": "https://www.producthunt.com/products/shedi",
+      "name": "myPip",
+      "url": "https://www.producthunt.com/products/mypip-2",
       "source": "product_hunt",
-      "rank_now": 7,
+      "rank_now": 2,
       "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": 13,
-      "rank_delta": -6,
-      "signal_note": "排名上升 6 位"
-    },
-    {
-      "name": "LinkIntel",
-      "url": "https://www.producthunt.com/products/linkintel",
-      "source": "product_hunt",
-      "rank_now": 8,
-      "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": 9,
-      "rank_delta": -1,
-      "signal_note": "排名上升 1 位"
-    },
-    {
-      "name": "Basedash Scheduled CSV Exports",
-      "url": "https://www.producthunt.com/products/basedash",
-      "source": "product_hunt",
-      "rank_now": 9,
-      "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": 3,
-      "rank_delta": 6,
-      "signal_note": "排名下降 6 位"
-    },
-    {
-      "name": "sideOS.ai",
-      "url": "https://www.producthunt.com/products/sideos-ai",
-      "source": "product_hunt",
-      "rank_now": 10,
-      "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": 2,
-      "rank_delta": 8,
-      "signal_note": "排名下降 8 位"
-    },
-    {
-      "name": "Byter",
-      "url": "https://www.producthunt.com/products/byter",
-      "source": "product_hunt",
-      "rank_now": 11,
-      "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": 4,
-      "rank_delta": 7,
-      "signal_note": "排名下降 7 位"
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 1,
+      "rank_delta": 1,
+      "signal_note": "排名下降 1 位"
     },
     {
       "name": "How It Went",
       "url": "https://www.producthunt.com/products/how-it-went",
       "source": "product_hunt",
-      "rank_now": 12,
+      "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
       "rank_prev": 6,
+      "rank_delta": -3,
+      "signal_note": "排名上升 3 位"
+    },
+    {
+      "name": "sideOS.ai",
+      "url": "https://www.producthunt.com/products/sideos-ai",
+      "source": "product_hunt",
+      "rank_now": 4,
+      "category_tags": [],
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 2,
+      "rank_delta": 2,
+      "signal_note": "排名下降 2 位"
+    },
+    {
+      "name": "River Writer",
+      "url": "https://www.producthunt.com/products/river-writer",
+      "source": "product_hunt",
+      "rank_now": 5,
+      "category_tags": [],
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 5,
+      "rank_delta": 0,
+      "signal_note": "持平"
+    },
+    {
+      "name": "LinkIntel",
+      "url": "https://www.producthunt.com/products/linkintel",
+      "source": "product_hunt",
+      "rank_now": 6,
+      "category_tags": [],
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 9,
+      "rank_delta": -3,
+      "signal_note": "排名上升 3 位"
+    },
+    {
+      "name": "Many Displays",
+      "url": "https://www.producthunt.com/products/many-displays",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "category_tags": [],
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 8,
+      "rank_delta": -1,
+      "signal_note": "排名上升 1 位"
+    },
+    {
+      "name": "zCAD AI",
+      "url": "https://www.producthunt.com/products/zcad-ai",
+      "source": "product_hunt",
+      "rank_now": 8,
+      "category_tags": [],
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 12,
+      "rank_delta": -4,
+      "signal_note": "排名上升 4 位"
+    },
+    {
+      "name": "Canva Craft",
+      "url": "https://www.producthunt.com/products/canva",
+      "source": "product_hunt",
+      "rank_now": 9,
+      "category_tags": [],
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 7,
+      "rank_delta": 2,
+      "signal_note": "排名下降 2 位"
+    },
+    {
+      "name": "Byter",
+      "url": "https://www.producthunt.com/products/byter",
+      "source": "product_hunt",
+      "rank_now": 10,
+      "category_tags": [],
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 4,
       "rank_delta": 6,
       "signal_note": "排名下降 6 位"
     },
@@ -137,45 +115,67 @@
       "name": "Penta",
       "url": "https://www.producthunt.com/products/penta-cd-player-changer",
       "source": "product_hunt",
-      "rank_now": 13,
+      "rank_now": 11,
       "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
       "rank_prev": 14,
-      "rank_delta": -1,
-      "signal_note": "排名上升 1 位"
+      "rank_delta": -3,
+      "signal_note": "排名上升 3 位"
+    },
+    {
+      "name": "Basedash Scheduled CSV Exports",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 3,
+      "rank_delta": 9,
+      "signal_note": "排名下降 9 位"
     },
     {
       "name": "AgentValley",
       "url": "https://www.producthunt.com/products/agentvalley",
       "source": "product_hunt",
-      "rank_now": 14,
+      "rank_now": 13,
       "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
       "rank_prev": 11,
-      "rank_delta": 3,
-      "signal_note": "排名下降 3 位"
+      "rank_delta": 2,
+      "signal_note": "排名下降 2 位"
     },
     {
-      "name": "Plango",
-      "url": "https://www.producthunt.com/products/plango",
+      "name": "Shedi",
+      "url": "https://www.producthunt.com/products/shedi",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "category_tags": [],
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 13,
+      "rank_delta": 1,
+      "signal_note": "排名下降 1 位"
+    },
+    {
+      "name": "DotMD",
+      "url": "https://www.producthunt.com/products/dotmd-3",
       "source": "product_hunt",
       "rank_now": 15,
       "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": 19,
-      "rank_delta": -4,
-      "signal_note": "排名上升 4 位"
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 22,
+      "rank_delta": -7,
+      "signal_note": "排名上升 7 位"
     },
     {
-      "name": "Dub Startup Program",
-      "url": "https://www.producthunt.com/products/dub",
+      "name": "ElevenLabs Realtime",
+      "url": "https://www.producthunt.com/products/realtime-max-mini",
       "source": "product_hunt",
       "rank_now": 16,
       "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": null,
-      "rank_delta": null,
-      "signal_note": "新进榜"
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 17,
+      "rank_delta": -1,
+      "signal_note": "排名上升 1 位"
     },
     {
       "name": "Cloudflare Clairic",
@@ -183,84 +183,18 @@
       "source": "product_hunt",
       "rank_now": 17,
       "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
       "rank_prev": 20,
       "rank_delta": -3,
       "signal_note": "排名上升 3 位"
     },
     {
-      "name": "Monish",
-      "url": "https://www.producthunt.com/products/monish",
-      "source": "product_hunt",
-      "rank_now": 18,
-      "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": null,
-      "rank_delta": null,
-      "signal_note": "新进榜"
-    },
-    {
-      "name": "MOVO AI",
-      "url": "https://www.producthunt.com/products/movo-ai",
-      "source": "product_hunt",
-      "rank_now": 19,
-      "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": 15,
-      "rank_delta": 4,
-      "signal_note": "排名下降 4 位"
-    },
-    {
-      "name": "Context Engine",
-      "url": "https://www.producthunt.com/products/context-engine-2",
-      "source": "product_hunt",
-      "rank_now": 20,
-      "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": 28,
-      "rank_delta": -8,
-      "signal_note": "排名上升 8 位"
-    },
-    {
-      "name": "ElevenLabs Realtime",
-      "url": "https://www.producthunt.com/products/realtime-max-mini",
-      "source": "product_hunt",
-      "rank_now": 21,
-      "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": 17,
-      "rank_delta": 4,
-      "signal_note": "排名下降 4 位"
-    },
-    {
-      "name": "Product Hunt Visual Launch Editor",
-      "url": "https://www.producthunt.com/products/producthunt",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": 16,
-      "rank_delta": 6,
-      "signal_note": "排名下降 6 位"
-    },
-    {
-      "name": "DotMD",
-      "url": "https://www.producthunt.com/products/dotmd-3",
-      "source": "product_hunt",
-      "rank_now": 23,
-      "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": 22,
-      "rank_delta": 1,
-      "signal_note": "排名下降 1 位"
-    },
-    {
       "name": "Gerty",
       "url": "https://www.producthunt.com/products/gerty",
       "source": "product_hunt",
-      "rank_now": 24,
+      "rank_now": 18,
       "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
       "rank_prev": null,
       "rank_delta": null,
       "signal_note": "新进榜"
@@ -269,64 +203,130 @@
       "name": "Termi Protocol",
       "url": "https://www.producthunt.com/products/termi-protocol",
       "source": "product_hunt",
-      "rank_now": 25,
+      "rank_now": 19,
       "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
       "rank_prev": 21,
-      "rank_delta": 4,
-      "signal_note": "排名下降 4 位"
+      "rank_delta": -2,
+      "signal_note": "排名上升 2 位"
     },
     {
-      "name": "Agent Hunt",
-      "url": "https://www.producthunt.com/products/monid",
+      "name": "Ovren Live Preview",
+      "url": "https://www.producthunt.com/products/ovren",
       "source": "product_hunt",
-      "rank_now": 26,
+      "rank_now": 20,
       "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": 30,
-      "rank_delta": -4,
-      "signal_note": "排名上升 4 位"
-    },
-    {
-      "name": "Headroom",
-      "url": "https://www.producthunt.com/products/headroom-5",
-      "source": "product_hunt",
-      "rank_now": 27,
-      "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
-      "rank_prev": null,
-      "rank_delta": null,
-      "signal_note": "新进榜"
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 18,
+      "rank_delta": 2,
+      "signal_note": "排名下降 2 位"
     },
     {
       "name": "Inyon",
       "url": "https://www.producthunt.com/products/inyon",
       "source": "product_hunt",
-      "rank_now": 28,
+      "rank_now": 21,
       "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
       "rank_prev": 25,
-      "rank_delta": 3,
-      "signal_note": "排名下降 3 位"
+      "rank_delta": -4,
+      "signal_note": "排名上升 4 位"
     },
     {
       "name": "Peras",
       "url": "https://www.producthunt.com/products/peras",
       "source": "product_hunt",
-      "rank_now": 29,
+      "rank_now": 22,
       "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
       "rank_prev": 24,
+      "rank_delta": -2,
+      "signal_note": "排名上升 2 位"
+    },
+    {
+      "name": "MOVO AI",
+      "url": "https://www.producthunt.com/products/movo-ai",
+      "source": "product_hunt",
+      "rank_now": 23,
+      "category_tags": [],
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 15,
+      "rank_delta": 8,
+      "signal_note": "排名下降 8 位"
+    },
+    {
+      "name": "FLUX 3 Max",
+      "url": "https://www.producthunt.com/products/fal-ai",
+      "source": "product_hunt",
+      "rank_now": 24,
+      "category_tags": [],
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 26,
+      "rank_delta": -2,
+      "signal_note": "排名上升 2 位"
+    },
+    {
+      "name": "Dots Phone",
+      "url": "https://www.producthunt.com/products/dots-phone",
+      "source": "product_hunt",
+      "rank_now": 25,
+      "category_tags": [],
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "ShogunAI",
+      "url": "https://www.producthunt.com/products/shogunai",
+      "source": "product_hunt",
+      "rank_now": 26,
+      "category_tags": [],
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 27,
+      "rank_delta": -1,
+      "signal_note": "排名上升 1 位"
+    },
+    {
+      "name": "Product Hunt Visual Launch Editor",
+      "url": "https://www.producthunt.com/products/producthunt",
+      "source": "product_hunt",
+      "rank_now": 27,
+      "category_tags": [],
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 16,
+      "rank_delta": 11,
+      "signal_note": "排名下降 11 位"
+    },
+    {
+      "name": "Dots",
+      "url": "https://www.producthunt.com/products/dots-7",
+      "source": "product_hunt",
+      "rank_now": 28,
+      "category_tags": [],
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 23,
       "rank_delta": 5,
       "signal_note": "排名下降 5 位"
     },
     {
-      "name": "Polylane for Cloudflare",
-      "url": "https://www.producthunt.com/products/polylane",
+      "name": "Plango",
+      "url": "https://www.producthunt.com/products/plango",
+      "source": "product_hunt",
+      "rank_now": 29,
+      "category_tags": [],
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
+      "rank_prev": 19,
+      "rank_delta": 10,
+      "signal_note": "排名下降 10 位"
+    },
+    {
+      "name": "Truffle",
+      "url": "https://www.producthunt.com/products/truffle-music-tag-editor",
       "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
       "rank_prev": null,
       "rank_delta": null,
       "signal_note": "新进榜"
@@ -340,7 +340,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
       "rank_prev": 15,
       "rank_delta": 0,
       "signal_note": "持平"
@@ -353,54 +353,21 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00",
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00",
       "rank_prev": 22,
       "rank_delta": 0,
       "signal_note": "持平"
     },
     {
-      "name": "Ovren Live Preview",
+      "name": "Context Engine",
       "url": "",
       "source": "product_hunt",
       "rank_now": null,
-      "rank_prev": 18,
+      "rank_prev": 28,
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00"
-    },
-    {
-      "name": "Dots",
-      "url": "",
-      "source": "product_hunt",
-      "rank_now": null,
-      "rank_prev": 23,
-      "rank_delta": null,
-      "category_tags": [],
-      "signal_note": "掉出榜",
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00"
-    },
-    {
-      "name": "FLUX 3 Max",
-      "url": "",
-      "source": "product_hunt",
-      "rank_now": null,
-      "rank_prev": 26,
-      "rank_delta": null,
-      "category_tags": [],
-      "signal_note": "掉出榜",
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00"
-    },
-    {
-      "name": "ShogunAI",
-      "url": "",
-      "source": "product_hunt",
-      "rank_now": null,
-      "rank_prev": 27,
-      "rank_delta": null,
-      "category_tags": [],
-      "signal_note": "掉出榜",
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00"
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00"
     },
     {
       "name": "Instant Search",
@@ -411,7 +378,18 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-10-25 02:39:21 UTC+08:00"
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00"
+    },
+    {
+      "name": "Agent Hunt",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 30,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-10-25 06:18:35 UTC+08:00"
     }
   ]
 }
