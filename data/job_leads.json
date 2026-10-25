@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26 02:49:06 UTC+08:00",
-  "run_id": "20261026-024808-a136875c",
+  "updated_at": "2026-10-26 06:11:43 UTC+08:00",
+  "run_id": "20261026-061043-fcc72b7b",
   "source_note": "Freelancer public API search; Fiverr public only; no login; no bid. HTTP 403 login/bot wall at https://www.fiverr.com/buyer_requests",
   "ingest": {
     "freelancer": {
@@ -54,18 +54,18 @@
         {
           "name": "竞争",
           "pass": false,
-          "reason": "投标过多（297≥100）"
+          "reason": "投标过多（300≥100）"
         }
       ],
       "all_gates_pass": false,
       "veto": null,
       "recommend": false,
-      "recommend_note": "三关未过：一期:看不出可切的一期; 竞争:投标过多（297≥100）",
+      "recommend_note": "三关未过：一期:看不出可切的一期; 竞争:投标过多（300≥100）",
       "budget_raw": "$250.0-750.0",
       "score": 75.0,
-      "fetched_at": "2026-10-26 02:48:14 UTC+08:00",
-      "proposals_count": 297,
-      "bid_count": 297,
+      "fetched_at": "2026-10-26 06:10:49 UTC+08:00",
+      "proposals_count": 300,
+      "bid_count": 300,
       "votes": null
     },
     {
@@ -113,7 +113,7 @@
       "recommend_note": "三关未过：一期:看不出可切的一期; 竞争:投标过多（145≥100）",
       "budget_raw": "₹75000.0-150000.0",
       "score": 67.0,
-      "fetched_at": "2026-10-26 02:49:05 UTC+08:00",
+      "fetched_at": "2026-10-26 06:11:42 UTC+08:00",
       "proposals_count": 145,
       "bid_count": 145,
       "votes": null
@@ -163,7 +163,7 @@
       "recommend_note": "三关未过：一期:看不出可切的一期; 竞争:投标过多（152≥100）",
       "budget_raw": "₹750.0-1250.0/hr",
       "score": 67.0,
-      "fetched_at": "2026-10-26 02:48:24 UTC+08:00",
+      "fetched_at": "2026-10-26 06:10:59 UTC+08:00",
       "proposals_count": 152,
       "bid_count": 152,
       "votes": null
@@ -211,7 +211,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$15.0-25.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:21 UTC+08:00",
+      "fetched_at": "2026-10-26 06:10:56 UTC+08:00",
       "proposals_count": 9,
       "bid_count": 9,
       "votes": null
@@ -259,7 +259,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹600.0-1500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:37 UTC+08:00",
+      "fetched_at": "2026-10-26 06:11:13 UTC+08:00",
       "proposals_count": 20,
       "bid_count": 20,
       "votes": null
@@ -307,7 +307,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$2.0-8.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:49:01 UTC+08:00",
+      "fetched_at": "2026-10-26 06:11:38 UTC+08:00",
       "proposals_count": 10,
       "bid_count": 10,
       "votes": null
@@ -355,7 +355,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$15.0-25.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:24 UTC+08:00",
+      "fetched_at": "2026-10-26 06:10:59 UTC+08:00",
       "proposals_count": 234,
       "bid_count": 234,
       "votes": null
@@ -403,7 +403,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹12500.0-37500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:14 UTC+08:00",
+      "fetched_at": "2026-10-26 06:10:49 UTC+08:00",
       "proposals_count": 94,
       "bid_count": 94,
       "votes": null
@@ -442,7 +442,7 @@
         {
           "name": "竞争",
           "pass": false,
-          "reason": "投标过多（137≥100）"
+          "reason": "投标过多（144≥100）"
         }
       ],
       "all_gates_pass": false,
@@ -451,9 +451,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$250.0-750.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:11 UTC+08:00",
-      "proposals_count": 137,
-      "bid_count": 137,
+      "fetched_at": "2026-10-26 06:10:46 UTC+08:00",
+      "proposals_count": 144,
+      "bid_count": 144,
       "votes": null
     },
     {
@@ -490,7 +490,7 @@
         {
           "name": "竞争",
           "pass": true,
-          "reason": "投标偏多（89），谨慎"
+          "reason": "投标偏多（91），谨慎"
         }
       ],
       "all_gates_pass": false,
@@ -499,9 +499,57 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹1250.0-2500.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:58 UTC+08:00",
-      "proposals_count": 89,
-      "bid_count": 89,
+      "fetched_at": "2026-10-26 06:11:35 UTC+08:00",
+      "proposals_count": 91,
+      "bid_count": 91,
+      "votes": null
+    },
+    {
+      "id": "fl-40772306",
+      "title": "Business Travel Mobile Booking UI",
+      "url": "https://www.freelancer.com/projects/figma/Business-Travel-Mobile-Booking",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "未知",
+      "keyword_tier": "none",
+      "keyword_hits": [],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": false,
+          "reason": "未命中嵌入/加固词"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": false,
+          "reason": "需求糊（说不清交付物）"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        },
+        {
+          "name": "竞争",
+          "pass": true,
+          "reason": "投标偏多（77），谨慎"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "关键词未过",
+      "budget_raw": "$250.0-750.0",
+      "score": 50.0,
+      "fetched_at": "2026-10-26 06:10:46 UTC+08:00",
+      "proposals_count": 77,
+      "bid_count": 77,
       "votes": null
     },
     {
@@ -547,7 +595,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹400.0-750.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:24 UTC+08:00",
+      "fetched_at": "2026-10-26 06:10:59 UTC+08:00",
       "proposals_count": 212,
       "bid_count": 212,
       "votes": null
@@ -595,7 +643,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹600.0-1500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:58 UTC+08:00",
+      "fetched_at": "2026-10-26 06:11:35 UTC+08:00",
       "proposals_count": 14,
       "bid_count": 14,
       "votes": null
@@ -633,8 +681,8 @@
         },
         {
           "name": "竞争",
-          "pass": true,
-          "reason": "投标偏多（97），谨慎"
+          "pass": false,
+          "reason": "投标过多（99≥100）"
         }
       ],
       "all_gates_pass": false,
@@ -643,9 +691,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$25.0-50.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:54 UTC+08:00",
-      "proposals_count": 97,
-      "bid_count": 97,
+      "fetched_at": "2026-10-26 06:11:31 UTC+08:00",
+      "proposals_count": 99,
+      "bid_count": 99,
       "votes": null
     },
     {
@@ -691,7 +739,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹1500.0-12500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:37 UTC+08:00",
+      "fetched_at": "2026-10-26 06:11:13 UTC+08:00",
       "proposals_count": 138,
       "bid_count": 138,
       "votes": null
@@ -739,9 +787,57 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹600.0-1500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:37 UTC+08:00",
+      "fetched_at": "2026-10-26 06:11:13 UTC+08:00",
       "proposals_count": 72,
       "bid_count": 72,
+      "votes": null
+    },
+    {
+      "id": "fl-40786382",
+      "title": "Drive Luxury Villa Booking Growth",
+      "url": "https://www.freelancer.com/projects/google-ads/Drive-Luxury-Villa-Booking-Growth",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "未知",
+      "keyword_tier": "none",
+      "keyword_hits": [],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": false,
+          "reason": "未命中嵌入/加固词"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": false,
+          "reason": "需求糊（说不清交付物）"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        },
+        {
+          "name": "竞争",
+          "pass": true,
+          "reason": "投标数 15"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "关键词未过",
+      "budget_raw": "₹37500.0-75000.0",
+      "score": 50.0,
+      "fetched_at": "2026-10-26 06:10:46 UTC+08:00",
+      "proposals_count": 15,
+      "bid_count": 15,
       "votes": null
     },
     {
@@ -787,7 +883,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹12500.0-37500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00",
+      "fetched_at": "2026-10-26 06:10:43 UTC+08:00",
       "proposals_count": 116,
       "bid_count": 116,
       "votes": null
@@ -826,7 +922,7 @@
         {
           "name": "竞争",
           "pass": false,
-          "reason": "投标过多（312≥100）"
+          "reason": "投标过多（324≥100）"
         }
       ],
       "all_gates_pass": false,
@@ -835,9 +931,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$250.0-750.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:11 UTC+08:00",
-      "proposals_count": 312,
-      "bid_count": 312,
+      "fetched_at": "2026-10-26 06:10:46 UTC+08:00",
+      "proposals_count": 324,
+      "bid_count": 324,
       "votes": null
     },
     {
@@ -883,57 +979,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹1500.0-12500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:17 UTC+08:00",
+      "fetched_at": "2026-10-26 06:10:52 UTC+08:00",
       "proposals_count": 81,
       "bid_count": 81,
-      "votes": null
-    },
-    {
-      "id": "fl-40786000",
-      "title": "Grow Instagram for Live Singer",
-      "url": "https://www.freelancer.com/projects/instagram-marketing/Grow-Instagram-for-Live-Singer",
-      "platform": "freelancer",
-      "status": "Open",
-      "is_open": true,
-      "track": "未知",
-      "keyword_tier": "none",
-      "keyword_hits": [],
-      "gates": [
-        {
-          "name": "关键词",
-          "pass": false,
-          "reason": "未命中嵌入/加固词"
-        },
-        {
-          "name": "预算",
-          "pass": true,
-          "reason": "有明确数字或区间"
-        },
-        {
-          "name": "清晰",
-          "pass": false,
-          "reason": "需求糊（说不清交付物）"
-        },
-        {
-          "name": "一期",
-          "pass": false,
-          "reason": "看不出可切的一期"
-        },
-        {
-          "name": "竞争",
-          "pass": true,
-          "reason": "投标数 10"
-        }
-      ],
-      "all_gates_pass": false,
-      "veto": null,
-      "recommend": false,
-      "recommend_note": "关键词未过",
-      "budget_raw": "₹100.0-400.0/hr",
-      "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:11 UTC+08:00",
-      "proposals_count": 10,
-      "bid_count": 10,
       "votes": null
     },
     {
@@ -979,7 +1027,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹1500.0-12500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:58 UTC+08:00",
+      "fetched_at": "2026-10-26 06:11:35 UTC+08:00",
       "proposals_count": 76,
       "bid_count": 76,
       "votes": null
@@ -1027,7 +1075,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$250.0-750.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:17 UTC+08:00",
+      "fetched_at": "2026-10-26 06:10:52 UTC+08:00",
       "proposals_count": 356,
       "bid_count": 356,
       "votes": null
@@ -1075,7 +1123,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹12500.0-37500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:17 UTC+08:00",
+      "fetched_at": "2026-10-26 06:10:52 UTC+08:00",
       "proposals_count": 24,
       "bid_count": 24,
       "votes": null
@@ -1114,7 +1162,7 @@
         {
           "name": "竞争",
           "pass": true,
-          "reason": "投标数 59"
+          "reason": "投标数 66"
         }
       ],
       "all_gates_pass": false,
@@ -1123,57 +1171,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹1500.0-12500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:54 UTC+08:00",
-      "proposals_count": 59,
-      "bid_count": 59,
-      "votes": null
-    },
-    {
-      "id": "fl-40785912",
-      "title": "Mobile App UI/UX Design",
-      "url": "https://www.freelancer.com/projects/ui-design/Mobile-App-Design-40785912",
-      "platform": "freelancer",
-      "status": "Open",
-      "is_open": true,
-      "track": "未知",
-      "keyword_tier": "none",
-      "keyword_hits": [],
-      "gates": [
-        {
-          "name": "关键词",
-          "pass": false,
-          "reason": "未命中嵌入/加固词"
-        },
-        {
-          "name": "预算",
-          "pass": true,
-          "reason": "有明确数字或区间"
-        },
-        {
-          "name": "清晰",
-          "pass": false,
-          "reason": "需求糊（说不清交付物）"
-        },
-        {
-          "name": "一期",
-          "pass": false,
-          "reason": "看不出可切的一期"
-        },
-        {
-          "name": "竞争",
-          "pass": true,
-          "reason": "投标偏多（89），谨慎"
-        }
-      ],
-      "all_gates_pass": false,
-      "veto": null,
-      "recommend": false,
-      "recommend_note": "关键词未过",
-      "budget_raw": "₹1500.0-12500.0",
-      "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:11 UTC+08:00",
-      "proposals_count": 89,
-      "bid_count": 89,
+      "fetched_at": "2026-10-26 06:11:31 UTC+08:00",
+      "proposals_count": 66,
+      "bid_count": 66,
       "votes": null
     },
     {
@@ -1210,7 +1210,7 @@
         {
           "name": "竞争",
           "pass": true,
-          "reason": "投标偏多（83），谨慎"
+          "reason": "投标偏多（84），谨慎"
         }
       ],
       "all_gates_pass": false,
@@ -1219,9 +1219,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹12500.0-37500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:24 UTC+08:00",
-      "proposals_count": 83,
-      "bid_count": 83,
+      "fetched_at": "2026-10-26 06:10:59 UTC+08:00",
+      "proposals_count": 84,
+      "bid_count": 84,
       "votes": null
     },
     {
@@ -1267,7 +1267,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹600.0-1500.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:24 UTC+08:00",
+      "fetched_at": "2026-10-26 06:10:59 UTC+08:00",
       "proposals_count": 106,
       "bid_count": 106,
       "votes": null
@@ -1315,7 +1315,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$15.0-25.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:58 UTC+08:00",
+      "fetched_at": "2026-10-26 06:11:35 UTC+08:00",
       "proposals_count": 35,
       "bid_count": 35,
       "votes": null
@@ -1363,7 +1363,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$15.0-25.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:21 UTC+08:00",
+      "fetched_at": "2026-10-26 06:10:56 UTC+08:00",
       "proposals_count": 22,
       "bid_count": 22,
       "votes": null
@@ -1411,7 +1411,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$2.0-8.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:49:01 UTC+08:00",
+      "fetched_at": "2026-10-26 06:11:38 UTC+08:00",
       "proposals_count": 12,
       "bid_count": 12,
       "votes": null
@@ -1450,7 +1450,7 @@
         {
           "name": "竞争",
           "pass": true,
-          "reason": "投标数 31"
+          "reason": "投标数 35"
         }
       ],
       "all_gates_pass": false,
@@ -1459,9 +1459,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹75000.0-150000.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00",
-      "proposals_count": 31,
-      "bid_count": 31,
+      "fetched_at": "2026-10-26 06:10:43 UTC+08:00",
+      "proposals_count": 35,
+      "bid_count": 35,
       "votes": null
     },
     {
@@ -1507,7 +1507,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$10.0-30.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:24 UTC+08:00",
+      "fetched_at": "2026-10-26 06:10:59 UTC+08:00",
       "proposals_count": 261,
       "bid_count": 261,
       "votes": null
@@ -1555,7 +1555,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$30.0-250.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:49:01 UTC+08:00",
+      "fetched_at": "2026-10-26 06:11:38 UTC+08:00",
       "proposals_count": 25,
       "bid_count": 25,
       "votes": null
@@ -1594,7 +1594,7 @@
         {
           "name": "竞争",
           "pass": false,
-          "reason": "投标过多（220≥100）"
+          "reason": "投标过多（236≥100）"
         }
       ],
       "all_gates_pass": false,
@@ -1603,9 +1603,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$30.0-250.0",
       "score": 50.0,
-      "fetched_at": "2026-10-26 02:48:11 UTC+08:00",
-      "proposals_count": 220,
-      "bid_count": 220,
+      "fetched_at": "2026-10-26 06:10:46 UTC+08:00",
+      "proposals_count": 236,
+      "bid_count": 236,
       "votes": null
     },
     {
@@ -1654,7 +1654,7 @@
       "recommend_note": "三关未过：竞争:投标过多（347≥100）",
       "budget_raw": "£250.0-750.0",
       "score": 45.0,
-      "fetched_at": "2026-10-26 02:48:24 UTC+08:00",
+      "fetched_at": "2026-10-26 06:10:59 UTC+08:00",
       "proposals_count": 347,
       "bid_count": 347,
       "votes": null
@@ -1695,7 +1695,7 @@
         {
           "name": "竞争",
           "pass": true,
-          "reason": "投标数 19"
+          "reason": "投标数 21"
         }
       ],
       "all_gates_pass": false,
@@ -1704,9 +1704,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹600.0-1500.0",
       "score": 10.0,
-      "fetched_at": "2026-10-26 02:48:11 UTC+08:00",
-      "proposals_count": 19,
-      "bid_count": 19,
+      "fetched_at": "2026-10-26 06:10:46 UTC+08:00",
+      "proposals_count": 21,
+      "bid_count": 21,
       "votes": null
     },
     {
@@ -1745,7 +1745,7 @@
         {
           "name": "竞争",
           "pass": false,
-          "reason": "投标过多（209≥100）"
+          "reason": "投标过多（242≥100）"
         }
       ],
       "all_gates_pass": false,
@@ -1754,9 +1754,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$250.0-750.0",
       "score": 10.0,
-      "fetched_at": "2026-10-26 02:48:11 UTC+08:00",
-      "proposals_count": 209,
-      "bid_count": 209,
+      "fetched_at": "2026-10-26 06:10:46 UTC+08:00",
+      "proposals_count": 242,
+      "bid_count": 242,
       "votes": null
     },
     {
@@ -1805,7 +1805,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$25.0-50.0/hr",
       "score": 10.0,
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00",
+      "fetched_at": "2026-10-26 06:10:43 UTC+08:00",
       "proposals_count": 95,
       "bid_count": 95,
       "votes": null
@@ -1855,7 +1855,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹12500.0-37500.0",
       "score": 10.0,
-      "fetched_at": "2026-10-26 02:48:24 UTC+08:00",
+      "fetched_at": "2026-10-26 06:10:59 UTC+08:00",
       "proposals_count": 170,
       "bid_count": 170,
       "votes": null
