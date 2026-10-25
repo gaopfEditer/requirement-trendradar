@@ -1,0 +1,93 @@
+{
+  "run_id": "20261026-024807-433bdbd6",
+  "fetched_at": "2026-10-26 02:48:07 UTC+08:00",
+  "source_version": "pytrends-4.9",
+  "trends_source": "demo",
+  "items": [
+    {
+      "keyword": "ai app audit",
+      "track": "AI 工具",
+      "geo": "US",
+      "window": "90d",
+      "interest_now": 42,
+      "slope_90d": "上升",
+      "slope_delta_est": 12.5,
+      "related_queries": [
+        "ai app audit tool",
+        "best ai audit software",
+        "how to audit ai app"
+      ],
+      "pay_intent_score": 3,
+      "pay_intent_est": true,
+      "fetched_at": "2026-10-16 10:00:00 HKT"
+    },
+    {
+      "keyword": "lovable",
+      "track": "AI 建站",
+      "geo": "US",
+      "window": "90d",
+      "interest_now": 68,
+      "slope_90d": "上升",
+      "slope_delta_est": 18.0,
+      "related_queries": [
+        "lovable app builder",
+        "lovable pricing",
+        "lovable vs bolt"
+      ],
+      "pay_intent_score": 2,
+      "pay_intent_est": true,
+      "fetched_at": "2026-10-16 10:00:00 HKT"
+    },
+    {
+      "keyword": "n8n template",
+      "track": "自动化平台",
+      "geo": "US",
+      "window": "90d",
+      "interest_now": 35,
+      "slope_90d": "持平",
+      "slope_delta_est": 1.2,
+      "related_queries": [
+        "n8n workflow template",
+        "n8n automation",
+        "n8n integration"
+      ],
+      "pay_intent_score": 2,
+      "pay_intent_est": true,
+      "fetched_at": "2026-10-16 10:00:00 HKT"
+    },
+    {
+      "keyword": "make.com alternative",
+      "track": "自动化平台",
+      "geo": "US",
+      "window": "90d",
+      "interest_now": 28,
+      "slope_90d": "上升",
+      "slope_delta_est": 7.3,
+      "related_queries": [
+        "make.com alternative free",
+        "zapier vs make.com",
+        "best make.com alternative"
+      ],
+      "pay_intent_score": 3,
+      "pay_intent_est": true,
+      "fetched_at": "2026-10-16 10:00:00 HKT"
+    },
+    {
+      "keyword": "notion slack automation",
+      "track": "办公自动化",
+      "geo": "US",
+      "window": "90d",
+      "interest_now": 22,
+      "slope_90d": "下降",
+      "slope_delta_est": -6.1,
+      "related_queries": [
+        "notion slack integration",
+        "slack automation tool"
+      ],
+      "pay_intent_score": 2,
+      "pay_intent_est": true,
+      "fetched_at": "2026-10-16 10:00:00 HKT"
+    }
+  ],
+  "errors": []
+}

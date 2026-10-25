@@ -1,0 +1,156 @@
+{
+  "week": "2026-W44",
+  "generated_at": "2026-10-26T02:49:06+08:00",
+  "source": "computed",
+  "timezone_label": "香港",
+  "keywords_top": [],
+  "apps_top": [
+    {
+      "name": "sideOS.ai",
+      "url": "https://www.producthunt.com/products/sideos-ai",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "rank_prev": 27,
+      "rank_delta": -13,
+      "growth_score": 13,
+      "signal_note": "排名上升 13 位",
+      "new_entry": false,
+      "rank": 1
+    },
+    {
+      "name": "LinkIntel",
+      "url": "https://www.producthunt.com/products/linkintel",
+      "source": "product_hunt",
+      "rank_now": 17,
+      "rank_prev": 25,
+      "rank_delta": -8,
+      "growth_score": 8,
+      "signal_note": "排名上升 8 位",
+      "new_entry": false,
+      "rank": 2
+    },
+    {
+      "name": "Llama Windows",
+      "url": "https://www.producthunt.com/products/llama-windows",
+      "source": "product_hunt",
+      "rank_now": 4,
+      "rank_prev": 9,
+      "rank_delta": -5,
+      "growth_score": 5,
+      "signal_note": "排名上升 5 位",
+      "new_entry": false,
+      "rank": 3
+    },
+    {
+      "name": "River Writer",
+      "url": "https://www.producthunt.com/products/river-writer",
+      "source": "product_hunt",
+      "rank_now": 16,
+      "rank_prev": 21,
+      "rank_delta": -5,
+      "growth_score": 5,
+      "signal_note": "排名上升 5 位",
+      "new_entry": false,
+      "rank": 4
+    },
+    {
+      "name": "Penta",
+      "url": "https://www.producthunt.com/products/penta-cd-player-changer",
+      "source": "product_hunt",
+      "rank_now": 21,
+      "rank_prev": 26,
+      "rank_delta": -5,
+      "growth_score": 5,
+      "signal_note": "排名上升 5 位",
+      "new_entry": false,
+      "rank": 5
+    },
+    {
+      "name": "AgentGrid.io",
+      "url": "https://www.producthunt.com/products/agentgrid-io",
+      "source": "product_hunt",
+      "rank_now": 1,
+      "rank_prev": 5,
+      "rank_delta": -4,
+      "growth_score": 4,
+      "signal_note": "排名上升 4 位",
+      "new_entry": false,
+      "rank": 6
+    },
+    {
+      "name": "pawl",
+      "url": "https://www.producthunt.com/products/pawl",
+      "source": "product_hunt",
+      "rank_now": 8,
+      "rank_prev": 12,
+      "rank_delta": -4,
+      "growth_score": 4,
+      "signal_note": "排名上升 4 位",
+      "new_entry": false,
+      "rank": 7
+    },
+    {
+      "name": "Clips by Plastic",
+      "url": "https://www.producthunt.com/products/clips-by-plastic",
+      "source": "product_hunt",
+      "rank_now": 2,
+      "rank_prev": 4,
+      "rank_delta": -2,
+      "growth_score": 2,
+      "signal_note": "排名上升 2 位",
+      "new_entry": false,
+      "rank": 8
+    },
+    {
+      "name": "Shedi",
+      "url": "https://www.producthunt.com/products/shedi",
+      "source": "product_hunt",
+      "rank_now": 20,
+      "rank_prev": 22,
+      "rank_delta": -2,
+      "growth_score": 2,
+      "signal_note": "排名上升 2 位",
+      "new_entry": false,
+      "rank": 9
+    },
+    {
+      "name": "Papermark Data Rooms",
+      "url": "https://www.producthunt.com/products/papermark-2",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "rank_prev": 8,
+      "rank_delta": -1,
+      "growth_score": 1,
+      "signal_note": "排名上升 1 位",
+      "new_entry": false,
+      "rank": 10
+    }
+  ],
+  "new_entries": [
+    {
+      "name": "Dots Phone",
+      "url": "https://www.producthunt.com/products/dots-phone",
+      "source": "product_hunt",
+      "rank_now": 28,
+      "rank_prev": null,
+      "rank_delta": null,
+      "growth_score": null,
+      "signal_note": "新进榜",
+      "new_entry": true,
+      "rank": 1
+    },
+    {
+      "name": "Headroom",
+      "url": "https://www.producthunt.com/products/headroom-5",
+      "source": "product_hunt",
+      "rank_now": 30,
+      "rank_prev": null,
+      "rank_delta": null,
+      "growth_score": null,
+      "signal_note": "新进榜",
+      "new_entry": true,
+      "rank": 2
+    }
+  ],
+  "skipped": null
+}
