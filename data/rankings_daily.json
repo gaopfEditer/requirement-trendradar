@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-26 02:48:08 UTC+08:00",
+  "updated_at": "2026-10-26 06:22:40 UTC+08:00",
   "date_stamp": "20261026",
-  "run_id": "20261026-024808-836adbf8",
+  "run_id": "20261026-062240-6a3d4d56",
   "items": [
     {
       "name": "AgentGrid.io",
@@ -9,63 +9,63 @@
       "source": "product_hunt",
       "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
+    },
+    {
+      "name": "Yourcast 2.0",
+      "url": "https://www.producthunt.com/products/yourcast",
+      "source": "product_hunt",
+      "rank_now": 2,
+      "category_tags": [],
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     },
     {
       "name": "Clips by Plastic",
       "url": "https://www.producthunt.com/products/clips-by-plastic",
       "source": "product_hunt",
-      "rank_now": 2,
-      "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
-    },
-    {
-      "name": "MRRaudit",
-      "url": "https://www.producthunt.com/products/mrraudit",
-      "source": "product_hunt",
       "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     },
     {
-      "name": "Llama Windows",
-      "url": "https://www.producthunt.com/products/llama-windows",
+      "name": "Openstatus Incident Management",
+      "url": "https://www.producthunt.com/products/openstatus-2",
       "source": "product_hunt",
       "rank_now": 4,
       "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
-    },
-    {
-      "name": "Moli by Lexmount",
-      "url": "https://www.producthunt.com/products/lexmount-browser",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     },
     {
       "name": "Badgey",
       "url": "https://www.producthunt.com/products/badgey",
       "source": "product_hunt",
+      "rank_now": 5,
+      "category_tags": [],
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
+    },
+    {
+      "name": "git-flow-next",
+      "url": "https://www.producthunt.com/products/tower",
+      "source": "product_hunt",
       "rank_now": 6,
       "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
+    },
+    {
+      "name": "MRRaudit",
+      "url": "https://www.producthunt.com/products/mrraudit",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "category_tags": [],
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     },
     {
       "name": "Papermark Data Rooms",
       "url": "https://www.producthunt.com/products/papermark-2",
       "source": "product_hunt",
-      "rank_now": 7,
-      "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
-    },
-    {
-      "name": "pawl",
-      "url": "https://www.producthunt.com/products/pawl",
-      "source": "product_hunt",
       "rank_now": 8,
       "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     },
     {
       "name": "How It Spread",
@@ -73,143 +73,143 @@
       "source": "product_hunt",
       "rank_now": 9,
       "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     },
     {
-      "name": "Yourcast 2.0",
-      "url": "https://www.producthunt.com/products/yourcast",
+      "name": "Moli by Lexmount",
+      "url": "https://www.producthunt.com/products/lexmount-browser",
       "source": "product_hunt",
       "rank_now": 10,
       "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
-    },
-    {
-      "name": "Openstatus Incident Management",
-      "url": "https://www.producthunt.com/products/openstatus-2",
-      "source": "product_hunt",
-      "rank_now": 11,
-      "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
-    },
-    {
-      "name": "git-flow-next",
-      "url": "https://www.producthunt.com/products/tower",
-      "source": "product_hunt",
-      "rank_now": 12,
-      "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     },
     {
       "name": "Specsight",
       "url": "https://www.producthunt.com/products/specsight",
       "source": "product_hunt",
+      "rank_now": 11,
+      "category_tags": [],
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
+    },
+    {
+      "name": "pawl",
+      "url": "https://www.producthunt.com/products/pawl",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
+    },
+    {
+      "name": "Llama Windows",
+      "url": "https://www.producthunt.com/products/llama-windows",
+      "source": "product_hunt",
       "rank_now": 13,
       "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
-    },
-    {
-      "name": "sideOS.ai",
-      "url": "https://www.producthunt.com/products/sideos-ai",
-      "source": "product_hunt",
-      "rank_now": 14,
-      "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
-    },
-    {
-      "name": "myPip",
-      "url": "https://www.producthunt.com/products/mypip-2",
-      "source": "product_hunt",
-      "rank_now": 15,
-      "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
-    },
-    {
-      "name": "River Writer",
-      "url": "https://www.producthunt.com/products/river-writer",
-      "source": "product_hunt",
-      "rank_now": 16,
-      "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
-    },
-    {
-      "name": "LinkIntel",
-      "url": "https://www.producthunt.com/products/linkintel",
-      "source": "product_hunt",
-      "rank_now": 17,
-      "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     },
     {
       "name": "zCAD AI",
       "url": "https://www.producthunt.com/products/zcad-ai",
       "source": "product_hunt",
-      "rank_now": 18,
+      "rank_now": 14,
       "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
-    },
-    {
-      "name": "1Password for Agents",
-      "url": "https://www.producthunt.com/products/1password",
-      "source": "product_hunt",
-      "rank_now": 19,
-      "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
-    },
-    {
-      "name": "Shedi",
-      "url": "https://www.producthunt.com/products/shedi",
-      "source": "product_hunt",
-      "rank_now": 20,
-      "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
-    },
-    {
-      "name": "Penta",
-      "url": "https://www.producthunt.com/products/penta-cd-player-changer",
-      "source": "product_hunt",
-      "rank_now": 21,
-      "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
-    },
-    {
-      "name": "Byter",
-      "url": "https://www.producthunt.com/products/byter",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     },
     {
       "name": "How It Went",
       "url": "https://www.producthunt.com/products/how-it-went",
       "source": "product_hunt",
-      "rank_now": 23,
+      "rank_now": 15,
       "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     },
     {
-      "name": "AgentValley",
-      "url": "https://www.producthunt.com/products/agentvalley",
+      "name": "Byter",
+      "url": "https://www.producthunt.com/products/byter",
       "source": "product_hunt",
-      "rank_now": 24,
+      "rank_now": 16,
       "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     },
     {
-      "name": "Basedash Scheduled CSV Exports",
-      "url": "https://www.producthunt.com/products/basedash",
+      "name": "Penta",
+      "url": "https://www.producthunt.com/products/penta-cd-player-changer",
       "source": "product_hunt",
-      "rank_now": 25,
+      "rank_now": 17,
       "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
+    },
+    {
+      "name": "LinkIntel",
+      "url": "https://www.producthunt.com/products/linkintel",
+      "source": "product_hunt",
+      "rank_now": 18,
+      "category_tags": [],
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     },
     {
       "name": "Canva Craft",
       "url": "https://www.producthunt.com/products/canva",
       "source": "product_hunt",
+      "rank_now": 19,
+      "category_tags": [],
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
+    },
+    {
+      "name": "1Password for Agents",
+      "url": "https://www.producthunt.com/products/1password",
+      "source": "product_hunt",
+      "rank_now": 20,
+      "category_tags": [],
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
+    },
+    {
+      "name": "myPip",
+      "url": "https://www.producthunt.com/products/mypip-2",
+      "source": "product_hunt",
+      "rank_now": 21,
+      "category_tags": [],
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
+    },
+    {
+      "name": "River Writer",
+      "url": "https://www.producthunt.com/products/river-writer",
+      "source": "product_hunt",
+      "rank_now": 22,
+      "category_tags": [],
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
+    },
+    {
+      "name": "Basedash Scheduled CSV Exports",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "product_hunt",
+      "rank_now": 23,
+      "category_tags": [],
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
+    },
+    {
+      "name": "sideOS.ai",
+      "url": "https://www.producthunt.com/products/sideos-ai",
+      "source": "product_hunt",
+      "rank_now": 24,
+      "category_tags": [],
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
+    },
+    {
+      "name": "Shedi",
+      "url": "https://www.producthunt.com/products/shedi",
+      "source": "product_hunt",
+      "rank_now": 25,
+      "category_tags": [],
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
+    },
+    {
+      "name": "AgentValley",
+      "url": "https://www.producthunt.com/products/agentvalley",
+      "source": "product_hunt",
       "rank_now": 26,
       "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     },
     {
       "name": "Many Displays",
@@ -217,7 +217,7 @@
       "source": "product_hunt",
       "rank_now": 27,
       "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     },
     {
       "name": "Dots Phone",
@@ -225,7 +225,7 @@
       "source": "product_hunt",
       "rank_now": 28,
       "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     },
     {
       "name": "Dub Startup Program",
@@ -233,7 +233,7 @@
       "source": "product_hunt",
       "rank_now": 29,
       "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     },
     {
       "name": "Headroom",
@@ -241,7 +241,7 @@
       "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     },
     {
       "name": "Manual SEO Tool",
@@ -252,7 +252,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     },
     {
       "name": "Workflow Copilot",
@@ -262,7 +262,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-10-26 02:48:08 UTC+08:00"
+      "fetched_at": "2026-10-26 06:22:40 UTC+08:00"
     }
   ],
   "errors": []
