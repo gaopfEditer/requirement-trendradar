@@ -1,85 +1,168 @@
 {
   "week": "2026-W44",
-  "generated_at": "2026-10-26T17:55:22+08:00",
-  "source": "fixture",
+  "generated_at": "2026-10-27T02:28:54+08:00",
+  "source": "computed",
   "timezone_label": "香港",
-  "keywords_top": [
-    {
-      "rank": 1,
-      "keyword": "make.com alternative",
-      "geo": "US",
-      "track": "自动化平台",
-      "interest_now": 28,
-      "interest_prev": 15,
-      "delta": 13,
-      "growth_score": 13,
-      "pay_intent_score": 3,
-      "slope_90d": "上升"
-    },
-    {
-      "rank": 2,
-      "keyword": "lovable",
-      "geo": "US",
-      "track": "AI 建站",
-      "interest_now": 68,
-      "interest_prev": 58,
-      "delta": 10,
-      "growth_score": 10,
-      "pay_intent_score": 2,
-      "slope_90d": "上升"
-    },
-    {
-      "rank": 3,
-      "keyword": "ai app audit",
-      "geo": "US",
-      "track": "AI 工具",
-      "interest_now": 42,
-      "interest_prev": 35,
-      "delta": 7,
-      "growth_score": 7,
-      "pay_intent_score": 3,
-      "slope_90d": "上升"
-    }
-  ],
+  "keywords_top": [],
   "apps_top": [
     {
-      "rank": 1,
-      "name": "Lovable",
-      "url": "https://www.producthunt.com/products/lovable",
+      "name": "VibeiDE",
+      "url": "https://www.producthunt.com/products/vibeide",
       "source": "product_hunt",
-      "rank_now": 3,
-      "rank_prev": 12,
-      "rank_delta": -9,
-      "growth_score": 9,
-      "signal_note": "排名上升 9 位",
-      "new_entry": false
+      "rank_now": 1,
+      "rank_prev": 19,
+      "rank_delta": -18,
+      "growth_score": 18,
+      "signal_note": "排名上升 18 位",
+      "new_entry": false,
+      "rank": 1
     },
     {
-      "rank": 2,
-      "name": "n8n",
-      "url": "https://www.producthunt.com/products/n8n",
+      "name": "tabsh",
+      "url": "https://www.producthunt.com/products/tabsh",
+      "source": "product_hunt",
+      "rank_now": 4,
+      "rank_prev": 16,
+      "rank_delta": -12,
+      "growth_score": 12,
+      "signal_note": "排名上升 12 位",
+      "new_entry": false,
+      "rank": 2
+    },
+    {
+      "name": "AI Bridge",
+      "url": "https://www.producthunt.com/products/ai-bridge",
+      "source": "product_hunt",
+      "rank_now": 3,
+      "rank_prev": 14,
+      "rank_delta": -11,
+      "growth_score": 11,
+      "signal_note": "排名上升 11 位",
+      "new_entry": false,
+      "rank": 3
+    },
+    {
+      "name": "WhoIsCooking",
+      "url": "https://www.producthunt.com/products/whoiscooking",
+      "source": "product_hunt",
+      "rank_now": 6,
+      "rank_prev": 17,
+      "rank_delta": -11,
+      "growth_score": 11,
+      "signal_note": "排名上升 11 位",
+      "new_entry": false,
+      "rank": 4
+    },
+    {
+      "name": "Helio",
+      "url": "https://www.producthunt.com/products/helio-7",
+      "source": "product_hunt",
+      "rank_now": 10,
+      "rank_prev": 18,
+      "rank_delta": -8,
+      "growth_score": 8,
+      "signal_note": "排名上升 8 位",
+      "new_entry": false,
+      "rank": 5
+    },
+    {
+      "name": "desigma",
+      "url": "https://www.producthunt.com/products/desigma",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "rank_prev": 20,
+      "rank_delta": -8,
+      "growth_score": 8,
+      "signal_note": "排名上升 8 位",
+      "new_entry": false,
+      "rank": 6
+    },
+    {
+      "name": "Jobmate AI",
+      "url": "https://www.producthunt.com/products/jobmate-ai-3",
       "source": "product_hunt",
       "rank_now": 8,
-      "rank_prev": 14,
-      "rank_delta": -6,
-      "growth_score": 6,
-      "signal_note": "排名上升 6 位",
-      "new_entry": false
+      "rank_prev": 15,
+      "rank_delta": -7,
+      "growth_score": 7,
+      "signal_note": "排名上升 7 位",
+      "new_entry": false,
+      "rank": 7
+    },
+    {
+      "name": "SurgePix",
+      "url": "https://www.producthunt.com/products/surgepix",
+      "source": "product_hunt",
+      "rank_now": 15,
+      "rank_prev": 22,
+      "rank_delta": -7,
+      "growth_score": 7,
+      "signal_note": "排名上升 7 位",
+      "new_entry": false,
+      "rank": 8
+    },
+    {
+      "name": "Mozy",
+      "url": "https://www.producthunt.com/products/mozy-walk-to-unlock-apps",
+      "source": "product_hunt",
+      "rank_now": 19,
+      "rank_prev": 24,
+      "rank_delta": -5,
+      "growth_score": 5,
+      "signal_note": "排名上升 5 位",
+      "new_entry": false,
+      "rank": 9
+    },
+    {
+      "name": "AVP",
+      "url": "https://www.producthunt.com/products/avp",
+      "source": "product_hunt",
+      "rank_now": 18,
+      "rank_prev": 21,
+      "rank_delta": -3,
+      "growth_score": 3,
+      "signal_note": "排名上升 3 位",
+      "new_entry": false,
+      "rank": 10
     }
   ],
   "new_entries": [
     {
-      "rank": 1,
-      "name": "SuperLocalMemory",
-      "url": "https://www.producthunt.com/products/superlocalmemory-v2",
+      "name": "git-flow-next",
+      "url": "https://www.producthunt.com/products/tower",
       "source": "product_hunt",
-      "rank_now": 1,
+      "rank_now": 26,
       "rank_prev": null,
       "rank_delta": null,
       "growth_score": null,
       "signal_note": "新进榜",
-      "new_entry": true
+      "new_entry": true,
+      "rank": 1
+    },
+    {
+      "name": "Papermark Data Rooms",
+      "url": "https://www.producthunt.com/products/papermark-2",
+      "source": "product_hunt",
+      "rank_now": 27,
+      "rank_prev": null,
+      "rank_delta": null,
+      "growth_score": null,
+      "signal_note": "新进榜",
+      "new_entry": true,
+      "rank": 2
+    },
+    {
+      "name": "How It Spread",
+      "url": "https://www.producthunt.com/products/how-it-spread",
+      "source": "product_hunt",
+      "rank_now": 29,
+      "rank_prev": null,
+      "rank_delta": null,
+      "growth_score": null,
+      "signal_note": "新进榜",
+      "new_entry": true,
+      "rank": 3
     }
   ],
-  "skipped": "insufficient_history"
+  "skipped": null
 }
