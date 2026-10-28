@@ -1,12 +1,136 @@
 {
   "runs": [
     {
-      "run_id": "20261028-110800-5b423f6c",
+      "run_id": "20261028-124700-e905d336",
       "step": "publish_site",
       "status": "running",
-      "started_at": "2026-10-28 11:08:00 UTC+08:00",
+      "started_at": "2026-10-28 12:47:00 UTC+08:00",
       "ended_at": null,
       "counts": {},
+      "error": null,
+      "meta": {}
+    },
+    {
+      "run_id": "20261028-124700-c61155ee",
+      "step": "build_weekly_movers",
+      "status": "success",
+      "started_at": "2026-10-28 12:47:00 UTC+08:00",
+      "ended_at": "2026-10-28 12:47:00 UTC+08:00",
+      "counts": {
+        "keywords": 0,
+        "apps": 9,
+        "new_entries": 5
+      },
+      "error": null,
+      "meta": {
+        "source": "computed",
+        "week": "2026-W44"
+      }
+    },
+    {
+      "run_id": "20261028-124700-508f8ead",
+      "step": "build_opportunity_cards",
+      "status": "success",
+      "started_at": "2026-10-28 12:47:00 UTC+08:00",
+      "ended_at": "2026-10-28 12:47:00 UTC+08:00",
+      "counts": {
+        "cards": 128,
+        "job_leads_merged": 0
+      },
+      "error": null,
+      "meta": {}
+    },
+    {
+      "run_id": "20261028-124559-20e11559",
+      "step": "ingest_job_leads",
+      "status": "success",
+      "started_at": "2026-10-28 12:45:59 UTC+08:00",
+      "ended_at": "2026-10-28 12:47:00 UTC+08:00",
+      "counts": {
+        "jobs": 34,
+        "recommend": 0,
+        "freelancer_raw": 34,
+        "opportunity_merged": 0
+      },
+      "error": null,
+      "meta": {
+        "fiverr_skipped": true,
+        "fiverr_reason": "HTTP 403 login/bot wall at https://www.fiverr.com/buyer_requests"
+      }
+    },
+    {
+      "run_id": "20261028-124559-d9cd3d7e",
+      "step": "ingest_rankings",
+      "status": "success",
+      "started_at": "2026-10-28 12:45:59 UTC+08:00",
+      "ended_at": "2026-10-28 12:45:59 UTC+08:00",
+      "counts": {
+        "items": 32,
+        "delta": 37
+      },
+      "error": null,
+      "meta": {
+        "source": "product_hunt+csv",
+        "version": "producthunt-atom-feed-v1",
+        "used_csv": true,
+        "ph_failed": false
+      }
+    },
+    {
+      "run_id": "20261028-124559-3dd8546a",
+      "step": "ingest_trends",
+      "status": "partial",
+      "started_at": "2026-10-28 12:45:59 UTC+08:00",
+      "ended_at": "2026-10-28 12:45:59 UTC+08:00",
+      "counts": {},
+      "error": "Live Trends unavailable; used fixtures",
+      "meta": {
+        "source": "demo",
+        "trends_fallback_demo": true,
+        "note": "live Google Trends failed"
+      }
+    },
+    {
+      "run_id": "20261028-124559-b30a0c84",
+      "step": "ingest_trends",
+      "status": "success",
+      "started_at": "2026-10-28 12:45:59 UTC+08:00",
+      "ended_at": "2026-10-28 12:45:59 UTC+08:00",
+      "counts": {
+        "items": 5,
+        "errors": 0,
+        "geos": 1
+      },
+      "error": null,
+      "meta": {
+        "source": "demo",
+        "version": "pytrends-4.9"
+      }
+    },
+    {
+      "run_id": "20261028-124242-2a8aa841",
+      "step": "ingest_trends",
+      "status": "failed",
+      "started_at": "2026-10-28 12:42:42 UTC+08:00",
+      "ended_at": "2026-10-28 12:45:59 UTC+08:00",
+      "counts": {
+        "items": 0
+      },
+      "error": "salon website online booking@US: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://trends.google.com/trends/api/explore%3Fhl%3Den-US%26tz%3D360%26req%3D%257B%2522comparisonItem%2522%253A%2B%255B%257B%2522keyword%2522%253A%2B%2522salon%2Bwebsite%2Bonline%2Bbooking%2522%252C%2B%2522time%2522%253A%2B%2522today%2B90-d%2522%252C%2B%2522geo%2522%253A%2B%2522US%2522%257D%255D%252C%2B%2522category%2522%253A%2B0%252C%2B%2522property%2522%253A%2B%2522%2522%257D&hl=en-US&q=EgQoQTjhGMP6hdcGIi9iXtxQF5wy4t1_tzzXG25BPusm9oDViYbARUJOhEaClauiwMNWrMgB_iB9cT9yvTICclJaAUNggsSy4uPs59KGAQ (Caused by ResponseError('too many 429 error responses')); dental website with online scheduling@US: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://trends.google.com/trends/api/explore%3Fhl%3Den-US%26tz%3D360%26req%3D%257B%2522comparisonItem%2522%253A%2B%255B%257B%2522keyword%2522%253A%2B%2522dental%2Bwebsite%2Bwith%2Bonline%2Bscheduling%2522%252C%2B%2522time%2522%253A%2B%2522today%2B90-d%2522%252C%2B%2522geo%2522%253A%2B%2522US%2522%257D%255D%252C%2B%2522category%2522%253A%2B0%252C%2B%2522property%2522%253A%2B%2522%2522%257D&hl=en-US&q=EgQoQTjhGMT6hdcGIi_Pv7_JzhuBHdIBMn4ItvGm7DWSv116PtXlNqqUj9jDQYjCWW6fG5DJdiqS2DR6DTICclJaAUNgguGr7pKVk5EP (Caused by ResponseError('too many 429 error responses')); barbershop website appointment booking@US: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://trends.google.com/trends/api/explore%3Fhl%3Den-US%26tz%3D360%26req%3D%257B%2522comparisonItem%2522%253A%2B%255B%257B%2522keyword%2522%253A%2B%2522barbershop%2Bwebsite%2Bappointment%2Bbooking%2522%252C%2B%2522time%2522%253A%2B%2522today%2B90-d%2522%252C%2B%2522geo%2522%253A%2B%2522US%2522%257D%255D%252C%2B%2522category%2522%253A%2B0%252C%2B%2522property%2522%253A%2B%2522%2522%257D&hl=en-US&q=EgQoQTjhGMb6hdcGIi-tfqIqalrT1FFxSI9YPq0fVgWLvR6iUibBX7tQ6Hx-qnfnvYlz0cusq2aoxTGm9jICclJaAUNgk9zq8NacmqFH (Caused by ResponseError('too many 429 error responses')); spa website book now button@US: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://trends.google.com/trends/api/explore%3Fhl%3Den-US%26tz%3D360%26req%3D%257B%2522comparisonItem%2522%253A%2B%255B%257B%2522keyword%2522%253A%2B%2522spa%2Bwebsite%2Bbook%2Bnow%2Bbutton%2522%252C%2B%2522time%2522%253A%2B%2522today%2B90-d%2522%252C%2B%2522geo%2522%253A%2B%2522US%2522%257D%255D%252C%2B%2522category%2522%253A%2B0%252C%2B%2522property%2522%253A%2B%2522%2522%257D&hl=en-US&q=EgQoQTjhGMj6hdcGIi-gxH1m1-9u6BUZI7OsjekSVfkH8zthDdpHkc5gFFxSuEMCEqvn3_-HXzFHKgSL-zICclJaAUNgsbS089Wb_O7KAQ (Caused by ResponseError('too many 429 error responses')); clinic website patient booking@US: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://trends.google.com/trends/api/explore%3Fhl%3Den-US%26tz%3D360%26req%3D%257B%2522comparisonItem%2522%253A%2B%255B%257B%2522keyword%2522%253A%2B%2522clinic%2Bwebsite%2Bpatient%2Bbooking%2522%252C%2B%2522time%2522%253A%2B%2522today%2B90-d%2522%252C%2B%2522geo%2522%253A%2B%2522US%2522%257D%255D%252C%2B%2522category%2522%253A%2B0%252C%2B%2522property%2522%253A%2B%2522%2522%257D&hl=en-US&q=EgQoQTjhGMr6hdcGIi9fylNZswJ_STVb2_XCSro90v96bZ8SyHW7Z9UFzcZ_9JjDzPCLzBJPwnGsMYo-uTICclJaAUNgxLW-_822kqTLAQ (Caused by ResponseError('too many 429 error responses'))",
+      "meta": {
+        "source": "pytrends",
+        "version": "pytrends-4.9"
+      }
+    },
+    {
+      "run_id": "20261028-110800-5b423f6c",
+      "step": "publish_site",
+      "status": "success",
+      "started_at": "2026-10-28 11:08:00 UTC+08:00",
+      "ended_at": "2026-10-28 11:08:00 UTC+08:00",
+      "counts": {
+        "files": 7
+      },
       "error": null,
       "meta": {}
     },
@@ -8058,5 +8182,5 @@
       }
     }
   ],
-  "last_updated": "2026-10-28 11:08:00 UTC+08:00"
+  "last_updated": "2026-10-28 12:47:00 UTC+08:00"
 }
