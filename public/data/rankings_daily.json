@@ -1,247 +1,247 @@
 {
-  "updated_at": "2026-10-28 22:56:36 UTC+08:00",
-  "date_stamp": "20261028",
-  "run_id": "20261028-225636-2f9505f4",
+  "updated_at": "2026-10-29 04:51:29 UTC+08:00",
+  "date_stamp": "20261029",
+  "run_id": "20261029-045129-704a94ec",
   "items": [
     {
-      "name": "Zro: Uncensored Security Models",
-      "url": "https://www.producthunt.com/products/zro",
+      "name": "Dotverse",
+      "url": "https://www.producthunt.com/products/dotverse",
       "source": "product_hunt",
       "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "Trellis",
-      "url": "https://www.producthunt.com/products/trellis-4",
-      "source": "product_hunt",
-      "rank_now": 2,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "Basedash View-only members",
-      "url": "https://www.producthunt.com/products/basedash",
-      "source": "product_hunt",
-      "rank_now": 3,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "WebAI by Opera",
-      "url": "https://www.producthunt.com/products/opera",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "Boltbar",
-      "url": "https://www.producthunt.com/products/boltbar",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "licenseal",
-      "url": "https://www.producthunt.com/products/licenseal",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "Open For sales",
-      "url": "https://www.producthunt.com/products/open-for-sales",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "Our Silly Games",
-      "url": "https://www.producthunt.com/products/our-silly-games",
-      "source": "product_hunt",
-      "rank_now": 8,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "NotiKeep",
-      "url": "https://www.producthunt.com/products/notikeep",
-      "source": "product_hunt",
-      "rank_now": 9,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "Genie 4",
-      "url": "https://www.producthunt.com/products/gemini-1-5-pro",
-      "source": "product_hunt",
-      "rank_now": 10,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "TONKO",
-      "url": "https://www.producthunt.com/products/tonko",
-      "source": "product_hunt",
-      "rank_now": 11,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "Tulu",
-      "url": "https://www.producthunt.com/products/tulu",
-      "source": "product_hunt",
-      "rank_now": 12,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "Yardlet",
-      "url": "https://www.producthunt.com/products/yardlet-2",
-      "source": "product_hunt",
-      "rank_now": 13,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "LFM3 by Liquid AI",
-      "url": "https://www.producthunt.com/products/lfm2",
-      "source": "product_hunt",
-      "rank_now": 14,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "AirPosture",
-      "url": "https://www.producthunt.com/products/airposture-2",
-      "source": "product_hunt",
-      "rank_now": 15,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "Zest",
-      "url": "https://www.producthunt.com/products/zest-6",
-      "source": "product_hunt",
-      "rank_now": 16,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "Trigger.dev: Webhooks for your AI agents",
-      "url": "https://www.producthunt.com/products/trigger-dev",
-      "source": "product_hunt",
-      "rank_now": 17,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "Agent Handshake by Fini",
-      "url": "https://www.producthunt.com/products/fini-2",
-      "source": "product_hunt",
-      "rank_now": 18,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
     },
     {
       "name": "Dedica",
       "url": "https://www.producthunt.com/products/dedica",
       "source": "product_hunt",
-      "rank_now": 19,
+      "rank_now": 2,
       "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
     },
     {
-      "name": "bytemail",
-      "url": "https://www.producthunt.com/products/bytemail",
+      "name": "TONKO",
+      "url": "https://www.producthunt.com/products/tonko",
       "source": "product_hunt",
-      "rank_now": 20,
+      "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
     },
     {
-      "name": "RageLayer",
-      "url": "https://www.producthunt.com/products/ragelayer",
+      "name": "Tulu",
+      "url": "https://www.producthunt.com/products/tulu",
       "source": "product_hunt",
-      "rank_now": 21,
+      "rank_now": 4,
       "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "throxy (yc p25)",
-      "url": "https://www.producthunt.com/products/throxy-yc-p25",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "Fraud Blocker",
-      "url": "https://www.producthunt.com/products/fraud-blocker",
-      "source": "product_hunt",
-      "rank_now": 23,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
-    },
-    {
-      "name": "OpenLLM",
-      "url": "https://www.producthunt.com/products/openllm",
-      "source": "product_hunt",
-      "rank_now": 24,
-      "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
     },
     {
       "name": "BotGauge",
       "url": "https://www.producthunt.com/products/botgauge-2",
       "source": "product_hunt",
-      "rank_now": 25,
+      "rank_now": 5,
       "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
     },
     {
-      "name": "Congress Trades",
-      "url": "https://www.producthunt.com/products/alpha-vantage",
+      "name": "bytemail",
+      "url": "https://www.producthunt.com/products/bytemail",
       "source": "product_hunt",
-      "rank_now": 26,
+      "rank_now": 6,
       "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
     },
     {
-      "name": "App Store Screenshots",
-      "url": "https://www.producthunt.com/products/app-store-screenshots",
+      "name": "LFM3 by Liquid AI",
+      "url": "https://www.producthunt.com/products/lfm2",
       "source": "product_hunt",
-      "rank_now": 27,
+      "rank_now": 7,
       "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "Basedash View-only members",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "product_hunt",
+      "rank_now": 8,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
     },
     {
       "name": "Hob",
       "url": "https://www.producthunt.com/products/hob-3",
       "source": "product_hunt",
-      "rank_now": 28,
+      "rank_now": 9,
       "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
     },
     {
-      "name": "Mudroom",
-      "url": "https://www.producthunt.com/products/mudroom-3",
+      "name": "Zro: Uncensored Security Models",
+      "url": "https://www.producthunt.com/products/zro",
       "source": "product_hunt",
-      "rank_now": 29,
+      "rank_now": 10,
       "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "RageLayer",
+      "url": "https://www.producthunt.com/products/ragelayer",
+      "source": "product_hunt",
+      "rank_now": 11,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
     },
     {
       "name": "OneDeploy",
       "url": "https://www.producthunt.com/products/onedeploy",
       "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "AirPosture",
+      "url": "https://www.producthunt.com/products/airposture-2",
+      "source": "product_hunt",
+      "rank_now": 13,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "throxy",
+      "url": "https://www.producthunt.com/products/throxy-yc-p25",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "OpenLLM",
+      "url": "https://www.producthunt.com/products/openllm",
+      "source": "product_hunt",
+      "rank_now": 15,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "App Store Screenshots",
+      "url": "https://www.producthunt.com/products/app-store-screenshots",
+      "source": "product_hunt",
+      "rank_now": 16,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "Genie 4",
+      "url": "https://www.producthunt.com/products/gemini-1-5-pro",
+      "source": "product_hunt",
+      "rank_now": 17,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "Trigger.dev: Webhooks for your AI agents",
+      "url": "https://www.producthunt.com/products/trigger-dev",
+      "source": "product_hunt",
+      "rank_now": 18,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "Fraud Blocker",
+      "url": "https://www.producthunt.com/products/fraud-blocker",
+      "source": "product_hunt",
+      "rank_now": 19,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "Mudroom",
+      "url": "https://www.producthunt.com/products/mudroom-3",
+      "source": "product_hunt",
+      "rank_now": 20,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "Our Silly Games",
+      "url": "https://www.producthunt.com/products/our-silly-games",
+      "source": "product_hunt",
+      "rank_now": 21,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "Yardlet",
+      "url": "https://www.producthunt.com/products/yardlet-2",
+      "source": "product_hunt",
+      "rank_now": 22,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "Trellis",
+      "url": "https://www.producthunt.com/products/trellis-4",
+      "source": "product_hunt",
+      "rank_now": 23,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "Zest",
+      "url": "https://www.producthunt.com/products/zest-6",
+      "source": "product_hunt",
+      "rank_now": 24,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "Agent Handshake by Fini",
+      "url": "https://www.producthunt.com/products/fini-2",
+      "source": "product_hunt",
+      "rank_now": 25,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "WebAI by Opera",
+      "url": "https://www.producthunt.com/products/opera",
+      "source": "product_hunt",
+      "rank_now": 26,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "Boltbar",
+      "url": "https://www.producthunt.com/products/boltbar",
+      "source": "product_hunt",
+      "rank_now": 27,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "Open For sales",
+      "url": "https://www.producthunt.com/products/open-for-sales",
+      "source": "product_hunt",
+      "rank_now": 28,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "Congress Trades",
+      "url": "https://www.producthunt.com/products/alpha-vantage",
+      "source": "product_hunt",
+      "rank_now": 29,
+      "category_tags": [],
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
+    },
+    {
+      "name": "licenseal",
+      "url": "https://www.producthunt.com/products/licenseal",
+      "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
     },
     {
       "name": "Manual SEO Tool",
@@ -252,7 +252,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
     },
     {
       "name": "Workflow Copilot",
@@ -262,7 +262,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-10-28 22:56:36 UTC+08:00"
+      "fetched_at": "2026-10-29 04:51:29 UTC+08:00"
     }
   ],
   "errors": []
