@@ -1,180 +1,85 @@
 {
   "week": "2026-W44",
-  "generated_at": "2026-10-28T12:47:00+08:00",
-  "source": "computed",
+  "generated_at": "2026-10-28T22:57:38+08:00",
+  "source": "fixture",
   "timezone_label": "香港",
-  "keywords_top": [],
+  "keywords_top": [
+    {
+      "rank": 1,
+      "keyword": "make.com alternative",
+      "geo": "US",
+      "track": "自动化平台",
+      "interest_now": 28,
+      "interest_prev": 15,
+      "delta": 13,
+      "growth_score": 13,
+      "pay_intent_score": 3,
+      "slope_90d": "上升"
+    },
+    {
+      "rank": 2,
+      "keyword": "lovable",
+      "geo": "US",
+      "track": "AI 建站",
+      "interest_now": 68,
+      "interest_prev": 58,
+      "delta": 10,
+      "growth_score": 10,
+      "pay_intent_score": 2,
+      "slope_90d": "上升"
+    },
+    {
+      "rank": 3,
+      "keyword": "ai app audit",
+      "geo": "US",
+      "track": "AI 工具",
+      "interest_now": 42,
+      "interest_prev": 35,
+      "delta": 7,
+      "growth_score": 7,
+      "pay_intent_score": 3,
+      "slope_90d": "上升"
+    }
+  ],
   "apps_top": [
     {
-      "name": "Revix AI",
-      "url": "https://www.producthunt.com/products/revix-ai-2",
+      "rank": 1,
+      "name": "Lovable",
+      "url": "https://www.producthunt.com/products/lovable",
+      "source": "product_hunt",
+      "rank_now": 3,
+      "rank_prev": 12,
+      "rank_delta": -9,
+      "growth_score": 9,
+      "signal_note": "排名上升 9 位",
+      "new_entry": false
+    },
+    {
+      "rank": 2,
+      "name": "n8n",
+      "url": "https://www.producthunt.com/products/n8n",
       "source": "product_hunt",
       "rank_now": 8,
-      "rank_prev": 18,
-      "rank_delta": -10,
-      "growth_score": 10,
-      "signal_note": "排名上升 10 位",
-      "new_entry": false,
-      "rank": 1
-    },
-    {
-      "name": "Knock",
-      "url": "https://www.producthunt.com/products/knock-7",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "rank_prev": 29,
-      "rank_delta": -7,
-      "growth_score": 7,
-      "signal_note": "排名上升 7 位",
-      "new_entry": false,
-      "rank": 2
-    },
-    {
-      "name": "Paddock",
-      "url": "https://www.producthunt.com/products/paddock-2",
-      "source": "product_hunt",
-      "rank_now": 13,
-      "rank_prev": 19,
+      "rank_prev": 14,
       "rank_delta": -6,
       "growth_score": 6,
       "signal_note": "排名上升 6 位",
-      "new_entry": false,
-      "rank": 3
-    },
-    {
-      "name": "AI Bridge",
-      "url": "https://www.producthunt.com/products/ai-bridge",
-      "source": "product_hunt",
-      "rank_now": 21,
-      "rank_prev": 27,
-      "rank_delta": -6,
-      "growth_score": 6,
-      "signal_note": "排名上升 6 位",
-      "new_entry": false,
-      "rank": 4
-    },
-    {
-      "name": "NuPlay",
-      "url": "https://www.producthunt.com/products/nuplay",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "rank_prev": 10,
-      "rank_delta": -5,
-      "growth_score": 5,
-      "signal_note": "排名上升 5 位",
-      "new_entry": false,
-      "rank": 5
-    },
-    {
-      "name": "ContextGem 1.0",
-      "url": "https://www.producthunt.com/products/contextgem",
-      "source": "product_hunt",
-      "rank_now": 10,
-      "rank_prev": 15,
-      "rank_delta": -5,
-      "growth_score": 5,
-      "signal_note": "排名上升 5 位",
-      "new_entry": false,
-      "rank": 6
-    },
-    {
-      "name": "Nuvio 5.0",
-      "url": "https://www.producthunt.com/products/nuvio",
-      "source": "product_hunt",
-      "rank_now": 1,
-      "rank_prev": 5,
-      "rank_delta": -4,
-      "growth_score": 4,
-      "signal_note": "排名上升 4 位",
-      "new_entry": false,
-      "rank": 7
-    },
-    {
-      "name": "Mozy",
-      "url": "https://www.producthunt.com/products/mozy-walk-to-unlock-apps",
-      "source": "product_hunt",
-      "rank_now": 28,
-      "rank_prev": 30,
-      "rank_delta": -2,
-      "growth_score": 2,
-      "signal_note": "排名上升 2 位",
-      "new_entry": false,
-      "rank": 8
-    },
-    {
-      "name": "Overmind",
-      "url": "https://www.producthunt.com/products/overmind-2",
-      "source": "product_hunt",
-      "rank_now": 15,
-      "rank_prev": 16,
-      "rank_delta": -1,
-      "growth_score": 1,
-      "signal_note": "排名上升 1 位",
-      "new_entry": false,
-      "rank": 9
+      "new_entry": false
     }
   ],
   "new_entries": [
     {
-      "name": "GPT-6.1 Terra",
-      "url": "https://www.producthunt.com/products/openai",
+      "rank": 1,
+      "name": "SuperLocalMemory",
+      "url": "https://www.producthunt.com/products/superlocalmemory-v2",
       "source": "product_hunt",
-      "rank_now": 2,
+      "rank_now": 1,
       "rank_prev": null,
       "rank_delta": null,
       "growth_score": null,
       "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 1
-    },
-    {
-      "name": "Loqui",
-      "url": "https://www.producthunt.com/products/loqui-2",
-      "source": "product_hunt",
-      "rank_now": 23,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 2
-    },
-    {
-      "name": "WhoIsCooking",
-      "url": "https://www.producthunt.com/products/whoiscooking",
-      "source": "product_hunt",
-      "rank_now": 24,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 3
-    },
-    {
-      "name": "desigma",
-      "url": "https://www.producthunt.com/products/desigma",
-      "source": "product_hunt",
-      "rank_now": 26,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 4
-    },
-    {
-      "name": "ManyAgents",
-      "url": "https://www.producthunt.com/products/manyagents",
-      "source": "product_hunt",
-      "rank_now": 27,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 5
+      "new_entry": true
     }
   ],
-  "skipped": null
+  "skipped": "insufficient_history"
 }
