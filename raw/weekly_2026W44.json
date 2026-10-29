@@ -1,156 +1,85 @@
 {
   "week": "2026-W44",
-  "generated_at": "2026-10-29T12:56:17+08:00",
-  "source": "computed",
+  "generated_at": "2026-10-29T23:03:11+08:00",
+  "source": "fixture",
   "timezone_label": "香港",
-  "keywords_top": [],
+  "keywords_top": [
+    {
+      "rank": 1,
+      "keyword": "make.com alternative",
+      "geo": "US",
+      "track": "自动化平台",
+      "interest_now": 28,
+      "interest_prev": 15,
+      "delta": 13,
+      "growth_score": 13,
+      "pay_intent_score": 3,
+      "slope_90d": "上升"
+    },
+    {
+      "rank": 2,
+      "keyword": "lovable",
+      "geo": "US",
+      "track": "AI 建站",
+      "interest_now": 68,
+      "interest_prev": 58,
+      "delta": 10,
+      "growth_score": 10,
+      "pay_intent_score": 2,
+      "slope_90d": "上升"
+    },
+    {
+      "rank": 3,
+      "keyword": "ai app audit",
+      "geo": "US",
+      "track": "AI 工具",
+      "interest_now": 42,
+      "interest_prev": 35,
+      "delta": 7,
+      "growth_score": 7,
+      "pay_intent_score": 3,
+      "slope_90d": "上升"
+    }
+  ],
   "apps_top": [
     {
-      "name": "BotGauge",
-      "url": "https://www.producthunt.com/products/botgauge-2",
+      "rank": 1,
+      "name": "Lovable",
+      "url": "https://www.producthunt.com/products/lovable",
       "source": "product_hunt",
       "rank_now": 3,
-      "rank_prev": 25,
-      "rank_delta": -22,
-      "growth_score": 22,
-      "signal_note": "排名上升 22 位",
-      "new_entry": false,
-      "rank": 1
+      "rank_prev": 12,
+      "rank_delta": -9,
+      "growth_score": 9,
+      "signal_note": "排名上升 9 位",
+      "new_entry": false
     },
     {
-      "name": "OneDeploy",
-      "url": "https://www.producthunt.com/products/onedeploy",
-      "source": "product_hunt",
-      "rank_now": 10,
-      "rank_prev": 30,
-      "rank_delta": -20,
-      "growth_score": 20,
-      "signal_note": "排名上升 20 位",
-      "new_entry": false,
-      "rank": 2
-    },
-    {
-      "name": "Congress Trades",
-      "url": "https://www.producthunt.com/products/alpha-vantage",
+      "rank": 2,
+      "name": "n8n",
+      "url": "https://www.producthunt.com/products/n8n",
       "source": "product_hunt",
       "rank_now": 8,
-      "rank_prev": 26,
-      "rank_delta": -18,
-      "growth_score": 18,
-      "signal_note": "排名上升 18 位",
-      "new_entry": false,
-      "rank": 3
-    },
-    {
-      "name": "Hob",
-      "url": "https://www.producthunt.com/products/hob-3",
-      "source": "product_hunt",
-      "rank_now": 11,
-      "rank_prev": 28,
-      "rank_delta": -17,
-      "growth_score": 17,
-      "signal_note": "排名上升 17 位",
-      "new_entry": false,
-      "rank": 4
-    },
-    {
-      "name": "Dedica",
-      "url": "https://www.producthunt.com/products/dedica",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "rank_prev": 19,
-      "rank_delta": -15,
-      "growth_score": 15,
-      "signal_note": "排名上升 15 位",
-      "new_entry": false,
-      "rank": 5
-    },
-    {
-      "name": "RageLayer",
-      "url": "https://www.producthunt.com/products/ragelayer",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "rank_prev": 21,
-      "rank_delta": -14,
-      "growth_score": 14,
-      "signal_note": "排名上升 14 位",
-      "new_entry": false,
-      "rank": 6
-    },
-    {
-      "name": "App Store Screenshots",
-      "url": "https://www.producthunt.com/products/app-store-screenshots",
-      "source": "product_hunt",
-      "rank_now": 16,
-      "rank_prev": 27,
-      "rank_delta": -11,
-      "growth_score": 11,
-      "signal_note": "排名上升 11 位",
-      "new_entry": false,
-      "rank": 7
-    },
-    {
-      "name": "AirPosture",
-      "url": "https://www.producthunt.com/products/airposture-2",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "rank_prev": 15,
-      "rank_delta": -10,
-      "growth_score": 10,
-      "signal_note": "排名上升 10 位",
-      "new_entry": false,
-      "rank": 8
-    },
-    {
-      "name": "Fraud Blocker",
-      "url": "https://www.producthunt.com/products/fraud-blocker",
-      "source": "product_hunt",
-      "rank_now": 17,
-      "rank_prev": 23,
+      "rank_prev": 14,
       "rank_delta": -6,
       "growth_score": 6,
       "signal_note": "排名上升 6 位",
-      "new_entry": false,
-      "rank": 9
-    },
-    {
-      "name": "Mudroom",
-      "url": "https://www.producthunt.com/products/mudroom-3",
-      "source": "product_hunt",
-      "rank_now": 24,
-      "rank_prev": 29,
-      "rank_delta": -5,
-      "growth_score": 5,
-      "signal_note": "排名上升 5 位",
-      "new_entry": false,
-      "rank": 10
+      "new_entry": false
     }
   ],
   "new_entries": [
     {
-      "name": "Dotverse",
-      "url": "https://www.producthunt.com/products/dotverse",
+      "rank": 1,
+      "name": "SuperLocalMemory",
+      "url": "https://www.producthunt.com/products/superlocalmemory-v2",
       "source": "product_hunt",
-      "rank_now": 2,
+      "rank_now": 1,
       "rank_prev": null,
       "rank_delta": null,
       "growth_score": null,
       "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 1
-    },
-    {
-      "name": "throxy",
-      "url": "https://www.producthunt.com/products/throxy-yc-p25",
-      "source": "product_hunt",
-      "rank_now": 12,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 2
+      "new_entry": true
     }
   ],
-  "skipped": null
+  "skipped": "insufficient_history"
 }
