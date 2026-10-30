@@ -1,12 +1,136 @@
 {
   "runs": [
     {
-      "run_id": "20261030-183637-d60db9f9",
+      "run_id": "20261030-225627-9b511311",
       "step": "publish_site",
       "status": "running",
-      "started_at": "2026-10-30 18:36:37 UTC+08:00",
+      "started_at": "2026-10-30 22:56:27 UTC+08:00",
       "ended_at": null,
       "counts": {},
+      "error": null,
+      "meta": {}
+    },
+    {
+      "run_id": "20261030-225627-369129ea",
+      "step": "build_weekly_movers",
+      "status": "success",
+      "started_at": "2026-10-30 22:56:27 UTC+08:00",
+      "ended_at": "2026-10-30 22:56:27 UTC+08:00",
+      "counts": {
+        "keywords": 0,
+        "apps": 3,
+        "new_entries": 10
+      },
+      "error": null,
+      "meta": {
+        "source": "computed",
+        "week": "2026-W44"
+      }
+    },
+    {
+      "run_id": "20261030-225627-608377bc",
+      "step": "build_opportunity_cards",
+      "status": "success",
+      "started_at": "2026-10-30 22:56:27 UTC+08:00",
+      "ended_at": "2026-10-30 22:56:27 UTC+08:00",
+      "counts": {
+        "cards": 137,
+        "job_leads_merged": 0
+      },
+      "error": null,
+      "meta": {}
+    },
+    {
+      "run_id": "20261030-225528-52ae30a8",
+      "step": "ingest_job_leads",
+      "status": "success",
+      "started_at": "2026-10-30 22:55:28 UTC+08:00",
+      "ended_at": "2026-10-30 22:56:27 UTC+08:00",
+      "counts": {
+        "jobs": 27,
+        "recommend": 0,
+        "freelancer_raw": 27,
+        "opportunity_merged": 0
+      },
+      "error": null,
+      "meta": {
+        "fiverr_skipped": true,
+        "fiverr_reason": "HTTP 403 login/bot wall at https://www.fiverr.com/buyer_requests"
+      }
+    },
+    {
+      "run_id": "20261030-225528-dceee8e7",
+      "step": "ingest_rankings",
+      "status": "success",
+      "started_at": "2026-10-30 22:55:28 UTC+08:00",
+      "ended_at": "2026-10-30 22:55:28 UTC+08:00",
+      "counts": {
+        "items": 32,
+        "delta": 52
+      },
+      "error": null,
+      "meta": {
+        "source": "product_hunt+csv",
+        "version": "producthunt-atom-feed-v1",
+        "used_csv": true,
+        "ph_failed": false
+      }
+    },
+    {
+      "run_id": "20261030-225528-9ab3c67f",
+      "step": "ingest_trends",
+      "status": "partial",
+      "started_at": "2026-10-30 22:55:28 UTC+08:00",
+      "ended_at": "2026-10-30 22:55:28 UTC+08:00",
+      "counts": {},
+      "error": "Live Trends unavailable; used fixtures",
+      "meta": {
+        "source": "demo",
+        "trends_fallback_demo": true,
+        "note": "live Google Trends failed"
+      }
+    },
+    {
+      "run_id": "20261030-225528-c2dae4f5",
+      "step": "ingest_trends",
+      "status": "success",
+      "started_at": "2026-10-30 22:55:28 UTC+08:00",
+      "ended_at": "2026-10-30 22:55:28 UTC+08:00",
+      "counts": {
+        "items": 5,
+        "errors": 0,
+        "geos": 1
+      },
+      "error": null,
+      "meta": {
+        "source": "demo",
+        "version": "pytrends-4.9"
+      }
+    },
+    {
+      "run_id": "20261030-225506-9a495a48",
+      "step": "ingest_trends",
+      "status": "failed",
+      "started_at": "2026-10-30 22:55:06 UTC+08:00",
+      "ended_at": "2026-10-30 22:55:27 UTC+08:00",
+      "counts": {
+        "items": 0
+      },
+      "error": "salon website online booking@US: The request failed: Google returned a response with code 400; dental website with online scheduling@US: The request failed: Google returned a response with code 400; barbershop website appointment booking@US: The request failed: Google returned a response with code 400; spa website book now button@US: The request failed: Google returned a response with code 400; clinic website patient booking@US: The request failed: Google returned a response with code 400",
+      "meta": {
+        "source": "pytrends",
+        "version": "pytrends-4.9"
+      }
+    },
+    {
+      "run_id": "20261030-183637-d60db9f9",
+      "step": "publish_site",
+      "status": "success",
+      "started_at": "2026-10-30 18:36:37 UTC+08:00",
+      "ended_at": "2026-10-30 18:36:37 UTC+08:00",
+      "counts": {
+        "files": 7
+      },
       "error": null,
       "meta": {}
     },
@@ -9196,5 +9320,5 @@
       }
     }
   ],
-  "last_updated": "2026-10-30 18:36:37 UTC+08:00"
+  "last_updated": "2026-10-30 22:56:27 UTC+08:00"
 }
