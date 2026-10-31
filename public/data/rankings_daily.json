@@ -1,63 +1,63 @@
 {
-  "updated_at": "2026-10-31 22:24:14 UTC+08:00",
-  "date_stamp": "20261031",
-  "run_id": "20261031-222414-c89be22e",
+  "updated_at": "2026-11-01 03:47:01 UTC+08:00",
+  "date_stamp": "20261101",
+  "run_id": "20261101-034701-6cfc5dc9",
   "items": [
+    {
+      "name": "WinnerAdSpy",
+      "url": "https://www.producthunt.com/products/winneradspy",
+      "source": "product_hunt",
+      "rank_now": 1,
+      "category_tags": [],
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
+    },
+    {
+      "name": "AC Bridge",
+      "url": "https://www.producthunt.com/products/ac-bridge",
+      "source": "product_hunt",
+      "rank_now": 2,
+      "category_tags": [],
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
+    },
+    {
+      "name": "Hemmed",
+      "url": "https://www.producthunt.com/products/hemmed",
+      "source": "product_hunt",
+      "rank_now": 3,
+      "category_tags": [],
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
+    },
     {
       "name": "telemetry.dev",
       "url": "https://www.producthunt.com/products/telemetry-dev",
       "source": "product_hunt",
-      "rank_now": 1,
+      "rank_now": 4,
       "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
     },
     {
       "name": "LumaFold: Screen Light",
       "url": "https://www.producthunt.com/products/lumafold-screen-light",
       "source": "product_hunt",
-      "rank_now": 2,
-      "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
-    },
-    {
-      "name": "Backenly",
-      "url": "https://www.producthunt.com/products/backenly-2",
-      "source": "product_hunt",
-      "rank_now": 3,
-      "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
-    },
-    {
-      "name": "WinnerAdSpy",
-      "url": "https://www.producthunt.com/products/winneradspy",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
-    },
-    {
-      "name": "GitHub Copilot Fusion",
-      "url": "https://www.producthunt.com/products/github-copilot-fusion",
-      "source": "product_hunt",
       "rank_now": 5,
       "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
     },
     {
-      "name": "SpaceO",
-      "url": "https://www.producthunt.com/products/spaceo",
+      "name": "CubbyPad",
+      "url": "https://www.producthunt.com/products/cubbypad",
       "source": "product_hunt",
       "rank_now": 6,
       "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
     },
     {
-      "name": "BaseTab AI",
-      "url": "https://www.producthunt.com/products/basetab-ai",
+      "name": "ChainPoints",
+      "url": "https://www.producthunt.com/products/chainpoints",
       "source": "product_hunt",
       "rank_now": 7,
       "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
     },
     {
       "name": "Knucklebop",
@@ -65,159 +65,159 @@
       "source": "product_hunt",
       "rank_now": 8,
       "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
+    },
+    {
+      "name": "Backenly",
+      "url": "https://www.producthunt.com/products/backenly-2",
+      "source": "product_hunt",
+      "rank_now": 9,
+      "category_tags": [],
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
     },
     {
       "name": "Agnos",
       "url": "https://www.producthunt.com/products/agnos",
       "source": "product_hunt",
-      "rank_now": 9,
-      "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
-    },
-    {
-      "name": "Seqora",
-      "url": "https://www.producthunt.com/products/seqora",
-      "source": "product_hunt",
       "rank_now": 10,
       "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
-    },
-    {
-      "name": "Coding Wrapped",
-      "url": "https://www.producthunt.com/products/coding-wrapped",
-      "source": "product_hunt",
-      "rank_now": 11,
-      "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
-    },
-    {
-      "name": "Specsight",
-      "url": "https://www.producthunt.com/products/specsight",
-      "source": "product_hunt",
-      "rank_now": 12,
-      "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
-    },
-    {
-      "name": "CubbyPad",
-      "url": "https://www.producthunt.com/products/cubbypad",
-      "source": "product_hunt",
-      "rank_now": 13,
-      "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
-    },
-    {
-      "name": "Pluto Door",
-      "url": "https://www.producthunt.com/products/pluto-door",
-      "source": "product_hunt",
-      "rank_now": 14,
-      "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
-    },
-    {
-      "name": "ChainPoints",
-      "url": "https://www.producthunt.com/products/chainpoints",
-      "source": "product_hunt",
-      "rank_now": 15,
-      "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
-    },
-    {
-      "name": "Mo",
-      "url": "https://www.producthunt.com/products/mo-5",
-      "source": "product_hunt",
-      "rank_now": 16,
-      "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
-    },
-    {
-      "name": "AC Bridge",
-      "url": "https://www.producthunt.com/products/ac-bridge",
-      "source": "product_hunt",
-      "rank_now": 17,
-      "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
-    },
-    {
-      "name": "Hemmed",
-      "url": "https://www.producthunt.com/products/hemmed",
-      "source": "product_hunt",
-      "rank_now": 18,
-      "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
-    },
-    {
-      "name": "Secret Key",
-      "url": "https://www.producthunt.com/products/secret-key",
-      "source": "product_hunt",
-      "rank_now": 19,
-      "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
-    },
-    {
-      "name": "Godwit",
-      "url": "https://www.producthunt.com/products/godwit",
-      "source": "product_hunt",
-      "rank_now": 20,
-      "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
-    },
-    {
-      "name": "AwaitIO",
-      "url": "https://www.producthunt.com/products/awaitio",
-      "source": "product_hunt",
-      "rank_now": 21,
-      "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
     },
     {
       "name": "SKI",
       "url": "https://www.producthunt.com/products/ski",
       "source": "product_hunt",
-      "rank_now": 22,
+      "rank_now": 11,
       "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
     },
     {
-      "name": "Kestrix",
-      "url": "https://www.producthunt.com/products/kestrix",
+      "name": "BaseTab AI",
+      "url": "https://www.producthunt.com/products/basetab-ai",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
+    },
+    {
+      "name": "AwaitIO",
+      "url": "https://www.producthunt.com/products/awaitio",
+      "source": "product_hunt",
+      "rank_now": 13,
+      "category_tags": [],
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
+    },
+    {
+      "name": "Specsight",
+      "url": "https://www.producthunt.com/products/specsight",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "category_tags": [],
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
+    },
+    {
+      "name": "Mo",
+      "url": "https://www.producthunt.com/products/mo-5",
+      "source": "product_hunt",
+      "rank_now": 15,
+      "category_tags": [],
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
+    },
+    {
+      "name": "SpaceO",
+      "url": "https://www.producthunt.com/products/spaceo",
+      "source": "product_hunt",
+      "rank_now": 16,
+      "category_tags": [],
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
+    },
+    {
+      "name": "GitHub Copilot Fusion",
+      "url": "https://www.producthunt.com/products/github-copilot-fusion",
+      "source": "product_hunt",
+      "rank_now": 17,
+      "category_tags": [],
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
+    },
+    {
+      "name": "Godwit",
+      "url": "https://www.producthunt.com/products/godwit",
+      "source": "product_hunt",
+      "rank_now": 18,
+      "category_tags": [],
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
+    },
+    {
+      "name": "Seqora",
+      "url": "https://www.producthunt.com/products/seqora",
+      "source": "product_hunt",
+      "rank_now": 19,
+      "category_tags": [],
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
+    },
+    {
+      "name": "Secret Key",
+      "url": "https://www.producthunt.com/products/secret-key",
+      "source": "product_hunt",
+      "rank_now": 20,
+      "category_tags": [],
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
+    },
+    {
+      "name": "Pluto Door",
+      "url": "https://www.producthunt.com/products/pluto-door",
+      "source": "product_hunt",
+      "rank_now": 21,
+      "category_tags": [],
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
+    },
+    {
+      "name": "Coding Wrapped",
+      "url": "https://www.producthunt.com/products/coding-wrapped",
+      "source": "product_hunt",
+      "rank_now": 22,
+      "category_tags": [],
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
+    },
+    {
+      "name": "Nocto",
+      "url": "https://www.producthunt.com/products/nocto",
       "source": "product_hunt",
       "rank_now": 23,
       "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
     },
     {
-      "name": "sitesolide",
-      "url": "https://www.producthunt.com/products/sitesolide",
+      "name": "Teable Mobile",
+      "url": "https://www.producthunt.com/products/teable-4",
       "source": "product_hunt",
       "rank_now": 24,
       "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
     },
     {
-      "name": "StepGrab",
-      "url": "https://www.producthunt.com/products/stepgrab",
+      "name": "Axonnic",
+      "url": "https://www.producthunt.com/products/axonnic",
       "source": "product_hunt",
       "rank_now": 25,
       "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
-    },
-    {
-      "name": "Norah Studio",
-      "url": "https://www.producthunt.com/products/norah-studio",
-      "source": "product_hunt",
-      "rank_now": 26,
-      "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
     },
     {
       "name": "Cluinn",
       "url": "https://www.producthunt.com/products/cluinn",
       "source": "product_hunt",
+      "rank_now": 26,
+      "category_tags": [],
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
+    },
+    {
+      "name": "SparkBots AI (Powered by Jev)",
+      "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
+      "source": "product_hunt",
       "rank_now": 27,
       "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
     },
     {
       "name": "ilse",
@@ -225,23 +225,23 @@
       "source": "product_hunt",
       "rank_now": 28,
       "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
     },
     {
-      "name": "SparkBots AI (Powered by Jev)",
-      "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
+      "name": "Canva Brush",
+      "url": "https://www.producthunt.com/products/canva",
       "source": "product_hunt",
       "rank_now": 29,
       "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
     },
     {
-      "name": "Teable Mobile",
-      "url": "https://www.producthunt.com/products/teable-4",
+      "name": "MCP Server by XWiki",
+      "url": "https://www.producthunt.com/products/xwiki",
       "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
     },
     {
       "name": "Manual SEO Tool",
@@ -252,7 +252,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
     },
     {
       "name": "Workflow Copilot",
@@ -262,7 +262,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-10-31 22:24:14 UTC+08:00"
+      "fetched_at": "2026-11-01 03:47:01 UTC+08:00"
     }
   ],
   "errors": []
