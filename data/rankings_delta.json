@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 01:59:04 UTC+08:00",
+  "updated_at": "2026-11-03 10:05:12 UTC+08:00",
   "items": [
     {
       "name": "Xmind 2027",
@@ -7,73 +7,7 @@
       "source": "product_hunt",
       "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
-      "rank_prev": null,
-      "rank_delta": null,
-      "signal_note": "新进榜"
-    },
-    {
-      "name": "UnleashX",
-      "url": "https://www.producthunt.com/products/unleashx",
-      "source": "product_hunt",
-      "rank_now": 2,
-      "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
-      "rank_prev": null,
-      "rank_delta": null,
-      "signal_note": "新进榜"
-    },
-    {
-      "name": "Cedric AI for Meetings",
-      "url": "https://www.producthunt.com/products/cedric",
-      "source": "product_hunt",
-      "rank_now": 3,
-      "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
-      "rank_prev": null,
-      "rank_delta": null,
-      "signal_note": "新进榜"
-    },
-    {
-      "name": "Hera",
-      "url": "https://www.producthunt.com/products/hera-6",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
-      "rank_prev": null,
-      "rank_delta": null,
-      "signal_note": "新进榜"
-    },
-    {
-      "name": "diff-tour",
-      "url": "https://www.producthunt.com/products/diff-tour",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
-      "rank_prev": null,
-      "rank_delta": null,
-      "signal_note": "新进榜"
-    },
-    {
-      "name": "Display 1.0",
-      "url": "https://www.producthunt.com/products/display-dev",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
-      "rank_prev": null,
-      "rank_delta": null,
-      "signal_note": "新进榜"
-    },
-    {
-      "name": "Agent Inbox",
-      "url": "https://www.producthunt.com/products/agent-inbox",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
       "rank_prev": null,
       "rank_delta": null,
       "signal_note": "新进榜"
@@ -82,20 +16,9 @@
       "name": "CuriousLM",
       "url": "https://www.producthunt.com/products/curiouslm",
       "source": "product_hunt",
-      "rank_now": 8,
+      "rank_now": 2,
       "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
-      "rank_prev": null,
-      "rank_delta": null,
-      "signal_note": "新进榜"
-    },
-    {
-      "name": "Hyperresearch",
-      "url": "https://www.producthunt.com/products/hyperresearch",
-      "source": "product_hunt",
-      "rank_now": 9,
-      "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
       "rank_prev": null,
       "rank_delta": null,
       "signal_note": "新进榜"
@@ -104,20 +27,20 @@
       "name": "Friday Work",
       "url": "https://www.producthunt.com/products/friday-work",
       "source": "product_hunt",
-      "rank_now": 10,
+      "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
       "rank_prev": null,
       "rank_delta": null,
       "signal_note": "新进榜"
     },
     {
-      "name": "beacon.sh",
-      "url": "https://www.producthunt.com/products/asymptotelabs",
+      "name": "Linkly AI Clipper",
+      "url": "https://www.producthunt.com/products/linkly-ai-clipper",
       "source": "product_hunt",
-      "rank_now": 11,
+      "rank_now": 4,
       "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
       "rank_prev": null,
       "rank_delta": null,
       "signal_note": "新进榜"
@@ -126,20 +49,97 @@
       "name": "Help",
       "url": "https://www.producthunt.com/products/help-381",
       "source": "product_hunt",
-      "rank_now": 12,
+      "rank_now": 5,
       "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
       "rank_prev": null,
       "rank_delta": null,
       "signal_note": "新进榜"
     },
     {
-      "name": "redu.cloud",
-      "url": "https://www.producthunt.com/products/redu-cloud",
+      "name": "Agent Inbox",
+      "url": "https://www.producthunt.com/products/agent-inbox",
+      "source": "product_hunt",
+      "rank_now": 6,
+      "category_tags": [],
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Hyperresearch",
+      "url": "https://www.producthunt.com/products/hyperresearch",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "category_tags": [],
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "diff-tour",
+      "url": "https://www.producthunt.com/products/diff-tour",
+      "source": "product_hunt",
+      "rank_now": 8,
+      "category_tags": [],
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Clayzo",
+      "url": "https://www.producthunt.com/products/clayzo",
+      "source": "product_hunt",
+      "rank_now": 9,
+      "category_tags": [],
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Hera",
+      "url": "https://www.producthunt.com/products/hera-6",
+      "source": "product_hunt",
+      "rank_now": 10,
+      "category_tags": [],
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Cedric AI for Meetings",
+      "url": "https://www.producthunt.com/products/cedric",
+      "source": "product_hunt",
+      "rank_now": 11,
+      "category_tags": [],
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Widgeteer",
+      "url": "https://www.producthunt.com/products/widgeteer",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Looper",
+      "url": "https://www.producthunt.com/products/looper-3",
       "source": "product_hunt",
       "rank_now": 13,
       "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
       "rank_prev": null,
       "rank_delta": null,
       "signal_note": "新进榜"
@@ -150,186 +150,186 @@
       "source": "product_hunt",
       "rank_now": 14,
       "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
       "rank_prev": null,
       "rank_delta": null,
       "signal_note": "新进榜"
     },
     {
-      "name": "Widgeteer",
-      "url": "https://www.producthunt.com/products/widgeteer",
+      "name": "UnleashX",
+      "url": "https://www.producthunt.com/products/unleashx",
       "source": "product_hunt",
       "rank_now": 15,
       "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
       "rank_prev": null,
       "rank_delta": null,
       "signal_note": "新进榜"
     },
     {
-      "name": "Clayzo",
-      "url": "https://www.producthunt.com/products/clayzo",
+      "name": "Display 1.0",
+      "url": "https://www.producthunt.com/products/display-dev",
       "source": "product_hunt",
       "rank_now": 16,
       "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
       "rank_prev": null,
       "rank_delta": null,
       "signal_note": "新进榜"
     },
     {
-      "name": "Linkly AI Clipper",
-      "url": "https://www.producthunt.com/products/linkly-ai-clipper",
+      "name": "beacon.sh",
+      "url": "https://www.producthunt.com/products/asymptotelabs",
       "source": "product_hunt",
       "rank_now": 17,
       "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
       "rank_prev": null,
       "rank_delta": null,
       "signal_note": "新进榜"
     },
     {
-      "name": "Looper",
-      "url": "https://www.producthunt.com/products/looper-3",
+      "name": "redu.cloud",
+      "url": "https://www.producthunt.com/products/redu-cloud",
       "source": "product_hunt",
       "rank_now": 18,
       "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
       "rank_prev": null,
       "rank_delta": null,
       "signal_note": "新进榜"
-    },
-    {
-      "name": "Chorin: Ora et Labora",
-      "url": "https://www.producthunt.com/products/chorin-ora-et-labora",
-      "source": "product_hunt",
-      "rank_now": 19,
-      "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
-      "rank_prev": 13,
-      "rank_delta": 6,
-      "signal_note": "排名下降 6 位"
-    },
-    {
-      "name": "CutCat",
-      "url": "https://www.producthunt.com/products/cutcat",
-      "source": "product_hunt",
-      "rank_now": 20,
-      "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
-      "rank_prev": 12,
-      "rank_delta": 8,
-      "signal_note": "排名下降 8 位"
-    },
-    {
-      "name": "ernd",
-      "url": "https://www.producthunt.com/products/ernd",
-      "source": "product_hunt",
-      "rank_now": 21,
-      "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
-      "rank_prev": 7,
-      "rank_delta": 14,
-      "signal_note": "排名下降 14 位"
-    },
-    {
-      "name": "Fluent 2",
-      "url": "https://www.producthunt.com/products/fluent-ai-writing-assistant-for-macos",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
-      "rank_prev": 15,
-      "rank_delta": 7,
-      "signal_note": "排名下降 7 位"
-    },
-    {
-      "name": "Usage for Claude + ChatGPT 4.0",
-      "url": "https://www.producthunt.com/products/usage-for-claude",
-      "source": "product_hunt",
-      "rank_now": 23,
-      "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
-      "rank_prev": 5,
-      "rank_delta": 18,
-      "signal_note": "排名下降 18 位"
-    },
-    {
-      "name": "Raah.dev",
-      "url": "https://www.producthunt.com/products/raah-dev",
-      "source": "product_hunt",
-      "rank_now": 24,
-      "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
-      "rank_prev": 8,
-      "rank_delta": 16,
-      "signal_note": "排名下降 16 位"
     },
     {
       "name": "agentmash",
       "url": "https://www.producthunt.com/products/agentmash",
       "source": "product_hunt",
-      "rank_now": 25,
+      "rank_now": 19,
       "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
       "rank_prev": 2,
-      "rank_delta": 23,
-      "signal_note": "排名下降 23 位"
+      "rank_delta": 17,
+      "signal_note": "排名下降 17 位"
     },
     {
-      "name": "magpie",
-      "url": "https://www.producthunt.com/products/magpie-14",
+      "name": "Usage for Claude + ChatGPT 4.0",
+      "url": "https://www.producthunt.com/products/usage-for-claude",
       "source": "product_hunt",
-      "rank_now": 26,
+      "rank_now": 20,
       "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
-      "rank_prev": 18,
-      "rank_delta": 8,
-      "signal_note": "排名下降 8 位"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
+      "rank_prev": 5,
+      "rank_delta": 15,
+      "signal_note": "排名下降 15 位"
     },
     {
       "name": "Screen Studio 4.0",
       "url": "https://www.producthunt.com/products/screen-studio",
       "source": "product_hunt",
-      "rank_now": 27,
+      "rank_now": 21,
       "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
       "rank_prev": 4,
-      "rank_delta": 23,
-      "signal_note": "排名下降 23 位"
+      "rank_delta": 17,
+      "signal_note": "排名下降 17 位"
     },
     {
-      "name": "Precise Edit by Ideogram",
-      "url": "https://www.producthunt.com/products/ideogram",
+      "name": "Embage",
+      "url": "https://www.producthunt.com/products/embage",
       "source": "product_hunt",
-      "rank_now": 28,
+      "rank_now": 22,
       "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
-      "rank_prev": 10,
-      "rank_delta": 18,
-      "signal_note": "排名下降 18 位"
-    },
-    {
-      "name": "ClawsGO Science",
-      "url": "https://www.producthunt.com/products/clawsgo-science",
-      "source": "product_hunt",
-      "rank_now": 29,
-      "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
-      "rank_prev": 6,
-      "rank_delta": 23,
-      "signal_note": "排名下降 23 位"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
+      "rank_prev": 16,
+      "rank_delta": 6,
+      "signal_note": "排名下降 6 位"
     },
     {
       "name": "Riverside Agents",
       "url": "https://www.producthunt.com/products/riverside-fm",
       "source": "product_hunt",
+      "rank_now": 23,
+      "category_tags": [],
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
+      "rank_prev": 1,
+      "rank_delta": 22,
+      "signal_note": "排名下降 22 位"
+    },
+    {
+      "name": "Yuzu Sync",
+      "url": "https://www.producthunt.com/products/yuzu-sync",
+      "source": "product_hunt",
+      "rank_now": 24,
+      "category_tags": [],
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
+      "rank_prev": 9,
+      "rank_delta": 15,
+      "signal_note": "排名下降 15 位"
+    },
+    {
+      "name": "Precise Edit by Ideogram",
+      "url": "https://www.producthunt.com/products/ideogram",
+      "source": "product_hunt",
+      "rank_now": 25,
+      "category_tags": [],
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
+      "rank_prev": 10,
+      "rank_delta": 15,
+      "signal_note": "排名下降 15 位"
+    },
+    {
+      "name": "ClawsGO Science",
+      "url": "https://www.producthunt.com/products/clawsgo-science",
+      "source": "product_hunt",
+      "rank_now": 26,
+      "category_tags": [],
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
+      "rank_prev": 6,
+      "rank_delta": 20,
+      "signal_note": "排名下降 20 位"
+    },
+    {
+      "name": "Chorin: Ora et Labora",
+      "url": "https://www.producthunt.com/products/chorin-ora-et-labora",
+      "source": "product_hunt",
+      "rank_now": 27,
+      "category_tags": [],
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
+      "rank_prev": 13,
+      "rank_delta": 14,
+      "signal_note": "排名下降 14 位"
+    },
+    {
+      "name": "Raah.dev",
+      "url": "https://www.producthunt.com/products/raah-dev",
+      "source": "product_hunt",
+      "rank_now": 28,
+      "category_tags": [],
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
+      "rank_prev": 8,
+      "rank_delta": 20,
+      "signal_note": "排名下降 20 位"
+    },
+    {
+      "name": "Click",
+      "url": "https://www.producthunt.com/products/click-6",
+      "source": "product_hunt",
+      "rank_now": 29,
+      "category_tags": [],
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
+      "rank_prev": 3,
+      "rank_delta": 26,
+      "signal_note": "排名下降 26 位"
+    },
+    {
+      "name": "Fluent 2",
+      "url": "https://www.producthunt.com/products/fluent-ai-writing-assistant-for-macos",
+      "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
-      "rank_prev": 1,
-      "rank_delta": 29,
-      "signal_note": "排名下降 29 位"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
+      "rank_prev": 15,
+      "rank_delta": 15,
+      "signal_note": "排名下降 15 位"
     },
     {
       "name": "Manual SEO Tool",
@@ -340,7 +340,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
       "rank_prev": 15,
       "rank_delta": 0,
       "signal_note": "持平"
@@ -353,32 +353,21 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00",
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00",
       "rank_prev": 22,
       "rank_delta": 0,
       "signal_note": "持平"
     },
     {
-      "name": "Click",
+      "name": "ernd",
       "url": "",
       "source": "product_hunt",
       "rank_now": null,
-      "rank_prev": 3,
+      "rank_prev": 7,
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00"
-    },
-    {
-      "name": "Yuzu Sync",
-      "url": "",
-      "source": "product_hunt",
-      "rank_now": null,
-      "rank_prev": 9,
-      "rank_delta": null,
-      "category_tags": [],
-      "signal_note": "掉出榜",
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00"
     },
     {
       "name": "Modelpeers",
@@ -389,7 +378,18 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00"
+    },
+    {
+      "name": "CutCat",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 12,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00"
     },
     {
       "name": "BeeBranch",
@@ -400,18 +400,7 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00"
-    },
-    {
-      "name": "Embage",
-      "url": "",
-      "source": "product_hunt",
-      "rank_now": null,
-      "rank_prev": 16,
-      "rank_delta": null,
-      "category_tags": [],
-      "signal_note": "掉出榜",
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00"
     },
     {
       "name": "Hamdori",
@@ -422,7 +411,18 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00"
+    },
+    {
+      "name": "magpie",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 18,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00"
     },
     {
       "name": "Termy",
@@ -433,7 +433,7 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00"
     },
     {
       "name": "GitHub Copilot Fusion",
@@ -444,7 +444,7 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00"
     },
     {
       "name": "BaseTab AI",
@@ -455,7 +455,7 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00"
     },
     {
       "name": "Agnos",
@@ -466,7 +466,7 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00"
     },
     {
       "name": "Pluto Door",
@@ -477,7 +477,7 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00"
     },
     {
       "name": "CubbyPad",
@@ -488,7 +488,7 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00"
     },
     {
       "name": "Backenly",
@@ -499,7 +499,7 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00"
     },
     {
       "name": "LumaFold: Screen Light",
@@ -510,7 +510,7 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00"
     },
     {
       "name": "Specsight",
@@ -521,7 +521,7 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00"
     },
     {
       "name": "Seqora",
@@ -532,7 +532,7 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00"
     },
     {
       "name": "SKI",
@@ -543,7 +543,7 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00"
     },
     {
       "name": "AC Bridge",
@@ -554,7 +554,7 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-03 01:59:04 UTC+08:00"
+      "fetched_at": "2026-11-03 10:05:12 UTC+08:00"
     }
   ]
 }
