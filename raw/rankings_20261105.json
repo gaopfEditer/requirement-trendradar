@@ -1,207 +1,207 @@
 {
-  "run_id": "20261105-033233-ccca6fca",
-  "fetched_at": "2026-11-05 03:32:33 UTC+08:00",
+  "run_id": "20261105-084810-ffa0469d",
+  "fetched_at": "2026-11-05 08:48:10 UTC+08:00",
   "source_version": "producthunt-atom-feed-v1",
   "items": [
     {
-      "name": "Wanaka Studio",
-      "url": "https://www.producthunt.com/products/wanaka-studio",
+      "name": "PasteGuard for Mac",
+      "url": "https://www.producthunt.com/products/pasteguard-2",
       "source": "product_hunt",
       "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
     },
     {
-      "name": "Rungle",
-      "url": "https://www.producthunt.com/products/rungle",
+      "name": "Datashake MCP",
+      "url": "https://www.producthunt.com/products/datashake-hub",
       "source": "product_hunt",
       "rank_now": 2,
       "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
     },
     {
-      "name": "Eyecon",
-      "url": "https://www.producthunt.com/products/eyecon-auto-pause-video",
+      "name": "Virelo",
+      "url": "https://www.producthunt.com/products/virelo",
       "source": "product_hunt",
       "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
-    },
-    {
-      "name": "OpenMail",
-      "url": "https://www.producthunt.com/products/openmail",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
-    },
-    {
-      "name": "Prelulu",
-      "url": "https://www.producthunt.com/products/prelulu",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
-    },
-    {
-      "name": "Floot Payments",
-      "url": "https://www.producthunt.com/products/floot",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
-    },
-    {
-      "name": "kosa8",
-      "url": "https://www.producthunt.com/products/kosa8",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
-    },
-    {
-      "name": "Mellow Kids",
-      "url": "https://www.producthunt.com/products/mellow-kids",
-      "source": "product_hunt",
-      "rank_now": 8,
-      "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
-    },
-    {
-      "name": "Sendu",
-      "url": "https://www.producthunt.com/products/sendu",
-      "source": "product_hunt",
-      "rank_now": 9,
-      "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
-    },
-    {
-      "name": "OpusClip 4.0",
-      "url": "https://www.producthunt.com/products/opusclip",
-      "source": "product_hunt",
-      "rank_now": 10,
-      "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
-    },
-    {
-      "name": "Chorus Weather",
-      "url": "https://www.producthunt.com/products/chorus-weather",
-      "source": "product_hunt",
-      "rank_now": 11,
-      "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
-    },
-    {
-      "name": "Hindsight Models and Inference API",
-      "url": "https://www.producthunt.com/products/vectorize",
-      "source": "product_hunt",
-      "rank_now": 12,
-      "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
-    },
-    {
-      "name": "Fedora Linux 45",
-      "url": "https://www.producthunt.com/products/fedora-linux-45",
-      "source": "product_hunt",
-      "rank_now": 13,
-      "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
-    },
-    {
-      "name": "Basedash Verified dashboards",
-      "url": "https://www.producthunt.com/products/basedash",
-      "source": "product_hunt",
-      "rank_now": 14,
-      "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
-    },
-    {
-      "name": "Dessn",
-      "url": "https://www.producthunt.com/products/dessn-2",
-      "source": "product_hunt",
-      "rank_now": 15,
-      "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
     },
     {
       "name": "Hashference",
       "url": "https://www.producthunt.com/products/hashference",
       "source": "product_hunt",
-      "rank_now": 16,
+      "rank_now": 4,
       "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
+    },
+    {
+      "name": "Freeport Markets",
+      "url": "https://www.producthunt.com/products/freeport-markets",
+      "source": "product_hunt",
+      "rank_now": 5,
+      "category_tags": [],
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
+    },
+    {
+      "name": "Rungle",
+      "url": "https://www.producthunt.com/products/rungle",
+      "source": "product_hunt",
+      "rank_now": 6,
+      "category_tags": [],
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
+    },
+    {
+      "name": "Eyecon",
+      "url": "https://www.producthunt.com/products/eyecon-auto-pause-video",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "category_tags": [],
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
+    },
+    {
+      "name": "Country Filter for X",
+      "url": "https://www.producthunt.com/products/country-filter-for-x-2",
+      "source": "product_hunt",
+      "rank_now": 8,
+      "category_tags": [],
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
+    },
+    {
+      "name": "Mellow Kids",
+      "url": "https://www.producthunt.com/products/mellow-kids",
+      "source": "product_hunt",
+      "rank_now": 9,
+      "category_tags": [],
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
+    },
+    {
+      "name": "Hindsight Models and Inference API",
+      "url": "https://www.producthunt.com/products/vectorize",
+      "source": "product_hunt",
+      "rank_now": 10,
+      "category_tags": [],
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
     },
     {
       "name": "TrackEdge",
       "url": "https://www.producthunt.com/products/trackedge-2",
       "source": "product_hunt",
-      "rank_now": 17,
+      "rank_now": 11,
       "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
     },
     {
-      "name": "QualityLayer",
-      "url": "https://www.producthunt.com/products/qualitylayer",
+      "name": "Sendu",
+      "url": "https://www.producthunt.com/products/sendu",
       "source": "product_hunt",
-      "rank_now": 18,
+      "rank_now": 12,
       "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
     },
     {
-      "name": "Zero Wire",
-      "url": "https://www.producthunt.com/products/cloudflare",
+      "name": "TellPip",
+      "url": "https://www.producthunt.com/products/tellpip",
       "source": "product_hunt",
-      "rank_now": 19,
+      "rank_now": 13,
       "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
-    },
-    {
-      "name": "Deployed Yet?",
-      "url": "https://www.producthunt.com/products/deployed-yet",
-      "source": "product_hunt",
-      "rank_now": 20,
-      "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
-    },
-    {
-      "name": "Sonari",
-      "url": "https://www.producthunt.com/products/sonari",
-      "source": "product_hunt",
-      "rank_now": 21,
-      "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
-    },
-    {
-      "name": "PasteGuard for Mac",
-      "url": "https://www.producthunt.com/products/pasteguard-2",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
-    },
-    {
-      "name": "CardPointers 8",
-      "url": "https://www.producthunt.com/products/cardpointers",
-      "source": "product_hunt",
-      "rank_now": 23,
-      "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
     },
     {
       "name": "LiveReacting for ChatGPT",
       "url": "https://www.producthunt.com/products/livereacting",
       "source": "product_hunt",
-      "rank_now": 24,
+      "rank_now": 14,
       "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
     },
     {
-      "name": "Render Sandboxes",
-      "url": "https://www.producthunt.com/products/render",
+      "name": "QualityLayer",
+      "url": "https://www.producthunt.com/products/qualitylayer",
+      "source": "product_hunt",
+      "rank_now": 15,
+      "category_tags": [],
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
+    },
+    {
+      "name": "Deployed Yet?",
+      "url": "https://www.producthunt.com/products/deployed-yet",
+      "source": "product_hunt",
+      "rank_now": 16,
+      "category_tags": [],
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
+    },
+    {
+      "name": "Zero Wire",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "source": "product_hunt",
+      "rank_now": 17,
+      "category_tags": [],
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
+    },
+    {
+      "name": "Basedash Verified dashboards",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "product_hunt",
+      "rank_now": 18,
+      "category_tags": [],
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
+    },
+    {
+      "name": "Floot Payments",
+      "url": "https://www.producthunt.com/products/floot",
+      "source": "product_hunt",
+      "rank_now": 19,
+      "category_tags": [],
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
+    },
+    {
+      "name": "OpenMail",
+      "url": "https://www.producthunt.com/products/openmail",
+      "source": "product_hunt",
+      "rank_now": 20,
+      "category_tags": [],
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
+    },
+    {
+      "name": "Wanaka Studio",
+      "url": "https://www.producthunt.com/products/wanaka-studio",
+      "source": "product_hunt",
+      "rank_now": 21,
+      "category_tags": [],
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
+    },
+    {
+      "name": "Prelulu",
+      "url": "https://www.producthunt.com/products/prelulu",
+      "source": "product_hunt",
+      "rank_now": 22,
+      "category_tags": [],
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
+    },
+    {
+      "name": "Dessn",
+      "url": "https://www.producthunt.com/products/dessn-2",
+      "source": "product_hunt",
+      "rank_now": 23,
+      "category_tags": [],
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
+    },
+    {
+      "name": "Chorus Weather",
+      "url": "https://www.producthunt.com/products/chorus-weather",
+      "source": "product_hunt",
+      "rank_now": 24,
+      "category_tags": [],
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
+    },
+    {
+      "name": "fileForensics",
+      "url": "https://www.producthunt.com/products/fileai-ai-ocr",
       "source": "product_hunt",
       "rank_now": 25,
       "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
     },
     {
       "name": "Orphex MCP",
@@ -209,39 +209,39 @@
       "source": "product_hunt",
       "rank_now": 26,
       "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
     },
     {
-      "name": "fileForensics",
-      "url": "https://www.producthunt.com/products/fileai-ai-ocr",
+      "name": "Fedora Linux 45",
+      "url": "https://www.producthunt.com/products/fedora-linux-45",
       "source": "product_hunt",
       "rank_now": 27,
       "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
     },
     {
-      "name": "TellPip",
-      "url": "https://www.producthunt.com/products/tellpip",
+      "name": "Render Sandboxes",
+      "url": "https://www.producthunt.com/products/render",
       "source": "product_hunt",
       "rank_now": 28,
       "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
     },
     {
-      "name": "Virelo",
-      "url": "https://www.producthunt.com/products/virelo",
+      "name": "Resum",
+      "url": "https://www.producthunt.com/products/resum",
       "source": "product_hunt",
       "rank_now": 29,
       "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
     },
     {
-      "name": "Hira",
-      "url": "https://www.producthunt.com/products/hira",
+      "name": "CardPointers 8",
+      "url": "https://www.producthunt.com/products/cardpointers",
       "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
     },
     {
       "name": "Manual SEO Tool",
@@ -252,7 +252,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
     },
     {
       "name": "Workflow Copilot",
@@ -262,7 +262,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-11-05 03:32:33 UTC+08:00"
+      "fetched_at": "2026-11-05 08:48:10 UTC+08:00"
     }
   ],
   "errors": []
