@@ -1,247 +1,247 @@
 {
-  "updated_at": "2026-11-06 19:55:22 UTC+08:00",
-  "date_stamp": "20261106",
-  "run_id": "20261106-195522-a5d0555e",
+  "updated_at": "2026-11-07 03:03:11 UTC+08:00",
+  "date_stamp": "20261107",
+  "run_id": "20261107-030311-69555a08",
   "items": [
-    {
-      "name": "Textwhisk",
-      "url": "https://www.producthunt.com/products/textwhisk",
-      "source": "product_hunt",
-      "rank_now": 1,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "Cloptima",
-      "url": "https://www.producthunt.com/products/cloptima",
-      "source": "product_hunt",
-      "rank_now": 2,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "Kodivo",
-      "url": "https://www.producthunt.com/products/kodivo",
-      "source": "product_hunt",
-      "rank_now": 3,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
     {
       "name": "Cursor Craft",
       "url": "https://www.producthunt.com/products/cursor-craft",
       "source": "product_hunt",
-      "rank_now": 4,
+      "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "Codiclens",
-      "url": "https://www.producthunt.com/products/codiclens-local-ai-powerd-mac-launcher",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "axel.md",
-      "url": "https://www.producthunt.com/products/axel-3",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "Releasebeam",
-      "url": "https://www.producthunt.com/products/releasebeam",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "PostMyPace",
-      "url": "https://www.producthunt.com/products/postmypace",
-      "source": "product_hunt",
-      "rank_now": 8,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "refern.",
-      "url": "https://www.producthunt.com/products/refern",
-      "source": "product_hunt",
-      "rank_now": 9,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "Thunderduck Inc.",
-      "url": "https://www.producthunt.com/products/thunderduck-inc",
-      "source": "product_hunt",
-      "rank_now": 10,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "Koltrix",
-      "url": "https://www.producthunt.com/products/koltrix",
-      "source": "product_hunt",
-      "rank_now": 11,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "Pauta",
-      "url": "https://www.producthunt.com/products/pauta",
-      "source": "product_hunt",
-      "rank_now": 12,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "Vakilat",
-      "url": "https://www.producthunt.com/products/vakilat",
-      "source": "product_hunt",
-      "rank_now": 13,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "pwned.coffee",
-      "url": "https://www.producthunt.com/products/pwned-coffee",
-      "source": "product_hunt",
-      "rank_now": 14,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "Royak",
-      "url": "https://www.producthunt.com/products/royak",
-      "source": "product_hunt",
-      "rank_now": 15,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "Meadow",
-      "url": "https://www.producthunt.com/products/meadow-3",
-      "source": "product_hunt",
-      "rank_now": 16,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "Magic Wonders",
-      "url": "https://www.producthunt.com/products/magic-wonders",
-      "source": "product_hunt",
-      "rank_now": 17,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "Shipnoted",
-      "url": "https://www.producthunt.com/products/shipnoted",
-      "source": "product_hunt",
-      "rank_now": 18,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "MacDupl",
-      "url": "https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app",
-      "source": "product_hunt",
-      "rank_now": 19,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "Plainmail",
-      "url": "https://www.producthunt.com/products/plainmail",
-      "source": "product_hunt",
-      "rank_now": 20,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "Rankfender v3.0",
-      "url": "https://www.producthunt.com/products/rankfender",
-      "source": "product_hunt",
-      "rank_now": 21,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "Pressure",
-      "url": "https://www.producthunt.com/products/pressure",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "Mechvibes 3",
-      "url": "https://www.producthunt.com/products/mechvibes",
-      "source": "product_hunt",
-      "rank_now": 23,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "DALI AI by SupplyzPro",
-      "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
-      "source": "product_hunt",
-      "rank_now": 24,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
-    },
-    {
-      "name": "SafeGrd",
-      "url": "https://www.producthunt.com/products/safegrd",
-      "source": "product_hunt",
-      "rank_now": 25,
-      "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
     },
     {
       "name": "Letterpress-1",
       "url": "https://www.producthunt.com/products/letterpress-1",
       "source": "product_hunt",
-      "rank_now": 26,
+      "rank_now": 2,
       "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
     },
     {
-      "name": "LiveShortly",
-      "url": "https://www.producthunt.com/products/liveshortly",
+      "name": "Magic Wonders",
+      "url": "https://www.producthunt.com/products/magic-wonders",
       "source": "product_hunt",
-      "rank_now": 27,
+      "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "Meadow",
+      "url": "https://www.producthunt.com/products/meadow-3",
+      "source": "product_hunt",
+      "rank_now": 4,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "Native Tasks for Obsidian",
+      "url": "https://www.producthunt.com/products/native-tasks-for-obsidian",
+      "source": "product_hunt",
+      "rank_now": 5,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "pwned.coffee",
+      "url": "https://www.producthunt.com/products/pwned-coffee",
+      "source": "product_hunt",
+      "rank_now": 6,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "PostMyPace",
+      "url": "https://www.producthunt.com/products/postmypace",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "Openroster",
+      "url": "https://www.producthunt.com/products/openroster",
+      "source": "product_hunt",
+      "rank_now": 8,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "Shipnoted",
+      "url": "https://www.producthunt.com/products/shipnoted",
+      "source": "product_hunt",
+      "rank_now": 9,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "Codiclens",
+      "url": "https://www.producthunt.com/products/codiclens-local-ai-powerd-mac-launcher",
+      "source": "product_hunt",
+      "rank_now": 10,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "Meshia",
+      "url": "https://www.producthunt.com/products/meshia",
+      "source": "product_hunt",
+      "rank_now": 11,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "Moatly",
+      "url": "https://www.producthunt.com/products/moatly-2",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "Chronos DB",
+      "url": "https://www.producthunt.com/products/chronos-db",
+      "source": "product_hunt",
+      "rank_now": 13,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "Royak",
+      "url": "https://www.producthunt.com/products/royak",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "Textwhisk",
+      "url": "https://www.producthunt.com/products/textwhisk",
+      "source": "product_hunt",
+      "rank_now": 15,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "axel.md",
+      "url": "https://www.producthunt.com/products/axel-3",
+      "source": "product_hunt",
+      "rank_now": 16,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "SafeGrd",
+      "url": "https://www.producthunt.com/products/safegrd",
+      "source": "product_hunt",
+      "rank_now": 17,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "Releasebeam",
+      "url": "https://www.producthunt.com/products/releasebeam",
+      "source": "product_hunt",
+      "rank_now": 18,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
     },
     {
       "name": "Alysis Code",
       "url": "https://www.producthunt.com/products/alysis-code",
       "source": "product_hunt",
-      "rank_now": 28,
+      "rank_now": 19,
       "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
     },
     {
-      "name": "OpenVisio",
-      "url": "https://www.producthunt.com/products/openvisio",
+      "name": "Translucent AI",
+      "url": "https://www.producthunt.com/products/translucent-ai",
       "source": "product_hunt",
-      "rank_now": 29,
+      "rank_now": 20,
       "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "Pressure",
+      "url": "https://www.producthunt.com/products/pressure",
+      "source": "product_hunt",
+      "rank_now": 21,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "Mmory",
+      "url": "https://www.producthunt.com/products/mmory",
+      "source": "product_hunt",
+      "rank_now": 22,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "Plainmail",
+      "url": "https://www.producthunt.com/products/plainmail",
+      "source": "product_hunt",
+      "rank_now": 23,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "Make0 Brain OSS",
+      "url": "https://www.producthunt.com/products/make0-brain",
+      "source": "product_hunt",
+      "rank_now": 24,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "Thunderduck Inc.",
+      "url": "https://www.producthunt.com/products/thunderduck-inc",
+      "source": "product_hunt",
+      "rank_now": 25,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "refern.",
+      "url": "https://www.producthunt.com/products/refern",
+      "source": "product_hunt",
+      "rank_now": 26,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
     },
     {
       "name": "chalk",
       "url": "https://www.producthunt.com/products/chalk-546d9cf8-cdc3-4b80-9b88-f441167c8f6e",
       "source": "product_hunt",
+      "rank_now": 27,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "DALI AI by SupplyzPro",
+      "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+      "source": "product_hunt",
+      "rank_now": 28,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "Turnstone",
+      "url": "https://www.producthunt.com/products/turnstone",
+      "source": "product_hunt",
+      "rank_now": 29,
+      "category_tags": [],
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
+    },
+    {
+      "name": "Enhanced for Todoist",
+      "url": "https://www.producthunt.com/products/enhanced-for-todoist",
+      "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
     },
     {
       "name": "Manual SEO Tool",
@@ -252,7 +252,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
     },
     {
       "name": "Workflow Copilot",
@@ -262,7 +262,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-11-06 19:55:22 UTC+08:00"
+      "fetched_at": "2026-11-07 03:03:11 UTC+08:00"
     }
   ],
   "errors": []
