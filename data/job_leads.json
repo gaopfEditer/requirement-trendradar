@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06 08:38:53 UTC+08:00",
-  "run_id": "20261106-083751-352e6fad",
+  "updated_at": "2026-11-06 08:54:34 UTC+08:00",
+  "run_id": "20261106-085332-b2ff612b",
   "source_note": "Freelancer public API search; Fiverr public only; no login; no bid. HTTP 403 login/bot wall at https://www.fiverr.com/buyer_requests",
   "ingest": {
     "freelancer": {
@@ -61,7 +61,7 @@
       "recommend_note": "三关未过：一期:看不出可切的一期; 竞争:投标过多（418≥100）",
       "budget_raw": "$250.0-750.0",
       "score": 75.0,
-      "fetched_at": "2026-11-06 08:38:47 UTC+08:00",
+      "fetched_at": "2026-11-06 08:54:28 UTC+08:00",
       "proposals_count": 418,
       "bid_count": 418,
       "votes": null
@@ -111,7 +111,7 @@
       "recommend_note": "三关未过：一期:看不出可切的一期; 竞争:投标过多（119≥100）",
       "budget_raw": "$8.0-15.0/hr",
       "score": 75.0,
-      "fetched_at": "2026-11-06 08:38:22 UTC+08:00",
+      "fetched_at": "2026-11-06 08:54:03 UTC+08:00",
       "proposals_count": 119,
       "bid_count": 119,
       "votes": null
@@ -161,7 +161,7 @@
       "recommend_note": "三关未过：一期:看不出可切的一期",
       "budget_raw": "$10.0-30.0",
       "score": 67.0,
-      "fetched_at": "2026-11-06 08:38:00 UTC+08:00",
+      "fetched_at": "2026-11-06 08:53:41 UTC+08:00",
       "proposals_count": 72,
       "bid_count": 72,
       "votes": null
@@ -209,7 +209,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹12500.0-37500.0",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:38:47 UTC+08:00",
+      "fetched_at": "2026-11-06 08:54:28 UTC+08:00",
       "proposals_count": 132,
       "bid_count": 132,
       "votes": null
@@ -257,7 +257,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$250.0-750.0",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:38:47 UTC+08:00",
+      "fetched_at": "2026-11-06 08:54:28 UTC+08:00",
       "proposals_count": 206,
       "bid_count": 206,
       "votes": null
@@ -305,7 +305,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹750.0-1250.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:38:47 UTC+08:00",
+      "fetched_at": "2026-11-06 08:54:28 UTC+08:00",
       "proposals_count": 40,
       "bid_count": 40,
       "votes": null
@@ -353,7 +353,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$10.0-30.0",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:37:54 UTC+08:00",
+      "fetched_at": "2026-11-06 08:53:36 UTC+08:00",
       "proposals_count": 6,
       "bid_count": 6,
       "votes": null
@@ -401,7 +401,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹600.0-1500.0",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:37:54 UTC+08:00",
+      "fetched_at": "2026-11-06 08:53:36 UTC+08:00",
       "proposals_count": 8,
       "bid_count": 8,
       "votes": null
@@ -449,7 +449,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹12500.0-37500.0",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:38:08 UTC+08:00",
+      "fetched_at": "2026-11-06 08:53:49 UTC+08:00",
       "proposals_count": 123,
       "bid_count": 123,
       "votes": null
@@ -497,7 +497,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹100.0-400.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:38:08 UTC+08:00",
+      "fetched_at": "2026-11-06 08:53:49 UTC+08:00",
       "proposals_count": 68,
       "bid_count": 68,
       "votes": null
@@ -545,7 +545,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$750.0-1500.0",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:38:47 UTC+08:00",
+      "fetched_at": "2026-11-06 08:54:28 UTC+08:00",
       "proposals_count": 310,
       "bid_count": 310,
       "votes": null
@@ -593,7 +593,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹12500.0-37500.0",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:38:08 UTC+08:00",
+      "fetched_at": "2026-11-06 08:53:49 UTC+08:00",
       "proposals_count": 96,
       "bid_count": 96,
       "votes": null
@@ -641,7 +641,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$5000.0-10000.0",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:38:27 UTC+08:00",
+      "fetched_at": "2026-11-06 08:54:08 UTC+08:00",
       "proposals_count": 210,
       "bid_count": 210,
       "votes": null
@@ -689,7 +689,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹12500.0-37500.0",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:38:08 UTC+08:00",
+      "fetched_at": "2026-11-06 08:53:49 UTC+08:00",
       "proposals_count": 172,
       "bid_count": 172,
       "votes": null
@@ -728,7 +728,7 @@
         {
           "name": "竞争",
           "pass": false,
-          "reason": "投标过多（117≥100）"
+          "reason": "投标过多（119≥100）"
         }
       ],
       "all_gates_pass": false,
@@ -737,9 +737,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$30.0-250.0",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:37:54 UTC+08:00",
-      "proposals_count": 117,
-      "bid_count": 117,
+      "fetched_at": "2026-11-06 08:53:36 UTC+08:00",
+      "proposals_count": 119,
+      "bid_count": 119,
       "votes": null
     },
     {
@@ -776,7 +776,7 @@
         {
           "name": "竞争",
           "pass": true,
-          "reason": "投标数 67"
+          "reason": "投标数 71"
         }
       ],
       "all_gates_pass": false,
@@ -785,9 +785,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$25.0-50.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:38:47 UTC+08:00",
-      "proposals_count": 67,
-      "bid_count": 67,
+      "fetched_at": "2026-11-06 08:54:28 UTC+08:00",
+      "proposals_count": 71,
+      "bid_count": 71,
       "votes": null
     },
     {
@@ -833,7 +833,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹1500.0-12500.0",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:38:24 UTC+08:00",
+      "fetched_at": "2026-11-06 08:54:04 UTC+08:00",
       "proposals_count": 222,
       "bid_count": 222,
       "votes": null
@@ -881,7 +881,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$750.0-1500.0",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:37:54 UTC+08:00",
+      "fetched_at": "2026-11-06 08:53:36 UTC+08:00",
       "proposals_count": 383,
       "bid_count": 383,
       "votes": null
@@ -929,7 +929,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$10.0-15.0",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:37:54 UTC+08:00",
+      "fetched_at": "2026-11-06 08:53:36 UTC+08:00",
       "proposals_count": 7,
       "bid_count": 7,
       "votes": null
@@ -977,7 +977,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$2.0-8.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:38:47 UTC+08:00",
+      "fetched_at": "2026-11-06 08:54:28 UTC+08:00",
       "proposals_count": 10,
       "bid_count": 10,
       "votes": null
@@ -1025,7 +1025,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹400.0-750.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:38:08 UTC+08:00",
+      "fetched_at": "2026-11-06 08:53:49 UTC+08:00",
       "proposals_count": 88,
       "bid_count": 88,
       "votes": null
@@ -1073,7 +1073,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹1500.0-12500.0",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:37:52 UTC+08:00",
+      "fetched_at": "2026-11-06 08:53:33 UTC+08:00",
       "proposals_count": 54,
       "bid_count": 54,
       "votes": null
@@ -1121,7 +1121,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$2.0-5.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:38:08 UTC+08:00",
+      "fetched_at": "2026-11-06 08:53:49 UTC+08:00",
       "proposals_count": 61,
       "bid_count": 61,
       "votes": null
@@ -1169,7 +1169,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹50000.0-200000.0",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:38:08 UTC+08:00",
+      "fetched_at": "2026-11-06 08:53:49 UTC+08:00",
       "proposals_count": 238,
       "bid_count": 238,
       "votes": null
@@ -1217,7 +1217,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "£20.0-250.0",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:37:52 UTC+08:00",
+      "fetched_at": "2026-11-06 08:53:33 UTC+08:00",
       "proposals_count": 472,
       "bid_count": 472,
       "votes": null
@@ -1265,7 +1265,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$10.0-30.0",
       "score": 50.0,
-      "fetched_at": "2026-11-06 08:37:54 UTC+08:00",
+      "fetched_at": "2026-11-06 08:53:36 UTC+08:00",
       "proposals_count": 0,
       "bid_count": 0,
       "votes": null
@@ -1315,7 +1315,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$30.0-250.0",
       "score": 10.0,
-      "fetched_at": "2026-11-06 08:37:54 UTC+08:00",
+      "fetched_at": "2026-11-06 08:53:36 UTC+08:00",
       "proposals_count": 195,
       "bid_count": 195,
       "votes": null
@@ -1365,7 +1365,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹12500.0-37500.0",
       "score": 10.0,
-      "fetched_at": "2026-11-06 08:37:54 UTC+08:00",
+      "fetched_at": "2026-11-06 08:53:36 UTC+08:00",
       "proposals_count": 124,
       "bid_count": 124,
       "votes": null
