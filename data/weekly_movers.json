@@ -1,192 +1,85 @@
 {
   "week": "2026-W45",
-  "generated_at": "2026-11-06T08:54:34+08:00",
-  "source": "computed",
+  "generated_at": "2026-11-06T19:56:23+08:00",
+  "source": "fixture",
   "timezone_label": "香港",
-  "keywords_top": [],
+  "keywords_top": [
+    {
+      "rank": 1,
+      "keyword": "make.com alternative",
+      "geo": "US",
+      "track": "自动化平台",
+      "interest_now": 28,
+      "interest_prev": 15,
+      "delta": 13,
+      "growth_score": 13,
+      "pay_intent_score": 3,
+      "slope_90d": "上升"
+    },
+    {
+      "rank": 2,
+      "keyword": "lovable",
+      "geo": "US",
+      "track": "AI 建站",
+      "interest_now": 68,
+      "interest_prev": 58,
+      "delta": 10,
+      "growth_score": 10,
+      "pay_intent_score": 2,
+      "slope_90d": "上升"
+    },
+    {
+      "rank": 3,
+      "keyword": "ai app audit",
+      "geo": "US",
+      "track": "AI 工具",
+      "interest_now": 42,
+      "interest_prev": 35,
+      "delta": 7,
+      "growth_score": 7,
+      "pay_intent_score": 3,
+      "slope_90d": "上升"
+    }
+  ],
   "apps_top": [
     {
-      "name": "Stitch.ai",
-      "url": "https://www.producthunt.com/products/stitch-ai",
+      "rank": 1,
+      "name": "Lovable",
+      "url": "https://www.producthunt.com/products/lovable",
       "source": "product_hunt",
-      "rank_now": 1,
-      "rank_prev": 27,
-      "rank_delta": -26,
-      "growth_score": 26,
-      "signal_note": "排名上升 26 位",
-      "new_entry": false,
-      "rank": 1
-    },
-    {
-      "name": "AI Employees by Easy-Peasy.AI",
-      "url": "https://www.producthunt.com/products/easy-peasy-ai",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "rank_prev": 28,
-      "rank_delta": -23,
-      "growth_score": 23,
-      "signal_note": "排名上升 23 位",
-      "new_entry": false,
-      "rank": 2
-    },
-    {
-      "name": "Nock",
-      "url": "https://www.producthunt.com/products/nock-2",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "rank_prev": 29,
-      "rank_delta": -22,
-      "growth_score": 22,
-      "signal_note": "排名上升 22 位",
-      "new_entry": false,
-      "rank": 3
-    },
-    {
-      "name": "Tencent Hy4",
-      "url": "https://www.producthunt.com/products/hunyuan-a13b",
-      "source": "product_hunt",
-      "rank_now": 8,
-      "rank_prev": 25,
-      "rank_delta": -17,
-      "growth_score": 17,
-      "signal_note": "排名上升 17 位",
-      "new_entry": false,
-      "rank": 4
-    },
-    {
-      "name": "Wingmen",
-      "url": "https://www.producthunt.com/products/wingmen",
-      "source": "product_hunt",
-      "rank_now": 9,
-      "rank_prev": 26,
-      "rank_delta": -17,
-      "growth_score": 17,
-      "signal_note": "排名上升 17 位",
-      "new_entry": false,
-      "rank": 5
-    },
-    {
-      "name": "Okapi",
-      "url": "https://www.producthunt.com/products/okapi-2",
-      "source": "product_hunt",
-      "rank_now": 11,
-      "rank_prev": 21,
-      "rank_delta": -10,
-      "growth_score": 10,
-      "signal_note": "排名上升 10 位",
-      "new_entry": false,
-      "rank": 6
-    },
-    {
-      "name": "CC Auto Review",
-      "url": "https://www.producthunt.com/products/cc-auto-review",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "rank_prev": 15,
+      "rank_now": 3,
+      "rank_prev": 12,
       "rank_delta": -9,
       "growth_score": 9,
       "signal_note": "排名上升 9 位",
-      "new_entry": false,
-      "rank": 7
+      "new_entry": false
     },
     {
-      "name": "Maritime",
-      "url": "https://www.producthunt.com/products/maritime",
+      "rank": 2,
+      "name": "n8n",
+      "url": "https://www.producthunt.com/products/n8n",
       "source": "product_hunt",
-      "rank_now": 4,
-      "rank_prev": 11,
-      "rank_delta": -7,
-      "growth_score": 7,
-      "signal_note": "排名上升 7 位",
-      "new_entry": false,
-      "rank": 8
-    },
-    {
-      "name": "Pushary for Teams",
-      "url": "https://www.producthunt.com/products/pushary",
-      "source": "product_hunt",
-      "rank_now": 3,
-      "rank_prev": 9,
+      "rank_now": 8,
+      "rank_prev": 14,
       "rank_delta": -6,
       "growth_score": 6,
       "signal_note": "排名上升 6 位",
-      "new_entry": false,
-      "rank": 9
-    },
-    {
-      "name": "Glasshand",
-      "url": "https://www.producthunt.com/products/glasshand",
-      "source": "product_hunt",
-      "rank_now": 15,
-      "rank_prev": 20,
-      "rank_delta": -5,
-      "growth_score": 5,
-      "signal_note": "排名上升 5 位",
-      "new_entry": false,
-      "rank": 10
+      "new_entry": false
     }
   ],
   "new_entries": [
     {
-      "name": "Polylane for Google Cloud",
-      "url": "https://www.producthunt.com/products/polylane",
+      "rank": 1,
+      "name": "SuperLocalMemory",
+      "url": "https://www.producthunt.com/products/superlocalmemory-v2",
       "source": "product_hunt",
-      "rank_now": 12,
+      "rank_now": 1,
       "rank_prev": null,
       "rank_delta": null,
       "growth_score": null,
       "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 1
-    },
-    {
-      "name": "Cosyra",
-      "url": "https://www.producthunt.com/products/cosyra",
-      "source": "product_hunt",
-      "rank_now": 18,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 2
-    },
-    {
-      "name": "Nemotron 3.5 Transcribe",
-      "url": "https://www.producthunt.com/products/nvidia",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 3
-    },
-    {
-      "name": "backlane",
-      "url": "https://www.producthunt.com/products/backlane-2",
-      "source": "product_hunt",
-      "rank_now": 27,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 4
-    },
-    {
-      "name": "Scrollsnacks",
-      "url": "https://www.producthunt.com/products/scrollsnacks",
-      "source": "product_hunt",
-      "rank_now": 29,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 5
+      "new_entry": true
     }
   ],
-  "skipped": null
+  "skipped": "insufficient_history"
 }
