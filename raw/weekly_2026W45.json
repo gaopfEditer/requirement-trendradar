@@ -1,85 +1,180 @@
 {
   "week": "2026-W45",
-  "generated_at": "2026-11-07T22:46:37+08:00",
-  "source": "fixture",
+  "generated_at": "2026-11-08T04:00:26+08:00",
+  "source": "computed",
   "timezone_label": "香港",
-  "keywords_top": [
-    {
-      "rank": 1,
-      "keyword": "make.com alternative",
-      "geo": "US",
-      "track": "自动化平台",
-      "interest_now": 28,
-      "interest_prev": 15,
-      "delta": 13,
-      "growth_score": 13,
-      "pay_intent_score": 3,
-      "slope_90d": "上升"
-    },
-    {
-      "rank": 2,
-      "keyword": "lovable",
-      "geo": "US",
-      "track": "AI 建站",
-      "interest_now": 68,
-      "interest_prev": 58,
-      "delta": 10,
-      "growth_score": 10,
-      "pay_intent_score": 2,
-      "slope_90d": "上升"
-    },
-    {
-      "rank": 3,
-      "keyword": "ai app audit",
-      "geo": "US",
-      "track": "AI 工具",
-      "interest_now": 42,
-      "interest_prev": 35,
-      "delta": 7,
-      "growth_score": 7,
-      "pay_intent_score": 3,
-      "slope_90d": "上升"
-    }
-  ],
+  "keywords_top": [],
   "apps_top": [
     {
-      "rank": 1,
-      "name": "Lovable",
-      "url": "https://www.producthunt.com/products/lovable",
+      "name": "Deal Pilot",
+      "url": "https://www.producthunt.com/products/deal-pilot",
       "source": "product_hunt",
-      "rank_now": 3,
-      "rank_prev": 12,
-      "rank_delta": -9,
-      "growth_score": 9,
-      "signal_note": "排名上升 9 位",
-      "new_entry": false
+      "rank_now": 2,
+      "rank_prev": 22,
+      "rank_delta": -20,
+      "growth_score": 20,
+      "signal_note": "排名上升 20 位",
+      "new_entry": false,
+      "rank": 1
     },
     {
-      "rank": 2,
-      "name": "n8n",
-      "url": "https://www.producthunt.com/products/n8n",
+      "name": "kayet",
+      "url": "https://www.producthunt.com/products/kayet",
       "source": "product_hunt",
       "rank_now": 8,
+      "rank_prev": 24,
+      "rank_delta": -16,
+      "growth_score": 16,
+      "signal_note": "排名上升 16 位",
+      "new_entry": false,
+      "rank": 2
+    },
+    {
+      "name": "Fleeep",
+      "url": "https://www.producthunt.com/products/fleeep",
+      "source": "product_hunt",
+      "rank_now": 1,
       "rank_prev": 14,
+      "rank_delta": -13,
+      "growth_score": 13,
+      "signal_note": "排名上升 13 位",
+      "new_entry": false,
+      "rank": 3
+    },
+    {
+      "name": "Sendoff",
+      "url": "https://www.producthunt.com/products/sendoff-2",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "rank_prev": 20,
+      "rank_delta": -13,
+      "growth_score": 13,
+      "signal_note": "排名上升 13 位",
+      "new_entry": false,
+      "rank": 4
+    },
+    {
+      "name": "The Writer's Quarter",
+      "url": "https://www.producthunt.com/products/the-writer-s-quarter",
+      "source": "product_hunt",
+      "rank_now": 16,
+      "rank_prev": 23,
+      "rank_delta": -7,
+      "growth_score": 7,
+      "signal_note": "排名上升 7 位",
+      "new_entry": false,
+      "rank": 5
+    },
+    {
+      "name": "Exa Monitors v2",
+      "url": "https://www.producthunt.com/products/exa-ai",
+      "source": "product_hunt",
+      "rank_now": 3,
+      "rank_prev": 9,
       "rank_delta": -6,
       "growth_score": 6,
       "signal_note": "排名上升 6 位",
-      "new_entry": false
+      "new_entry": false,
+      "rank": 6
+    },
+    {
+      "name": "Instagram Edits for Desktop",
+      "url": "https://www.producthunt.com/products/instagram",
+      "source": "product_hunt",
+      "rank_now": 10,
+      "rank_prev": 16,
+      "rank_delta": -6,
+      "growth_score": 6,
+      "signal_note": "排名上升 6 位",
+      "new_entry": false,
+      "rank": 7
+    },
+    {
+      "name": "ClarifierAI for Chrome",
+      "url": "https://www.producthunt.com/products/clarifierai-rewrite-text-2",
+      "source": "product_hunt",
+      "rank_now": 15,
+      "rank_prev": 21,
+      "rank_delta": -6,
+      "growth_score": 6,
+      "signal_note": "排名上升 6 位",
+      "new_entry": false,
+      "rank": 8
+    },
+    {
+      "name": "Trace by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "source": "product_hunt",
+      "rank_now": 5,
+      "rank_prev": 10,
+      "rank_delta": -5,
+      "growth_score": 5,
+      "signal_note": "排名上升 5 位",
+      "new_entry": false,
+      "rank": 9
+    },
+    {
+      "name": "Duly",
+      "url": "https://www.producthunt.com/products/duly-life-organizer",
+      "source": "product_hunt",
+      "rank_now": 9,
+      "rank_prev": 13,
+      "rank_delta": -4,
+      "growth_score": 4,
+      "signal_note": "排名上升 4 位",
+      "new_entry": false,
+      "rank": 10
     }
   ],
   "new_entries": [
     {
-      "rank": 1,
-      "name": "SuperLocalMemory",
-      "url": "https://www.producthunt.com/products/superlocalmemory-v2",
+      "name": "refern.",
+      "url": "https://www.producthunt.com/products/refern",
       "source": "product_hunt",
-      "rank_now": 1,
+      "rank_now": 26,
       "rank_prev": null,
       "rank_delta": null,
       "growth_score": null,
       "signal_note": "新进榜",
-      "new_entry": true
+      "new_entry": true,
+      "rank": 1
+    },
+    {
+      "name": "EdgeBar",
+      "url": "https://www.producthunt.com/products/edgebar",
+      "source": "product_hunt",
+      "rank_now": 28,
+      "rank_prev": null,
+      "rank_delta": null,
+      "growth_score": null,
+      "signal_note": "新进榜",
+      "new_entry": true,
+      "rank": 2
+    },
+    {
+      "name": "Kivo",
+      "url": "https://www.producthunt.com/products/kivo-4",
+      "source": "product_hunt",
+      "rank_now": 29,
+      "rank_prev": null,
+      "rank_delta": null,
+      "growth_score": null,
+      "signal_note": "新进榜",
+      "new_entry": true,
+      "rank": 3
+    },
+    {
+      "name": "Earth Stats",
+      "url": "https://www.producthunt.com/products/earth-stats",
+      "source": "product_hunt",
+      "rank_now": 30,
+      "rank_prev": null,
+      "rank_delta": null,
+      "growth_score": null,
+      "signal_note": "新进榜",
+      "new_entry": true,
+      "rank": 4
     }
   ],
-  "skipped": "insufficient_history"
+  "skipped": null
 }
