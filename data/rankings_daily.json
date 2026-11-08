@@ -1,63 +1,63 @@
 {
-  "updated_at": "2026-11-08 22:52:28 UTC+08:00",
-  "date_stamp": "20261108",
-  "run_id": "20261108-225228-32615aec",
+  "updated_at": "2026-11-09 04:16:35 UTC+08:00",
+  "date_stamp": "20261109",
+  "run_id": "20261109-041635-20b859d8",
   "items": [
     {
-      "name": "Deduplication",
-      "url": "https://www.producthunt.com/products/hacker-noon",
+      "name": "AXL",
+      "url": "https://www.producthunt.com/products/axl-2",
       "source": "product_hunt",
       "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
-    },
-    {
-      "name": "DocsAlot for customer support",
-      "url": "https://www.producthunt.com/products/docsalot-2",
-      "source": "product_hunt",
-      "rank_now": 2,
-      "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
-    },
-    {
-      "name": "NotchX",
-      "url": "https://www.producthunt.com/products/notch-11",
-      "source": "product_hunt",
-      "rank_now": 3,
-      "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
-    },
-    {
-      "name": "Archie",
-      "url": "https://www.producthunt.com/products/archie-3",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     },
     {
       "name": "Sage2 by Levanto Labs",
       "url": "https://www.producthunt.com/products/sagecraft",
       "source": "product_hunt",
-      "rank_now": 5,
+      "rank_now": 2,
       "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     },
     {
-      "name": "AXL",
-      "url": "https://www.producthunt.com/products/axl-2",
+      "name": "NotchIsland",
+      "url": "https://www.producthunt.com/products/notchisland-2",
+      "source": "product_hunt",
+      "rank_now": 3,
+      "category_tags": [],
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
+    },
+    {
+      "name": "Tilde ",
+      "url": "https://www.producthunt.com/products/tilde-for-mac",
+      "source": "product_hunt",
+      "rank_now": 4,
+      "category_tags": [],
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
+    },
+    {
+      "name": "Agent Clan",
+      "url": "https://www.producthunt.com/products/agent-clan",
+      "source": "product_hunt",
+      "rank_now": 5,
+      "category_tags": [],
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
+    },
+    {
+      "name": "Zigzag Browser",
+      "url": "https://www.producthunt.com/products/zigzag-browser",
       "source": "product_hunt",
       "rank_now": 6,
       "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     },
     {
-      "name": "Inkling 2 Small",
-      "url": "https://www.producthunt.com/products/tinker-2",
+      "name": "Deduplication",
+      "url": "https://www.producthunt.com/products/hacker-noon",
       "source": "product_hunt",
       "rank_now": 7,
       "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     },
     {
       "name": "NoMac",
@@ -65,183 +65,183 @@
       "source": "product_hunt",
       "rank_now": 8,
       "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     },
     {
-      "name": "Frameboy by World Labs",
-      "url": "https://www.producthunt.com/products/marble-by-world-labs",
+      "name": "DocsAlot for customer support",
+      "url": "https://www.producthunt.com/products/docsalot-2",
       "source": "product_hunt",
       "rank_now": 9,
       "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     },
     {
-      "name": "Agent Clan",
-      "url": "https://www.producthunt.com/products/agent-clan",
+      "name": "Archie",
+      "url": "https://www.producthunt.com/products/archie-3",
       "source": "product_hunt",
       "rank_now": 10,
       "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
-    },
-    {
-      "name": "Zigzag Browser",
-      "url": "https://www.producthunt.com/products/zigzag-3",
-      "source": "product_hunt",
-      "rank_now": 11,
-      "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
-    },
-    {
-      "name": "NotchIsland",
-      "url": "https://www.producthunt.com/products/notchisland-2",
-      "source": "product_hunt",
-      "rank_now": 12,
-      "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
-    },
-    {
-      "name": "outages.live",
-      "url": "https://www.producthunt.com/products/polylane",
-      "source": "product_hunt",
-      "rank_now": 13,
-      "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     },
     {
       "name": "Memorias",
       "url": "https://www.producthunt.com/products/memorias-3",
       "source": "product_hunt",
-      "rank_now": 14,
+      "rank_now": 11,
       "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     },
     {
-      "name": "Keypause",
-      "url": "https://www.producthunt.com/products/keypause",
+      "name": "NotchX",
+      "url": "https://www.producthunt.com/products/notch-11",
       "source": "product_hunt",
-      "rank_now": 15,
+      "rank_now": 12,
       "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
-    },
-    {
-      "name": "Tilde ",
-      "url": "https://www.producthunt.com/products/tilde-for-mac",
-      "source": "product_hunt",
-      "rank_now": 16,
-      "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     },
     {
       "name": "Textly",
       "url": "https://www.producthunt.com/products/textly-capture-copy-paste",
       "source": "product_hunt",
-      "rank_now": 17,
+      "rank_now": 13,
       "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     },
     {
-      "name": "Sequence Tool",
-      "url": "https://www.producthunt.com/products/sequence-tool",
+      "name": "Frameboy by World Labs",
+      "url": "https://www.producthunt.com/products/marble-by-world-labs",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "category_tags": [],
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
+    },
+    {
+      "name": "outages.live",
+      "url": "https://www.producthunt.com/products/polylane",
+      "source": "product_hunt",
+      "rank_now": 15,
+      "category_tags": [],
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
+    },
+    {
+      "name": "Keypause",
+      "url": "https://www.producthunt.com/products/keypause",
+      "source": "product_hunt",
+      "rank_now": 16,
+      "category_tags": [],
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
+    },
+    {
+      "name": "Inkling 2 Small",
+      "url": "https://www.producthunt.com/products/tinker-2",
+      "source": "product_hunt",
+      "rank_now": 17,
+      "category_tags": [],
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
+    },
+    {
+      "name": "Deal Pilot",
+      "url": "https://www.producthunt.com/products/deal-pilot",
       "source": "product_hunt",
       "rank_now": 18,
       "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
-    },
-    {
-      "name": "Switchy",
-      "url": "https://www.producthunt.com/products/switchy",
-      "source": "product_hunt",
-      "rank_now": 19,
-      "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
-    },
-    {
-      "name": "Sendoff",
-      "url": "https://www.producthunt.com/products/sendoff-2",
-      "source": "product_hunt",
-      "rank_now": 20,
-      "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
-    },
-    {
-      "name": "Google Omni 1.2 Flash",
-      "url": "https://www.producthunt.com/products/google-omni-1-2-flash",
-      "source": "product_hunt",
-      "rank_now": 21,
-      "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
-    },
-    {
-      "name": "Trace by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
-    },
-    {
-      "name": "Standflow",
-      "url": "https://www.producthunt.com/products/standflow",
-      "source": "product_hunt",
-      "rank_now": 23,
-      "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     },
     {
       "name": "Duly",
       "url": "https://www.producthunt.com/products/duly-life-organizer",
       "source": "product_hunt",
-      "rank_now": 24,
+      "rank_now": 19,
       "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
+    },
+    {
+      "name": "seam",
+      "url": "https://www.producthunt.com/products/seam-2",
+      "source": "product_hunt",
+      "rank_now": 20,
+      "category_tags": [],
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
+    },
+    {
+      "name": "Rex (Beta)",
+      "url": "https://www.producthunt.com/products/superlogical",
+      "source": "product_hunt",
+      "rank_now": 21,
+      "category_tags": [],
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     },
     {
       "name": "Dino Kids",
       "url": "https://www.producthunt.com/products/dino-kids",
       "source": "product_hunt",
-      "rank_now": 25,
+      "rank_now": 22,
       "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     },
     {
-      "name": "Fleeep",
-      "url": "https://www.producthunt.com/products/fleeep",
+      "name": "Switchy",
+      "url": "https://www.producthunt.com/products/switchy",
       "source": "product_hunt",
-      "rank_now": 26,
+      "rank_now": 23,
       "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     },
     {
-      "name": "PacerTrip",
-      "url": "https://www.producthunt.com/products/pacertrip",
+      "name": "The Writer's Quarter",
+      "url": "https://www.producthunt.com/products/the-writer-s-quarter",
       "source": "product_hunt",
-      "rank_now": 27,
+      "rank_now": 24,
       "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
-    },
-    {
-      "name": "Muse Realtime Avatar",
-      "url": "https://www.producthunt.com/products/meta-ai",
-      "source": "product_hunt",
-      "rank_now": 28,
-      "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     },
     {
       "name": "Capnot",
       "url": "https://www.producthunt.com/products/capnot",
       "source": "product_hunt",
-      "rank_now": 29,
+      "rank_now": 25,
       "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     },
     {
-      "name": "ClarifierAI for Chrome",
-      "url": "https://www.producthunt.com/products/clarifierai-rewrite-text-2",
+      "name": "LiveReview",
+      "url": "https://www.producthunt.com/products/livereview",
+      "source": "product_hunt",
+      "rank_now": 26,
+      "category_tags": [],
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
+    },
+    {
+      "name": "GPT‑6 Cyber",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "product_hunt",
+      "rank_now": 27,
+      "category_tags": [],
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
+    },
+    {
+      "name": "PacerTrip",
+      "url": "https://www.producthunt.com/products/pacertrip",
+      "source": "product_hunt",
+      "rank_now": 28,
+      "category_tags": [],
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
+    },
+    {
+      "name": "ChatGPT Images 2.6",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "product_hunt",
+      "rank_now": 29,
+      "category_tags": [],
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
+    },
+    {
+      "name": "Sequence Tool",
+      "url": "https://www.producthunt.com/products/sequence-tool",
       "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     },
     {
       "name": "Manual SEO Tool",
@@ -252,7 +252,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     },
     {
       "name": "Workflow Copilot",
@@ -262,7 +262,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-11-08 22:52:28 UTC+08:00"
+      "fetched_at": "2026-11-09 04:16:35 UTC+08:00"
     }
   ],
   "errors": []
