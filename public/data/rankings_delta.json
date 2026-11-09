@@ -1,335 +1,335 @@
 {
-  "updated_at": "2026-11-09 15:44:19 UTC+08:00",
+  "updated_at": "2026-11-10 02:29:44 UTC+08:00",
   "items": [
     {
-      "name": "NotchIsland",
-      "url": "https://www.producthunt.com/products/notchisland-2",
+      "name": "Pawse.ai",
+      "url": "https://www.producthunt.com/products/pawse-ai",
       "source": "product_hunt",
       "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 12,
-      "rank_delta": -11,
-      "signal_note": "排名上升 11 位"
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Higgsfield Miracle",
+      "url": "https://www.producthunt.com/products/higgsfield",
+      "source": "product_hunt",
+      "rank_now": 2,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "ProtoMap",
+      "url": "https://www.producthunt.com/products/hounddog-ai-static-code-scanner-2",
+      "source": "product_hunt",
+      "rank_now": 3,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Egoist AI Passport",
+      "url": "https://www.producthunt.com/products/egoist-ai-passport",
+      "source": "product_hunt",
+      "rank_now": 4,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Cardboard AI",
+      "url": "https://www.producthunt.com/products/cardboard-3",
+      "source": "product_hunt",
+      "rank_now": 5,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Dageno AI 2.0",
+      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+      "source": "product_hunt",
+      "rank_now": 6,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Arcjet AI security models",
+      "url": "https://www.producthunt.com/products/arcjet",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Watchflows",
+      "url": "https://www.producthunt.com/products/watchflows",
+      "source": "product_hunt",
+      "rank_now": 8,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Voyager",
+      "url": "https://www.producthunt.com/products/vygr",
+      "source": "product_hunt",
+      "rank_now": 9,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "If You Read This",
+      "url": "https://www.producthunt.com/products/if-you-read-this",
+      "source": "product_hunt",
+      "rank_now": 10,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Databox CLI",
+      "url": "https://www.producthunt.com/products/databox",
+      "source": "product_hunt",
+      "rank_now": 11,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Flic Cue",
+      "url": "https://www.producthunt.com/products/flic-cue",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Terse - Durable Actors",
+      "url": "https://www.producthunt.com/products/terse-durable-actors",
+      "source": "product_hunt",
+      "rank_now": 13,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Jotform App for Shopify",
+      "url": "https://www.producthunt.com/products/jotform",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Cue",
+      "url": "https://www.producthunt.com/products/cue-voice-keyboard",
+      "source": "product_hunt",
+      "rank_now": 15,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "ClipsPal",
+      "url": "https://www.producthunt.com/products/clipspal",
+      "source": "product_hunt",
+      "rank_now": 16,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "KIKUmap",
+      "url": "https://www.producthunt.com/products/kikumap",
+      "source": "product_hunt",
+      "rank_now": 17,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "MCP1",
+      "url": "https://www.producthunt.com/products/appwrite",
+      "source": "product_hunt",
+      "rank_now": 18,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "GitHub New PR Overview",
+      "url": "https://www.producthunt.com/products/github",
+      "source": "product_hunt",
+      "rank_now": 19,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Nörth",
+      "url": "https://www.producthunt.com/products/north-5",
+      "source": "product_hunt",
+      "rank_now": 20,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Sign Language by Panda Video",
+      "url": "https://www.producthunt.com/products/panda-video",
+      "source": "product_hunt",
+      "rank_now": 21,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "CozyZip",
+      "url": "https://www.producthunt.com/products/cozyzip",
+      "source": "product_hunt",
+      "rank_now": 22,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "skuttr",
+      "url": "https://www.producthunt.com/products/skuttr",
+      "source": "product_hunt",
+      "rank_now": 23,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Calmly Script",
+      "url": "https://www.producthunt.com/products/calmly-script",
+      "source": "product_hunt",
+      "rank_now": 24,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
+    },
+    {
+      "name": "Product Hunt MCP",
+      "url": "https://www.producthunt.com/products/producthunt",
+      "source": "product_hunt",
+      "rank_now": 25,
+      "category_tags": [],
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": null,
+      "rank_delta": null,
+      "signal_note": "新进榜"
     },
     {
       "name": "AXL",
       "url": "https://www.producthunt.com/products/axl-2",
       "source": "product_hunt",
-      "rank_now": 2,
+      "rank_now": 26,
       "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 6,
-      "rank_delta": -4,
-      "signal_note": "排名上升 4 位"
-    },
-    {
-      "name": "Textly",
-      "url": "https://www.producthunt.com/products/textly-capture-copy-paste",
-      "source": "product_hunt",
-      "rank_now": 3,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 17,
-      "rank_delta": -14,
-      "signal_note": "排名上升 14 位"
-    },
-    {
-      "name": "Deduplication",
-      "url": "https://www.producthunt.com/products/hacker-noon",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 1,
-      "rank_delta": 3,
-      "signal_note": "排名下降 3 位"
-    },
-    {
-      "name": "Zigzag Browser",
-      "url": "https://www.producthunt.com/products/zigzag-browser",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 11,
-      "rank_delta": -6,
-      "signal_note": "排名上升 6 位"
-    },
-    {
-      "name": "NoMac",
-      "url": "https://www.producthunt.com/products/nomac",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 8,
-      "rank_delta": -2,
-      "signal_note": "排名上升 2 位"
-    },
-    {
-      "name": "Sage2 by Levanto Labs",
-      "url": "https://www.producthunt.com/products/sagecraft",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 5,
-      "rank_delta": 2,
-      "signal_note": "排名下降 2 位"
-    },
-    {
-      "name": "Memorias",
-      "url": "https://www.producthunt.com/products/memorias-3",
-      "source": "product_hunt",
-      "rank_now": 8,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 14,
-      "rank_delta": -6,
-      "signal_note": "排名上升 6 位"
-    },
-    {
-      "name": "outages.live",
-      "url": "https://www.producthunt.com/products/polylane",
-      "source": "product_hunt",
-      "rank_now": 9,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 13,
-      "rank_delta": -4,
-      "signal_note": "排名上升 4 位"
-    },
-    {
-      "name": "Inkling 2 Small",
-      "url": "https://www.producthunt.com/products/tinker-2",
-      "source": "product_hunt",
-      "rank_now": 10,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 7,
-      "rank_delta": 3,
-      "signal_note": "排名下降 3 位"
-    },
-    {
-      "name": "DocsAlot for customer support",
-      "url": "https://www.producthunt.com/products/docsalot-2",
-      "source": "product_hunt",
-      "rank_now": 11,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
       "rank_prev": 2,
-      "rank_delta": 9,
-      "signal_note": "排名下降 9 位"
-    },
-    {
-      "name": "Tilde ",
-      "url": "https://www.producthunt.com/products/tilde-for-mac",
-      "source": "product_hunt",
-      "rank_now": 12,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 16,
-      "rank_delta": -4,
-      "signal_note": "排名上升 4 位"
-    },
-    {
-      "name": "Agent Clan",
-      "url": "https://www.producthunt.com/products/agent-clan",
-      "source": "product_hunt",
-      "rank_now": 13,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 10,
-      "rank_delta": 3,
-      "signal_note": "排名下降 3 位"
-    },
-    {
-      "name": "Keypause",
-      "url": "https://www.producthunt.com/products/keypause",
-      "source": "product_hunt",
-      "rank_now": 14,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 15,
-      "rank_delta": -1,
-      "signal_note": "排名上升 1 位"
+      "rank_delta": 24,
+      "signal_note": "排名下降 24 位"
     },
     {
       "name": "NotchX",
       "url": "https://www.producthunt.com/products/notch-11",
       "source": "product_hunt",
-      "rank_now": 15,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 3,
-      "rank_delta": 12,
-      "signal_note": "排名下降 12 位"
-    },
-    {
-      "name": "Archie",
-      "url": "https://www.producthunt.com/products/archie-3",
-      "source": "product_hunt",
-      "rank_now": 16,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 4,
-      "rank_delta": 12,
-      "signal_note": "排名下降 12 位"
-    },
-    {
-      "name": "Frameboy by World Labs",
-      "url": "https://www.producthunt.com/products/marble-by-world-labs",
-      "source": "product_hunt",
-      "rank_now": 17,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 9,
-      "rank_delta": 8,
-      "signal_note": "排名下降 8 位"
-    },
-    {
-      "name": "LiveReview",
-      "url": "https://www.producthunt.com/products/livereview",
-      "source": "product_hunt",
-      "rank_now": 18,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": null,
-      "rank_delta": null,
-      "signal_note": "新进榜"
-    },
-    {
-      "name": "Instagram Edits for Desktop",
-      "url": "https://www.producthunt.com/products/instagram",
-      "source": "product_hunt",
-      "rank_now": 19,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": null,
-      "rank_delta": null,
-      "signal_note": "新进榜"
-    },
-    {
-      "name": "Standflow",
-      "url": "https://www.producthunt.com/products/standflow",
-      "source": "product_hunt",
-      "rank_now": 20,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 23,
-      "rank_delta": -3,
-      "signal_note": "排名上升 3 位"
-    },
-    {
-      "name": "Google Omni 1.2 Flash",
-      "url": "https://www.producthunt.com/products/google-omni-1-2-flash",
-      "source": "product_hunt",
-      "rank_now": 21,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 21,
-      "rank_delta": 0,
-      "signal_note": "持平"
-    },
-    {
-      "name": "Muse Realtime Avatar",
-      "url": "https://www.producthunt.com/products/meta-ai",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 28,
-      "rank_delta": -6,
-      "signal_note": "排名上升 6 位"
-    },
-    {
-      "name": "PacerTrip",
-      "url": "https://www.producthunt.com/products/pacertrip",
-      "source": "product_hunt",
-      "rank_now": 23,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 27,
-      "rank_delta": -4,
-      "signal_note": "排名上升 4 位"
-    },
-    {
-      "name": "Quest",
-      "url": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279",
-      "source": "product_hunt",
-      "rank_now": 24,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": null,
-      "rank_delta": null,
-      "signal_note": "新进榜"
-    },
-    {
-      "name": "Capnot",
-      "url": "https://www.producthunt.com/products/capnot",
-      "source": "product_hunt",
-      "rank_now": 25,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 29,
-      "rank_delta": -4,
-      "signal_note": "排名上升 4 位"
-    },
-    {
-      "name": "Switchy",
-      "url": "https://www.producthunt.com/products/switchy",
-      "source": "product_hunt",
-      "rank_now": 26,
-      "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 19,
-      "rank_delta": 7,
-      "signal_note": "排名下降 7 位"
-    },
-    {
-      "name": "GPT‑6 Cyber",
-      "url": "https://www.producthunt.com/products/openai",
-      "source": "product_hunt",
       "rank_now": 27,
       "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": null,
-      "rank_delta": null,
-      "signal_note": "新进榜"
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": 15,
+      "rank_delta": 12,
+      "signal_note": "排名下降 12 位"
     },
     {
-      "name": "Exa Monitors v2",
-      "url": "https://www.producthunt.com/products/exa-ai",
+      "name": "NotchIsland",
+      "url": "https://www.producthunt.com/products/notchisland-2",
       "source": "product_hunt",
       "rank_now": 28,
       "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": null,
-      "rank_delta": null,
-      "signal_note": "新进榜"
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": 1,
+      "rank_delta": 27,
+      "signal_note": "排名下降 27 位"
     },
     {
-      "name": "Duly",
-      "url": "https://www.producthunt.com/products/duly-life-organizer",
+      "name": "Sage2 by Levanto Labs",
+      "url": "https://www.producthunt.com/products/sagecraft",
       "source": "product_hunt",
       "rank_now": 29,
       "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": 24,
-      "rank_delta": 5,
-      "signal_note": "排名下降 5 位"
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": 7,
+      "rank_delta": 22,
+      "signal_note": "排名下降 22 位"
     },
     {
-      "name": "ChatGPT Images 2.6",
-      "url": "https://www.producthunt.com/products/openai",
+      "name": "Memorias",
+      "url": "https://www.producthunt.com/products/memorias-3",
       "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
-      "rank_prev": null,
-      "rank_delta": null,
-      "signal_note": "新进榜"
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
+      "rank_prev": 8,
+      "rank_delta": 22,
+      "signal_note": "排名下降 22 位"
     },
     {
       "name": "Manual SEO Tool",
@@ -340,7 +340,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
       "rank_prev": 15,
       "rank_delta": 0,
       "signal_note": "持平"
@@ -353,13 +353,145 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00",
       "rank_prev": 22,
       "rank_delta": 0,
       "signal_note": "持平"
     },
     {
-      "name": "Sequence Tool",
+      "name": "Textly",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 3,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "Deduplication",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 4,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "Zigzag Browser",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 5,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "NoMac",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 6,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "outages.live",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 9,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "Inkling 2 Small",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 10,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "DocsAlot for customer support",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 11,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "Tilde ",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 12,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "Agent Clan",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 13,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "Keypause",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 14,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "Archie",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 16,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "Frameboy by World Labs",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 17,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "LiveReview",
       "url": "",
       "source": "product_hunt",
       "rank_now": null,
@@ -367,10 +499,21 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00"
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
     },
     {
-      "name": "Sendoff",
+      "name": "Instagram Edits for Desktop",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 19,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "Standflow",
       "url": "",
       "source": "product_hunt",
       "rank_now": null,
@@ -378,10 +521,21 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00"
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
     },
     {
-      "name": "Trace by Context.dev",
+      "name": "Google Omni 1.2 Flash",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 21,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "Muse Realtime Avatar",
       "url": "",
       "source": "product_hunt",
       "rank_now": null,
@@ -389,10 +543,32 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00"
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
     },
     {
-      "name": "Dino Kids",
+      "name": "PacerTrip",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 23,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "Quest",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 24,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "Capnot",
       "url": "",
       "source": "product_hunt",
       "rank_now": null,
@@ -400,10 +576,10 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00"
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
     },
     {
-      "name": "Fleeep",
+      "name": "Switchy",
       "url": "",
       "source": "product_hunt",
       "rank_now": null,
@@ -411,10 +587,43 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00"
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
     },
     {
-      "name": "ClarifierAI for Chrome",
+      "name": "GPT‑6 Cyber",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 27,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "Exa Monitors v2",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 28,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "Duly",
+      "url": "",
+      "source": "product_hunt",
+      "rank_now": null,
+      "rank_prev": 29,
+      "rank_delta": null,
+      "category_tags": [],
+      "signal_note": "掉出榜",
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
+    },
+    {
+      "name": "ChatGPT Images 2.6",
       "url": "",
       "source": "product_hunt",
       "rank_now": null,
@@ -422,7 +631,7 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-09 15:44:19 UTC+08:00"
+      "fetched_at": "2026-11-10 02:29:44 UTC+08:00"
     }
   ]
 }
