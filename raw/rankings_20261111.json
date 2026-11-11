@@ -1,247 +1,247 @@
 {
-  "run_id": "20261111-054228-fbc78b59",
-  "fetched_at": "2026-11-11 05:42:28 UTC+08:00",
+  "run_id": "20261111-131753-46e675fa",
+  "fetched_at": "2026-11-11 13:17:53 UTC+08:00",
   "source_version": "producthunt-atom-feed-v1",
   "items": [
     {
-      "name": "Latch.ai",
-      "url": "https://www.producthunt.com/products/latch-ai-2",
+      "name": "TK by Medium",
+      "url": "https://www.producthunt.com/products/medium",
       "source": "product_hunt",
       "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
+    },
+    {
+      "name": "Billing MCP By SubscriptionFlow",
+      "url": "https://www.producthunt.com/products/subscriptionflow-ai-billing-mcp",
+      "source": "product_hunt",
+      "rank_now": 2,
+      "category_tags": [],
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
     },
     {
       "name": "Alsona",
       "url": "https://www.producthunt.com/products/alsona",
       "source": "product_hunt",
-      "rank_now": 2,
-      "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
-    },
-    {
-      "name": "Lottie AI",
-      "url": "https://www.producthunt.com/products/lottiefiles",
-      "source": "product_hunt",
       "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
-    },
-    {
-      "name": "Inspo by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
-    },
-    {
-      "name": "ChromePing",
-      "url": "https://www.producthunt.com/products/chromeping",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
-    },
-    {
-      "name": "Kata Send",
-      "url": "https://www.producthunt.com/products/kata-send",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
-    },
-    {
-      "name": "TOWeb 15",
-      "url": "https://www.producthunt.com/products/toweb",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
-    },
-    {
-      "name": "Obsiva",
-      "url": "https://www.producthunt.com/products/obsiva",
-      "source": "product_hunt",
-      "rank_now": 8,
-      "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
-    },
-    {
-      "name": "Tokens by UI Colors",
-      "url": "https://www.producthunt.com/products/tokens-by-ui-colors",
-      "source": "product_hunt",
-      "rank_now": 9,
-      "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
-    },
-    {
-      "name": "ZUS",
-      "url": "https://www.producthunt.com/products/zus-2",
-      "source": "product_hunt",
-      "rank_now": 10,
-      "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
     },
     {
       "name": "Maxma",
       "url": "https://www.producthunt.com/products/maxma-2",
       "source": "product_hunt",
-      "rank_now": 11,
+      "rank_now": 4,
       "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
-    },
-    {
-      "name": "QuotedPart",
-      "url": "https://www.producthunt.com/products/quotedpart",
-      "source": "product_hunt",
-      "rank_now": 12,
-      "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
-    },
-    {
-      "name": "MuJoCo 4",
-      "url": "https://www.producthunt.com/products/google",
-      "source": "product_hunt",
-      "rank_now": 13,
-      "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
     },
     {
       "name": "gitmanual",
       "url": "https://www.producthunt.com/products/gitmanual",
       "source": "product_hunt",
-      "rank_now": 14,
+      "rank_now": 5,
       "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
     },
     {
-      "name": "Gesso",
-      "url": "https://www.producthunt.com/products/gesso-2",
+      "name": "AppTraction",
+      "url": "https://www.producthunt.com/products/apptraction",
       "source": "product_hunt",
-      "rank_now": 15,
+      "rank_now": 6,
       "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
     },
     {
-      "name": "Seldon",
-      "url": "https://www.producthunt.com/products/seldon",
+      "name": "ChromePing",
+      "url": "https://www.producthunt.com/products/chromeping",
       "source": "product_hunt",
-      "rank_now": 16,
+      "rank_now": 7,
       "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
     },
     {
-      "name": "Wipecraft",
-      "url": "https://www.producthunt.com/products/wipecraft",
+      "name": "ZUS",
+      "url": "https://www.producthunt.com/products/zus-2",
       "source": "product_hunt",
-      "rank_now": 17,
+      "rank_now": 8,
       "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
+    },
+    {
+      "name": "SideKick By Open",
+      "url": "https://www.producthunt.com/products/open-for-sales",
+      "source": "product_hunt",
+      "rank_now": 9,
+      "category_tags": [],
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
+    },
+    {
+      "name": "CloakPane",
+      "url": "https://www.producthunt.com/products/cloakpane",
+      "source": "product_hunt",
+      "rank_now": 10,
+      "category_tags": [],
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
+    },
+    {
+      "name": "Obsiva",
+      "url": "https://www.producthunt.com/products/obsiva",
+      "source": "product_hunt",
+      "rank_now": 11,
+      "category_tags": [],
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
     },
     {
       "name": "Ownkube",
       "url": "https://www.producthunt.com/products/ownkube",
       "source": "product_hunt",
-      "rank_now": 18,
+      "rank_now": 12,
       "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
     },
     {
-      "name": "Daytwo",
-      "url": "https://www.producthunt.com/products/daytwo-2",
+      "name": "Kata Send",
+      "url": "https://www.producthunt.com/products/kata-send",
       "source": "product_hunt",
-      "rank_now": 19,
+      "rank_now": 13,
       "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
-    },
-    {
-      "name": "MoreFrame",
-      "url": "https://www.producthunt.com/products/moreframe",
-      "source": "product_hunt",
-      "rank_now": 20,
-      "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
-    },
-    {
-      "name": "AppuBot",
-      "url": "https://www.producthunt.com/products/appubot",
-      "source": "product_hunt",
-      "rank_now": 21,
-      "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
-    },
-    {
-      "name": "Levo",
-      "url": "https://www.producthunt.com/products/levo-3",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
     },
     {
       "name": "OpenVibe",
       "url": "https://www.producthunt.com/products/openvibe-2",
       "source": "product_hunt",
-      "rank_now": 23,
+      "rank_now": 14,
       "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
     },
     {
-      "name": "openring",
-      "url": "https://www.producthunt.com/products/openring",
+      "name": "Tokens by UI Colors",
+      "url": "https://www.producthunt.com/products/tokens-by-ui-colors",
       "source": "product_hunt",
-      "rank_now": 24,
+      "rank_now": 15,
       "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
     },
     {
-      "name": "Dover Startup Jobs",
-      "url": "https://www.producthunt.com/products/dover",
+      "name": "Ember",
+      "url": "https://www.producthunt.com/products/ember-117",
       "source": "product_hunt",
-      "rank_now": 25,
+      "rank_now": 16,
       "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
     },
     {
-      "name": "Opal Reader",
-      "url": "https://www.producthunt.com/products/opal-reader",
+      "name": "Lottie AI",
+      "url": "https://www.producthunt.com/products/lottiefiles",
       "source": "product_hunt",
-      "rank_now": 26,
+      "rank_now": 17,
       "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
     },
     {
-      "name": "Clive",
-      "url": "https://www.producthunt.com/products/clive",
+      "name": "Nadhif",
+      "url": "https://www.producthunt.com/products/nadhif",
       "source": "product_hunt",
-      "rank_now": 27,
+      "rank_now": 18,
       "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
-    },
-    {
-      "name": "CollaboTokyo",
-      "url": "https://www.producthunt.com/products/collabotokyo",
-      "source": "product_hunt",
-      "rank_now": 28,
-      "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
     },
     {
       "name": "Coffee",
       "url": "https://www.producthunt.com/products/coffee-9",
       "source": "product_hunt",
-      "rank_now": 29,
+      "rank_now": 19,
       "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
     },
     {
-      "name": "LotusQ",
-      "url": "https://www.producthunt.com/products/lotusq",
+      "name": "Operum",
+      "url": "https://www.producthunt.com/products/operum",
+      "source": "product_hunt",
+      "rank_now": 20,
+      "category_tags": [],
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
+    },
+    {
+      "name": "Wipecraft",
+      "url": "https://www.producthunt.com/products/wipecraft",
+      "source": "product_hunt",
+      "rank_now": 21,
+      "category_tags": [],
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
+    },
+    {
+      "name": "Daytwo",
+      "url": "https://www.producthunt.com/products/daytwo-2",
+      "source": "product_hunt",
+      "rank_now": 22,
+      "category_tags": [],
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
+    },
+    {
+      "name": "AppuBot",
+      "url": "https://www.producthunt.com/products/appubot",
+      "source": "product_hunt",
+      "rank_now": 23,
+      "category_tags": [],
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
+    },
+    {
+      "name": "Seldon",
+      "url": "https://www.producthunt.com/products/seldon",
+      "source": "product_hunt",
+      "rank_now": 24,
+      "category_tags": [],
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
+    },
+    {
+      "name": "Levo",
+      "url": "https://www.producthunt.com/products/levo-3",
+      "source": "product_hunt",
+      "rank_now": 25,
+      "category_tags": [],
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
+    },
+    {
+      "name": "MuJoCo 4",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "product_hunt",
+      "rank_now": 26,
+      "category_tags": [],
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
+    },
+    {
+      "name": "Latch.ai",
+      "url": "https://www.producthunt.com/products/latch-ai-2",
+      "source": "product_hunt",
+      "rank_now": 27,
+      "category_tags": [],
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
+    },
+    {
+      "name": "MoreFrame",
+      "url": "https://www.producthunt.com/products/moreframe",
+      "source": "product_hunt",
+      "rank_now": 28,
+      "category_tags": [],
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
+    },
+    {
+      "name": "Quillo",
+      "url": "https://www.producthunt.com/products/quillo-2",
+      "source": "product_hunt",
+      "rank_now": 29,
+      "category_tags": [],
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
+    },
+    {
+      "name": "Opal Reader",
+      "url": "https://www.producthunt.com/products/opal-reader",
       "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
     },
     {
       "name": "Manual SEO Tool",
@@ -252,7 +252,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
     },
     {
       "name": "Workflow Copilot",
@@ -262,7 +262,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-11-11 05:42:28 UTC+08:00"
+      "fetched_at": "2026-11-11 13:17:53 UTC+08:00"
     }
   ],
   "errors": []
