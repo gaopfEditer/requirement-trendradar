@@ -1,168 +1,85 @@
 {
   "week": "2026-W46",
-  "generated_at": "2026-11-12T14:23:27+08:00",
-  "source": "computed",
+  "generated_at": "2026-11-13T00:41:02+08:00",
+  "source": "fixture",
   "timezone_label": "香港",
-  "keywords_top": [],
+  "keywords_top": [
+    {
+      "rank": 1,
+      "keyword": "make.com alternative",
+      "geo": "US",
+      "track": "自动化平台",
+      "interest_now": 28,
+      "interest_prev": 15,
+      "delta": 13,
+      "growth_score": 13,
+      "pay_intent_score": 3,
+      "slope_90d": "上升"
+    },
+    {
+      "rank": 2,
+      "keyword": "lovable",
+      "geo": "US",
+      "track": "AI 建站",
+      "interest_now": 68,
+      "interest_prev": 58,
+      "delta": 10,
+      "growth_score": 10,
+      "pay_intent_score": 2,
+      "slope_90d": "上升"
+    },
+    {
+      "rank": 3,
+      "keyword": "ai app audit",
+      "geo": "US",
+      "track": "AI 工具",
+      "interest_now": 42,
+      "interest_prev": 35,
+      "delta": 7,
+      "growth_score": 7,
+      "pay_intent_score": 3,
+      "slope_90d": "上升"
+    }
+  ],
   "apps_top": [
     {
-      "name": "MiniMax H3-Image",
-      "url": "https://www.producthunt.com/products/minimax",
+      "rank": 1,
+      "name": "Lovable",
+      "url": "https://www.producthunt.com/products/lovable",
       "source": "product_hunt",
-      "rank_now": 4,
-      "rank_prev": 22,
-      "rank_delta": -18,
-      "growth_score": 18,
-      "signal_note": "排名上升 18 位",
-      "new_entry": false,
-      "rank": 1
-    },
-    {
-      "name": "Skillbox",
-      "url": "https://www.producthunt.com/products/skillbox-5",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "rank_prev": 23,
-      "rank_delta": -17,
-      "growth_score": 17,
-      "signal_note": "排名上升 17 位",
-      "new_entry": false,
-      "rank": 2
-    },
-    {
-      "name": "Nod by n8n",
-      "url": "https://www.producthunt.com/products/n8n-io",
-      "source": "product_hunt",
-      "rank_now": 1,
-      "rank_prev": 11,
-      "rank_delta": -10,
-      "growth_score": 10,
-      "signal_note": "排名上升 10 位",
-      "new_entry": false,
-      "rank": 3
-    },
-    {
-      "name": "Valin",
-      "url": "https://www.producthunt.com/products/valin",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "rank_prev": 16,
+      "rank_now": 3,
+      "rank_prev": 12,
       "rank_delta": -9,
       "growth_score": 9,
       "signal_note": "排名上升 9 位",
-      "new_entry": false,
-      "rank": 4
+      "new_entry": false
     },
     {
-      "name": "StableBar",
-      "url": "https://www.producthunt.com/products/stablebar",
+      "rank": 2,
+      "name": "n8n",
+      "url": "https://www.producthunt.com/products/n8n",
       "source": "product_hunt",
-      "rank_now": 16,
-      "rank_prev": 24,
-      "rank_delta": -8,
-      "growth_score": 8,
-      "signal_note": "排名上升 8 位",
-      "new_entry": false,
-      "rank": 5
-    },
-    {
-      "name": "ScroogeFrog AI",
-      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "rank_prev": 12,
-      "rank_delta": -7,
-      "growth_score": 7,
-      "signal_note": "排名上升 7 位",
-      "new_entry": false,
-      "rank": 6
-    },
-    {
-      "name": "bonds chat",
-      "url": "https://www.producthunt.com/products/bonds-2",
-      "source": "product_hunt",
-      "rank_now": 3,
-      "rank_prev": 5,
-      "rank_delta": -2,
-      "growth_score": 2,
-      "signal_note": "排名上升 2 位",
-      "new_entry": false,
-      "rank": 7
-    },
-    {
-      "name": "Seedream 5.5 by ByteDance",
-      "url": "https://www.producthunt.com/products/seedream-4-0",
-      "source": "product_hunt",
-      "rank_now": 13,
-      "rank_prev": 15,
-      "rank_delta": -2,
-      "growth_score": 2,
-      "signal_note": "排名上升 2 位",
-      "new_entry": false,
-      "rank": 8
-    },
-    {
-      "name": "Binqo",
-      "url": "https://www.producthunt.com/products/binqo",
-      "source": "product_hunt",
-      "rank_now": 25,
-      "rank_prev": 26,
-      "rank_delta": -1,
-      "growth_score": 1,
-      "signal_note": "排名上升 1 位",
-      "new_entry": false,
-      "rank": 9
+      "rank_now": 8,
+      "rank_prev": 14,
+      "rank_delta": -6,
+      "growth_score": 6,
+      "signal_note": "排名上升 6 位",
+      "new_entry": false
     }
   ],
   "new_entries": [
     {
-      "name": "Kumiko",
-      "url": "https://www.producthunt.com/products/kumiko-2",
+      "rank": 1,
+      "name": "SuperLocalMemory",
+      "url": "https://www.producthunt.com/products/superlocalmemory-v2",
       "source": "product_hunt",
-      "rank_now": 27,
+      "rank_now": 1,
       "rank_prev": null,
       "rank_delta": null,
       "growth_score": null,
       "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 1
-    },
-    {
-      "name": "CollaboTokyo",
-      "url": "https://www.producthunt.com/products/collabotokyo",
-      "source": "product_hunt",
-      "rank_now": 28,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 2
-    },
-    {
-      "name": "Inspo by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "source": "product_hunt",
-      "rank_now": 29,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 3
-    },
-    {
-      "name": "MuJoCo 4",
-      "url": "https://www.producthunt.com/products/google",
-      "source": "product_hunt",
-      "rank_now": 30,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 4
+      "new_entry": true
     }
   ],
-  "skipped": null
+  "skipped": "insufficient_history"
 }
