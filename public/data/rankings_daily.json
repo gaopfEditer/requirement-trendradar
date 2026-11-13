@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-11-13 19:58:23 UTC+08:00",
-  "date_stamp": "20261113",
-  "run_id": "20261113-195823-310f9119",
+  "updated_at": "2026-11-14 03:32:25 UTC+08:00",
+  "date_stamp": "20261114",
+  "run_id": "20261114-033225-59ad4fac",
   "items": [
     {
-      "name": "Templify AI",
-      "url": "https://www.producthunt.com/products/templify",
+      "name": "Trainn MCP",
+      "url": "https://www.producthunt.com/products/trainn",
       "source": "product_hunt",
       "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
-    },
-    {
-      "name": "StockRip",
-      "url": "https://www.producthunt.com/products/stockrip",
-      "source": "product_hunt",
-      "rank_now": 2,
-      "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
-    },
-    {
-      "name": "GAtrends",
-      "url": "https://www.producthunt.com/products/gatrends",
-      "source": "product_hunt",
-      "rank_now": 3,
-      "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
     },
     {
       "name": "Google Pixel Tag",
       "url": "https://www.producthunt.com/products/google",
       "source": "product_hunt",
-      "rank_now": 4,
+      "rank_now": 2,
       "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
-    },
-    {
-      "name": "Trainn MCP",
-      "url": "https://www.producthunt.com/products/trainn",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
-    },
-    {
-      "name": "Hoverine",
-      "url": "https://www.producthunt.com/products/hoverine",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
-    },
-    {
-      "name": "WHOOP Humans",
-      "url": "https://www.producthunt.com/products/whoop",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
     },
     {
       "name": "Burnstate",
       "url": "https://www.producthunt.com/products/burnstate",
       "source": "product_hunt",
-      "rank_now": 8,
+      "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
+    },
+    {
+      "name": "WHOOP Humans",
+      "url": "https://www.producthunt.com/products/whoop",
+      "source": "product_hunt",
+      "rank_now": 4,
+      "category_tags": [],
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
+    },
+    {
+      "name": "GAtrends",
+      "url": "https://www.producthunt.com/products/gatrends",
+      "source": "product_hunt",
+      "rank_now": 5,
+      "category_tags": [],
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
+    },
+    {
+      "name": "Filament by Galaxy",
+      "url": "https://www.producthunt.com/products/galaxy",
+      "source": "product_hunt",
+      "rank_now": 6,
+      "category_tags": [],
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
+    },
+    {
+      "name": "qorqbot",
+      "url": "https://www.producthunt.com/products/qorqbot",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "category_tags": [],
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
     },
     {
       "name": "Replicate",
       "url": "https://www.producthunt.com/products/replicate-10",
       "source": "product_hunt",
+      "rank_now": 8,
+      "category_tags": [],
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
+    },
+    {
+      "name": "Templify AI",
+      "url": "https://www.producthunt.com/products/templify",
+      "source": "product_hunt",
       "rank_now": 9,
       "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
     },
     {
       "name": "Kairos",
@@ -81,23 +81,23 @@
       "source": "product_hunt",
       "rank_now": 10,
       "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
     },
     {
-      "name": "Filament by Galaxy",
-      "url": "https://www.producthunt.com/products/galaxy",
+      "name": "StockRip",
+      "url": "https://www.producthunt.com/products/stockrip",
       "source": "product_hunt",
       "rank_now": 11,
       "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
     },
     {
-      "name": "Expo Simulators",
-      "url": "https://www.producthunt.com/products/expo",
+      "name": "Paxper",
+      "url": "https://www.producthunt.com/products/paxper",
       "source": "product_hunt",
       "rank_now": 12,
       "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
     },
     {
       "name": "Gemini 4 Hydrogen",
@@ -105,39 +105,39 @@
       "source": "product_hunt",
       "rank_now": 13,
       "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
+    },
+    {
+      "name": "Expo Simulators",
+      "url": "https://www.producthunt.com/products/expo",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "category_tags": [],
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
+    },
+    {
+      "name": "Hoverine",
+      "url": "https://www.producthunt.com/products/hoverine",
+      "source": "product_hunt",
+      "rank_now": 15,
+      "category_tags": [],
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
     },
     {
       "name": "Aven App Agent",
       "url": "https://www.producthunt.com/products/aven-app-agent",
       "source": "product_hunt",
-      "rank_now": 14,
+      "rank_now": 16,
       "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
-    },
-    {
-      "name": "Paxper",
-      "url": "https://www.producthunt.com/products/paxper",
-      "source": "product_hunt",
-      "rank_now": 15,
-      "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
     },
     {
       "name": "Pocket Studio for Supabase",
       "url": "https://www.producthunt.com/products/pocket-studio-for-supabase",
       "source": "product_hunt",
-      "rank_now": 16,
-      "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
-    },
-    {
-      "name": "qorqbot",
-      "url": "https://www.producthunt.com/products/qorqbot",
-      "source": "product_hunt",
       "rank_now": 17,
       "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
     },
     {
       "name": "Willo",
@@ -145,23 +145,23 @@
       "source": "product_hunt",
       "rank_now": 18,
       "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
-    },
-    {
-      "name": "de:volt",
-      "url": "https://www.producthunt.com/products/de-volt",
-      "source": "product_hunt",
-      "rank_now": 19,
-      "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
     },
     {
       "name": "Ganella",
       "url": "https://www.producthunt.com/products/ganella",
       "source": "product_hunt",
+      "rank_now": 19,
+      "category_tags": [],
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
+    },
+    {
+      "name": "de:volt",
+      "url": "https://www.producthunt.com/products/de-volt",
+      "source": "product_hunt",
       "rank_now": 20,
       "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
     },
     {
       "name": "Claude Meetings",
@@ -169,79 +169,79 @@
       "source": "product_hunt",
       "rank_now": 21,
       "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
-    },
-    {
-      "name": "Adobe AI Assistant",
-      "url": "https://www.producthunt.com/products/adobe-ai-assistant",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
-    },
-    {
-      "name": "Gnista",
-      "url": "https://www.producthunt.com/products/gnista",
-      "source": "product_hunt",
-      "rank_now": 23,
-      "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
-    },
-    {
-      "name": "Foxpit",
-      "url": "https://www.producthunt.com/products/foxpit",
-      "source": "product_hunt",
-      "rank_now": 24,
-      "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
-    },
-    {
-      "name": "Nameshot",
-      "url": "https://www.producthunt.com/products/nameshot-2",
-      "source": "product_hunt",
-      "rank_now": 25,
-      "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
-    },
-    {
-      "name": "Mang.sh",
-      "url": "https://www.producthunt.com/products/mang-sh",
-      "source": "product_hunt",
-      "rank_now": 26,
-      "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
-    },
-    {
-      "name": "Cloudways Velocity",
-      "url": "https://www.producthunt.com/products/cloudways",
-      "source": "product_hunt",
-      "rank_now": 27,
-      "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
-    },
-    {
-      "name": "Crossfade",
-      "url": "https://www.producthunt.com/products/crossfade",
-      "source": "product_hunt",
-      "rank_now": 28,
-      "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
     },
     {
       "name": "YouArt Desktop App",
       "url": "https://www.producthunt.com/products/youart",
       "source": "product_hunt",
-      "rank_now": 29,
+      "rank_now": 22,
       "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
     },
     {
-      "name": "Plurai Simulation",
-      "url": "https://www.producthunt.com/products/plurai",
+      "name": "three.dev",
+      "url": "https://www.producthunt.com/products/three-dev",
+      "source": "product_hunt",
+      "rank_now": 23,
+      "category_tags": [],
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
+    },
+    {
+      "name": "Harness Memory",
+      "url": "https://www.producthunt.com/products/epsilla",
+      "source": "product_hunt",
+      "rank_now": 24,
+      "category_tags": [],
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
+    },
+    {
+      "name": "Crossfade",
+      "url": "https://www.producthunt.com/products/crossfade",
+      "source": "product_hunt",
+      "rank_now": 25,
+      "category_tags": [],
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
+    },
+    {
+      "name": "Omnigraph",
+      "url": "https://www.producthunt.com/products/omnigraph",
+      "source": "product_hunt",
+      "rank_now": 26,
+      "category_tags": [],
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
+    },
+    {
+      "name": "Spacefast by Automattic",
+      "url": "https://www.producthunt.com/products/spacefast-by-automattic",
+      "source": "product_hunt",
+      "rank_now": 27,
+      "category_tags": [],
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
+    },
+    {
+      "name": "LeaseWire",
+      "url": "https://www.producthunt.com/products/leasewire",
+      "source": "product_hunt",
+      "rank_now": 28,
+      "category_tags": [],
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
+    },
+    {
+      "name": "Jot 2.0",
+      "url": "https://www.producthunt.com/products/jot-2-0",
+      "source": "product_hunt",
+      "rank_now": 29,
+      "category_tags": [],
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
+    },
+    {
+      "name": "Sluice",
+      "url": "https://www.producthunt.com/products/sluice-2",
       "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
     },
     {
       "name": "Manual SEO Tool",
@@ -252,7 +252,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
     },
     {
       "name": "Workflow Copilot",
@@ -262,7 +262,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-11-13 19:58:23 UTC+08:00"
+      "fetched_at": "2026-11-14 03:32:25 UTC+08:00"
     }
   ],
   "errors": []
