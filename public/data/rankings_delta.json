@@ -1,148 +1,148 @@
 {
-  "updated_at": "2026-11-15 07:44:23 UTC+08:00",
+  "updated_at": "2026-11-15 13:29:41 UTC+08:00",
   "items": [
     {
-      "name": "Replay",
-      "url": "https://www.producthunt.com/products/replay-11",
+      "name": "MAP & GO!",
+      "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
       "source": "product_hunt",
       "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 14,
-      "rank_delta": -13,
-      "signal_note": "排名上升 13 位"
-    },
-    {
-      "name": "Kokonut UI",
-      "url": "https://www.producthunt.com/products/kokonutui",
-      "source": "product_hunt",
-      "rank_now": 2,
-      "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 17,
-      "rank_delta": -15,
-      "signal_note": "排名上升 15 位"
-    },
-    {
-      "name": "Dynamic Edge",
-      "url": "https://www.producthunt.com/products/dynamic-edge",
-      "source": "product_hunt",
-      "rank_now": 3,
-      "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 12,
-      "rank_delta": -9,
-      "signal_note": "排名上升 9 位"
-    },
-    {
-      "name": "Uber Parking",
-      "url": "https://www.producthunt.com/products/uber",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 6,
-      "rank_delta": -2,
-      "signal_note": "排名上升 2 位"
-    },
-    {
-      "name": "Aboard Sign",
-      "url": "https://www.producthunt.com/products/aboard-sign",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 19,
-      "rank_delta": -14,
-      "signal_note": "排名上升 14 位"
-    },
-    {
-      "name": "Thunder",
-      "url": "https://www.producthunt.com/products/thunder-3",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 8,
-      "rank_delta": -2,
-      "signal_note": "排名上升 2 位"
-    },
-    {
-      "name": "CodeMesh",
-      "url": "https://www.producthunt.com/products/codemesh-2",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 24,
-      "rank_delta": -17,
-      "signal_note": "排名上升 17 位"
-    },
-    {
-      "name": "Gemini Robotics 2.5",
-      "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
-      "source": "product_hunt",
-      "rank_now": 8,
-      "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 9,
-      "rank_delta": -1,
-      "signal_note": "排名上升 1 位"
-    },
-    {
-      "name": "Drops",
-      "url": "https://www.producthunt.com/products/drops-4",
-      "source": "product_hunt",
-      "rank_now": 9,
-      "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 10,
-      "rank_delta": -1,
-      "signal_note": "排名上升 1 位"
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 20,
+      "rank_delta": -19,
+      "signal_note": "排名上升 19 位"
     },
     {
       "name": "HiringNow",
       "url": "https://www.producthunt.com/products/hiringnow",
       "source": "product_hunt",
-      "rank_now": 10,
+      "rank_now": 2,
       "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
       "rank_prev": 5,
-      "rank_delta": 5,
-      "signal_note": "排名下降 5 位"
+      "rank_delta": -3,
+      "signal_note": "排名上升 3 位"
     },
     {
       "name": "Dex Semantics",
       "url": "https://www.producthunt.com/products/dex-by-exmergo",
       "source": "product_hunt",
-      "rank_now": 11,
+      "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
       "rank_prev": 3,
-      "rank_delta": 8,
-      "signal_note": "排名下降 8 位"
+      "rank_delta": 0,
+      "signal_note": "持平"
     },
     {
-      "name": "Tacie",
-      "url": "https://www.producthunt.com/products/tacie",
+      "name": "Gemini Robotics 2.5",
+      "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
       "source": "product_hunt",
-      "rank_now": 12,
+      "rank_now": 4,
       "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 7,
-      "rank_delta": 5,
-      "signal_note": "排名下降 5 位"
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 9,
+      "rank_delta": -5,
+      "signal_note": "排名上升 5 位"
+    },
+    {
+      "name": "Blender 5.3",
+      "url": "https://www.producthunt.com/products/blender",
+      "source": "product_hunt",
+      "rank_now": 5,
+      "category_tags": [],
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 27,
+      "rank_delta": -22,
+      "signal_note": "排名上升 22 位"
+    },
+    {
+      "name": "Businesses in ChatGPT",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "product_hunt",
+      "rank_now": 6,
+      "category_tags": [],
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 16,
+      "rank_delta": -10,
+      "signal_note": "排名上升 10 位"
+    },
+    {
+      "name": "inread.app",
+      "url": "https://www.producthunt.com/products/inread-app",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "category_tags": [],
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 21,
+      "rank_delta": -14,
+      "signal_note": "排名上升 14 位"
+    },
+    {
+      "name": "ScreenGo",
+      "url": "https://www.producthunt.com/products/screengo",
+      "source": "product_hunt",
+      "rank_now": 8,
+      "category_tags": [],
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 18,
+      "rank_delta": -10,
+      "signal_note": "排名上升 10 位"
+    },
+    {
+      "name": "Kokonut UI",
+      "url": "https://www.producthunt.com/products/kokonutui",
+      "source": "product_hunt",
+      "rank_now": 9,
+      "category_tags": [],
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 17,
+      "rank_delta": -8,
+      "signal_note": "排名上升 8 位"
+    },
+    {
+      "name": "Dynamic Edge",
+      "url": "https://www.producthunt.com/products/dynamic-edge",
+      "source": "product_hunt",
+      "rank_now": 10,
+      "category_tags": [],
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 12,
+      "rank_delta": -2,
+      "signal_note": "排名上升 2 位"
+    },
+    {
+      "name": "Thunder",
+      "url": "https://www.producthunt.com/products/thunder-3",
+      "source": "product_hunt",
+      "rank_now": 11,
+      "category_tags": [],
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 8,
+      "rank_delta": 3,
+      "signal_note": "排名下降 3 位"
     },
     {
       "name": "Restoration Scope",
       "url": "https://www.producthunt.com/products/restoration-scope",
       "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 2,
+      "rank_delta": 10,
+      "signal_note": "排名下降 10 位"
+    },
+    {
+      "name": "Uber Parking",
+      "url": "https://www.producthunt.com/products/uber",
+      "source": "product_hunt",
       "rank_now": 13,
       "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 2,
-      "rank_delta": 11,
-      "signal_note": "排名下降 11 位"
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 6,
+      "rank_delta": 7,
+      "signal_note": "排名下降 7 位"
     },
     {
       "name": "Default Tamer",
@@ -150,74 +150,85 @@
       "source": "product_hunt",
       "rank_now": 14,
       "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
       "rank_prev": 11,
       "rank_delta": 3,
       "signal_note": "排名下降 3 位"
     },
     {
-      "name": "Nexus",
-      "url": "https://www.producthunt.com/products/project-nexus-2",
+      "name": "Drops",
+      "url": "https://www.producthunt.com/products/drops-4",
       "source": "product_hunt",
       "rank_now": 15,
       "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 26,
-      "rank_delta": -11,
-      "signal_note": "排名上升 11 位"
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 10,
+      "rank_delta": 5,
+      "signal_note": "排名下降 5 位"
     },
     {
-      "name": "ScreenGo",
-      "url": "https://www.producthunt.com/products/screengo",
+      "name": "Replay",
+      "url": "https://www.producthunt.com/products/replay-11",
       "source": "product_hunt",
       "rank_now": 16,
       "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 18,
-      "rank_delta": -2,
-      "signal_note": "排名上升 2 位"
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 14,
+      "rank_delta": 2,
+      "signal_note": "排名下降 2 位"
     },
     {
-      "name": "Antelog",
-      "url": "https://www.producthunt.com/products/antelog",
+      "name": "AnyoneHiring.today",
+      "url": "https://www.producthunt.com/products/anyonehiring-today",
       "source": "product_hunt",
       "rank_now": 17,
       "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 4,
-      "rank_delta": 13,
-      "signal_note": "排名下降 13 位"
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 22,
+      "rank_delta": -5,
+      "signal_note": "排名上升 5 位"
     },
     {
-      "name": "CaptureFlow",
-      "url": "https://www.producthunt.com/products/captureflow",
+      "name": "Aboard Sign",
+      "url": "https://www.producthunt.com/products/aboard-sign",
       "source": "product_hunt",
       "rank_now": 18,
       "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 28,
-      "rank_delta": -10,
-      "signal_note": "排名上升 10 位"
-    },
-    {
-      "name": "MAP & GO!",
-      "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
-      "source": "product_hunt",
-      "rank_now": 19,
-      "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 20,
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 19,
       "rank_delta": -1,
       "signal_note": "排名上升 1 位"
     },
     {
-      "name": "Horef Rings",
-      "url": "https://www.producthunt.com/products/horef-rings",
+      "name": "Tacie",
+      "url": "https://www.producthunt.com/products/tacie",
+      "source": "product_hunt",
+      "rank_now": 19,
+      "category_tags": [],
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 7,
+      "rank_delta": 12,
+      "signal_note": "排名下降 12 位"
+    },
+    {
+      "name": "Valutorio",
+      "url": "https://www.producthunt.com/products/valutorio",
       "source": "product_hunt",
       "rank_now": 20,
       "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 23,
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 15,
+      "rank_delta": 5,
+      "signal_note": "排名下降 5 位"
+    },
+    {
+      "name": "CodeMesh",
+      "url": "https://www.producthunt.com/products/codemesh-2",
+      "source": "product_hunt",
+      "rank_now": 21,
+      "category_tags": [],
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 24,
       "rank_delta": -3,
       "signal_note": "排名上升 3 位"
     },
@@ -225,67 +236,56 @@
       "name": "VB Notes",
       "url": "https://www.producthunt.com/products/vb-notes",
       "source": "product_hunt",
-      "rank_now": 21,
-      "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 1,
-      "rank_delta": 20,
-      "signal_note": "排名下降 20 位"
-    },
-    {
-      "name": "inread.app",
-      "url": "https://www.producthunt.com/products/inread-app",
-      "source": "product_hunt",
       "rank_now": 22,
       "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 21,
-      "rank_delta": 1,
-      "signal_note": "排名下降 1 位"
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 1,
+      "rank_delta": 21,
+      "signal_note": "排名下降 21 位"
     },
     {
-      "name": "Businesses in ChatGPT",
-      "url": "https://www.producthunt.com/products/openai",
+      "name": "CaptureFlow",
+      "url": "https://www.producthunt.com/products/captureflow",
       "source": "product_hunt",
       "rank_now": 23,
       "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 16,
-      "rank_delta": 7,
-      "signal_note": "排名下降 7 位"
-    },
-    {
-      "name": "Blender 5.3",
-      "url": "https://www.producthunt.com/products/blender",
-      "source": "product_hunt",
-      "rank_now": 24,
-      "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 27,
-      "rank_delta": -3,
-      "signal_note": "排名上升 3 位"
-    },
-    {
-      "name": "Valutorio",
-      "url": "https://www.producthunt.com/products/valutorio",
-      "source": "product_hunt",
-      "rank_now": 25,
-      "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 15,
-      "rank_delta": 10,
-      "signal_note": "排名下降 10 位"
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 28,
+      "rank_delta": -5,
+      "signal_note": "排名上升 5 位"
     },
     {
       "name": "Tabletop by Google Labs",
       "url": "https://www.producthunt.com/products/google-labs",
       "source": "product_hunt",
+      "rank_now": 24,
+      "category_tags": [],
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 25,
+      "rank_delta": -1,
+      "signal_note": "排名上升 1 位"
+    },
+    {
+      "name": "Nexus",
+      "url": "https://www.producthunt.com/products/project-nexus-2",
+      "source": "product_hunt",
+      "rank_now": 25,
+      "category_tags": [],
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 26,
+      "rank_delta": -1,
+      "signal_note": "排名上升 1 位"
+    },
+    {
+      "name": "Antelog",
+      "url": "https://www.producthunt.com/products/antelog",
+      "source": "product_hunt",
       "rank_now": 26,
       "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 25,
-      "rank_delta": 1,
-      "signal_note": "排名下降 1 位"
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 4,
+      "rank_delta": 22,
+      "signal_note": "排名下降 22 位"
     },
     {
       "name": "FreeFlow Dictation",
@@ -293,40 +293,40 @@
       "source": "product_hunt",
       "rank_now": 27,
       "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
       "rank_prev": 13,
       "rank_delta": 14,
       "signal_note": "排名下降 14 位"
     },
     {
-      "name": "AnyoneHiring.today",
-      "url": "https://www.producthunt.com/products/anyonehiring-today",
+      "name": "Horef Rings",
+      "url": "https://www.producthunt.com/products/horef-rings",
       "source": "product_hunt",
       "rank_now": 28,
       "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": 22,
-      "rank_delta": 6,
-      "signal_note": "排名下降 6 位"
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 23,
+      "rank_delta": 5,
+      "signal_note": "排名下降 5 位"
     },
     {
-      "name": "Google Pixel Tag",
-      "url": "https://www.producthunt.com/products/google",
+      "name": "Pocket Studio for Supabase",
+      "url": "https://www.producthunt.com/products/pocket-studio-for-supabase",
       "source": "product_hunt",
       "rank_now": 29,
       "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
-      "rank_prev": null,
-      "rank_delta": null,
-      "signal_note": "新进榜"
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
+      "rank_prev": 29,
+      "rank_delta": 0,
+      "signal_note": "持平"
     },
     {
-      "name": "Kairos",
-      "url": "https://www.producthunt.com/products/kairos-18",
+      "name": "Hoverine",
+      "url": "https://www.producthunt.com/products/hoverine",
       "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
       "rank_prev": null,
       "rank_delta": null,
       "signal_note": "新进榜"
@@ -340,7 +340,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
       "rank_prev": 15,
       "rank_delta": 0,
       "signal_note": "持平"
@@ -353,21 +353,10 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00",
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00",
       "rank_prev": 22,
       "rank_delta": 0,
       "signal_note": "持平"
-    },
-    {
-      "name": "Pocket Studio for Supabase",
-      "url": "",
-      "source": "product_hunt",
-      "rank_now": null,
-      "rank_prev": 29,
-      "rank_delta": null,
-      "category_tags": [],
-      "signal_note": "掉出榜",
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00"
     },
     {
       "name": "Paxper",
@@ -378,7 +367,7 @@
       "rank_delta": null,
       "category_tags": [],
       "signal_note": "掉出榜",
-      "fetched_at": "2026-11-15 07:44:23 UTC+08:00"
+      "fetched_at": "2026-11-15 13:29:41 UTC+08:00"
     }
   ]
 }
