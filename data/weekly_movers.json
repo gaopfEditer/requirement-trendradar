@@ -1,144 +1,85 @@
 {
   "week": "2026-W47",
-  "generated_at": "2026-11-17T10:51:14+08:00",
-  "source": "computed",
+  "generated_at": "2026-11-17T20:54:06+08:00",
+  "source": "fixture",
   "timezone_label": "香港",
-  "keywords_top": [],
+  "keywords_top": [
+    {
+      "rank": 1,
+      "keyword": "make.com alternative",
+      "geo": "US",
+      "track": "自动化平台",
+      "interest_now": 28,
+      "interest_prev": 15,
+      "delta": 13,
+      "growth_score": 13,
+      "pay_intent_score": 3,
+      "slope_90d": "上升"
+    },
+    {
+      "rank": 2,
+      "keyword": "lovable",
+      "geo": "US",
+      "track": "AI 建站",
+      "interest_now": 68,
+      "interest_prev": 58,
+      "delta": 10,
+      "growth_score": 10,
+      "pay_intent_score": 2,
+      "slope_90d": "上升"
+    },
+    {
+      "rank": 3,
+      "keyword": "ai app audit",
+      "geo": "US",
+      "track": "AI 工具",
+      "interest_now": 42,
+      "interest_prev": 35,
+      "delta": 7,
+      "growth_score": 7,
+      "pay_intent_score": 3,
+      "slope_90d": "上升"
+    }
+  ],
   "apps_top": [
     {
-      "name": "Nexus",
-      "url": "https://www.producthunt.com/products/nexus-11",
+      "rank": 1,
+      "name": "Lovable",
+      "url": "https://www.producthunt.com/products/lovable",
       "source": "product_hunt",
-      "rank_now": 15,
-      "rank_prev": 30,
-      "rank_delta": -15,
-      "growth_score": 15,
-      "signal_note": "排名上升 15 位",
-      "new_entry": false,
-      "rank": 1
+      "rank_now": 3,
+      "rank_prev": 12,
+      "rank_delta": -9,
+      "growth_score": 9,
+      "signal_note": "排名上升 9 位",
+      "new_entry": false
+    },
+    {
+      "rank": 2,
+      "name": "n8n",
+      "url": "https://www.producthunt.com/products/n8n",
+      "source": "product_hunt",
+      "rank_now": 8,
+      "rank_prev": 14,
+      "rank_delta": -6,
+      "growth_score": 6,
+      "signal_note": "排名上升 6 位",
+      "new_entry": false
     }
   ],
   "new_entries": [
     {
-      "name": "Cal.com v7",
-      "url": "https://www.producthunt.com/products/cal",
+      "rank": 1,
+      "name": "SuperLocalMemory",
+      "url": "https://www.producthunt.com/products/superlocalmemory-v2",
       "source": "product_hunt",
       "rank_now": 1,
       "rank_prev": null,
       "rank_delta": null,
       "growth_score": null,
       "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 1
-    },
-    {
-      "name": "Centralize",
-      "url": "https://www.producthunt.com/products/centralize",
-      "source": "product_hunt",
-      "rank_now": 2,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 2
-    },
-    {
-      "name": "Zoom Slides",
-      "url": "https://www.producthunt.com/products/zoom",
-      "source": "product_hunt",
-      "rank_now": 3,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 3
-    },
-    {
-      "name": "OpenBot",
-      "url": "https://www.producthunt.com/products/copilotkit",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 4
-    },
-    {
-      "name": "Boost.space AgentOS",
-      "url": "https://www.producthunt.com/products/boost-space",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 5
-    },
-    {
-      "name": "AgentWatch",
-      "url": "https://www.producthunt.com/products/agentwatch-ai-traffic-tracker",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 6
-    },
-    {
-      "name": "Findy",
-      "url": "https://www.producthunt.com/products/findy-3",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 7
-    },
-    {
-      "name": "Trusty CSV",
-      "url": "https://www.producthunt.com/products/trusty-csv",
-      "source": "product_hunt",
-      "rank_now": 8,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 8
-    },
-    {
-      "name": "Curates",
-      "url": "https://www.producthunt.com/products/curates",
-      "source": "product_hunt",
-      "rank_now": 9,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 9
-    },
-    {
-      "name": "StateWeave",
-      "url": "https://www.producthunt.com/products/stateweave",
-      "source": "product_hunt",
-      "rank_now": 10,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 10
+      "new_entry": true
     }
   ],
-  "skipped": null
+  "skipped": "insufficient_history"
 }
