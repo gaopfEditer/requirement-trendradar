@@ -1,6 +1,6 @@
 {
   "week": "2026-W47",
-  "generated_at": "2026-11-17T02:07:32+08:00",
+  "generated_at": "2026-11-17T10:51:14+08:00",
   "source": "computed",
   "timezone_label": "香港",
   "keywords_top": [],
@@ -9,19 +9,19 @@
       "name": "Nexus",
       "url": "https://www.producthunt.com/products/nexus-11",
       "source": "product_hunt",
-      "rank_now": 8,
+      "rank_now": 15,
       "rank_prev": 30,
-      "rank_delta": -22,
-      "growth_score": 22,
-      "signal_note": "排名上升 22 位",
+      "rank_delta": -15,
+      "growth_score": 15,
+      "signal_note": "排名上升 15 位",
       "new_entry": false,
       "rank": 1
     }
   ],
   "new_entries": [
     {
-      "name": "readywhen",
-      "url": "https://www.producthunt.com/products/readywhen",
+      "name": "Cal.com v7",
+      "url": "https://www.producthunt.com/products/cal",
       "source": "product_hunt",
       "rank_now": 1,
       "rank_prev": null,
@@ -32,8 +32,8 @@
       "rank": 1
     },
     {
-      "name": "Boost.space AgentOS",
-      "url": "https://www.producthunt.com/products/boost-space",
+      "name": "Centralize",
+      "url": "https://www.producthunt.com/products/centralize",
       "source": "product_hunt",
       "rank_now": 2,
       "rank_prev": null,
@@ -44,8 +44,8 @@
       "rank": 2
     },
     {
-      "name": "OpenBot",
-      "url": "https://www.producthunt.com/products/copilotkit",
+      "name": "Zoom Slides",
+      "url": "https://www.producthunt.com/products/zoom",
       "source": "product_hunt",
       "rank_now": 3,
       "rank_prev": null,
@@ -56,8 +56,8 @@
       "rank": 3
     },
     {
-      "name": "Docsy",
-      "url": "https://www.producthunt.com/products/docsy-4",
+      "name": "OpenBot",
+      "url": "https://www.producthunt.com/products/copilotkit",
       "source": "product_hunt",
       "rank_now": 4,
       "rank_prev": null,
@@ -68,8 +68,8 @@
       "rank": 4
     },
     {
-      "name": "OffiAI",
-      "url": "https://www.producthunt.com/products/offiai",
+      "name": "Boost.space AgentOS",
+      "url": "https://www.producthunt.com/products/boost-space",
       "source": "product_hunt",
       "rank_now": 5,
       "rank_prev": null,
@@ -80,8 +80,8 @@
       "rank": 5
     },
     {
-      "name": "OpenFrame",
-      "url": "https://www.producthunt.com/products/openframe-3",
+      "name": "AgentWatch",
+      "url": "https://www.producthunt.com/products/agentwatch-ai-traffic-tracker",
       "source": "product_hunt",
       "rank_now": 6,
       "rank_prev": null,
@@ -92,8 +92,8 @@
       "rank": 6
     },
     {
-      "name": "Zode",
-      "url": "https://www.producthunt.com/products/zode",
+      "name": "Findy",
+      "url": "https://www.producthunt.com/products/findy-3",
       "source": "product_hunt",
       "rank_now": 7,
       "rank_prev": null,
@@ -104,10 +104,10 @@
       "rank": 7
     },
     {
-      "name": "Pharen Hub",
-      "url": "https://www.producthunt.com/products/pharen-hub",
+      "name": "Trusty CSV",
+      "url": "https://www.producthunt.com/products/trusty-csv",
       "source": "product_hunt",
-      "rank_now": 9,
+      "rank_now": 8,
       "rank_prev": null,
       "rank_delta": null,
       "growth_score": null,
@@ -116,10 +116,10 @@
       "rank": 8
     },
     {
-      "name": "Intelligent Eyewear",
-      "url": "https://www.producthunt.com/products/sumsung",
+      "name": "Curates",
+      "url": "https://www.producthunt.com/products/curates",
       "source": "product_hunt",
-      "rank_now": 10,
+      "rank_now": 9,
       "rank_prev": null,
       "rank_delta": null,
       "growth_score": null,
@@ -128,10 +128,10 @@
       "rank": 9
     },
     {
-      "name": "Degla AI",
-      "url": "https://www.producthunt.com/products/degla-ai",
+      "name": "StateWeave",
+      "url": "https://www.producthunt.com/products/stateweave",
       "source": "product_hunt",
-      "rank_now": 11,
+      "rank_now": 10,
       "rank_prev": null,
       "rank_delta": null,
       "growth_score": null,

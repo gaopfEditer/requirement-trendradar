@@ -1,247 +1,247 @@
 {
-  "run_id": "20261117-020632-79814717",
-  "fetched_at": "2026-11-17 02:06:32 UTC+08:00",
+  "run_id": "20261117-105010-613eb7bb",
+  "fetched_at": "2026-11-17 10:50:10 UTC+08:00",
   "source_version": "producthunt-atom-feed-v1",
   "items": [
-    {
-      "name": "readywhen",
-      "url": "https://www.producthunt.com/products/readywhen",
-      "source": "product_hunt",
-      "rank_now": 1,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "Boost.space AgentOS",
-      "url": "https://www.producthunt.com/products/boost-space",
-      "source": "product_hunt",
-      "rank_now": 2,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "OpenBot",
-      "url": "https://www.producthunt.com/products/copilotkit",
-      "source": "product_hunt",
-      "rank_now": 3,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "Docsy",
-      "url": "https://www.producthunt.com/products/docsy-4",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "OffiAI",
-      "url": "https://www.producthunt.com/products/offiai",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "OpenFrame",
-      "url": "https://www.producthunt.com/products/openframe-3",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "Zode",
-      "url": "https://www.producthunt.com/products/zode",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "Nexus",
-      "url": "https://www.producthunt.com/products/nexus-11",
-      "source": "product_hunt",
-      "rank_now": 8,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "Pharen Hub",
-      "url": "https://www.producthunt.com/products/pharen-hub",
-      "source": "product_hunt",
-      "rank_now": 9,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "Intelligent Eyewear",
-      "url": "https://www.producthunt.com/products/sumsung",
-      "source": "product_hunt",
-      "rank_now": 10,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "Degla AI",
-      "url": "https://www.producthunt.com/products/degla-ai",
-      "source": "product_hunt",
-      "rank_now": 11,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "AgentWatch",
-      "url": "https://www.producthunt.com/products/agentwatch-ai-traffic-tracker",
-      "source": "product_hunt",
-      "rank_now": 12,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "ChatGPT Wallet",
-      "url": "https://www.producthunt.com/products/chatgpt",
-      "source": "product_hunt",
-      "rank_now": 13,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "Pine Drama Studio",
-      "url": "https://www.producthunt.com/products/pine-drama-studio",
-      "source": "product_hunt",
-      "rank_now": 14,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "UI SDK by Vercel",
-      "url": "https://www.producthunt.com/products/ui-sdk",
-      "source": "product_hunt",
-      "rank_now": 15,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "ByteVoice",
-      "url": "https://www.producthunt.com/products/bytevoice",
-      "source": "product_hunt",
-      "rank_now": 16,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "Freebuff",
-      "url": "https://www.producthunt.com/products/freebuff-2",
-      "source": "product_hunt",
-      "rank_now": 17,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "Puffin",
-      "url": "https://www.producthunt.com/products/puffin-2",
-      "source": "product_hunt",
-      "rank_now": 18,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "StateWeave",
-      "url": "https://www.producthunt.com/products/stateweave",
-      "source": "product_hunt",
-      "rank_now": 19,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
     {
       "name": "Cal.com v7",
       "url": "https://www.producthunt.com/products/cal",
       "source": "product_hunt",
-      "rank_now": 20,
+      "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "Centralize",
+      "url": "https://www.producthunt.com/products/centralize",
+      "source": "product_hunt",
+      "rank_now": 2,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
     },
     {
       "name": "Zoom Slides",
       "url": "https://www.producthunt.com/products/zoom",
       "source": "product_hunt",
-      "rank_now": 21,
+      "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
     },
     {
-      "name": "Flamigo",
-      "url": "https://www.producthunt.com/products/flamigo",
+      "name": "OpenBot",
+      "url": "https://www.producthunt.com/products/copilotkit",
       "source": "product_hunt",
-      "rank_now": 22,
+      "rank_now": 4,
       "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
     },
     {
-      "name": "Blomma for Organizations",
-      "url": "https://www.producthunt.com/products/blomma",
+      "name": "Boost.space AgentOS",
+      "url": "https://www.producthunt.com/products/boost-space",
       "source": "product_hunt",
-      "rank_now": 23,
+      "rank_now": 5,
       "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
     },
     {
-      "name": "Punchcutter",
-      "url": "https://www.producthunt.com/products/punchcutter",
+      "name": "AgentWatch",
+      "url": "https://www.producthunt.com/products/agentwatch-ai-traffic-tracker",
       "source": "product_hunt",
-      "rank_now": 24,
+      "rank_now": 6,
       "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
-    },
-    {
-      "name": "Curates",
-      "url": "https://www.producthunt.com/products/curates",
-      "source": "product_hunt",
-      "rank_now": 25,
-      "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
     },
     {
       "name": "Findy",
       "url": "https://www.producthunt.com/products/findy-3",
       "source": "product_hunt",
-      "rank_now": 26,
+      "rank_now": 7,
       "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
     },
     {
       "name": "Trusty CSV",
       "url": "https://www.producthunt.com/products/trusty-csv",
       "source": "product_hunt",
-      "rank_now": 27,
+      "rank_now": 8,
       "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
     },
     {
-      "name": "Kafkador",
-      "url": "https://www.producthunt.com/products/kafkador",
+      "name": "Curates",
+      "url": "https://www.producthunt.com/products/curates",
       "source": "product_hunt",
-      "rank_now": 28,
+      "rank_now": 9,
       "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
     },
     {
-      "name": "Laurence",
-      "url": "https://www.producthunt.com/products/laurence",
+      "name": "StateWeave",
+      "url": "https://www.producthunt.com/products/stateweave",
       "source": "product_hunt",
-      "rank_now": 29,
+      "rank_now": 10,
       "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "Zode",
+      "url": "https://www.producthunt.com/products/zode",
+      "source": "product_hunt",
+      "rank_now": 11,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "Degla AI",
+      "url": "https://www.producthunt.com/products/degla-ai",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "LingoMic",
+      "url": "https://www.producthunt.com/products/lingomic",
+      "source": "product_hunt",
+      "rank_now": 13,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "Intelligent Eyewear",
+      "url": "https://www.producthunt.com/products/sumsung",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "Nexus",
+      "url": "https://www.producthunt.com/products/nexus-11",
+      "source": "product_hunt",
+      "rank_now": 15,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "Pine Drama Studio",
+      "url": "https://www.producthunt.com/products/pine-drama-studio",
+      "source": "product_hunt",
+      "rank_now": 16,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
     },
     {
       "name": "Notebook to Notes",
       "url": "https://www.producthunt.com/products/notebook-to-notes",
       "source": "product_hunt",
+      "rank_now": 17,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "Docsy",
+      "url": "https://www.producthunt.com/products/docsy-4",
+      "source": "product_hunt",
+      "rank_now": 18,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "Glifa",
+      "url": "https://www.producthunt.com/products/glifa",
+      "source": "product_hunt",
+      "rank_now": 19,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "Laurence",
+      "url": "https://www.producthunt.com/products/laurence",
+      "source": "product_hunt",
+      "rank_now": 20,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "ChatGPT Wallet",
+      "url": "https://www.producthunt.com/products/chatgpt",
+      "source": "product_hunt",
+      "rank_now": 21,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "Blomma for Organizations",
+      "url": "https://www.producthunt.com/products/blomma",
+      "source": "product_hunt",
+      "rank_now": 22,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "readywhen",
+      "url": "https://www.producthunt.com/products/readywhen",
+      "source": "product_hunt",
+      "rank_now": 23,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "OpenFrame",
+      "url": "https://www.producthunt.com/products/openframe-3",
+      "source": "product_hunt",
+      "rank_now": 24,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "Papyras",
+      "url": "https://www.producthunt.com/products/papyras",
+      "source": "product_hunt",
+      "rank_now": 25,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "Flamigo",
+      "url": "https://www.producthunt.com/products/flamigo",
+      "source": "product_hunt",
+      "rank_now": 26,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "Puffin",
+      "url": "https://www.producthunt.com/products/puffin-2",
+      "source": "product_hunt",
+      "rank_now": 27,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "Cookie Away",
+      "url": "https://www.producthunt.com/products/cookie-away",
+      "source": "product_hunt",
+      "rank_now": 28,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "UI SDK by Vercel",
+      "url": "https://www.producthunt.com/products/ui-sdk",
+      "source": "product_hunt",
+      "rank_now": 29,
+      "category_tags": [],
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
+    },
+    {
+      "name": "Fluid",
+      "url": "https://www.producthunt.com/products/kugelaudio",
+      "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
     },
     {
       "name": "Manual SEO Tool",
@@ -252,7 +252,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
     },
     {
       "name": "Workflow Copilot",
@@ -262,7 +262,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-11-17 02:06:32 UTC+08:00"
+      "fetched_at": "2026-11-17 10:50:10 UTC+08:00"
     }
   ],
   "errors": []
