@@ -1,85 +1,168 @@
 {
   "week": "2026-W47",
-  "generated_at": "2026-11-17T20:54:06+08:00",
-  "source": "fixture",
+  "generated_at": "2026-11-18T07:24:59+08:00",
+  "source": "computed",
   "timezone_label": "香港",
-  "keywords_top": [
-    {
-      "rank": 1,
-      "keyword": "make.com alternative",
-      "geo": "US",
-      "track": "自动化平台",
-      "interest_now": 28,
-      "interest_prev": 15,
-      "delta": 13,
-      "growth_score": 13,
-      "pay_intent_score": 3,
-      "slope_90d": "上升"
-    },
-    {
-      "rank": 2,
-      "keyword": "lovable",
-      "geo": "US",
-      "track": "AI 建站",
-      "interest_now": 68,
-      "interest_prev": 58,
-      "delta": 10,
-      "growth_score": 10,
-      "pay_intent_score": 2,
-      "slope_90d": "上升"
-    },
-    {
-      "rank": 3,
-      "keyword": "ai app audit",
-      "geo": "US",
-      "track": "AI 工具",
-      "interest_now": 42,
-      "interest_prev": 35,
-      "delta": 7,
-      "growth_score": 7,
-      "pay_intent_score": 3,
-      "slope_90d": "上升"
-    }
-  ],
+  "keywords_top": [],
   "apps_top": [
     {
-      "rank": 1,
-      "name": "Lovable",
-      "url": "https://www.producthunt.com/products/lovable",
+      "name": "Superhands",
+      "url": "https://www.producthunt.com/products/stencil-by-superhands",
       "source": "product_hunt",
-      "rank_now": 3,
-      "rank_prev": 12,
+      "rank_now": 1,
+      "rank_prev": 27,
+      "rank_delta": -26,
+      "growth_score": 26,
+      "signal_note": "排名上升 26 位",
+      "new_entry": false,
+      "rank": 1
+    },
+    {
+      "name": "Lasso",
+      "url": "https://www.producthunt.com/products/lasso-11",
+      "source": "product_hunt",
+      "rank_now": 2,
+      "rank_prev": 15,
+      "rank_delta": -13,
+      "growth_score": 13,
+      "signal_note": "排名上升 13 位",
+      "new_entry": false,
+      "rank": 2
+    },
+    {
+      "name": "Liquid d1.2",
+      "url": "https://www.producthunt.com/products/lfm2",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "rank_prev": 17,
+      "rank_delta": -10,
+      "growth_score": 10,
+      "signal_note": "排名上升 10 位",
+      "new_entry": false,
+      "rank": 3
+    },
+    {
+      "name": "Hako",
+      "url": "https://www.producthunt.com/products/hako",
+      "source": "product_hunt",
+      "rank_now": 19,
+      "rank_prev": 28,
       "rank_delta": -9,
       "growth_score": 9,
       "signal_note": "排名上升 9 位",
-      "new_entry": false
+      "new_entry": false,
+      "rank": 4
     },
     {
-      "rank": 2,
-      "name": "n8n",
-      "url": "https://www.producthunt.com/products/n8n",
+      "name": "Pinecall",
+      "url": "https://www.producthunt.com/products/pinecall",
+      "source": "product_hunt",
+      "rank_now": 6,
+      "rank_prev": 14,
+      "rank_delta": -8,
+      "growth_score": 8,
+      "signal_note": "排名上升 8 位",
+      "new_entry": false,
+      "rank": 5
+    },
+    {
+      "name": "Glass Page",
+      "url": "https://www.producthunt.com/products/glass-page",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "rank_prev": 22,
+      "rank_delta": -8,
+      "growth_score": 8,
+      "signal_note": "排名上升 8 位",
+      "new_entry": false,
+      "rank": 6
+    },
+    {
+      "name": "Versine",
+      "url": "https://www.producthunt.com/products/versine",
       "source": "product_hunt",
       "rank_now": 8,
-      "rank_prev": 14,
-      "rank_delta": -6,
-      "growth_score": 6,
-      "signal_note": "排名上升 6 位",
-      "new_entry": false
+      "rank_prev": 13,
+      "rank_delta": -5,
+      "growth_score": 5,
+      "signal_note": "排名上升 5 位",
+      "new_entry": false,
+      "rank": 7
+    },
+    {
+      "name": "Trellus",
+      "url": "https://www.producthunt.com/products/trellus",
+      "source": "product_hunt",
+      "rank_now": 15,
+      "rank_prev": 20,
+      "rank_delta": -5,
+      "growth_score": 5,
+      "signal_note": "排名上升 5 位",
+      "new_entry": false,
+      "rank": 8
+    },
+    {
+      "name": "Retriever",
+      "url": "https://www.producthunt.com/products/retriever-4",
+      "source": "product_hunt",
+      "rank_now": 20,
+      "rank_prev": 24,
+      "rank_delta": -4,
+      "growth_score": 4,
+      "signal_note": "排名上升 4 位",
+      "new_entry": false,
+      "rank": 9
+    },
+    {
+      "name": "Continuo",
+      "url": "https://www.producthunt.com/products/continuo-4",
+      "source": "product_hunt",
+      "rank_now": 3,
+      "rank_prev": 6,
+      "rank_delta": -3,
+      "growth_score": 3,
+      "signal_note": "排名上升 3 位",
+      "new_entry": false,
+      "rank": 10
     }
   ],
   "new_entries": [
     {
-      "rank": 1,
-      "name": "SuperLocalMemory",
-      "url": "https://www.producthunt.com/products/superlocalmemory-v2",
+      "name": "Link.bio",
+      "url": "https://www.producthunt.com/products/link-bio",
       "source": "product_hunt",
-      "rank_now": 1,
+      "rank_now": 10,
       "rank_prev": null,
       "rank_delta": null,
       "growth_score": null,
       "signal_note": "新进榜",
-      "new_entry": true
+      "new_entry": true,
+      "rank": 1
+    },
+    {
+      "name": "RankSpot",
+      "url": "https://www.producthunt.com/products/rankspot",
+      "source": "product_hunt",
+      "rank_now": 11,
+      "rank_prev": null,
+      "rank_delta": null,
+      "growth_score": null,
+      "signal_note": "新进榜",
+      "new_entry": true,
+      "rank": 2
+    },
+    {
+      "name": "EkLine",
+      "url": "https://www.producthunt.com/products/ekline",
+      "source": "product_hunt",
+      "rank_now": 28,
+      "rank_prev": null,
+      "rank_delta": null,
+      "growth_score": null,
+      "signal_note": "新进榜",
+      "new_entry": true,
+      "rank": 3
     }
   ],
-  "skipped": "insufficient_history"
+  "skipped": null
 }
