@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 09:47:36 UTC+08:00",
-  "run_id": "20261119-094638-d9748df4",
+  "updated_at": "2026-11-19 13:06:38 UTC+08:00",
+  "run_id": "20261119-130538-ae0b70ed",
   "source_note": "Freelancer public API search; Fiverr public only; no login; no bid. HTTP 403 login/bot wall at https://www.fiverr.com/buyer_requests",
   "ingest": {
     "freelancer": {
       "queries": 42,
-      "fetched_projects": 30,
+      "fetched_projects": 26,
       "errors": []
     },
     "fiverr": {
@@ -61,7 +61,7 @@
       "recommend_note": "三关未过：一期:看不出可切的一期",
       "budget_raw": "₹750.0-1250.0/hr",
       "score": 75.0,
-      "fetched_at": "2026-11-19 09:46:43 UTC+08:00",
+      "fetched_at": "2026-11-19 13:05:44 UTC+08:00",
       "proposals_count": 63,
       "bid_count": 63,
       "votes": null
@@ -102,18 +102,18 @@
         {
           "name": "竞争",
           "pass": false,
-          "reason": "投标过多（560≥100）"
+          "reason": "投标过多（562≥100）"
         }
       ],
       "all_gates_pass": false,
       "veto": null,
       "recommend": false,
-      "recommend_note": "三关未过：一期:看不出可切的一期; 竞争:投标过多（560≥100）",
+      "recommend_note": "三关未过：一期:看不出可切的一期; 竞争:投标过多（562≥100）",
       "budget_raw": "$250.0-750.0",
       "score": 67.0,
-      "fetched_at": "2026-11-19 09:47:27 UTC+08:00",
-      "proposals_count": 560,
-      "bid_count": 560,
+      "fetched_at": "2026-11-19 13:06:29 UTC+08:00",
+      "proposals_count": 562,
+      "bid_count": 562,
       "votes": null
     },
     {
@@ -161,7 +161,7 @@
       "recommend_note": "三关未过：一期:看不出可切的一期",
       "budget_raw": "₹200.0-500.0/hr",
       "score": 67.0,
-      "fetched_at": "2026-11-19 09:46:43 UTC+08:00",
+      "fetched_at": "2026-11-19 13:05:44 UTC+08:00",
       "proposals_count": 58,
       "bid_count": 58,
       "votes": null
@@ -209,7 +209,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$30.0-250.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:47:30 UTC+08:00",
+      "fetched_at": "2026-11-19 13:06:32 UTC+08:00",
       "proposals_count": 8,
       "bid_count": 8,
       "votes": null
@@ -257,7 +257,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹600.0-1500.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:47:27 UTC+08:00",
+      "fetched_at": "2026-11-19 13:06:29 UTC+08:00",
       "proposals_count": 2,
       "bid_count": 2,
       "votes": null
@@ -305,7 +305,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$2.0-8.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:47:30 UTC+08:00",
+      "fetched_at": "2026-11-19 13:06:32 UTC+08:00",
       "proposals_count": 15,
       "bid_count": 15,
       "votes": null
@@ -353,57 +353,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹12500.0-37500.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:51 UTC+08:00",
+      "fetched_at": "2026-11-19 13:05:53 UTC+08:00",
       "proposals_count": 140,
       "bid_count": 140,
-      "votes": null
-    },
-    {
-      "id": "fl-40814324",
-      "title": "Build a Wix Seminary Ecosystem",
-      "url": "https://www.freelancer.com/projects/wix/Build-Wix-Seminary-Ecosystem",
-      "platform": "freelancer",
-      "status": "Open",
-      "is_open": true,
-      "track": "未知",
-      "keyword_tier": "none",
-      "keyword_hits": [],
-      "gates": [
-        {
-          "name": "关键词",
-          "pass": false,
-          "reason": "未命中嵌入/加固词"
-        },
-        {
-          "name": "预算",
-          "pass": true,
-          "reason": "有明确数字或区间"
-        },
-        {
-          "name": "清晰",
-          "pass": false,
-          "reason": "需求糊（说不清交付物）"
-        },
-        {
-          "name": "一期",
-          "pass": false,
-          "reason": "看不出可切的一期"
-        },
-        {
-          "name": "竞争",
-          "pass": false,
-          "reason": "投标过多（377≥100）"
-        }
-      ],
-      "all_gates_pass": false,
-      "veto": null,
-      "recommend": false,
-      "recommend_note": "关键词未过",
-      "budget_raw": "$250.0-750.0",
-      "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:53 UTC+08:00",
-      "proposals_count": 377,
-      "bid_count": 377,
       "votes": null
     },
     {
@@ -449,105 +401,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$250.0-750.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:46 UTC+08:00",
+      "fetched_at": "2026-11-19 13:05:47 UTC+08:00",
       "proposals_count": 127,
       "bid_count": 127,
-      "votes": null
-    },
-    {
-      "id": "fl-40814226",
-      "title": "Experienced Freelancer for Meta Business Portfolio Setup & Verification",
-      "url": "https://www.freelancer.com/projects/facebook-marketing/Experienced-Freelancer-for-Meta-Business",
-      "platform": "freelancer",
-      "status": "Open",
-      "is_open": true,
-      "track": "未知",
-      "keyword_tier": "none",
-      "keyword_hits": [],
-      "gates": [
-        {
-          "name": "关键词",
-          "pass": false,
-          "reason": "未命中嵌入/加固词"
-        },
-        {
-          "name": "预算",
-          "pass": true,
-          "reason": "有明确数字或区间"
-        },
-        {
-          "name": "清晰",
-          "pass": true,
-          "reason": "描述含可执行交付动词"
-        },
-        {
-          "name": "一期",
-          "pass": false,
-          "reason": "看不出可切的一期"
-        },
-        {
-          "name": "竞争",
-          "pass": true,
-          "reason": "投标数 42"
-        }
-      ],
-      "all_gates_pass": false,
-      "veto": null,
-      "recommend": false,
-      "recommend_note": "关键词未过",
-      "budget_raw": "$30.0-250.0",
-      "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:43 UTC+08:00",
-      "proposals_count": 42,
-      "bid_count": 42,
-      "votes": null
-    },
-    {
-      "id": "fl-40814367",
-      "title": "GA to Fabrication DWGs",
-      "url": "https://www.freelancer.com/projects/3d-cad/Fabrication-DWGs",
-      "platform": "freelancer",
-      "status": "Open",
-      "is_open": true,
-      "track": "未知",
-      "keyword_tier": "none",
-      "keyword_hits": [],
-      "gates": [
-        {
-          "name": "关键词",
-          "pass": false,
-          "reason": "未命中嵌入/加固词"
-        },
-        {
-          "name": "预算",
-          "pass": true,
-          "reason": "有明确数字或区间"
-        },
-        {
-          "name": "清晰",
-          "pass": false,
-          "reason": "需求糊（说不清交付物）"
-        },
-        {
-          "name": "一期",
-          "pass": false,
-          "reason": "看不出可切的一期"
-        },
-        {
-          "name": "竞争",
-          "pass": true,
-          "reason": "投标数 43"
-        }
-      ],
-      "all_gates_pass": false,
-      "veto": null,
-      "recommend": false,
-      "recommend_note": "关键词未过",
-      "budget_raw": "₹1500.0-12500.0",
-      "score": 50.0,
-      "fetched_at": "2026-11-19 09:47:07 UTC+08:00",
-      "proposals_count": 43,
-      "bid_count": 43,
       "votes": null
     },
     {
@@ -584,7 +440,7 @@
         {
           "name": "竞争",
           "pass": false,
-          "reason": "投标过多（292≥100）"
+          "reason": "投标过多（314≥100）"
         }
       ],
       "all_gates_pass": false,
@@ -593,9 +449,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$250.0-750.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:40 UTC+08:00",
-      "proposals_count": 292,
-      "bid_count": 292,
+      "fetched_at": "2026-11-19 13:05:41 UTC+08:00",
+      "proposals_count": 314,
+      "bid_count": 314,
       "votes": null
     },
     {
@@ -641,7 +497,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$30.0-250.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:47:26 UTC+08:00",
+      "fetched_at": "2026-11-19 13:06:28 UTC+08:00",
       "proposals_count": 169,
       "bid_count": 169,
       "votes": null
@@ -689,7 +545,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$30.0-250.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:53 UTC+08:00",
+      "fetched_at": "2026-11-19 13:05:54 UTC+08:00",
       "proposals_count": 369,
       "bid_count": 369,
       "votes": null
@@ -728,7 +584,7 @@
         {
           "name": "竞争",
           "pass": false,
-          "reason": "投标过多（377≥100）"
+          "reason": "投标过多（395≥100）"
         }
       ],
       "all_gates_pass": false,
@@ -737,9 +593,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$250.0-750.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:40 UTC+08:00",
-      "proposals_count": 377,
-      "bid_count": 377,
+      "fetched_at": "2026-11-19 13:05:41 UTC+08:00",
+      "proposals_count": 395,
+      "bid_count": 395,
       "votes": null
     },
     {
@@ -776,7 +632,7 @@
         {
           "name": "竞争",
           "pass": false,
-          "reason": "投标过多（357≥100）"
+          "reason": "投标过多（377≥100）"
         }
       ],
       "all_gates_pass": false,
@@ -785,9 +641,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "£250.0-750.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:40 UTC+08:00",
-      "proposals_count": 357,
-      "bid_count": 357,
+      "fetched_at": "2026-11-19 13:05:41 UTC+08:00",
+      "proposals_count": 377,
+      "bid_count": 377,
       "votes": null
     },
     {
@@ -833,7 +689,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹2500.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:53 UTC+08:00",
+      "fetched_at": "2026-11-19 13:05:54 UTC+08:00",
       "proposals_count": 71,
       "bid_count": 71,
       "votes": null
@@ -881,105 +737,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$30.0-250.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:38 UTC+08:00",
+      "fetched_at": "2026-11-19 13:05:38 UTC+08:00",
       "proposals_count": 145,
       "bid_count": 145,
-      "votes": null
-    },
-    {
-      "id": "fl-40824029",
-      "title": "Premium Travel WordPress Site",
-      "url": "https://www.freelancer.com/projects/elementor/Premium-Travel-WordPress-Site",
-      "platform": "freelancer",
-      "status": "Open",
-      "is_open": true,
-      "track": "未知",
-      "keyword_tier": "none",
-      "keyword_hits": [],
-      "gates": [
-        {
-          "name": "关键词",
-          "pass": false,
-          "reason": "未命中嵌入/加固词"
-        },
-        {
-          "name": "预算",
-          "pass": true,
-          "reason": "有明确数字或区间"
-        },
-        {
-          "name": "清晰",
-          "pass": true,
-          "reason": "描述含可执行交付动词"
-        },
-        {
-          "name": "一期",
-          "pass": false,
-          "reason": "看不出可切的一期"
-        },
-        {
-          "name": "竞争",
-          "pass": false,
-          "reason": "投标过多（130≥100）"
-        }
-      ],
-      "all_gates_pass": false,
-      "veto": null,
-      "recommend": false,
-      "recommend_note": "关键词未过",
-      "budget_raw": "₹750.0-1250.0/hr",
-      "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:40 UTC+08:00",
-      "proposals_count": 130,
-      "bid_count": 130,
-      "votes": null
-    },
-    {
-      "id": "fl-40824019",
-      "title": "React Native Super App Development",
-      "url": "https://www.freelancer.com/projects/android/React-Native-Super-App-Development",
-      "platform": "freelancer",
-      "status": "Open",
-      "is_open": true,
-      "track": "未知",
-      "keyword_tier": "none",
-      "keyword_hits": [],
-      "gates": [
-        {
-          "name": "关键词",
-          "pass": false,
-          "reason": "未命中嵌入/加固词"
-        },
-        {
-          "name": "预算",
-          "pass": true,
-          "reason": "有明确数字或区间"
-        },
-        {
-          "name": "清晰",
-          "pass": false,
-          "reason": "需求糊（说不清交付物）"
-        },
-        {
-          "name": "一期",
-          "pass": false,
-          "reason": "看不出可切的一期"
-        },
-        {
-          "name": "竞争",
-          "pass": true,
-          "reason": "投标数 39"
-        }
-      ],
-      "all_gates_pass": false,
-      "veto": null,
-      "recommend": false,
-      "recommend_note": "关键词未过",
-      "budget_raw": "₹600.0-1500.0",
-      "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:40 UTC+08:00",
-      "proposals_count": 39,
-      "bid_count": 39,
       "votes": null
     },
     {
@@ -1016,7 +776,7 @@
         {
           "name": "竞争",
           "pass": true,
-          "reason": "投标偏多（87），谨慎"
+          "reason": "投标偏多（88），谨慎"
         }
       ],
       "all_gates_pass": false,
@@ -1025,9 +785,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹750.0-1250.0/hr",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:40 UTC+08:00",
-      "proposals_count": 87,
-      "bid_count": 87,
+      "fetched_at": "2026-11-19 13:05:41 UTC+08:00",
+      "proposals_count": 88,
+      "bid_count": 88,
       "votes": null
     },
     {
@@ -1073,7 +833,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "₹12500.0-37500.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:38 UTC+08:00",
+      "fetched_at": "2026-11-19 13:05:38 UTC+08:00",
       "proposals_count": 0,
       "bid_count": 0,
       "votes": null
@@ -1121,7 +881,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$10.0-100000.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:53 UTC+08:00",
+      "fetched_at": "2026-11-19 13:05:54 UTC+08:00",
       "proposals_count": 304,
       "bid_count": 304,
       "votes": null
@@ -1160,7 +920,7 @@
         {
           "name": "竞争",
           "pass": false,
-          "reason": "投标过多（257≥100）"
+          "reason": "投标过多（287≥100）"
         }
       ],
       "all_gates_pass": false,
@@ -1169,9 +929,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$250.0-750.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:40 UTC+08:00",
-      "proposals_count": 257,
-      "bid_count": 257,
+      "fetched_at": "2026-11-19 13:05:41 UTC+08:00",
+      "proposals_count": 287,
+      "bid_count": 287,
       "votes": null
     },
     {
@@ -1217,7 +977,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "€30.0-250.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:43 UTC+08:00",
+      "fetched_at": "2026-11-19 13:05:44 UTC+08:00",
       "proposals_count": 154,
       "bid_count": 154,
       "votes": null
@@ -1256,7 +1016,7 @@
         {
           "name": "竞争",
           "pass": true,
-          "reason": "投标数 63"
+          "reason": "投标偏多（94），谨慎"
         }
       ],
       "all_gates_pass": false,
@@ -1265,9 +1025,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "$30.0-250.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:47:30 UTC+08:00",
-      "proposals_count": 63,
-      "bid_count": 63,
+      "fetched_at": "2026-11-19 13:06:32 UTC+08:00",
+      "proposals_count": 94,
+      "bid_count": 94,
       "votes": null
     },
     {
@@ -1313,7 +1073,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "£20.0-250.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:53 UTC+08:00",
+      "fetched_at": "2026-11-19 13:05:54 UTC+08:00",
       "proposals_count": 556,
       "bid_count": 556,
       "votes": null
@@ -1361,7 +1121,7 @@
       "recommend_note": "关键词未过",
       "budget_raw": "€250.0-750.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:47:27 UTC+08:00",
+      "fetched_at": "2026-11-19 13:06:29 UTC+08:00",
       "proposals_count": 549,
       "bid_count": 549,
       "votes": null
@@ -1400,7 +1160,7 @@
         {
           "name": "竞争",
           "pass": false,
-          "reason": "投标过多（414≥100）"
+          "reason": "投标过多（423≥100）"
         }
       ],
       "all_gates_pass": false,
@@ -1409,9 +1169,57 @@
       "recommend_note": "关键词未过",
       "budget_raw": "£150.0-400.0",
       "score": 50.0,
-      "fetched_at": "2026-11-19 09:46:40 UTC+08:00",
-      "proposals_count": 414,
-      "bid_count": 414,
+      "fetched_at": "2026-11-19 13:05:41 UTC+08:00",
+      "proposals_count": 423,
+      "bid_count": 423,
+      "votes": null
+    },
+    {
+      "id": "fl-40825290",
+      "title": "WordPress website rebuild for a multi-location restaurant business, with full conversion tracking",
+      "url": "https://www.freelancer.com/projects/elementor/WordPress-website-rebuild-for-multi",
+      "platform": "freelancer",
+      "status": "Open",
+      "is_open": true,
+      "track": "未知",
+      "keyword_tier": "none",
+      "keyword_hits": [],
+      "gates": [
+        {
+          "name": "关键词",
+          "pass": false,
+          "reason": "未命中嵌入/加固词"
+        },
+        {
+          "name": "预算",
+          "pass": true,
+          "reason": "有明确数字或区间"
+        },
+        {
+          "name": "清晰",
+          "pass": true,
+          "reason": "描述含可执行交付动词"
+        },
+        {
+          "name": "一期",
+          "pass": false,
+          "reason": "看不出可切的一期"
+        },
+        {
+          "name": "竞争",
+          "pass": true,
+          "reason": "投标偏多（92），谨慎"
+        }
+      ],
+      "all_gates_pass": false,
+      "veto": null,
+      "recommend": false,
+      "recommend_note": "关键词未过",
+      "budget_raw": "$10.0-15.0/hr",
+      "score": 50.0,
+      "fetched_at": "2026-11-19 13:05:41 UTC+08:00",
+      "proposals_count": 92,
+      "bid_count": 92,
       "votes": null
     },
     {
@@ -1451,7 +1259,7 @@
         {
           "name": "竞争",
           "pass": true,
-          "reason": "投标数 54"
+          "reason": "投标数 55"
         }
       ],
       "all_gates_pass": false,
@@ -1460,9 +1268,9 @@
       "recommend_note": "关键词未过",
       "budget_raw": "€8.0-30.0",
       "score": 10.0,
-      "fetched_at": "2026-11-19 09:47:23 UTC+08:00",
-      "proposals_count": 54,
-      "bid_count": 54,
+      "fetched_at": "2026-11-19 13:06:25 UTC+08:00",
+      "proposals_count": 55,
+      "bid_count": 55,
       "votes": null
     }
   ]
