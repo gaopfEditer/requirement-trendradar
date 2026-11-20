@@ -1,247 +1,247 @@
 {
-  "updated_at": "2026-11-20 14:20:47 UTC+08:00",
-  "date_stamp": "20261120",
-  "run_id": "20261120-142047-8865a947",
+  "updated_at": "2026-11-21 00:47:41 UTC+08:00",
+  "date_stamp": "20261121",
+  "run_id": "20261121-004741-7e7e0f18",
   "items": [
     {
-      "name": "TestSprite 4.0",
-      "url": "https://www.producthunt.com/products/testsprite",
+      "name": "Baby's Day In",
+      "url": "https://www.producthunt.com/products/baby-s-day-in",
       "source": "product_hunt",
       "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Netlify Server",
-      "url": "https://www.producthunt.com/products/netlify",
+      "name": "Currents",
+      "url": "https://www.producthunt.com/products/currents-4",
       "source": "product_hunt",
       "rank_now": 2,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Stripo Email Widgets",
-      "url": "https://www.producthunt.com/products/stripo-email",
+      "name": "Rox",
+      "url": "https://www.producthunt.com/products/rox-2",
       "source": "product_hunt",
       "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "OfinTech Desk",
-      "url": "https://www.producthunt.com/products/ofintech-desk",
+      "name": "Direct by Instagram",
+      "url": "https://www.producthunt.com/products/instagram",
       "source": "product_hunt",
       "rank_now": 4,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Tabstack by Mozilla",
-      "url": "https://www.producthunt.com/products/tabstack",
+      "name": "aiteam.space",
+      "url": "https://www.producthunt.com/products/aiteam-space",
       "source": "product_hunt",
       "rank_now": 5,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Noteshell",
-      "url": "https://www.producthunt.com/products/noteshell",
+      "name": "Andromon",
+      "url": "https://www.producthunt.com/products/andromon",
       "source": "product_hunt",
       "rank_now": 6,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Gemini 4 Neon",
-      "url": "https://www.producthunt.com/products/gemini-6",
+      "name": "Mailpipe",
+      "url": "https://www.producthunt.com/products/mailpipe-2",
       "source": "product_hunt",
       "rank_now": 7,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Manufact",
-      "url": "https://www.producthunt.com/products/manufact",
+      "name": "Zethos",
+      "url": "https://www.producthunt.com/products/zethos",
       "source": "product_hunt",
       "rank_now": 8,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Spellar for Chrome",
-      "url": "https://www.producthunt.com/products/spellar",
+      "name": "NetSieve",
+      "url": "https://www.producthunt.com/products/netsieve",
       "source": "product_hunt",
       "rank_now": 9,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Verse Engine by Ctruh",
-      "url": "https://www.producthunt.com/products/verse-engine-by-ctruh",
+      "name": "tripps",
+      "url": "https://www.producthunt.com/products/tripps",
       "source": "product_hunt",
       "rank_now": 10,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Source",
-      "url": "https://www.producthunt.com/products/source-public-beta",
+      "name": "Volcano",
+      "url": "https://www.producthunt.com/products/volcano-3",
       "source": "product_hunt",
       "rank_now": 11,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Upsolve MCP Connections",
-      "url": "https://www.producthunt.com/products/upsolve-ai",
+      "name": "Same Moon",
+      "url": "https://www.producthunt.com/products/same-moon",
       "source": "product_hunt",
       "rank_now": 12,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Fieldwork Code",
-      "url": "https://www.producthunt.com/products/fieldwork-code",
+      "name": "Samiksa",
+      "url": "https://www.producthunt.com/products/samiksa",
       "source": "product_hunt",
       "rank_now": 13,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Tecla",
-      "url": "https://www.producthunt.com/products/tecla-3",
+      "name": "Interview Coach",
+      "url": "https://www.producthunt.com/products/interview-coach-3",
       "source": "product_hunt",
       "rank_now": 14,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Play That Back",
-      "url": "https://www.producthunt.com/products/play-that-back",
+      "name": "tensorViz",
+      "url": "https://www.producthunt.com/products/tensorviz",
       "source": "product_hunt",
       "rank_now": 15,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Meilisearch Searchandising",
-      "url": "https://www.producthunt.com/products/meilisearch-cloud",
+      "name": "Nova by Vybe",
+      "url": "https://www.producthunt.com/products/vybe-4",
       "source": "product_hunt",
       "rank_now": 16,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Every Signal",
-      "url": "https://www.producthunt.com/products/every-signal",
+      "name": "UndoGuard",
+      "url": "https://www.producthunt.com/products/undoguard",
       "source": "product_hunt",
       "rank_now": 17,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "The Calm Creator Mastermind",
-      "url": "https://www.producthunt.com/products/the-calm-creator-mastermind",
+      "name": "Storiara",
+      "url": "https://www.producthunt.com/products/storiara",
       "source": "product_hunt",
       "rank_now": 18,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Adside",
-      "url": "https://www.producthunt.com/products/adside",
+      "name": "Compass OS",
+      "url": "https://www.producthunt.com/products/compassos-dev",
       "source": "product_hunt",
       "rank_now": 19,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Impractical",
-      "url": "https://www.producthunt.com/products/impractical",
+      "name": "Saparo",
+      "url": "https://www.producthunt.com/products/saparo",
       "source": "product_hunt",
       "rank_now": 20,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "HeyGen Avatar 6",
-      "url": "https://www.producthunt.com/products/heygen",
+      "name": "Memanto Cloud",
+      "url": "https://www.producthunt.com/products/memanto-by-moorcheh",
       "source": "product_hunt",
       "rank_now": 21,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Enrichable by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
+      "name": "Kuc-kuc",
+      "url": "https://www.producthunt.com/products/kuc-kuc",
       "source": "product_hunt",
       "rank_now": 22,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Room AI",
-      "url": "https://www.producthunt.com/products/room-ai-2",
+      "name": "Scam Link Check",
+      "url": "https://www.producthunt.com/products/scam-link-check",
       "source": "product_hunt",
       "rank_now": 23,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Teaflask",
-      "url": "https://www.producthunt.com/products/teaflask",
+      "name": "ThreadLore",
+      "url": "https://www.producthunt.com/products/threadlore",
       "source": "product_hunt",
       "rank_now": 24,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Nuko",
-      "url": "https://www.producthunt.com/products/nuko",
+      "name": "Inkrail",
+      "url": "https://www.producthunt.com/products/inkrail",
       "source": "product_hunt",
       "rank_now": 25,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Rezora IO",
-      "url": "https://www.producthunt.com/products/rezora-io-ai-calling-assistant",
+      "name": "Stormi",
+      "url": "https://www.producthunt.com/products/stormi",
       "source": "product_hunt",
       "rank_now": 26,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "ToolJet",
-      "url": "https://www.producthunt.com/products/tooljet",
+      "name": "greatai Review",
+      "url": "https://www.producthunt.com/products/greatai-review",
       "source": "product_hunt",
       "rank_now": 27,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Ableten Hybrid AI Travel Planner",
-      "url": "https://www.producthunt.com/products/ableten-source-library",
+      "name": "InteraOne",
+      "url": "https://www.producthunt.com/products/interaone",
       "source": "product_hunt",
       "rank_now": 28,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "CodeDesign v3",
-      "url": "https://www.producthunt.com/products/codedesign",
+      "name": "Lumyna Community Challenge",
+      "url": "https://www.producthunt.com/products/lumyna-community-challenge",
       "source": "product_hunt",
       "rank_now": 29,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
-      "name": "Cleared",
-      "url": "https://www.producthunt.com/products/cleared-quit-nicotine",
+      "name": "Cup of Sugar",
+      "url": "https://www.producthunt.com/products/cup-of-sugar-2",
       "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
       "name": "Manual SEO Tool",
@@ -252,7 +252,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     },
     {
       "name": "Workflow Copilot",
@@ -262,7 +262,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+      "fetched_at": "2026-11-21 00:47:41 UTC+08:00"
     }
   ],
   "errors": []
