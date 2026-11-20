@@ -1,47 +1,47 @@
 {
-  "updated_at": "2026-11-20 06:57:07 UTC+08:00",
+  "updated_at": "2026-11-20 14:20:47 UTC+08:00",
   "date_stamp": "20261120",
-  "run_id": "20261120-065707-22e0b95f",
+  "run_id": "20261120-142047-8865a947",
   "items": [
     {
-      "name": "HeyGen Avatar 6",
-      "url": "https://www.producthunt.com/products/heygen",
+      "name": "TestSprite 4.0",
+      "url": "https://www.producthunt.com/products/testsprite",
       "source": "product_hunt",
       "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
     },
     {
-      "name": "Cleared",
-      "url": "https://www.producthunt.com/products/cleared-quit-nicotine",
+      "name": "Netlify Server",
+      "url": "https://www.producthunt.com/products/netlify",
       "source": "product_hunt",
       "rank_now": 2,
       "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
     },
     {
-      "name": "Teaflask",
-      "url": "https://www.producthunt.com/products/teaflask",
+      "name": "Stripo Email Widgets",
+      "url": "https://www.producthunt.com/products/stripo-email",
       "source": "product_hunt",
       "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
     },
     {
-      "name": "ToolJet",
-      "url": "https://www.producthunt.com/products/tooljet",
+      "name": "OfinTech Desk",
+      "url": "https://www.producthunt.com/products/ofintech-desk",
       "source": "product_hunt",
       "rank_now": 4,
       "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
     },
     {
-      "name": "Upsolve MCP Connections",
-      "url": "https://www.producthunt.com/products/upsolve-ai",
+      "name": "Tabstack by Mozilla",
+      "url": "https://www.producthunt.com/products/tabstack",
       "source": "product_hunt",
       "rank_now": 5,
       "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
     },
     {
       "name": "Noteshell",
@@ -49,199 +49,199 @@
       "source": "product_hunt",
       "rank_now": 6,
       "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
-    },
-    {
-      "name": "Meilisearch Searchandising",
-      "url": "https://www.producthunt.com/products/meilisearch-cloud",
-      "source": "product_hunt",
-      "rank_now": 7,
-      "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
-    },
-    {
-      "name": "Nuko",
-      "url": "https://www.producthunt.com/products/nuko",
-      "source": "product_hunt",
-      "rank_now": 8,
-      "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
-    },
-    {
-      "name": "Enrichable by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "source": "product_hunt",
-      "rank_now": 9,
-      "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
-    },
-    {
-      "name": "Play That Back",
-      "url": "https://www.producthunt.com/products/play-that-back",
-      "source": "product_hunt",
-      "rank_now": 10,
-      "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
-    },
-    {
-      "name": "The Calm Creator Mastermind",
-      "url": "https://www.producthunt.com/products/the-calm-creator-mastermind",
-      "source": "product_hunt",
-      "rank_now": 11,
-      "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
-    },
-    {
-      "name": "Every Signal",
-      "url": "https://www.producthunt.com/products/every-signal",
-      "source": "product_hunt",
-      "rank_now": 12,
-      "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
-    },
-    {
-      "name": "OfinTech Desk",
-      "url": "https://www.producthunt.com/products/ofintech-desk",
-      "source": "product_hunt",
-      "rank_now": 13,
-      "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
-    },
-    {
-      "name": "Tabstack by Mozilla",
-      "url": "https://www.producthunt.com/products/tabstack",
-      "source": "product_hunt",
-      "rank_now": 14,
-      "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
-    },
-    {
-      "name": "TestSprite 4.0",
-      "url": "https://www.producthunt.com/products/testsprite",
-      "source": "product_hunt",
-      "rank_now": 15,
-      "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
-    },
-    {
-      "name": "Source",
-      "url": "https://www.producthunt.com/products/source-public-beta",
-      "source": "product_hunt",
-      "rank_now": 16,
-      "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
-    },
-    {
-      "name": "Spellar for Chrome",
-      "url": "https://www.producthunt.com/products/spellar",
-      "source": "product_hunt",
-      "rank_now": 17,
-      "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
-    },
-    {
-      "name": "Netlify Server",
-      "url": "https://www.producthunt.com/products/netlify",
-      "source": "product_hunt",
-      "rank_now": 18,
-      "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
-    },
-    {
-      "name": "Ableten Hybrid AI Travel Planner",
-      "url": "https://www.producthunt.com/products/ableten-source-library",
-      "source": "product_hunt",
-      "rank_now": 19,
-      "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
-    },
-    {
-      "name": "Fieldwork Code",
-      "url": "https://www.producthunt.com/products/fieldwork-code",
-      "source": "product_hunt",
-      "rank_now": 20,
-      "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
-    },
-    {
-      "name": "Tecla",
-      "url": "https://www.producthunt.com/products/tecla-3",
-      "source": "product_hunt",
-      "rank_now": 21,
-      "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
-    },
-    {
-      "name": "CodeDesign v3",
-      "url": "https://www.producthunt.com/products/codedesign",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
-    },
-    {
-      "name": "Verse Engine by Ctruh",
-      "url": "https://www.producthunt.com/products/verse-engine-by-ctruh",
-      "source": "product_hunt",
-      "rank_now": 23,
-      "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
-    },
-    {
-      "name": "Stripo Email Widgets",
-      "url": "https://www.producthunt.com/products/stripo-email",
-      "source": "product_hunt",
-      "rank_now": 24,
-      "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
     },
     {
       "name": "Gemini 4 Neon",
       "url": "https://www.producthunt.com/products/gemini-6",
       "source": "product_hunt",
-      "rank_now": 25,
+      "rank_now": 7,
       "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
     },
     {
       "name": "Manufact",
       "url": "https://www.producthunt.com/products/manufact",
       "source": "product_hunt",
-      "rank_now": 26,
+      "rank_now": 8,
       "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+    },
+    {
+      "name": "Spellar for Chrome",
+      "url": "https://www.producthunt.com/products/spellar",
+      "source": "product_hunt",
+      "rank_now": 9,
+      "category_tags": [],
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+    },
+    {
+      "name": "Verse Engine by Ctruh",
+      "url": "https://www.producthunt.com/products/verse-engine-by-ctruh",
+      "source": "product_hunt",
+      "rank_now": 10,
+      "category_tags": [],
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+    },
+    {
+      "name": "Source",
+      "url": "https://www.producthunt.com/products/source-public-beta",
+      "source": "product_hunt",
+      "rank_now": 11,
+      "category_tags": [],
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+    },
+    {
+      "name": "Upsolve MCP Connections",
+      "url": "https://www.producthunt.com/products/upsolve-ai",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+    },
+    {
+      "name": "Fieldwork Code",
+      "url": "https://www.producthunt.com/products/fieldwork-code",
+      "source": "product_hunt",
+      "rank_now": 13,
+      "category_tags": [],
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+    },
+    {
+      "name": "Tecla",
+      "url": "https://www.producthunt.com/products/tecla-3",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "category_tags": [],
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+    },
+    {
+      "name": "Play That Back",
+      "url": "https://www.producthunt.com/products/play-that-back",
+      "source": "product_hunt",
+      "rank_now": 15,
+      "category_tags": [],
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+    },
+    {
+      "name": "Meilisearch Searchandising",
+      "url": "https://www.producthunt.com/products/meilisearch-cloud",
+      "source": "product_hunt",
+      "rank_now": 16,
+      "category_tags": [],
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+    },
+    {
+      "name": "Every Signal",
+      "url": "https://www.producthunt.com/products/every-signal",
+      "source": "product_hunt",
+      "rank_now": 17,
+      "category_tags": [],
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+    },
+    {
+      "name": "The Calm Creator Mastermind",
+      "url": "https://www.producthunt.com/products/the-calm-creator-mastermind",
+      "source": "product_hunt",
+      "rank_now": 18,
+      "category_tags": [],
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
     },
     {
       "name": "Adside",
       "url": "https://www.producthunt.com/products/adside",
       "source": "product_hunt",
-      "rank_now": 27,
+      "rank_now": 19,
       "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
     },
     {
       "name": "Impractical",
       "url": "https://www.producthunt.com/products/impractical",
       "source": "product_hunt",
-      "rank_now": 28,
+      "rank_now": 20,
       "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
     },
     {
-      "name": "Rezora IO",
-      "url": "https://www.producthunt.com/products/rezora-io-ai-calling-assistant",
+      "name": "HeyGen Avatar 6",
+      "url": "https://www.producthunt.com/products/heygen",
       "source": "product_hunt",
-      "rank_now": 29,
+      "rank_now": 21,
       "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+    },
+    {
+      "name": "Enrichable by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "source": "product_hunt",
+      "rank_now": 22,
+      "category_tags": [],
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
     },
     {
       "name": "Room AI",
       "url": "https://www.producthunt.com/products/room-ai-2",
       "source": "product_hunt",
+      "rank_now": 23,
+      "category_tags": [],
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+    },
+    {
+      "name": "Teaflask",
+      "url": "https://www.producthunt.com/products/teaflask",
+      "source": "product_hunt",
+      "rank_now": 24,
+      "category_tags": [],
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+    },
+    {
+      "name": "Nuko",
+      "url": "https://www.producthunt.com/products/nuko",
+      "source": "product_hunt",
+      "rank_now": 25,
+      "category_tags": [],
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+    },
+    {
+      "name": "Rezora IO",
+      "url": "https://www.producthunt.com/products/rezora-io-ai-calling-assistant",
+      "source": "product_hunt",
+      "rank_now": 26,
+      "category_tags": [],
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+    },
+    {
+      "name": "ToolJet",
+      "url": "https://www.producthunt.com/products/tooljet",
+      "source": "product_hunt",
+      "rank_now": 27,
+      "category_tags": [],
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+    },
+    {
+      "name": "Ableten Hybrid AI Travel Planner",
+      "url": "https://www.producthunt.com/products/ableten-source-library",
+      "source": "product_hunt",
+      "rank_now": 28,
+      "category_tags": [],
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+    },
+    {
+      "name": "CodeDesign v3",
+      "url": "https://www.producthunt.com/products/codedesign",
+      "source": "product_hunt",
+      "rank_now": 29,
+      "category_tags": [],
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
+    },
+    {
+      "name": "Cleared",
+      "url": "https://www.producthunt.com/products/cleared-quit-nicotine",
+      "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
     },
     {
       "name": "Manual SEO Tool",
@@ -252,7 +252,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
     },
     {
       "name": "Workflow Copilot",
@@ -262,7 +262,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-11-20 06:57:07 UTC+08:00"
+      "fetched_at": "2026-11-20 14:20:47 UTC+08:00"
     }
   ],
   "errors": []
