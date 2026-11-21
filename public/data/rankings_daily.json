@@ -1,231 +1,231 @@
 {
-  "updated_at": "2026-11-21 09:10:42 UTC+08:00",
+  "updated_at": "2026-11-21 20:16:54 UTC+08:00",
   "date_stamp": "20261121",
-  "run_id": "20261121-091042-77ad57b6",
+  "run_id": "20261121-201654-38a4fed1",
   "items": [
     {
-      "name": "Zethos",
-      "url": "https://www.producthunt.com/products/zethos",
+      "name": "Glassmail",
+      "url": "https://www.producthunt.com/products/glassmail",
       "source": "product_hunt",
       "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
     },
     {
-      "name": "aiteam.space",
-      "url": "https://www.producthunt.com/products/aiteam-space",
+      "name": "SuperMailbox",
+      "url": "https://www.producthunt.com/products/supermailbox",
       "source": "product_hunt",
       "rank_now": 2,
       "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
     },
     {
-      "name": "Veryfi Thinking Mode",
-      "url": "https://www.producthunt.com/products/veryfi",
+      "name": "AlterContacts",
+      "url": "https://www.producthunt.com/products/alter-contacts-ai-client-relationships",
       "source": "product_hunt",
       "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
     },
     {
-      "name": "Dozy",
-      "url": "https://www.producthunt.com/products/dozy",
+      "name": "Hollr",
+      "url": "https://www.producthunt.com/products/hollr-3",
       "source": "product_hunt",
       "rank_now": 4,
       "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
     },
     {
-      "name": "Baby's Day In",
-      "url": "https://www.producthunt.com/products/baby-s-day-in",
+      "name": "Exa Websets V2",
+      "url": "https://www.producthunt.com/products/exa-ai",
       "source": "product_hunt",
       "rank_now": 5,
       "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
     },
     {
-      "name": "Cup of Sugar",
-      "url": "https://www.producthunt.com/products/cup-of-sugar-2",
+      "name": "Beat Watcher",
+      "url": "https://www.producthunt.com/products/beat-watcher",
       "source": "product_hunt",
       "rank_now": 6,
       "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
     },
     {
-      "name": "DWaste",
-      "url": "https://www.producthunt.com/products/deep-waste",
+      "name": "Backspin",
+      "url": "https://www.producthunt.com/products/backspin",
       "source": "product_hunt",
       "rank_now": 7,
       "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
+    },
+    {
+      "name": "Prompt Puncher",
+      "url": "https://www.producthunt.com/products/prompt-puncher",
+      "source": "product_hunt",
+      "rank_now": 8,
+      "category_tags": [],
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
+    },
+    {
+      "name": "Shipyard",
+      "url": "https://www.producthunt.com/products/shipyard",
+      "source": "product_hunt",
+      "rank_now": 9,
+      "category_tags": [],
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
+    },
+    {
+      "name": "Publicit",
+      "url": "https://www.producthunt.com/products/publicit",
+      "source": "product_hunt",
+      "rank_now": 10,
+      "category_tags": [],
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
+    },
+    {
+      "name": "Stitch Loop",
+      "url": "https://www.producthunt.com/products/stitch-loop",
+      "source": "product_hunt",
+      "rank_now": 11,
+      "category_tags": [],
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
+    },
+    {
+      "name": "LoudFlow",
+      "url": "https://www.producthunt.com/products/loudflow",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
+    },
+    {
+      "name": "WaitFeed",
+      "url": "https://www.producthunt.com/products/waitfeed-2",
+      "source": "product_hunt",
+      "rank_now": 13,
+      "category_tags": [],
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
+    },
+    {
+      "name": "Codemany",
+      "url": "https://www.producthunt.com/products/codemany",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "category_tags": [],
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
+    },
+    {
+      "name": "AI Context Flow MCP",
+      "url": "https://www.producthunt.com/products/ai-context-flow",
+      "source": "product_hunt",
+      "rank_now": 15,
+      "category_tags": [],
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
+    },
+    {
+      "name": "OpenVorld",
+      "url": "https://www.producthunt.com/products/openvorld",
+      "source": "product_hunt",
+      "rank_now": 16,
+      "category_tags": [],
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
+    },
+    {
+      "name": "gitroots",
+      "url": "https://www.producthunt.com/products/gitroots",
+      "source": "product_hunt",
+      "rank_now": 17,
+      "category_tags": [],
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
+    },
+    {
+      "name": "Smorza",
+      "url": "https://www.producthunt.com/products/smorza",
+      "source": "product_hunt",
+      "rank_now": 18,
+      "category_tags": [],
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
+    },
+    {
+      "name": "Doddle",
+      "url": "https://www.producthunt.com/products/doddle-3",
+      "source": "product_hunt",
+      "rank_now": 19,
+      "category_tags": [],
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
+    },
+    {
+      "name": "AnyProfile",
+      "url": "https://www.producthunt.com/products/anyprofile",
+      "source": "product_hunt",
+      "rank_now": 20,
+      "category_tags": [],
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
+    },
+    {
+      "name": "CROON",
+      "url": "https://www.producthunt.com/products/croon",
+      "source": "product_hunt",
+      "rank_now": 21,
+      "category_tags": [],
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
+    },
+    {
+      "name": "Rox",
+      "url": "https://www.producthunt.com/products/rox-2",
+      "source": "product_hunt",
+      "rank_now": 22,
+      "category_tags": [],
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
     },
     {
       "name": "NetSieve",
       "url": "https://www.producthunt.com/products/netsieve",
       "source": "product_hunt",
-      "rank_now": 8,
+      "rank_now": 23,
       "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
     },
     {
-      "name": "Volcano",
-      "url": "https://www.producthunt.com/products/volcano-3",
+      "name": "Nova by Vybe",
+      "url": "https://www.producthunt.com/products/vybe-4",
       "source": "product_hunt",
-      "rank_now": 9,
+      "rank_now": 24,
       "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
     },
     {
-      "name": "Fack’d",
-      "url": "https://www.producthunt.com/products/fack-d",
+      "name": "Dozy",
+      "url": "https://www.producthunt.com/products/dozy",
       "source": "product_hunt",
-      "rank_now": 10,
+      "rank_now": 25,
       "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
-    },
-    {
-      "name": "Tamekoshi",
-      "url": "https://www.producthunt.com/products/tamekoshi",
-      "source": "product_hunt",
-      "rank_now": 11,
-      "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
-    },
-    {
-      "name": "greatai Review",
-      "url": "https://www.producthunt.com/products/greatai-review",
-      "source": "product_hunt",
-      "rank_now": 12,
-      "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
     },
     {
       "name": "tripps",
       "url": "https://www.producthunt.com/products/tripps",
       "source": "product_hunt",
-      "rank_now": 13,
+      "rank_now": 26,
       "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
-    },
-    {
-      "name": "Lumyna Community Challenge",
-      "url": "https://www.producthunt.com/products/lumyna-community-challenge",
-      "source": "product_hunt",
-      "rank_now": 14,
-      "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
-    },
-    {
-      "name": "Andromon",
-      "url": "https://www.producthunt.com/products/andromon",
-      "source": "product_hunt",
-      "rank_now": 15,
-      "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
-    },
-    {
-      "name": "Inkrail",
-      "url": "https://www.producthunt.com/products/inkrail",
-      "source": "product_hunt",
-      "rank_now": 16,
-      "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
-    },
-    {
-      "name": "Mailpipe",
-      "url": "https://www.producthunt.com/products/mailpipe-2",
-      "source": "product_hunt",
-      "rank_now": 17,
-      "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
-    },
-    {
-      "name": "Storiara",
-      "url": "https://www.producthunt.com/products/storiara",
-      "source": "product_hunt",
-      "rank_now": 18,
-      "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
-    },
-    {
-      "name": "FFMPA Kids News",
-      "url": "https://www.producthunt.com/products/ffmpa-kids-news",
-      "source": "product_hunt",
-      "rank_now": 19,
-      "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
-    },
-    {
-      "name": "tensorViz",
-      "url": "https://www.producthunt.com/products/tensorviz",
-      "source": "product_hunt",
-      "rank_now": 20,
-      "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
     },
     {
       "name": "Stormi",
       "url": "https://www.producthunt.com/products/stormi",
       "source": "product_hunt",
-      "rank_now": 21,
-      "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
-    },
-    {
-      "name": "Salus",
-      "url": "https://www.producthunt.com/products/salus",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
-    },
-    {
-      "name": "Compass OS",
-      "url": "https://www.producthunt.com/products/compassos-dev",
-      "source": "product_hunt",
-      "rank_now": 23,
-      "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
-    },
-    {
-      "name": "Kuc-kuc",
-      "url": "https://www.producthunt.com/products/kuc-kuc",
-      "source": "product_hunt",
-      "rank_now": 24,
-      "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
-    },
-    {
-      "name": "Badya",
-      "url": "https://www.producthunt.com/products/badya-ai-language-immersion",
-      "source": "product_hunt",
-      "rank_now": 25,
-      "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
-    },
-    {
-      "name": "Currents",
-      "url": "https://www.producthunt.com/products/currents-4",
-      "source": "product_hunt",
-      "rank_now": 26,
-      "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
-    },
-    {
-      "name": "Direct by Instagram",
-      "url": "https://www.producthunt.com/products/instagram",
-      "source": "product_hunt",
       "rank_now": 27,
       "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
     },
     {
-      "name": "Interview Coach",
-      "url": "https://www.producthunt.com/products/interview-coach-3",
+      "name": "Baby's Day In",
+      "url": "https://www.producthunt.com/products/baby-s-day-in",
       "source": "product_hunt",
       "rank_now": 28,
       "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
     },
     {
       "name": "Samiksa",
@@ -233,15 +233,15 @@
       "source": "product_hunt",
       "rank_now": 29,
       "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
     },
     {
-      "name": "UndoGuard",
-      "url": "https://www.producthunt.com/products/undoguard",
+      "name": "Andromon",
+      "url": "https://www.producthunt.com/products/andromon",
       "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
     },
     {
       "name": "Manual SEO Tool",
@@ -252,7 +252,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
     },
     {
       "name": "Workflow Copilot",
@@ -262,7 +262,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-11-21 09:10:42 UTC+08:00"
+      "fetched_at": "2026-11-21 20:16:54 UTC+08:00"
     }
   ],
   "errors": []
