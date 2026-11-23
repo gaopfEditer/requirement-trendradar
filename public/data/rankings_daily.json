@@ -1,87 +1,87 @@
 {
-  "updated_at": "2026-11-23 00:02:02 UTC+08:00",
+  "updated_at": "2026-11-23 08:38:26 UTC+08:00",
   "date_stamp": "20261123",
-  "run_id": "20261123-000202-4ce65e80",
+  "run_id": "20261123-083826-1b7dddc3",
   "items": [
     {
-      "name": "TeaserKit",
-      "url": "https://www.producthunt.com/products/teaserkit",
+      "name": "Daymaker",
+      "url": "https://www.producthunt.com/products/daymaker",
       "source": "product_hunt",
       "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
-      "name": "oovi",
-      "url": "https://www.producthunt.com/products/oovi",
+      "name": "Creavit Studio 4.0",
+      "url": "https://www.producthunt.com/products/creavit-studio",
       "source": "product_hunt",
       "rank_now": 2,
       "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
-    },
-    {
-      "name": "Wispim",
-      "url": "https://www.producthunt.com/products/wispim-online-teleprompter",
-      "source": "product_hunt",
-      "rank_now": 3,
-      "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
-    },
-    {
-      "name": "Squint",
-      "url": "https://www.producthunt.com/products/squint",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
       "name": "Webless Agents",
       "url": "https://www.producthunt.com/products/webless",
       "source": "product_hunt",
-      "rank_now": 5,
+      "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
-    },
-    {
-      "name": "Omi CLI",
-      "url": "https://www.producthunt.com/products/omi-cli",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
       "name": "Mockreel",
       "url": "https://www.producthunt.com/products/mockreel",
       "source": "product_hunt",
-      "rank_now": 7,
+      "rank_now": 4,
       "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
-      "name": "Pushback",
-      "url": "https://www.producthunt.com/products/pushback-flight-tracker",
+      "name": "TeaserKit",
+      "url": "https://www.producthunt.com/products/teaserkit",
       "source": "product_hunt",
-      "rank_now": 8,
+      "rank_now": 5,
       "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
+    },
+    {
+      "name": "DeNotch",
+      "url": "https://www.producthunt.com/products/denotch",
+      "source": "product_hunt",
+      "rank_now": 6,
+      "category_tags": [],
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
+    },
+    {
+      "name": "Omi CLI",
+      "url": "https://www.producthunt.com/products/omi-cli",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "category_tags": [],
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
       "name": "Leapdeck",
       "url": "https://www.producthunt.com/products/leapdeck",
       "source": "product_hunt",
-      "rank_now": 9,
+      "rank_now": 8,
       "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
-      "name": "Daymaker",
-      "url": "https://www.producthunt.com/products/daymaker",
+      "name": "Squint",
+      "url": "https://www.producthunt.com/products/squint",
+      "source": "product_hunt",
+      "rank_now": 9,
+      "category_tags": [],
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
+    },
+    {
+      "name": "Copy Haste",
+      "url": "https://www.producthunt.com/products/copy-haste",
       "source": "product_hunt",
       "rank_now": 10,
       "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
       "name": "Yoroll",
@@ -89,151 +89,151 @@
       "source": "product_hunt",
       "rank_now": 11,
       "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
-    },
-    {
-      "name": "Creavit Studio 4.0",
-      "url": "https://www.producthunt.com/products/creavit-studio",
-      "source": "product_hunt",
-      "rank_now": 12,
-      "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
-    },
-    {
-      "name": "DeNotch",
-      "url": "https://www.producthunt.com/products/denotch",
-      "source": "product_hunt",
-      "rank_now": 13,
-      "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
-    },
-    {
-      "name": "Copy Haste",
-      "url": "https://www.producthunt.com/products/copy-haste",
-      "source": "product_hunt",
-      "rank_now": 14,
-      "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
-    },
-    {
-      "name": "MeshLive",
-      "url": "https://www.producthunt.com/products/meshlive",
-      "source": "product_hunt",
-      "rank_now": 15,
-      "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
-    },
-    {
-      "name": "Resurf",
-      "url": "https://www.producthunt.com/products/resurf-2",
-      "source": "product_hunt",
-      "rank_now": 16,
-      "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
       "name": "Ulika",
       "url": "https://www.producthunt.com/products/ulika",
       "source": "product_hunt",
-      "rank_now": 17,
+      "rank_now": 12,
       "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
+    },
+    {
+      "name": "oovi",
+      "url": "https://www.producthunt.com/products/oovi",
+      "source": "product_hunt",
+      "rank_now": 13,
+      "category_tags": [],
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
       "name": "Slotify",
       "url": "https://www.producthunt.com/products/slotify-2",
       "source": "product_hunt",
-      "rank_now": 18,
+      "rank_now": 14,
       "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
       "name": "Raccoon Kids",
       "url": "https://www.producthunt.com/products/raccoon-kids",
       "source": "product_hunt",
+      "rank_now": 15,
+      "category_tags": [],
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
+    },
+    {
+      "name": "Wispim",
+      "url": "https://www.producthunt.com/products/wispim-online-teleprompter",
+      "source": "product_hunt",
+      "rank_now": 16,
+      "category_tags": [],
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
+    },
+    {
+      "name": "Pushback",
+      "url": "https://www.producthunt.com/products/pushback-flight-tracker",
+      "source": "product_hunt",
+      "rank_now": 17,
+      "category_tags": [],
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
+    },
+    {
+      "name": "Resurf",
+      "url": "https://www.producthunt.com/products/resurf-2",
+      "source": "product_hunt",
+      "rank_now": 18,
+      "category_tags": [],
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
+    },
+    {
+      "name": "MeshLive",
+      "url": "https://www.producthunt.com/products/meshlive",
+      "source": "product_hunt",
       "rank_now": 19,
       "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
-    },
-    {
-      "name": "30yr-uptime",
-      "url": "https://www.producthunt.com/products/30yr-uptime",
-      "source": "product_hunt",
-      "rank_now": 20,
-      "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
-    },
-    {
-      "name": "Do It For Them Wallpaper Maker",
-      "url": "https://www.producthunt.com/products/do-it-for-them-wallpaper-maker",
-      "source": "product_hunt",
-      "rank_now": 21,
-      "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
-    },
-    {
-      "name": "Zapyso",
-      "url": "https://www.producthunt.com/products/zapyso",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
       "name": "Verge: Corner Controls",
       "url": "https://www.producthunt.com/products/verge-corner-controls",
       "source": "product_hunt",
-      "rank_now": 23,
+      "rank_now": 20,
       "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
+    },
+    {
+      "name": "Zapyso",
+      "url": "https://www.producthunt.com/products/zapyso",
+      "source": "product_hunt",
+      "rank_now": 21,
+      "category_tags": [],
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
       "name": "Rankhog",
       "url": "https://www.producthunt.com/products/rankhog",
       "source": "product_hunt",
-      "rank_now": 24,
+      "rank_now": 22,
       "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
-      "name": "Doddle",
-      "url": "https://www.producthunt.com/products/doddle-3",
+      "name": "Do It For Them Wallpaper Maker",
+      "url": "https://www.producthunt.com/products/do-it-for-them-wallpaper-maker",
+      "source": "product_hunt",
+      "rank_now": 23,
+      "category_tags": [],
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
+    },
+    {
+      "name": "30yr-uptime",
+      "url": "https://www.producthunt.com/products/30yr-uptime",
+      "source": "product_hunt",
+      "rank_now": 24,
+      "category_tags": [],
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
+    },
+    {
+      "name": "AI Context Flow MCP",
+      "url": "https://www.producthunt.com/products/ai-context-flow",
       "source": "product_hunt",
       "rank_now": 25,
       "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
-      "name": "Prompt Puncher",
-      "url": "https://www.producthunt.com/products/prompt-puncher",
+      "name": "Publicit",
+      "url": "https://www.producthunt.com/products/publicit",
       "source": "product_hunt",
       "rank_now": 26,
       "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
+    },
+    {
+      "name": "Stitch Loop",
+      "url": "https://www.producthunt.com/products/stitch-loop",
+      "source": "product_hunt",
+      "rank_now": 27,
+      "category_tags": [],
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
       "name": "Smorza",
       "url": "https://www.producthunt.com/products/smorza",
       "source": "product_hunt",
-      "rank_now": 27,
-      "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
-    },
-    {
-      "name": "Beat Watcher",
-      "url": "https://www.producthunt.com/products/beat-watcher",
-      "source": "product_hunt",
       "rank_now": 28,
       "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
-      "name": "gitroots",
-      "url": "https://www.producthunt.com/products/gitroots",
+      "name": "Glassmail",
+      "url": "https://www.producthunt.com/products/glassmail",
       "source": "product_hunt",
       "rank_now": 29,
       "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
       "name": "Shipyard",
@@ -241,7 +241,7 @@
       "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
       "name": "Manual SEO Tool",
@@ -252,7 +252,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     },
     {
       "name": "Workflow Copilot",
@@ -262,7 +262,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-11-23 00:02:02 UTC+08:00"
+      "fetched_at": "2026-11-23 08:38:26 UTC+08:00"
     }
   ],
   "errors": []
