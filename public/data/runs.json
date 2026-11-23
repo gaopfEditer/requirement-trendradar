@@ -1,12 +1,42 @@
 {
   "runs": [
     {
-      "run_id": "20261123-221150-5e724c33",
+      "run_id": "20261124-034050-3fb05992",
       "step": "publish_site",
       "status": "running",
-      "started_at": "2026-11-23 22:11:50 UTC+08:00",
+      "started_at": "2026-11-24 03:40:50 UTC+08:00",
       "ended_at": null,
       "counts": {},
+      "error": null,
+      "meta": {}
+    },
+    {
+      "run_id": "20261124-033950-15a24fca",
+      "step": "ingest_job_leads",
+      "status": "success",
+      "started_at": "2026-11-24 03:39:50 UTC+08:00",
+      "ended_at": "2026-11-24 03:40:50 UTC+08:00",
+      "counts": {
+        "jobs": 28,
+        "recommend": 0,
+        "freelancer_raw": 28,
+        "opportunity_merged": 0
+      },
+      "error": null,
+      "meta": {
+        "fiverr_skipped": true,
+        "fiverr_reason": "HTTP 403 login/bot wall at https://www.fiverr.com/buyer_requests"
+      }
+    },
+    {
+      "run_id": "20261123-221150-5e724c33",
+      "step": "publish_site",
+      "status": "success",
+      "started_at": "2026-11-23 22:11:50 UTC+08:00",
+      "ended_at": "2026-11-23 22:11:50 UTC+08:00",
+      "counts": {
+        "files": 7
+      },
       "error": null,
       "meta": {}
     },
@@ -20682,5 +20712,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-23 22:11:50 UTC+08:00"
+  "last_updated": "2026-11-24 03:40:50 UTC+08:00"
 }
