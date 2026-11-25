@@ -1,0 +1,269 @@
+{
+  "run_id": "20261125-082644-eed80674",
+  "fetched_at": "2026-11-25 08:26:44 UTC+08:00",
+  "source_version": "producthunt-atom-feed-v1",
+  "items": [
+    {
+      "name": "tday.com",
+      "url": "https://www.producthunt.com/products/tday",
+      "source": "product_hunt",
+      "rank_now": 1,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Viktor Code",
+      "url": "https://www.producthunt.com/products/viktor",
+      "source": "product_hunt",
+      "rank_now": 2,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Claude Ship",
+      "url": "https://www.producthunt.com/products/claude-code",
+      "source": "product_hunt",
+      "rank_now": 3,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "frwrd.to",
+      "url": "https://www.producthunt.com/products/frwrd-to",
+      "source": "product_hunt",
+      "rank_now": 4,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "SparrowDesk Phone Calls",
+      "url": "https://www.producthunt.com/products/sparrowdesk",
+      "source": "product_hunt",
+      "rank_now": 5,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Juncts",
+      "url": "https://www.producthunt.com/products/juncts",
+      "source": "product_hunt",
+      "rank_now": 6,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Umami Manager",
+      "url": "https://www.producthunt.com/products/umami-manager",
+      "source": "product_hunt",
+      "rank_now": 7,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Even G2 Enterprise SDK",
+      "url": "https://www.producthunt.com/products/even-g2",
+      "source": "product_hunt",
+      "rank_now": 8,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Wellbreak",
+      "url": "https://www.producthunt.com/products/wellbreak",
+      "source": "product_hunt",
+      "rank_now": 9,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Finseo",
+      "url": "https://www.producthunt.com/products/finseo-ai",
+      "source": "product_hunt",
+      "rank_now": 10,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Cullman",
+      "url": "https://www.producthunt.com/products/cullman",
+      "source": "product_hunt",
+      "rank_now": 11,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "K-Stra",
+      "url": "https://www.producthunt.com/products/k-stra",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Tendor",
+      "url": "https://www.producthunt.com/products/tendor",
+      "source": "product_hunt",
+      "rank_now": 13,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Astor",
+      "url": "https://www.producthunt.com/products/astor",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Prates",
+      "url": "https://www.producthunt.com/products/prates",
+      "source": "product_hunt",
+      "rank_now": 15,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Granular.Build",
+      "url": "https://www.producthunt.com/products/granular-build",
+      "source": "product_hunt",
+      "rank_now": 16,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Adanotch",
+      "url": "https://www.producthunt.com/products/adanotch",
+      "source": "product_hunt",
+      "rank_now": 17,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Astrolabio",
+      "url": "https://www.producthunt.com/products/astrolabio",
+      "source": "product_hunt",
+      "rank_now": 18,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "distribution.dev",
+      "url": "https://www.producthunt.com/products/distribution-dev",
+      "source": "product_hunt",
+      "rank_now": 19,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Willow iOS 2.0",
+      "url": "https://www.producthunt.com/products/willow-voice",
+      "source": "product_hunt",
+      "rank_now": 20,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Context",
+      "url": "https://www.producthunt.com/products/context-13",
+      "source": "product_hunt",
+      "rank_now": 21,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Ohhai",
+      "url": "https://www.producthunt.com/products/ohhai",
+      "source": "product_hunt",
+      "rank_now": 22,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Kodak SlideTag",
+      "url": "https://www.producthunt.com/products/kodak-slidetag",
+      "source": "product_hunt",
+      "rank_now": 23,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Mystonie",
+      "url": "https://www.producthunt.com/products/mystonie",
+      "source": "product_hunt",
+      "rank_now": 24,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Hourly Journal",
+      "url": "https://www.producthunt.com/products/hourly-journal",
+      "source": "product_hunt",
+      "rank_now": 25,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Finer Screenshot",
+      "url": "https://www.producthunt.com/products/finer-screenshot",
+      "source": "product_hunt",
+      "rank_now": 26,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Rotara",
+      "url": "https://www.producthunt.com/products/rotara",
+      "source": "product_hunt",
+      "rank_now": 27,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Drift",
+      "url": "https://www.producthunt.com/products/drift-aef4d3de-e971-402b-b62f-613b9c79b4cd",
+      "source": "product_hunt",
+      "rank_now": 28,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Pinned",
+      "url": "https://www.producthunt.com/products/pinned",
+      "source": "product_hunt",
+      "rank_now": 29,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "HeroUI Pro 1.0",
+      "url": "https://www.producthunt.com/products/heroui-pro-1-0",
+      "source": "product_hunt",
+      "rank_now": 30,
+      "category_tags": [],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Manual SEO Tool",
+      "url": "https://example.com/seo",
+      "source": "manual_csv",
+      "rank_now": 15,
+      "category_tags": [
+        "SEO",
+        "Marketing"
+      ],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    },
+    {
+      "name": "Workflow Copilot",
+      "url": "https://example.com/wf",
+      "source": "manual_csv",
+      "rank_now": 22,
+      "category_tags": [
+        "Automation"
+      ],
+      "fetched_at": "2026-11-25 08:26:44 UTC+08:00"
+    }
+  ],
+  "errors": []
+}
