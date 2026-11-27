@@ -1,127 +1,127 @@
 {
-  "updated_at": "2026-11-27 21:35:11 UTC+08:00",
-  "date_stamp": "20261127",
-  "run_id": "20261127-213510-b080f0a2",
+  "updated_at": "2026-11-28 07:56:53 UTC+08:00",
+  "date_stamp": "20261128",
+  "run_id": "20261128-075653-6071db7b",
   "items": [
     {
-      "name": "Remove Silence",
-      "url": "https://www.producthunt.com/products/remove-silence",
+      "name": "Wizstar R1",
+      "url": "https://www.producthunt.com/products/wizstar",
       "source": "product_hunt",
       "rank_now": 1,
       "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
-    },
-    {
-      "name": "gpyou",
-      "url": "https://www.producthunt.com/products/gpyou",
-      "source": "product_hunt",
-      "rank_now": 2,
-      "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
-    },
-    {
-      "name": "snibl",
-      "url": "https://www.producthunt.com/products/snibl",
-      "source": "product_hunt",
-      "rank_now": 3,
-      "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
-    },
-    {
-      "name": "Woomool",
-      "url": "https://www.producthunt.com/products/woomool",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
-    },
-    {
-      "name": "slay",
-      "url": "https://www.producthunt.com/products/slay-3",
-      "source": "product_hunt",
-      "rank_now": 5,
-      "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
-    },
-    {
-      "name": "Spark AI",
-      "url": "https://www.producthunt.com/products/spark-ai-7",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
     },
     {
       "name": "Ploid",
       "url": "https://www.producthunt.com/products/ploid",
       "source": "product_hunt",
-      "rank_now": 7,
+      "rank_now": 2,
       "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
     },
     {
-      "name": "Wizstar R1",
-      "url": "https://www.producthunt.com/products/wizstar",
+      "name": "slay",
+      "url": "https://www.producthunt.com/products/slay-3",
       "source": "product_hunt",
-      "rank_now": 8,
+      "rank_now": 3,
       "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
     },
     {
       "name": "RightFont 2026",
       "url": "https://www.producthunt.com/products/rightfont",
       "source": "product_hunt",
-      "rank_now": 9,
+      "rank_now": 4,
       "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
     },
     {
-      "name": "Prosed AI 2.0 + MCP",
-      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "name": "Woomool",
+      "url": "https://www.producthunt.com/products/woomool",
       "source": "product_hunt",
-      "rank_now": 10,
+      "rank_now": 5,
       "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
+    },
+    {
+      "name": "gpyou",
+      "url": "https://www.producthunt.com/products/gpyou",
+      "source": "product_hunt",
+      "rank_now": 6,
+      "category_tags": [],
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
     },
     {
       "name": "Form Action Store",
       "url": "https://www.producthunt.com/products/form-action-store",
       "source": "product_hunt",
-      "rank_now": 11,
+      "rank_now": 7,
       "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
     },
     {
-      "name": "Onset",
-      "url": "https://www.producthunt.com/products/onset",
+      "name": "Prosed AI 2.0 + MCP",
+      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
       "source": "product_hunt",
-      "rank_now": 12,
+      "rank_now": 8,
       "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
     },
     {
-      "name": "ChickyTutor",
-      "url": "https://www.producthunt.com/products/chickytutor",
+      "name": "Spark AI",
+      "url": "https://www.producthunt.com/products/spark-ai-7",
       "source": "product_hunt",
-      "rank_now": 13,
+      "rank_now": 9,
       "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
-    },
-    {
-      "name": "Espresso 27",
-      "url": "https://www.producthunt.com/products/espresso-27",
-      "source": "product_hunt",
-      "rank_now": 14,
-      "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
     },
     {
       "name": "Depost AI",
       "url": "https://www.producthunt.com/products/depost-ai",
       "source": "product_hunt",
+      "rank_now": 10,
+      "category_tags": [],
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
+    },
+    {
+      "name": "Onset",
+      "url": "https://www.producthunt.com/products/onset",
+      "source": "product_hunt",
+      "rank_now": 11,
+      "category_tags": [],
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
+    },
+    {
+      "name": "Remove Silence",
+      "url": "https://www.producthunt.com/products/remove-silence",
+      "source": "product_hunt",
+      "rank_now": 12,
+      "category_tags": [],
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
+    },
+    {
+      "name": "snibl",
+      "url": "https://www.producthunt.com/products/snibl",
+      "source": "product_hunt",
+      "rank_now": 13,
+      "category_tags": [],
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
+    },
+    {
+      "name": "ChickyTutor",
+      "url": "https://www.producthunt.com/products/chickytutor",
+      "source": "product_hunt",
+      "rank_now": 14,
+      "category_tags": [],
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
+    },
+    {
+      "name": "Espresso 27",
+      "url": "https://www.producthunt.com/products/espresso-27",
+      "source": "product_hunt",
       "rank_now": 15,
       "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
     },
     {
       "name": "Contral",
@@ -129,119 +129,119 @@
       "source": "product_hunt",
       "rank_now": 16,
       "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
-    },
-    {
-      "name": "Periscope",
-      "url": "https://www.producthunt.com/products/periscope-4",
-      "source": "product_hunt",
-      "rank_now": 17,
-      "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
     },
     {
       "name": "Pushary Calls",
       "url": "https://www.producthunt.com/products/pushary",
       "source": "product_hunt",
+      "rank_now": 17,
+      "category_tags": [],
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
+    },
+    {
+      "name": "Periscope",
+      "url": "https://www.producthunt.com/products/periscope-4",
+      "source": "product_hunt",
       "rank_now": 18,
       "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
+    },
+    {
+      "name": "Chunkify",
+      "url": "https://www.producthunt.com/products/chunkify",
+      "source": "product_hunt",
+      "rank_now": 19,
+      "category_tags": [],
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
     },
     {
       "name": "Pax by Pydantic",
       "url": "https://www.producthunt.com/products/pydantic",
       "source": "product_hunt",
-      "rank_now": 19,
-      "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
-    },
-    {
-      "name": "SuperLoupe",
-      "url": "https://www.producthunt.com/products/superloupe",
-      "source": "product_hunt",
       "rank_now": 20,
       "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
     },
     {
-      "name": "Bifura",
-      "url": "https://www.producthunt.com/products/bifura",
+      "name": "Ottante",
+      "url": "https://www.producthunt.com/products/ottante",
       "source": "product_hunt",
       "rank_now": 21,
       "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
     },
     {
-      "name": "Upsolve Harness 2.0",
-      "url": "https://www.producthunt.com/products/upsolve-ai",
+      "name": "InfraThrone DevOps Park",
+      "url": "https://www.producthunt.com/products/infrathrone-devops-park",
       "source": "product_hunt",
       "rank_now": 22,
       "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
-    },
-    {
-      "name": "Watch Reader",
-      "url": "https://www.producthunt.com/products/watch-reader",
-      "source": "product_hunt",
-      "rank_now": 23,
-      "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
-    },
-    {
-      "name": "Postmaster of Puppets",
-      "url": "https://www.producthunt.com/products/postmaster-of-puppets",
-      "source": "product_hunt",
-      "rank_now": 24,
-      "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
-    },
-    {
-      "name": "Mime",
-      "url": "https://www.producthunt.com/products/mime",
-      "source": "product_hunt",
-      "rank_now": 25,
-      "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
-    },
-    {
-      "name": "Hello Transcribe 5",
-      "url": "https://www.producthunt.com/products/hello-transcribe",
-      "source": "product_hunt",
-      "rank_now": 26,
-      "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
-    },
-    {
-      "name": "Superframes",
-      "url": "https://www.producthunt.com/products/superframes-ai-video-editor",
-      "source": "product_hunt",
-      "rank_now": 27,
-      "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
-    },
-    {
-      "name": "Doodle",
-      "url": "https://www.producthunt.com/products/doodle-5",
-      "source": "product_hunt",
-      "rank_now": 28,
-      "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
     },
     {
       "name": "NEXUS",
       "url": "https://www.producthunt.com/products/nexus-42",
       "source": "product_hunt",
-      "rank_now": 29,
+      "rank_now": 23,
       "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
     },
     {
       "name": "Claude-Mem Cloud Sync",
       "url": "https://www.producthunt.com/products/claude-mem",
       "source": "product_hunt",
+      "rank_now": 24,
+      "category_tags": [],
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
+    },
+    {
+      "name": "Postmaster of Puppets",
+      "url": "https://www.producthunt.com/products/postmaster-of-puppets",
+      "source": "product_hunt",
+      "rank_now": 25,
+      "category_tags": [],
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
+    },
+    {
+      "name": "iwantmy.app",
+      "url": "https://www.producthunt.com/products/iwantmy-app",
+      "source": "product_hunt",
+      "rank_now": 26,
+      "category_tags": [],
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
+    },
+    {
+      "name": "Watch Reader",
+      "url": "https://www.producthunt.com/products/watch-reader",
+      "source": "product_hunt",
+      "rank_now": 27,
+      "category_tags": [],
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
+    },
+    {
+      "name": "Transept AI",
+      "url": "https://www.producthunt.com/products/transept-ai",
+      "source": "product_hunt",
+      "rank_now": 28,
+      "category_tags": [],
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
+    },
+    {
+      "name": "Meboki",
+      "url": "https://www.producthunt.com/products/meboki",
+      "source": "product_hunt",
+      "rank_now": 29,
+      "category_tags": [],
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
+    },
+    {
+      "name": "DeskFleet",
+      "url": "https://www.producthunt.com/products/deskfleet",
+      "source": "product_hunt",
       "rank_now": 30,
       "category_tags": [],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
     },
     {
       "name": "Manual SEO Tool",
@@ -252,7 +252,7 @@
         "SEO",
         "Marketing"
       ],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
     },
     {
       "name": "Workflow Copilot",
@@ -262,7 +262,7 @@
       "category_tags": [
         "Automation"
       ],
-      "fetched_at": "2026-11-27 21:35:11 UTC+08:00"
+      "fetched_at": "2026-11-28 07:56:53 UTC+08:00"
     }
   ],
   "errors": []
