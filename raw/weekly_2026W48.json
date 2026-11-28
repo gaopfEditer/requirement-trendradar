@@ -1,204 +1,85 @@
 {
   "week": "2026-W48",
-  "generated_at": "2026-11-28T15:19:10+08:00",
-  "source": "computed",
+  "generated_at": "2026-11-29T00:43:07+08:00",
+  "source": "fixture",
   "timezone_label": "香港",
-  "keywords_top": [],
+  "keywords_top": [
+    {
+      "rank": 1,
+      "keyword": "make.com alternative",
+      "geo": "US",
+      "track": "自动化平台",
+      "interest_now": 28,
+      "interest_prev": 15,
+      "delta": 13,
+      "growth_score": 13,
+      "pay_intent_score": 3,
+      "slope_90d": "上升"
+    },
+    {
+      "rank": 2,
+      "keyword": "lovable",
+      "geo": "US",
+      "track": "AI 建站",
+      "interest_now": 68,
+      "interest_prev": 58,
+      "delta": 10,
+      "growth_score": 10,
+      "pay_intent_score": 2,
+      "slope_90d": "上升"
+    },
+    {
+      "rank": 3,
+      "keyword": "ai app audit",
+      "geo": "US",
+      "track": "AI 工具",
+      "interest_now": 42,
+      "interest_prev": 35,
+      "delta": 7,
+      "growth_score": 7,
+      "pay_intent_score": 3,
+      "slope_90d": "上升"
+    }
+  ],
   "apps_top": [
     {
-      "name": "Depost AI",
-      "url": "https://www.producthunt.com/products/depost-ai",
-      "source": "product_hunt",
-      "rank_now": 4,
-      "rank_prev": 15,
-      "rank_delta": -11,
-      "growth_score": 11,
-      "signal_note": "排名上升 11 位",
-      "new_entry": false,
-      "rank": 1
-    },
-    {
-      "name": "ChickyTutor",
-      "url": "https://www.producthunt.com/products/chickytutor",
+      "rank": 1,
+      "name": "Lovable",
+      "url": "https://www.producthunt.com/products/lovable",
       "source": "product_hunt",
       "rank_now": 3,
-      "rank_prev": 13,
-      "rank_delta": -10,
-      "growth_score": 10,
-      "signal_note": "排名上升 10 位",
-      "new_entry": false,
-      "rank": 2
+      "rank_prev": 12,
+      "rank_delta": -9,
+      "growth_score": 9,
+      "signal_note": "排名上升 9 位",
+      "new_entry": false
     },
     {
-      "name": "Wizstar R1",
-      "url": "https://www.producthunt.com/products/wizstar",
-      "source": "product_hunt",
-      "rank_now": 1,
-      "rank_prev": 8,
-      "rank_delta": -7,
-      "growth_score": 7,
-      "signal_note": "排名上升 7 位",
-      "new_entry": false,
-      "rank": 3
-    },
-    {
-      "name": "Espresso 27",
-      "url": "https://www.producthunt.com/products/espresso-27",
+      "rank": 2,
+      "name": "n8n",
+      "url": "https://www.producthunt.com/products/n8n",
       "source": "product_hunt",
       "rank_now": 8,
       "rank_prev": 14,
       "rank_delta": -6,
       "growth_score": 6,
       "signal_note": "排名上升 6 位",
-      "new_entry": false,
-      "rank": 4
-    },
-    {
-      "name": "Claude-Mem Cloud Sync",
-      "url": "https://www.producthunt.com/products/claude-mem",
-      "source": "product_hunt",
-      "rank_now": 25,
-      "rank_prev": 30,
-      "rank_delta": -5,
-      "growth_score": 5,
-      "signal_note": "排名上升 5 位",
-      "new_entry": false,
-      "rank": 5
-    },
-    {
-      "name": "Spark AI",
-      "url": "https://www.producthunt.com/products/spark-ai-7",
-      "source": "product_hunt",
-      "rank_now": 2,
-      "rank_prev": 6,
-      "rank_delta": -4,
-      "growth_score": 4,
-      "signal_note": "排名上升 4 位",
-      "new_entry": false,
-      "rank": 6
-    },
-    {
-      "name": "RightFont 2026",
-      "url": "https://www.producthunt.com/products/rightfont",
-      "source": "product_hunt",
-      "rank_now": 6,
-      "rank_prev": 9,
-      "rank_delta": -3,
-      "growth_score": 3,
-      "signal_note": "排名上升 3 位",
-      "new_entry": false,
-      "rank": 7
-    },
-    {
-      "name": "Onset",
-      "url": "https://www.producthunt.com/products/onset",
-      "source": "product_hunt",
-      "rank_now": 9,
-      "rank_prev": 12,
-      "rank_delta": -3,
-      "growth_score": 3,
-      "signal_note": "排名上升 3 位",
-      "new_entry": false,
-      "rank": 8
+      "new_entry": false
     }
   ],
   "new_entries": [
     {
-      "name": "Transept AI",
-      "url": "https://www.producthunt.com/products/transept-ai",
+      "rank": 1,
+      "name": "SuperLocalMemory",
+      "url": "https://www.producthunt.com/products/superlocalmemory-v2",
       "source": "product_hunt",
-      "rank_now": 19,
+      "rank_now": 1,
       "rank_prev": null,
       "rank_delta": null,
       "growth_score": null,
       "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 1
-    },
-    {
-      "name": "OpenChat",
-      "url": "https://www.producthunt.com/products/openchat-5",
-      "source": "product_hunt",
-      "rank_now": 20,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 2
-    },
-    {
-      "name": "iwantmy.app",
-      "url": "https://www.producthunt.com/products/iwantmy-app",
-      "source": "product_hunt",
-      "rank_now": 21,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 3
-    },
-    {
-      "name": "Meboki",
-      "url": "https://www.producthunt.com/products/meboki",
-      "source": "product_hunt",
-      "rank_now": 22,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 4
-    },
-    {
-      "name": "Kagi Mail",
-      "url": "https://www.producthunt.com/products/kagi",
-      "source": "product_hunt",
-      "rank_now": 23,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 5
-    },
-    {
-      "name": "InfraThrone DevOps Park",
-      "url": "https://www.producthunt.com/products/infrathrone-devops-park",
-      "source": "product_hunt",
-      "rank_now": 24,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 6
-    },
-    {
-      "name": "Flurra",
-      "url": "https://www.producthunt.com/products/flurra",
-      "source": "product_hunt",
-      "rank_now": 26,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 7
-    },
-    {
-      "name": "Nookdeck",
-      "url": "https://www.producthunt.com/products/nookdeck",
-      "source": "product_hunt",
-      "rank_now": 28,
-      "rank_prev": null,
-      "rank_delta": null,
-      "growth_score": null,
-      "signal_note": "新进榜",
-      "new_entry": true,
-      "rank": 8
+      "new_entry": true
     }
   ],
-  "skipped": null
+  "skipped": "insufficient_history"
 }
